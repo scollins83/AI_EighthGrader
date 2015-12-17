@@ -16,5 +16,9 @@ Repository for group work on the Kaggle Allen 'Is Your AI Smarter Than an Eighth
 <dt>Resources</dt>
 <dd>- Includes copies of papers referenced on the Allen website</dd>
 <dd>- Code examples from books and from repos mentioned in the forums.</dd>
+
+<dt>Use of Milestones/Issues</dt>
+<dd>- Will be using milestones for important dates for the project. This has been started.</dd>
+<dd>- Wiki whiteboard is in use for more general capture of ideas/thoughts.</dd>
 </dl>
 ---
