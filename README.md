@@ -3,6 +3,8 @@
 Repository for group work on the Kaggle Allen 'Is Your AI Smarter Than an Eighth Grader?' competition <br>
 (Kaggle team links/info goes here when formal team gets established)
 <br>
+Highest score model description: Benchmarked wiki text general approach using ck12.org keywords, indexing the results using Lucene, and then running tf-idf on the result. Combination of two different scripts right at the moment. 
+<br>
 <br>
 
 ##### Organization of this repo:
