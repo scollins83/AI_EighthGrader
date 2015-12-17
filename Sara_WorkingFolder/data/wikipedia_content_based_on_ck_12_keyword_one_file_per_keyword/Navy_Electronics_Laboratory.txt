@@ -1,0 +1,36 @@
+the u.s navy electronics laboratory (nel) was created in 1945 with consolidation of the naval radio station radar operators training school and radio security activity of the navy radio and sound lab (nrsl) and its wartime partner the university of california division of war research nels charter was to effectuate the solution of any problem in the field of electronics in connection with the design procurement testing installation and maintenance of electronic equipment for the u.s navy its radio communications and sonar work was augmented with basic research in the propagation of electromagnetic energy in the atmosphere and of sound in the ocean
+== history ==
+in november 1945 the navy radio and sound lab was renamed as navy electronics laboratory 80% of the point loma military reservation evolved into the naval electronics laboratory center (nelc) at the end of world war ii in turn nelc was merged into the naval ocean systems center (nosc) in 1977 this eventually was merged into the space and naval warfare systems command (spawar) in 1997
+in the 1960s nelc was tasked with 4c: command control communications and computers
+== projects ==
+=== shipboard antenna model range ===
+as one of its first projects nel began building its shipboard antenna model range the non-metallic arch of this structure supports a transmitting antenna which is positioned toward a brass model ship on a turntable the ground plane under the arch simulates the electrical characteristics of the ocean allowing research on the properties of shipboard antennas to be carried out
+=== arctic submarine exploration ===
+it also began conversion of a world war ii mortar emplacement battery whistler into an arctic submarine laboratory scientific exploration of the arctic basin and particularly providing the capability to operate attack submarines in the arctic under the ice canopy would become a key nel mission
+world headlines came early in this program from several eventsthe submerged voyage of uss nautilus from the pacific to the atlantic via the north pole in 1958 and the surfacing at the pole of uss skate the following year both with nels dr waldo lyon aboard as chief scientist and ice pilot
+=== bathyscaphe trieste ===
+nel also plunged into the undersea environment acquiring the bathyscaphe trieste and directing its 1960 dive over 35,000 feet (10.7 km) down into the challenger deep of the mariana trench near guam
+=== radio telescopes ===
+interested in radio physics in general the lab built a 60-foot (18 m)-diameter radio telescope on point loma and in 1964 nel began construction of the la posta astro-geophysical observatory on a 3,900-foot (1,200 m) site in the laguna mountains 65 miles (105 km) east of san diego the observatory played a major role in solar radio mapping studies of environmental disturbances and development of a solar optical videometer for microwave research its 60-foot (18 m) dish which could both transmit and receive was used for important center research programs in propagation and ionospheric forecasting which was used during a number of apollo space launches to predict solar activity that might hamper communications from the ground to the space capsules
+=== communications ===
+in the area of communications nel developed verdin a low-frequency/very-low-frequency (lf/vlf) system to provide information to deeply submerged polaris missile submarines and began development of satellite communication capabilities
+requirements for handling the vast amount of shipboard communications during the intensifying vietnam war led to tasking for an internal message handling system in response the lab developed the message processing and distribution system (mpds) installing it aboard the seventh fleet flagship uss oklahoma city a month ahead of schedule the lab improved substantially on that system later and installed it aboard nimitz-class aircraft carriers
+=== computer science ===
+the programming language dialect neliac was developed by and named after the lab
+neliac was the brainchild of harry huskey at the time chairman of the acm who had a keen interest in porting applications in a machine-independent form algol 58 gave nel the framework for an implementation and work commenced in 1958 but was not fully developed until 1961
+neliac was used at nel to support experimental anti-submarine systems and command and control systems development and later at the navy command systems and support activity (navcossact) in washington dc in support of the national emergency command post afloat (necpa) project which was installed on many large ships starting in 1966
+this was the world's first self-compiling compiler and was ported to many other computers in the department of defense it also included the nelos operating system development used for large scale applications (unique to the usq-20 navy shipboard computer and its commercial version the univac 490)
+many other versions existed for a variety of computers because the ease of portability and the rapid one-pass compile times
+== naval command control and communications laboratory center and beyond ==
+in 1967 as part of the general navy laboratory re-organization nel became the naval command control and communications laboratory center the name was never fully accepted and in about six months it was changed to naval electronics laboratory center (nelc)
+in 1997 with the disestablishment of nccosc and the establishment of direct oversight by space and naval warfare systems command the center assumed its current name space and naval warfare systems center san diego (ssc san diego)
+== notes ==
+^ "u.s naval activities world war ii by state" patrick clancey retrieved 2012-03-19
+^ unknown (1990) "scientists at war 1940 - 1945" space and naval warfare systems center san diego
+^ linder bruce (2001) san diego's navy annapolis maryland: naval institute press p 151 isbn 1-55750-531-4
+^ [1]
+^ lapuzza tom (2000) "ssc san diego: historical overview"
+^ unknown (2006) "arctic submarine laboratory historical timeline" submarine development squadron five: detachment arctic submarine laboratory
+== external links ==
+ssc san diego historical overview
+nel-related photographs
