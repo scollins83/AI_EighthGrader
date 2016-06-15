@@ -1,0 +1,38 @@
+Permineralization is a process of fossilization in which mineral deposits form internal casts of organisms. Carried by water, these minerals fill the spaces within organic tissue. Because of the nature of the casts, permineralization is particularly useful in studies of the internal structures of organisms, usually of plants.
+
+
+== Process ==
+Permineralization is a type of fossilization involving deposits of minerals within the cells of organisms. Water from the ground, lakes, or oceans seeps into the pores of organic tissue and forms a crystal cast with deposited minerals. Crystals begin to form in the porous cell walls. This process continues on the inner surface of the walls until the central cavity of the cell, the lumen, is completely filled. The cell walls themselves remain intact surrounding the crystals.
+
+
+=== Silicification ===
+In silicification, silicate minerals are released due to the weathering of rocks. The silica makes its way into a body of still water. Eventually, the mineral laden water permeates the pores and cells of some dead organism, where it becomes a gel. Over time, the gel will dehydrate, forming an opaline crystal structure that is an internal cast of the organism. This accounts for the detail found in permineralizations. Silicification reveals information about what type of environment the organism was likely to live in. Most fossils that have been silicified are bacteria, algae, and other plant life. Silicification is the most common type of permineralization.
+
+
+=== Carbonate mineralization ===
+
+Carbonate mineralization involves the formation of coal balls. Coal balls are the fossilizations of many different plants and their tissues. They often occur in the presence of seawater or acidic peat. Coal balls are calcareous permineralizations of peat by calcium and magnesium carbonates. Often spherical in shape and ranging from a few grams to several hundred kilograms in mass, coal balls are formed when water containing carbonate permeates the cells of an organism. This type of fossilization yields information about plant life in the Upper Carboniferous Period (325 to 280 million years ago).
+
+
+=== Pyritization ===
+This method involves the elements sulfur and iron. Organisms are pyritized when they are in marine sediments saturated with iron sulfides. Pyrite is iron sulfide. As organic matter decays it releases sulfide which reacts with dissolved iron in the surrounding waters. Pyrite replaces carbonate shell material due to an undersaturation of carbonate in the surrounding waters. Some plants are also pyritized when they are in a clay terrain, but to a lesser extent than in a marine environment. Some pyritized fossils include Precambrian microfossils, marine arthropods and plants.
+
+
+== Scientific implications ==
+Permineralized fossils preserve original cell structure, which can help scientists study an organism at the cellular level. These are three-dimensional fossils, which create permanent molds of internal structures. The mineralization process itself helps prevent tissue compaction, which distorts the actual size of organs. A permineralized fossil will also reveal much about the environment an organism lived in and the substances found in it since it preserves soft body parts. This helps researchers investigate the plants, animals, and microbes of different time periods.
+
+
+== Examples of permineralization ==
+
+Most dinosaur bones are permineralized.
+Petrified wood: Permineralization is the first step in petrification. In petrification, the cellulose cell walls are completely replaced by minerals.
+Some examples of soft-bodied pyritization are Beecher's Trilobite Bed (Ordovician) and the Hunsrck Slate (Devonian)
+
+
+== References ==
+^ Mani, K. (1996). Permineralization Retrieved March 29, 2009, from Fossils: A window to the past. Web site: http://www.ucmp.berkeley.edu/paleo/fossils/permin.html
+^ Loren E. Babcock, "Permineralization", in AccessScience@McGraw-Hill, http://www.accessscience.com, doi:10.1036/1097-8542.803250
+^ Oehler, John H., & Schopf, J. William (1971). Artificial microfossils: Experimental studies of permineralization of blue-green algae in silica. Science. 174, 1229-1231.
+^ Scott, Andrew C.; Rex, G. (1985). "The formation and significance of Carboniferous coal balls". Philosophical Transactions of the Royal Society. B 311 (1148): 123137. doi:10.1098/rstb.1985.0144. JSTOR 2396976.  
+^ Wacey, D. et al (2013) Nanoscale analysis of pyritized microfossils reveals differential heterotrophic consumption in the 1.9-Ga Gunflint chert PNAS 110 (20) 8020-8024 doi:10.1073/pnas.1221965110
+^ Raiswell, R. (1997). A geochemical framework for the application of stable sulfur isotopes to fossil pyritization. Journal of the Geological Society 154, 343-356.

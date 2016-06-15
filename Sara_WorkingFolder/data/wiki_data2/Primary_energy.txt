@@ -1,0 +1,39 @@
+Primary energy is an energy form found in nature that has not been subjected to any conversion or transformation process. It is energy contained in raw fuels, and other forms of energy received as input to a system. Primary energy can be non-renewable or renewable.
+Total Primary Energy Supply (TPES) is a term used to indicate the sum of production and imports subtracting exports and storage changes.
+The concept of primary energy is used in energy statistics in the compilation of energy balances, as well as in the field of energetics. In energetics, a primary energy source (PES) refers to the energy forms required by the energy sector to generate the supply of energy carriers used by human society.
+
+
+== Examples of sourcesEdit ==
+Primary energy sources should not be confused with the energy systems (or conversion processes) through which they are converted into energy carriers.
+
+
+== Conversion to energy carriers (or secondary energy)Edit ==
+
+Primary energy sources are transformed in energy conversion processes to more convenient forms of energy (that can directly be used by society), such as electrical energy, refined fuels, or synthetic fuels such as hydrogen fuel. In the field of energetics, these forms are called energy carriers and correspond to the concept of "secondary energy" in energy statistics.
+Energy carriers are energy forms which have been transformed from primary energy sources. Electricity is one of the most common energy carriers, being transformed from various primary energy sources such as coal, oil, natural gas, and wind.
+According to the laws of thermodynamics, primary energy sources cannot be produced. They must be available to society to enable the production of energy carriers.
+
+
+== OutlookEdit ==
+
+
+== See alsoEdit ==
+
+Energy and society
+Energy development
+Future energy development
+
+
+== NotesEdit ==
+^ At the scale of earth sciences, all primary energy sources can be considered to be renewable. The non-renewable essence of resources (PES) is due to the scale of needs within human society. In certain situations, the use of resources by human society is performed at a much higher rate than the minimum rate at which it can be geophysically renewed. This is the rationale behind the differentiation between non-renewable primary energy sources (oil, coal, gas, uranium) and renewable primary energy sources (wind, solar, hydro).
+^ Some nuclear fuels, such as plutonium or depleted uranium, are also used in nuclear fission power plants. However, they cannot be considered to be primary energy sources as they cannot be found in nature in any quantity. Indeed, there must be a consumption of natural uranium (primary energy source) in order to make these other nuclear fuels available.
+
+
+== ReferencesEdit ==
+
+Kydes, Andy (Lead Author); Cutler J. Cleveland (Topic Editor). 2007. "Primary energy." In: Encyclopedia of Earth. Eds. Cutler J. Cleveland (Washington, D.C.: Environmental Information Coalition, National Council for Science and the Environment). [First published in the Encyclopedia of Earth June 1, 2006; Last revised August 14, 2007; Retrieved November 15, 2007.
+
+
+== External linksEdit ==
+The Encyclopedia of Earth: Primary energy
+Our Energy Futures glossary: Primary Energy Sources

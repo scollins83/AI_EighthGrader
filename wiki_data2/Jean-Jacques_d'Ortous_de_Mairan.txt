@@ -1,0 +1,49 @@
+Jean-Jacques d'Ortous de Mairan (26 November 1678  20 February 1771) was a French geophysicist, astronomer and most notably, chronobiologist, was born in the town of Bziers on 26 November 1678. De Mairan lost his father, Franois d'Ortous, at age four and his mother twelve years later at age sixteen. Over the course of his life, de Mairan was elected into numerous scientific societies and made key discoveries in a variety of fields including ancient texts and astronomy. His observations and experiments also inspired the beginning of what is now known as the study of biological circadian rhythms. At the age of 92, de Mairan died of pneumonia in Paris on 20 February 1771.
+
+
+== Biography ==
+De Mairan attended college in Toulouse from 16941697 with a focus in ancient Greek. In 1698 he went to Paris to study mathematics and physics under the teachings of Nicolas Malebranche. In 1702, he returned home to Bziers and began his lifelong study of several fields, most notably astronomy and plant rhythms. Furthermore, during his time in Bziers, he ate every day with Cardinal de Fleury; later, de Mairan founded his society under the protection of Cardinal de Fleury. Eventually, de Mairan received official lodging in the Louvre where he remained pensionnaire until 1743 and served as secretary from 1741 to 1743. In 1746, he was reinstated as pensionnaire geometre, or full-time boarding surveyor. It is reported that the Prince of Conti and other great lords heaped extravagant gifts upon him. He was also secretary to the Duke of Orlans.
+
+
+=== Observations and notable experiments ===
+In 1719, De Mairan discussed the varying obliquity of light that causes cold in winter and heat in summer. He postulated that the sun's heating effect was related to the square of the sine of its elevation. He neglected the effects of atmosphere, admitting that he did not know how much the sun's heat would be absorbed by it. Two and a half years later, he presented a paper to the Academie Royale des Sciences in Paris: "Problem: the ratio of two degrees or quantities of sunlight seen through the atmosphere at two different known angular elevations being given, to find what part of the absolute light of the sun is intercepted by the atmosphere at any desired elevation." In this paper, de Mairan made a hypothesis based on mere observations, supposing that the ratio had been measured, even though it had not. The significance of de Mairan's work, although incorrect, led his protg, Pierre Bouguer, to invent the photometer.
+In 1729, de Mairan constructed an experiment showing the existence of a circadian rhythm in plants, presumably originating from an endogenous clock (See 'Experiment on circadian rhythms in plants' below).
+In 1731, he also observed a nebulosity around a star near the Orion nebula. This was later designated M43 by Charles Messier.
+
+
+== Experiment on circadian rhythms in plants ==
+In 1729, de Mairan performed an experiment that demonstrated the existence of circadian rhythms in plants, specifically the Mimosa pudica. He was intrigued by the daily opening and closing of the heliotrope plant and performed a simple experiment where he exposed the plants to constant darkness and recorded the behavior. De Mairan's key conclusion was that the daily rhythmic opening and closing of the leaves persisted even in the absence of sunlight. However, de Mairan did not infer that heliotropes have internal clocks driving leaf rhythms, but rather that they were able "to sense the Sun without ever seeing it". The concept of an internal clock was actually not formulated until much later, although de Mairan did suggest that "it would be curious to test [...] whether, using kilns heated to higher or lower temperatures, one could artificially recreate a day & night perceptible to [plants]; and whether in doing so one could reverse the order of the phenomena of true day & true night."
+These results may have gone unnoticed had his colleague, Marchant, not published them for de Mairan. Alternatively, it may be that de Mairan simply was not available to present this work himself. It was quite common at the time, when travels were slow, for one scientist to present the work of another. Whatever the case, this rather obscure one-page contribution by a prolific and highly respected Academician did stand the test of time. It is by far the most if not the only paper by de Mairan which is still quoted in the current scientific literature (bar purely historical reviews). Indeed, when describing his work with eclosion rhythms in his Drosophila models or the rhythmic running activity of mice, founder of modern chronobiology, Colin Pittendrigh, recognized the work of Jean-Jacques d'Ortous de Mairan.
+A video showing circadian rhythms in a cucumber plant in constant conditions, similar to what de Mairan observed, can be seen here on YouTube.
+
+
+=== de Mairan's experimental legacy ===
+Despite Marchant's publication of de Mairan's work, which might have suggested the existence of endogenous biological clocks, rhythms in plant movements were for a long time thought to be extrinsically controlled, by light and dark cycles, or magnetic and temperature oscillations, or even a mysterious, yet-to-be identified X-factor.
+In 1823, almost a century after de Mairan's work, the Swiss botanist Augustin Pyramus de Candolle expanded on it by measuring the free running period of Mimosa pudica leaf movements in constant conditions, finding them to be 2223 hours long. This was probably the first hint of what is now called the circadian (from Latin circa, about, and diem) nature of such endogenous rhythms, found in practically all living organisms, including some bacteria 
+
+
+== Scientific societies and recognition ==
+In 1718, de Mairan was inducted into the Acadmie Royale des Sciences. The Cardinal and the Count of Maurepas selected Mairan to replace Bernard le Bovier de Fontenelle as Associate Secretary of the Academie in 1743. De Mairan also served as the Academie's assistant director and later director intermittently between 1721 and 1760. Eventually, de Mairan was appointed editor of the Journal des savans, a science periodical, by Chancellor d'Aguesseau. Also, in 1735, de Mairan was elected a Fellow of the Royal Society and in 1769, a Foreign Member of the Royal Swedish Academy of Sciences as well as to the Russian Academy (St. Petersburg) in 1718. De Mairan was also a member of the Royal Societies of London, Edinburgh, and Uppsala and the Institute of Bologna. With Jean Bouillet and Antoine Portalon, he founded his own scientific society in his hometown of Bziers around 1723.
+
+
+== Key publications ==
+Beyond astronomical and circadian observations, de Mairan actively worked in several other fields of physics including "heat, light, sound, motion, the shape of the Earth, and the aurora".
+The following is an abbreviated list of publications (with their English translations) organized by Dr. Robert A. Hatch at the University of Florida:
+Dissertation sur les variations du barometre (Bordeaux, 1715) (Essays on barometric variations)
+Dissertation sur la glace (Bordeaux, 1716) (Essay on the ice)
+Dissertation sur la cause de la lumiere des phosphores et des noctiluques (Bordeaux, 1717) (Dissertation on the cause of light phosphates and noctilucence or nightly light)
+Dissertation sur l'estimation et la mesure des forces motrices des corps (1728) (Essay on the estimation of the measures of forces on the body)
+He also published mathematical works.
+Trait physique et historique de l'aurore borale, (1733) (Physical and historical Treaty of the aurora borealis)
+
+
+== References ==
+
+
+== External links ==
+Galileo project entry
+SEDS Biography
+At the dawn of chronobiology
+Biological Clocks  Garden Variety Experiments
+Clock Classics: It all started with the plants
+Ellen McNiven Hine (1996): Jean-Jacques Dortous de Mairan and the Geneva connection: Scientific networking in the eighteenth century (The Voltaire Foundation)

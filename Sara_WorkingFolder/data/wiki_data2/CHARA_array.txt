@@ -1,0 +1,27 @@
+The CHARA array is an optical astronomical interferometer operated by The Center for High Angular Resolution Astronomy (CHARA) of the Georgia State University (GSU). CHARA is the World's highest angular resolution telescope at near-infrared wavelengths. It is located at the Mount Wilson Observatory, near Los Angeles, California.
+The CHARA array is an interferometer formed from six 1 meter telescopes arranged along three axes with a maximum separation length of 330 m. The light beams travel through vacuum tubes and are combined optically, requiring a building 100 meters long with movable mirrors to keep the light in phase as the earth rotates. CHARA began scientific use in 2002 and began "routine operations" in early 2004. In the infrared, the array has an interferometric imaging resolution of 0.0005 arcseconds. All six telescopes are in regular use for scientific observations and as of late 2005 imaging results are routinely acquired. The array captured the first image of the surface of a main sequence star other than the sun published in early 2007.
+
+
+== See also ==
+Cambridge Optical Aperture Synthesis Telescope (COAST)
+Infrared Optical Telescope Array
+List of astronomical interferometers at visible and infrared wavelengths
+Magdalena Ridge Observatory Interferometer
+Navy Precision Optical Interferometer
+Palomar Testbed Interferometer
+Very Large Telescope
+
+
+=== Featured objects ===
+
+
+== References ==
+
+
+== External links ==
+CHARA Research, the home page of CHARA at Georgia State University
+First 4-Telescope Fringes at the CHARA Array
+Vega Mystery Solved; Red Dwarf Mystery Grows, Sky and Telescope article about CHARA.
+First Results from the CHARA Array. III. Oblateness, Rotational Velocity and Gravity Darkening of Alderamin archiv.org
+The Very Best Telescope, by William Speed Weed, Discover Magazine, October 2002. Included in The Best American Science and Nature Writing (2003).
+The VEGA instrument on the CHARA Array.

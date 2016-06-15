@@ -1,0 +1,112 @@
+Buprenorphine is a semisynthetic opioid derivative of thebaine. It is a mixed partial agonist opioid receptor modulator that is used to treat opioid addiction in higher dosages, to control moderate acute pain in non-opioid-tolerant individuals in lower dosages and to control moderate chronic pain in even smaller doses. It is available in a variety of formulations: Cizdol, Subutex, Suboxone, Zubsolv, Bunavail (available as buprenorphine HCl alone or buprenorphine and naloxone HCl; typically used for opioid addiction), Temgesic (sublingual tablets for moderate to severe pain), Buprenex (solutions for injection often used for acute pain in primary-care settings), Norspan and Butrans (transdermal preparations used for chronic pain).
+
+
+== Medical usesEdit ==
+Its primary uses in medicine are in the treatment of those addicted to opioids, such as heroin and oxycodone, but it may also be used to treat pain, and sometimes nausea in antiemetic intolerant individuals, most often in transdermal patch form.
+
+
+=== Treatment of opioid addictionEdit ===
+
+
+==== Buprenorphine versus methadoneEdit ====
+Both buprenorphine and methadone are medications used for detoxification, short- and long-term opioid replacement therapy. Buprenorphine has the advantage of being a partial agonist; hence negating the potential for life-threatening respiratory depression in cases of abuse. Studies show the effectiveness of buprenorphine and methadone are almost identical, and largely share adverse-effect profiles apart from more sedation among methadone users. At low doses from 2 to 6 mg, however, buprenorphine has a lower retention rate than low doses from 40 mg or less of methadone.
+
+
+==== Inpatient rehabilitation and detoxificationEdit ====
+Rehabilitation programs consist of "detox" and "treatment" phases. The detoxification ("detox") phase consists of medically supervised withdrawal from the drug of dependency on to buprenorphine, sometimes aided by the use of medications such as benzodiazepines like oxazepam or diazepam (modern milder tranquilizers that assist with anxiety, sleep, and muscle relaxation), clonidine (a blood-pressure medication that may reduce some opioid withdrawal symptoms), and anti-inflammatory/pain relief drugs such as ibuprofen and aspirin.
+The treatment phase begins once the person is stabilized and receives medical clearance. This portion of treatment consists of multiple therapy sessions, which include both group and individual counseling with various chemical dependency counselors, psychologists, psychiatrists, social workers, and other professionals. In addition, many treatment centers utilize twelve-step facilitation techniques, embracing the 12-step programs practised by such organizations as Alcoholics Anonymous and Narcotics Anonymous. Some people on maintenance therapies have veered away from such organizations as Narcotics Anonymous, instead opting to create their own twelve-step fellowships (such as Methadone Anonymous) or depart entirely from the twelve-step model of recovery (using a program such as SMART Recovery).
+
+
+==== Suboxone and naloxoneEdit ====
+Suboxone (a controlled substance) contains buprenorphine as well as the opioid antagonist naloxone to deter the use of tablets by intravenous injection. Even though controlled trials in human subjects suggest that buprenorphine and naloxone at a 4:1 ratio will produce unpleasant withdrawal symptoms if taken intravenously by people who are addicted to opioids, these studies administered buprenorphine/naloxone to people already addicted to less powerful opiates such as morphine. These studies show the strength of buprenorphine/naloxone in displacing opiates, but do not show the effectiveness of naloxone displacing buprenorphine and causing withdrawal. The Suboxone formulation still has potential to produce an opioid agonist "high" if injected by non-dependent persons, which may provide some explanation to street reports indicating that the naloxone is an insufficient deterrent to injection of suboxone. The addition of naloxone and the reasons for it are conflicting. Published data show that the  opioid receptor binding affinity of buprenorphine is higher than naloxone's (Ki = 0.2157 nM for buprenorphine, Ki = 1.1518 nM for naloxone; smaller Ki mean higher affinity). Furthermore, the IC50 or the half maximal inhibitory concentration for buprenorphine to displace naloxone is 0.52 nM, while the IC50s of other opiates in displacing buprenorphine, is 100 to 1,000 times greater. These studies help explain the ineffectiveness of naloxone in preventing suboxone abuse, as well as the potential dangers of overdosing on buprenorphine, as naloxone is not strong enough to reverse its effects.
+
+
+=== Butrans for chronic pain reliefEdit ===
+Butrans Transdermal Patch System is available in 5 mcg/hour, 7.5 mcg/hour, 10 mcg/hour, 15 mcg/hour, and 20 mcg/hour doses. Each patch is applied for 7 days of around-the-clock management of moderate to severe chronic pain. It is not indicated for use in acute pain, pain that is expected to last only for a short period of time, or post-operative pain. It is also not indicated or recommended for use in the treatment of opioid addiction. 
+
+
+=== Investigational usesEdit ===
+
+
+==== DepressionEdit ====
+A clinical trial conducted at Harvard Medical School in the mid-1990s demonstrated that a majority of unipolar non-psychotic persons with major depression refractory to conventional antidepressants and electroconvulsive therapy could be successfully treated with buprenorphine. Clinical depression is currently not an approved indication for the use of any opioid, but some doctors are realizing its potential as an antidepressant in cases where the person cannot tolerate or is resistant to conventional antidepressants.
+ALKS-5461, a combination product of buprenorphine and samidorphan (a selective -opioid receptor antagonist), is currently undergoing phase III clinical trials in the United States for augmentation of antidepressant therapy for treatment-resistant depression.
+
+
+==== Neonatal abstinenceEdit ====
+Buprenorphine has been used in the treatment of the neonatal abstinence syndrome, a condition in which newborns exposed to opioids during pregnancy demonstrate signs of withdrawal. Use currently is limited to infants enrolled in a clinical trial conducted under an FDA approved investigational new drug (IND) application. An ethanolic formulation used in neonates is stable at room temperature for at least 30 days.
+
+
+== HistoryEdit ==
+In 1969, researchers at Reckitt & Colman (now Reckitt Benckiser) had spent 10 years attempting to synthesize an opioid compound "with structures substantially more complex than morphine [that] could retain the desirable actions whilst shedding the undesirable side effects (addiction)." Although the drug is physically addictive when used as prescribed. Reckitt found success when researchers synthesized RX6029 which had showed success in reducing dependence in test animals. RX6029 was named buprenorphine and began trials on humans in 1971. By 1978 buprenorphine was first launched in the UK as an injection to treat severe pain, with a sublingual formulation released in 1982.
+
+
+=== RegulationEdit ===
+In the United States, buprenorphine (Subutex) and buprenorphine with naloxone (Suboxone) were approved for opioid addiction by the United States Food and Drug Administration in October 2002. It was rescheduled to Schedule III drug from Schedule V just before FDA approval of Subutex and Suboxone. In the years prior to Suboxone's approval, Reckitt Benckiser had lobbied Congress to help craft the Drug Addiction Treatment Act of 2000 (DATA 2000), which gave authority to the Secretary of Health and Human Services to grant a waiver to physicians with certain training to prescribe and administer Schedule III, IV, or V narcotic drugs for the treatment of addiction or detoxification. Prior to the passage of this law, such treatment was not permitted in outpatient settings except for clinics designed specifically for drug addiction.
+The waiver, which can be granted after the completion of an eight-hour course, is required for outpatient treatment of opioid addiction with Subutex and Suboxone. Initially, the number of patients each approved physician could treat was limited to ten. This was eventually modified to allow approved physicians to treat up to a hundred patients with buprenorphine for opioid addiction in an outpatient setting. Due to this patient limit and the requisite eight-hour training course, many addicts find it very difficult to get a prescription, despite the drug's effectiveness.
+In the European Union, Subutex and Suboxone, buprenorphine's high-dose sublingual tablet preparations, were approved for opioid addiction treatment in September 2006. In the Netherlands, buprenorphine is a List II drug of the Opium Law, though special rules and guidelines apply to its prescription and dispensation.
+In recent years, buprenorphine has been introduced in most European countries as a transdermal formulation (marketed as Transtec) for the treatment of chronic pain not responding to non-opioids.
+
+
+== PharmacodynamicsEdit ==
+Buprenorphine is known to possess the following pharmacological activity:
+-Opioid receptor (MOR): Ki = 1.5 nM; IA = 28.7%
+-Opioid receptor (KOR): Ki = 2.5 nM; IA = 0%
+-Opioid receptor (DOR): Ki = 6.1 nM; IA = 0%
+Nociceptin receptor (ORL-1): Ki = 77.4 nM; IA = 15.5%
+In simplified terms, buprenorphine can essentially be thought of as a non-selective, mixed agonistantagonist opioid receptor modulator, acting as a partial agonist of the MOR, an antagonist of the KOR, an antagonist of the DOR, and a relatively low-affinity, weak partial agonist of the ORL-1.
+Buprenorphine is also known to bind to with high affinity and antagonize the putative -opioid receptor.
+Buprenorphine blocks voltage-gated sodium channels via the local anesthetic binding site as well, and this underlies its potent local anesthetic properties.
+Full analgesic efficacy of buprenorphine requires both exon 11- and exon 1-associated -opioid receptor splice variants.
+
+
+== PharmacokineticsEdit ==
+Buprenorphine is metabolised by the liver, via CYP3A4 (also CYP2C8 seems to be involved) isozymes of the cytochrome P450 enzyme system, into norbuprenorphine (by N-dealkylation). The glucuronidation of buprenorphine is primarily carried out by UGT1A1 and UGT2B7, and that of norbuprenorphine by UGT1A1 and UGT1A3. These glucuronides are then eliminated mainly through excretion into the bile. The elimination half-life of buprenorphine is 2073 hours (mean 37). Due to the mainly hepatic elimination, there is no risk of accumulation in people with renal impairment.
+One of the major active metabolites of buprenorphine is norbuprenorphine, which, contrary to buprenorphine itself, is a full agonist of the MOR, DOR, and ORL-1, and a partial agonist at the KOR. However, relative to buprenorphine, norbuprenorphine has extremely little antinociceptive potency (1/50th that of buprenorphine), but markedly depresses respiration (10-fold more than buprenorphine). This can be explained by very poor brain penetration of norbuprenorphine due to a high affinity of the compound for P-glycoprotein. In contrast to norbuprenorphine, buprenorphine and its glucuronide metabolites are negligibly transported by P-glycoprotein.
+The glucuronides of buprenorphine and norbuprenorphine are also biologically active, and represent major active metabolites of buprenorphine. Buprenorphine-3-glucuronide has affinity for the MOR (Ki = 4.9 pM), DOR (Ki = 270 nM) and ORL-1 (Ki = 36 M), and no affinity for the KOR. It has a small antinociceptive effect and no effect on respiration. Norbuprenorphine-3-glucuronide has no affinity for the MOR or DOR, but does bind to the KOR (Ki = 300 nM) and ORL-1 (Ki = 18 M). It has a sedative effect but no effect on respiration.
+
+
+=== Detection in biological fluidsEdit ===
+Buprenorphine and norbuprenorphine may be quantitated in blood or urine to monitor use or abuse, confirm a diagnosis of poisoning, or assist in a medicolegal investigation. There is a significant overlap of drug concentrations in body fluids within the possible spectrum of physiological reactions ranging from asymptomatic to comatose. Therefore, it is critical to have knowledge of both the route of administration of the drug and the level of tolerance to opioids of the individual when results are interpreted.
+
+
+== ChemistryEdit ==
+Buprenorphine is a semi-synthetic analogue of thebaine and is fairly insoluble in water, as its hydrochloride salt. It also degrades in the presence of light.
+
+
+== Adverse effectsEdit ==
+Common adverse drug reactions associated with the use of buprenorphine are similar to those of other opioids and include: nausea and vomiting, drowsiness, dizziness, headache, memory loss, cognitive and neural inhibition, perspiration, itchiness, dry mouth, miosis, orthostatic hypotension, male ejaculatory difficulty, decreased libido, and urinary retention. Constipation and CNS effects are seen less frequently than with morphine. Hepatic necrosis and hepatitis with jaundice have been reported with the use of buprenorphine, especially after intravenous injection of crushed tablets.
+Buprenorphine treatment carries the risk of causing psychological and or physical dependence. Buprenorphine has a slow onset, mild effect, and is very long acting with a half-life of 24 to 60 hours.
+Unlike methadone, long term use of buprenorphine does not significantly suppress plasma testosterone levels in men and is therefore less frequently related to sexual side effects.
+The most severe and serious adverse reaction associated with opioid use in general is respiratory depression, the mechanism behind fatal overdose. Buprenorphine behaves differently than other opioids in this respect, as it shows a ceiling effect for respiratory depression. Moreover, former doubts on the antagonisation of the respiratory effects by naloxone have been disproved: Buprenorphine effects can be antagonised with a continuous infusion of naloxone. Concurrent use of buprenorphine and CNS depressants (such as alcohol or benzodiazepines) is contraindicated as it may lead to fatal respiratory depression. Benzodiazepines, in prescribed doses, are not contraindicated in individuals tolerant to either opioids or benzodiazepines.
+There is another consequence of high-dose buprenorphine treatment that often goes overlooked by both physicians and patients when electing to use buprenorphine (in the form of Butrans transdermal patches) for chronic pain management. Because buprenorphine binds so tightly to opioid receptors in the central nervous system, it takes an extremely large dose of potent opioid pain medication to displace the buprenorphine from those receptors and provide pain relief in the acute setting. Patients on high-dose buprenorphine therapy are unaffected by even very large doses of potent opioids such as fentanyl, morphine, or dilaudid. Sufentanil (trade name Sufenta) is a potent analgesic (5 to 10 times more potent than fentanyl and 500 times more potent than morphine) for use in specific surgeries and surgery in heavily opioid-tolerant/opioid-dependent patients that has a binding affinity that is high enough to theoretically break through a "buprenorphine blockade" to offer pain relief in patients taking high-dose buprenorphine. The problem is that sufentanil is very often not available in the emergency room or acute care setting because of its highly specialized indications, thus making it very problematic for acute care practitioners to manage severe acute pain from trauma or medical conditions in patients taking high-dose buprenorphine.
+
+
+== See alsoEdit ==
+18,19-Dehydrobuprenorphine
+6,14-Endoethenotetrahydrooripavine
+Butorphanol
+Ciramadol
+Dezocine
+Ibogaine
+Nalbuphine
+Naltrexone
+Low-dose naltrexone
+Pentazocine
+Profadol
+Thienorphine
+Xorphanol
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+U.S. National Library of Medicine: Buprenorphine information portal
+U.S. Federal government buprenorphine program for opioid addiction
+U.S. Federal Government listing of doctors who can prescribe buprenorphine for opioid addiction
+NAABT: Non-profit buprenorphine advocate
+Australian national buprenorphine policy
+The bitter pill: A Wired Magazine article on Suboxone
+Subu Must Die  How a nation of junkies went cold turkey: A New Republic article on Subutex abuse in the nation of Georgia
+Erowid buprenorphine page

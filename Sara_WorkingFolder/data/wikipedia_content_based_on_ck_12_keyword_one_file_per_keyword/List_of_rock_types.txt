@@ -1,12 +1,14 @@
-a list of all unique rock types recognized by petrologists names of non-rock types and archaic rock types are given as appendices
+a list of rock types recognized by petrologists there is no agreed-upon number of specific types of rocks any unique combination of chemical composition mineralogy grain size texture or other distinguishing characteristics can describe rock types additionally different classification systems exist for each major type of rock
 == igneous ==
 andesite - an intermediate volcanic rock
 alkali feldspar granite - a granitoid in which at least 90% of the total feldspar is in the form of alkali feldspar
 anorthosite - an intrusive igneous felsic rock composed predominantly of plagioclase
-aplite - a very fine grained intrusive igneous rock composed of quartz and feldspar
+aplite - a very fine grained intrusive igneous rock composed of quartz and feldspar similar composition to granite but with grains <1mm
 basalt - a volcanic rock of mafic composition
+a'a - basaltic lava with a crumpled appearance
+pahoehoe - basaltic lava with a flowing ropy appearance
 adakite - a class of basaltic rocks containing low amounts of yttrium and ytterbium
-hawaiite - a class of basalts formed from ocean island (hot spot) magmatism
+hawaiite - a class of basalts formed from ocean island (hot spot) volcanism
 basanite - a volcanic rock of mafic composition; essentially a silica-undersaturated basalt
 boninite - a magnesium-rich basalt dominated by pyroxene
 carbonatite - a rare igneous rock composed of >50% carbonate minerals
@@ -25,7 +27,7 @@ granophyre - a subvolcanic intrusive rock of granitic composition
 harzburgite - a variety of peridotite; an ultramafic cumulate rock
 hornblendite - a mafic or ultramafic cumulate rock dominated by >90% hornblende
 hyaloclastite - a volcanic rock composed primarily of glasses and glassy tuff
-icelandite - a volcanic rock
+icelandite - an iron rich aluminium poor andesite
 ignimbrite - a fragmental volcanic rock
 ijolite - a very rare silica-undersaturated plutonic rock
 kimberlite - a rare ultramafic ultrapotassic volcanic rock and a source of diamonds
@@ -40,12 +42,12 @@ nepheline syenite - a silica undersaturated plutonic rock with nepheline replaci
 nephelinite - a silica undersaturated plutonic rock with >90% nepheline
 norite - a hypersthene bearing gabbro
 obsidian - a type of volcanic glass
-pegmatite - an igneous rock (or metamorphic rock) with giant sized crystals
+pegmatite - an igneous rock (or metamorphic) rock with crystals >1 inch usually granitic
 peridotite - a plutonic or cumulate ultramafic rock composed of olivine and pyroxene
 phonolite - a silica undersaturated volcanic rock; essentially similar to nepheline syenite
 picrite - an olivine-bearing basalt
 porphyry - a rock usually granitic with a porphyritic texture
-pumice - a fine grained extremely vesicular volcanic rock
+pumice - a fine grained vesicular volcanic rock
 pyroxenite - a coarse grained plutonic rock composed of >90% pyroxene
 quartz diorite - a diorite with >5% modal quartz
 quartz monzonite - an intermediate plutonic rock essentially a monzonite with 5-10% modal quartz
@@ -72,48 +74,51 @@ websterite - a type of pyroxenite composed of clinoproxene and orthopyroxene
 wehrlite - an ultramafic plutonic or cumulate rock a type of peridotite composed of olivine and clinopyroxene
 == sedimentary ==
 argillite - a sedimentary rock composed primarily of clay-sized particles
-arkose - a sedimentary rock similar to sandstone
+arkose - a sandstone with <25% feldspar crystals
 banded iron formation - a fine grained chemical sedimentary rock composed of iron oxide minerals
 breccia - a sedimentary or tectonic rock composed of fragments of other broken rocks
+calcarenite - a sedimentary rock composed of > 50% detrital carbonate grains
 chalk - a sedimentary rock composed primarily of coccolith fossils
 chert - a fine grained chemical sedimentary rock composed of silica
 claystone - a sedimentary rock formed from clay
 coal - a sedimentary rock formed from organic matter
 conglomerate - a sedimentary rock composed of large rounded fragments of other rocks
 coquina - a sedimentary carbonate rock formed by accumulation of abundant shell fossils and fragments
-diamictite - a poorly sorted conglomerate
-diatomite - a sedimentary rock formed from diatom fossils
+diamictite - a lithified sedimentary deposit with a wide range of grain sizes
+diatomite - sedimentary rock formed from diatom fossils
 dolomite or dolostone - a carbonate rock composed of the mineral dolomite +/- calcite
-evaporite - a chemical sedimentary rock formed by accumulation of minerals after evaporation; varieties include rock salt (halitite) and rock gypsum
+evaporite - chemical sedimentary rock formed by accumulation of minerals after evaporation; varieties include rock salt (halitite) and rock gypsum
 flint - a form of chert
+geyserite - opaline silica deposit formed around hot springs and geysers
 greywacke - an immature sandstone with quartz feldspar and rock fragments within a clay matrix
 gritstone - essentially a coarse sandstone formed from small pebbles
 itacolumite - porous yellow-orange sandstone which is flexible if cut into thin strips
 jaspillite - an iron-rich chemical sedimentary rock similar to chert or banded iron formation
-laterite - a residual sedimentary rock formed from a parent rock under tropical conditions
-lignite - a sedimentary rock composed of organic material; otherwise known as brown coal
-limestone - a sedimentary rock composed primarily of carbonate minerals
-marl - a limestone with a considerable proportion of silicate material
-mudstone - a sedimentary rock composed of clay and muds
-oil shale - a sedimentary rock composed dominantly of organic material
-oolite - a chemical sedimentary limestone
-sandstone - a clastic sedimentary rock defined by its grain size
-shale - a clastic sedimentary rock defined by its grain size
-siltstone - a clastic sedimentary rock defined by its grain size
-travertine - a sedimentary rock containing calcite and iron oxides
-turbidite - a particular sequence of sedimentary rocks which form within the deep ocean environment
-wackestone - a matrix-supported carbonate sedimentary rock
+laterite - residual sedimentary rock formed from a parent rock under tropical conditions
+lignite - sedimentary rock composed of 60%- 70% organic material; otherwise known as brown coal
+limestone - composed primarily of carbonate minerals
+marl - limestone with a considerable proportion of silicate material
+mudstone - clastic sedimentary rock that contains a mixture of silt- and clay-sized particles
+oil shale - sedimentary rock composed dominantly of organic material
+oolite - chemical sedimentary limestone formed from ooids spherical grains composed of concentric layers
+sandstone - clastic sedimentary rock defined by its grain size
+shale - clastic fissile sedimentary rock defined by clay-sized particles
+siltstone - clastic sedimentary rock defined by 50% or greater silt-sized particles
+tillite - lithified glacial till
+travertine - sedimentary rock containing calcite and iron oxides
+tufa - porous limestone formed by the precipitation of carbonate minerals from ambient temperature water bodies
+turbidite - particular sequence of sedimentary rocks which form within the deep ocean environment
+wackestone - matrix-supported carbonate sedimentary rock
 == metamorphic ==
-anthracite - a type of coal
+anthracite - metamorphosed coal between 92% - 98% organic matter
 amphibolite - a metamorphic rock composed primarily of amphibole
 blueschist - a metamorphic rock composed of sodic amphiboles with a distinct blue color
 cataclasite - a rock formed by faulting
 eclogite - an ultra-high grade metamorphosed basalt or gabbro; also a facies of metamorphic rocks
-gneiss - a coarse grained metamorphic rock
+gneiss - a high grade coarse grained metamorphic rock with light and dark alternating bands
 gossan - the product of the weathering of a sulfide rock or ore body
 granulite - a high grade metamorphic rock formed from basalt; also a facies of metamorphic rocks
 greenschist - a mafic metamorphic rock dominated by green amphiboles
-greenstone
 hornfels - a metamorphic rock formed by heating by an igneous rock
 marble - a metamorphosed limestone
 migmatite - a high grade metamorphic rock verging upon melting into a magma
@@ -141,7 +146,8 @@ blue granite - essentially larvikite a monzonite
 epidosite - a type of metasomatite; essentially altered basalt
 felsite - an aphanitic felsic volcanic rock which confounds identification via optical means
 flint - typically a form of chert jasper or tuff
-ganister - a cornish term for a palaeosol formed on sandstone
+ganister - a cornish term for a lithified e horizon of a palaeosol formed from sandy soil
+hyaloclastite volcanic glass with basaltic composition
 ijolite - a silica-undersaturated plutonic rock associated with nepheline syenites
 jadeitite - a very rare rock formed by concentration of jadeite pyroxene; a form of serpentinite
 jasperoid - a hematite-silica metasomatite analogous to a skarn
@@ -149,6 +155,7 @@ kenyte - a variety of phonolite first found on mount kenya
 vogesite - a variety of lamprophyre
 larvikite - a variety of monzonite with microperthitic ternary feldspars from larvik norway
 litchfieldite - a metamorphosed nepheline syenite occurrence near litchfield maine
+llanite - a hypabyssal rhyolite with microcline and blue quartz phenocrysts from the llano uplift in texas
 luxullianite - a tourmaline-bearing granite with a peculiar texture occurring at luxulyan cornwall england
 mangerite - a hypersthene-bearing monzonite
 minette - a variety of lamprophyre
@@ -158,8 +165,9 @@ rapakivi granite - a granite which exhibits the peculiar rapakivi texture
 rhomb porphyry - a type of latite with euhedral rhombic phenocrysts of feldspar
 shonkinite - melitilic and kalsititic rocks
 taconite - banded iron formation primarily used in the united states of america
-teschenite - essentially a silica undersaturated analcime bearing gabbro
-theralite - essentially a nepheline gabbro
+tachylite - basaltic volcanic glass
+teschenite - a silica undersaturated analcime bearing gabbro
+theralite - a nepheline gabbro
 variolite - devitrified glass
 == see also ==
 list of minerals

@@ -1,0 +1,63 @@
+The U.S. Navy Electronics Laboratory (NEL) was created in 1945, with consolidation of the naval radio station, radar operators training school, and radio security activity of the Navy Radio and Sound Lab (NRSL) and its wartime partner, the University of California Division of War Research. NELs charter was to effectuate the solution of any problem in the field of electronics, in connection with the design, procurement, testing, installation and maintenance of electronic equipment for the U.S. Navy. Its radio communications and sonar work was augmented with basic research in the propagation of electromagnetic energy in the atmosphere and of sound in the ocean.
+
+
+== History ==
+In November 1945, the Navy Radio and Sound Lab was renamed as Navy Electronics Laboratory. 80% of the Point Loma Military Reservation evolved into the Naval Electronics Laboratory Center (NELC) at the end of World War II. In turn NELC was merged into the Naval Ocean Systems Center (NOSC) in 1977. This eventually was merged into the Space and Naval Warfare Systems Command (SPAWAR) in 1997.
+In the 1960s, NELC was tasked with 4C: Command, Control, Communications and Computers.
+
+
+== Projects ==
+
+
+=== Shipboard Antenna Model Range ===
+
+As one of its first projects, NEL began building its Shipboard Antenna Model Range. The non-metallic arch of this structure supports a transmitting antenna which is positioned toward a brass model ship on a turntable. The ground plane under the arch simulates the electrical characteristics of the ocean, allowing research on the properties of shipboard antennas to be carried out.
+
+
+=== Arctic submarine exploration ===
+
+It also began conversion of a World War II mortar emplacement, Battery Whistler, into an Arctic Submarine Laboratory. Scientific exploration of the Arctic Basin, and particularly providing the capability to operate attack submarines in the Arctic under the ice canopy, would become a key NEL mission.
+
+World headlines came early in this program from several eventsthe submerged voyage of USS Nautilus from the Pacific to the Atlantic, via the North Pole, in 1958, and the surfacing at the pole of USS Skate the following year, both with NELs Dr. Waldo Lyon aboard as chief scientist and ice pilot.
+
+
+=== Bathyscaphe Trieste ===
+
+NEL also plunged into the undersea environment, acquiring the Bathyscaphe Trieste and directing its 1960 dive over 35,000 feet (10.7 km) down into the Challenger Deep of the Mariana Trench near Guam.
+
+
+=== Radio telescopes ===
+
+Interested in radio physics in general, the lab built a 60-foot (18 m)-diameter radio telescope on Point Loma, and in 1964, NEL began construction of the La Posta Astro-Geophysical Observatory on a 3,900-foot (1,200 m) site in the Laguna Mountains, 65 miles (105 km) east of San Diego. The observatory played a major role in solar radio mapping, studies of environmental disturbances, and development of a solar optical videometer for microwave research. Its 60-foot (18 m) dish, which could both transmit and receive, was used for important Center research programs in propagation and ionospheric forecasting which was used during a number of Apollo space launches to predict solar activity that might hamper communications from the ground to the space capsules.
+
+
+=== Communications ===
+In the area of communications, NEL developed Verdin, a low-frequency/very-low-frequency (LF/VLF) system to provide information to deeply submerged Polaris missile submarines, and began development of satellite communication capabilities.
+Requirements for handling the vast amount of shipboard communications during the intensifying Vietnam War led to tasking for an internal message handling system. In response, the lab developed the Message Processing and Distribution System (MPDS), installing it aboard the Seventh Fleet flagship USS Oklahoma City a month ahead of schedule. The lab improved substantially on that system later and installed it aboard Nimitz-class aircraft carriers.
+
+
+=== Computer science ===
+The programming language dialect NELIAC was developed by and named after the lab.
+NELIAC was the brainchild of Harry Huskey, at the time Chairman of the ACM, who had a keen interest in porting applications in a machine-independent form. ALGOL 58 gave NEL the framework for an implementation, and work commenced in 1958, but was not fully developed until 1961.
+NELIAC was used at NEL to support experimental anti-submarine systems and Command and Control Systems development, and later, at the Navy Command Systems and Support Activity (NAVCOSSACT) in Washington DC in support of the National Emergency Command Post Afloat (NECPA) project which was installed on many large ships starting in 1966.
+This was the world's first self-compiling compiler and was ported to many other computers in the Department of Defense, it also included the NELOS operating system development used for large scale applications (unique to the USQ-20 Navy shipboard computer and its commercial version, the UNIVAC 490).
+Many other versions existed for a variety of computers because the ease of portability and the rapid one-pass compile times.
+
+
+== Naval Command, Control and Communications Laboratory Center and beyond ==
+In 1967, as part of the general Navy laboratory re-organization, NEL became the Naval Command, Control and Communications Laboratory Center. The name was never fully accepted, and in about six months it was changed to Naval Electronics Laboratory Center (NELC).
+In 1997, with the disestablishment of NCCOSC and the establishment of direct oversight by Space and Naval Warfare Systems Command, the Center assumed its current name, Space and Naval Warfare Systems Center San Diego (SSC San Diego).
+
+
+== Notes ==
+^ "U.S. Naval Activities World War II by State". Patrick Clancey. Retrieved 2012-03-19. 
+^ unknown (1990). "Scientists at War, 1940 - 1945". Space and Naval Warfare Systems Center, San Diego. 
+^ Linder, Bruce (2001). San Diego's Navy. Annapolis, Maryland: Naval Institute Press. p. 151. ISBN 1-55750-531-4. 
+^ [1]
+^ LaPuzza, Tom (2000). "SSC San Diego: Historical Overview". 
+^ unknown (2006). "Arctic Submarine Laboratory Historical Timeline". Submarine Development Squadron Five: Detachment, Arctic Submarine Laboratory. 
+
+
+== External links ==
+SSC San Diego Historical Overview
+NEL-related photographs

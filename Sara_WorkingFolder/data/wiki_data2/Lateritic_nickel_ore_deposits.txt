@@ -1,0 +1,48 @@
+ Lateritic nickel ore deposits are surficial, weathered rinds formed on ultramafic rocks. They account for 73% of the continental world nickel resources and will be in the future the dominant source for the mining of nickel.
+
+
+== Genesis and types of nickel laterites ==
+Lateritic nickel ores formed by intensive tropical weathering of olivine-rich ultramafic rocks such as dunite, peridotite and komatiite and their serpentinized derivatives, serpentinite which consist largely of the magnesium silicate serpentine and contains approx. 0.3% nickel. This initial nickel content is strongly enriched in the course of lateritization. Two kinds of lateritic nickel ore have to be distinguished: limonite types and silicate types.
+Limonite type laterites (or oxide type) are highly enriched in iron due to very strong leaching of magnesium and silica. They consist largely of goethite and contain 1-2% nickel incorporated in goethite. Absence of the limonite zone in the ore deposits is due to erosion.
+Silicate type (or saprolite type) nickel ore formed beneath the limonite zone. It contains generally 1.5-2.5% nickel and consists largely of Mg-depleted serpentine in which nickel is incorporated. In pockets and fissures of the serpentinite rock green garnierite can be present in minor quantities, but with high nickel contents - mostly 20-40%. It is bound in newly formed phyllosilicate minerals. All the nickel in the silicate zone is leached downwards (absolute nickel concentration) from the overlying goethite zone.
+
+
+== Ore deposits ==
+Typical nickel laterite ore deposits are very large tonnage, low-grade deposits located close to the surface. They are typically in the range of 20 million tonnes and upwards (this being a contained resource of 200,000 tonnes of nickel at 1%) with some examples approaching a billion tonnes of material. Thus, typically, nickel laterite ore deposits contain many billions of dollars of in-situ value of contained metal.
+Ore deposits of this type are restricted to the weathering mantle developed above ultramafic rocks. As such they tend to be tabular, flat and really large, covering many square kilometres of the Earth's surface. However, at any one time the area of a deposit being worked for the nickel ore is much smaller, usually only a few hectares. The typical nickel laterite mine often operates as either an open cut mine or a strip mine.
+
+
+== Extraction ==
+Nickel laterites are a very important type of nickel ore deposit. They are growing to become the most important source of nickel metal for world demand (currently second to sulfide nickel ore deposits).
+Nickel laterites are generally mined via open cut mining methods. Nickel is extracted from the ore by a variety of process routes. Hydrometallurgical processes include high-pressure acid leach (HPAL) and heap leach, both of which are generally followed by solvent extraction - electrowinning (SX-EW) for recovery of nickel. Another hydrometallurgical routes is the Caron process, which consists of roasting followed by ammonia leaching and precipitation as nickel carbonate. Additionally, ferronickel is produced by the rotary kiln - electric furnace (RKEF) process.
+
+
+=== HPAL process ===
+High pressure acid leach processing is employed for two types of nickel laterite ores. 1) Ores with a limonitic character such as the deposits of the Moa district in Cuba and southeast New Caledonia at Goro where nickel is bound in goethite and asbolite. 2) Ores of a predominantly nontronitic character, such as many deposits in Western Australia, where nickel is bound within clay or secondary silicate substrates in the ores. The nickel (+/- cobalt) metal is liberated from such minerals only at low pH and high temperatures, generally in excess of 250 C.
+The advantages of HPAL plants are that they are not as selective toward the type of ore minerals, grades and nature of mineralisation. The disadvantage is the energy required to heat the ore material and acid, and the wear and tear hot acid causes upon plant and equipment. Higher energy costs demand higher ore grades.
+
+
+=== Heap (Atmospheric) Leach ===
+Heap leach treatment of nickel laterites is primarily applicable to clay-poor oxide-rich ore types where clay contents are low enough to allow percolation of acid through the heap. Generally, this route of production is much cheaper - up to half the cost of production - due to the lack of need to heat and pressurise the ore and acid.
+Ore is ground, agglomerated, and perhaps mixed with clay-poor rock, to prevent compaction of the clay-like materials and so maintain permeability. The ore is stacked on impermeable plastic membranes and acid is percolated over the heap, generally for 3 to 4 months, at which stage 60% to 70% of the nickel-cobalt content is liberated into acid solution, which is then neutralised with limestone and a nickel-cobalt hydroxide intermediate product is generated, generally then sent to a smelter for refining.
+The advantage of heap leach treatment of nickeliferous laterite ores is that the plant and mine infrastructure are much cheaper - up to 25% of the cost of a HPAL plant - and less risky from a technological point of view. However, they are somewhat limited in the types of ore which can be treated.
+
+
+=== FerroNickel Process ===
+A recent development in the extraction of nickel laterite ores is a particular grade of tropical deposits, typified by examples at Acoje in the Philippines, developed on ophiolite sequence ultramafics. This ore is so rich in limonite (generally grading 47% to 59% iron, 0.8 to 1.5% nickel and trace cobalt) that it is essentially similar to low-grade iron ore. As such, certain steel smelters in China have developed a process for blending nickel limonite ore with conventional iron ore to produce stainless steel feed products.
+
+
+=== Nitric Acid Hydrometallurgical Tank Leach ===
+Another new method of extracting nickel from laterite ores is currently being demonstrated at a full-scale test plant at the CSIRO facility in Perth Australia. The DNi process uses nitric acid, instead of sulphuric acid, to extract the nickel within a few hours and then the nitric acid is recycled. The DNi process has the major advantage of being able to treat both limonite and saprolite lateritic ores and is estimated to have less than half the capital and operating costs of HPAL or FerroNickel processes.
+
+
+== See also ==
+Ore genesis
+Laterite
+Open cut mining
+Nickel
+
+
+== References ==
+^ Schellmann, W. (1983): Geochemical principles of lateritic nickel ore formation. Proceedings of the 2. International Seminar on Lateritisation Processes, Sao Paulo, 119-135
+^ Golightly, J.P. (1981): Nickeliferous Laterite Deposits. Economic Geology 75th Anniversary Volume, 710-735

@@ -1,0 +1,23 @@
+Juvenile hormone epoxide hydrolase (JHEH) is an enzyme that inactivates insect juvenile hormones. This inactivation is accomplished through hydrolysis of the epoxide functional group contained within these hormones into diols. JHEH is one of two enzymes involved in the termination of signaling properties of the various juvenile hormones. The other is juvenile-hormone esterase, or JH.
+The first observation of activity from JHEH was in Rhodnius prolixus and Schistocerca gregaria. JH esterase was also first observed in this same work.
+
+
+== Mechanism ==
+JH esterase and epoxide hydrolase are the only known enzymes involved in primary degradation of JH. The inactivated carboxylic acid products of juvenile hormone esterase can be reactivated in peripheral tissues by esterification restoring its biological activity. In contrast, the juvenile hormone diols that are the product of the epoxide hydrolase are very hydrophilic and cannot be converted back to JH. Thus, this enzyme permantly terminates the action of juvenile hormone, unlike JH esterase.
+The enzyme mechanism involves the addition of water at the secondaary carbon, C-10. In Trichoplusia ni, JH has been found to be the preferred substrate of this enzyme as compared with JH acid.
+
+
+== Isoforms ==
+Two forms of JHEH have been cloned from Leptinotarsa decemlineata, which are found in all tissues studied. Knockdown of these enzymes by injected appropriate RNA interference has been found to increase JH titers, prolong laval development, and delay adult emergence, all symptoms of excessive levels of JH.
+
+
+== Structure ==
+JHEH is a membrane associated protein, and by photoaffinity labeling has been shown to be a 50 kDA protein in Manduca sexta.
+It has been noted by several that properties of JHEH are similar to those of animal microsomal epoxide hydrolase. Sequence alignments showed that the exact catalytic triad of the animal enzyme (Asp-226, Glu-403 and His-430) is present in JHEH. In addition, the X-ray structure of Bombyx mori JHEH was recently determined.
+
+
+== Post translational modification ==
+Juvenile hormone diol is acted on by juvenile hormone diol kinase, to give juvenile hormone diol phosphate, with the phosphate attached to the hydroxyl group on carbon atom 10. This modication greatly enhaces the water solubiity, making it easier to excrete.
+
+
+== References ==

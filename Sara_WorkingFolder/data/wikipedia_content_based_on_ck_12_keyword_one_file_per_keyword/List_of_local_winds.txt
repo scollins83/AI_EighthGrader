@@ -1,6 +1,7 @@
-the list covers regional and local winds and local weather phenomena including seasonal winds
+the list covers regional and local winds and local weather phenomena including seasonal wind
 == a-b ==
 abrolhos (portuguese elisionast of brazil)
+alisio (easterly trade wind in the caribbean)
 alize (northeasterly across central africa and the caribbean)
 aliz maritime (wet fresh northerly wind across west central africa)
 amihan (northeasterly wind across the philippines)
@@ -9,7 +10,6 @@ bayamo (violent wind on cuba's southern coast)
 bora (northeasterly from eastern europe to northeastern italy)
 andhi is seen punjab rajasthan in india a summer time blowing it is also called sand wind
 == c-e ==
-carpinteiro" strong southeasterly wind along the southern brazilian coast
 calima (dust-laden south to southeasterly wind blowing in the saharan air layer across the canary islands)
 cape doctor (dry south-easterly wind that blows on the south african coast in summer)
 cers (strong very dry northeasterly wind in the bas-languedoc region in southern france)
@@ -22,7 +22,7 @@ cierzo (cool north/northwesterly wind on ebro valley in spain)
 carpinteiro (strong southeasterly wind along the southern atlantic coast of brazil)
 caju (stormy gale-force north-westerly in the atlantic coast of brazil)
 == f-h ==
-fhn (warm dry southerly off the northern side of the alps and the north italy) the name gave rise to the fn-fng ( 'burning wind') of taiwan
+fhn ( fhn or foehn is a warm dry southerly wind off the northern side of the alps and the north italy) the name gave rise to the fn-fng ( 'burning wind') of taiwan
 fremantle doctor (afternoon sea breeze from the indian ocean which cools perth western australia during summer)
 gilavar (south wind in the absheron peninsula of the azerbaijan republic)
 gregale (northeasterly from greece)
@@ -34,8 +34,9 @@ helm wind (north-easterly wind in cumbria england)
 kaimai breeze turbulent with strong downdrafts in the kaimai range
 kali andhi the violent dust squalls that occur before monsoon in the northwestern parts of the indo-gangetic plain region of the indian subcontinent
 karaburan ("power storm") a spring and winter katabatic wind of central asia
+karakaze (strong cold mountain wind from gunma prefecture in japan)
 khamsin (southeasterly wind from north africa to the eastern mediterranean)
-khazri (cold north wind in the absheron peninsula of the azerbaijan republic)
+khazri
 kona (southeast wind in hawaii replacing trade winds bringing high humidity and often rain)
 koava (strong and cold southeasterly season wind in serbia)
 viento de levante (easterly through strait of gibraltar)
@@ -61,6 +62,7 @@ pampero (argentina) very strong wind which blows in the pampa
 papagayo periodic wind which blows across nicaragua and costa rica and out over the gulf of papagayo
 passat medium strong constant blowing wind at sea in tropical areas
 plough wind straight line wind which precedes thunderstorms or thunderstorm clusters
+poniente strong west to east wind formed by the wind tunnel effect of the gibraltar strait (see levante for the opposite)
 puelche on the western slope of the andes in south-central chile
 rashabar (or rashaba) ("black wind") a strong wind in the kurdistan region of iraq particularly in sulaimaniya
 == s ==
@@ -68,8 +70,9 @@ santa ana winds (southern california)
 shamal (a summer northwesterly wind blowing over iraq and the persian gulf states)
 simoom (strong dry desert wind that blows in the sahara israel jordan syria and the desert of arabia)
 sirocco (southerly from north africa to southern europe)
+solano (south to south-easterly wind in the southern sector of spain)
 southerly buster (rapidly arriving low pressure cell that dramatically cools sydney australia during summer)
-sou'wester (strong wind which blows from the southwest and also a type of waterproof hat designed to protect from and repel wind and rain)
+sou'wester (strong wind which blows from the southwest and also a type of waterproof hat designed to protect from wind and rain)
 squamish (wind) (strong violent wind occurring in many of the fjords of british columbia)
 sudestada (wind) (strong offshore wind from the southeast associated with most of the shipwrecks in uruguay's rio de la plata coast)
 sundowner (wind) (strong offshore wind off the california coast)

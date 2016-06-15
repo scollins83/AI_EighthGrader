@@ -1,0 +1,20 @@
+Inferior planets are planets whose orbits lie within the orbit of Earth; superior planets planets whose orbits lie outside the orbit of Earth.
+
+
+== HistoryEdit ==
+These terms were originally used in the geocentric cosmology of Claudius Ptolemy to differentiate as inferior those planets (Mercury and Venus) whose epicycle remained co-linear with the Earth and Sun, and as superior those planets (Mars, Jupiter, and Saturn) that did not.
+In the 16th century, the terms were modified by Copernicus, who rejected Ptolemy's geocentric model, to distinguish a planet's orbit's size in relation to the Earth's.
+
+
+== Planets in each categoryEdit ==
+When Earth is stated or assumed to be the reference point:
+"Inferior planet" is used in reference to Mercury and Venus, which are closer to the Sun than the Earth is.
+"Superior planet" is used in reference to Mars, Jupiter, Saturn, (and later additions Uranus and Neptune), which are farther from the Sun than the Earth is.
+The terms are sometimes used more generally: for example, the Earth is an inferior planet as seen from Mars.
+
+
+== Other planetary termsEdit ==
+These terms are different from the terms inner planet and outer planet, which designate those planets which lie inside the asteroid belt and those that lie outside it, respectively. Inferior planet is also different from minor planet or dwarf planet. Superior planet is also different from gas giant.
+
+
+== ReferencesEdit ==

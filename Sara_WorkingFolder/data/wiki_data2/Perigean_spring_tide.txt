@@ -1,0 +1,19 @@
+A perigean spring tide is a tide that occurs three or four times a year when the Moon's perigee (its closest point to Earth during its 28-day elliptical orbit) coincides with a spring tide (when the Earth, Sun and Moon are nearly aligned every two weeks).
+The Moon's orbit around the Earth is elliptical, which causes the Moon to be closer to the Earth and farther away at different times. The Moon and the Sun are aligned every two weeks, which results in spring tides  tides that are 20% higher than normal. During the period of the new moon, the Moon and Sun are on the same side of the Earth, so the high tides or bulges produced independently by each reinforce each other (and has nothing to do with the season called spring). Tides of maximum height and depression produced during this period are known as spring tide. Even higher than a normal spring tide are the perigean tides. Perigean spring tides can produce unusually intense flooding along the coastal regions. Low amplitude tides are known as neap tides.
+The Moon is the primary source of the gravitational forces that cause the tides. The proximity of the Moon to the Earth has an effect on the range of the tides at any given time. In each of its 28-day elliptical orbits, the Moon reaches a perigee, its closest point of approach to the Earth. During these periods, there is a slight increase in the average range of tides. The increases in the range of the tides is seen by a slightly higher than average high tide, as well as a slightly lower than average low tide. Additionally, twice each month, around the times of the new moon and full moon, when the Earth, Sun, and Moon are nearly in line, there is an increase in the average range of the tides. These are called "spring tides". Three or four times a year, the occurrence of a new or full moon will coincide with the perigee of the Moon, which Fergus Wood has termed the "perigean spring tides".
+On March 6, 1962, the Ash Wednesday Storm surge coincided with perigean spring tide, and for the following 65 hours inundated the entire Atlantic coastline of the United States from the Carolinas to Cape Cod. This disastrous event resulted in a loss of 40 lives and over 500 million dollars of property damage. On January 4, 1912 a full moon and a lunar perigee occurred, with these two events separated by only a few minutes of time and with the Earth near perihelion. The resulting lunar distance (356,375 km) on that date stands as the closest approach of the Moon to the Earth in an interval of more than 1400 years.
+In some countries a perigean spring tide may be called a "king tide".
+
+
+== Notes ==
+
+
+== References ==
+Easterbrook, D.J. (1999). Surface Process and Landforms. 2nd ed. Upper Saddle River, NJ: Prentice Hall.
+Duxbury, A.B., Duxbury, A.C., Sverdrup, K.A. (2002). Fundamentals of Oceanography. 4th ed. New York, NY: McGraw Hill.
+http://co-ops.nos.noaa.gov/faq2.html#15
+Wood, Fergus J. (2001). Tidal Dynamics Volume I: Theory and Analysis of Tidal Forces; Volume II Extreme Tidal Peaks and Coastal Flooding. 3rd ed. West Palm Beach, Fl: The Coastal Education and Research Foundation [CERF] ISBN 0-938415-10-7
+
+
+== External links ==
+Apogee & Perigee Tables

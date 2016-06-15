@@ -1,0 +1,73 @@
+AquAdvantage salmon is a genetically modified (GM) Atlantic salmon developed by AquaBounty Technologies. A growth hormone-regulating gene from a Pacific Chinook salmon and a promoter from an ocean pout were added to the Atlantic's 40,000 genes. These genes enable it to grow year-round instead of only during spring and summer. The purpose of the modifications is to increase the speed at which the fish grows, without affecting its ultimate size or other qualities. The fish grows to market size in 16 to 18 months rather than three years. The latter figure refers to varieties whose growth rate has already been improved by 2:1 as a result of traditional selective breeding. Conventional salmon growers publicly challenged the claimed growth rates.
+
+
+== Genetic modificationEdit ==
+AquAdvantage salmon are triploid (having three sets of chromosomes whereas most animals have two sets) female Atlantic salmon (Salmo salar), with a single copy of the opAFP-GHc2 construct, which codes for a promoter sequence from ocean pout directing production of a growth hormone protein using coding sequence from Chinook salmon. This transgene allows the fish to achieve accelerated growth rates. Induction of triploidy in nearly 99% of the salmon by treatment of batches of eggs renders most of the fish sterile, reducing the risk of interbreeding with wild-type fish and further increasing growth by removing the stress of reproduction.
+
+
+== ProductionEdit ==
+AquAdvantage built a 100-ton/year aquaculture facility in landlocked highlands in Panama, a fraction of the 230,000-ton global output of farmed Atlantic salmon.
+
+
+=== AquacultureEdit ===
+
+Commercial aquaculture is the most rapidly growing segment of the agricultural industry, accounting for more than 60 million tons in 2012, versus 90 million tons of wild-caught fish. That year, aquaculture output exceeded beef output for the first time. While land-based agriculture is increasing between 2% and 3% per year, aquaculture has been growing at an average rate around 9% per year since 1970. As of 2011, salmon aquaculture produced 1.9 million tons of fish.
+
+
+== ConcernsEdit ==
+
+Aquaculture that uses conventionally bred salmon, mostly Atlantic salmon, cultivates the fish in net pens. In North America, this occurs mostly in coastal waters off Washington, British Columbia, and Maine. However, the application for FDA approval of AquAdvantage salmon specified land-based tank cultivation with no ocean involvement.
+Critics raised concerns about potential environmental impacts if these fish reached rivers or oceans. Modeled invasion scenarios in seminatural environments suggest that GM salmon would outcompete wild-type salmon. However, the researcher who developed the "Trojan gene" hypothesis frequently cited by critics of this salmon has discounted this scenario, noting their "sin of omission" and describing it as an "urban myth".
+Whole Foods, Trader Joe's, Aldi, and other grocery stores throughout the United States have announced that they would not offer AquAdvantage.
+
+
+=== Survival in new habitatsEdit ===
+Fish can learn to feed on new prey after leaving hatchery environments. These adaptations could pose a risk if GM salmon were to be released into the wild.
+GM salmon can potentially survive twice as long as wild specimens. The ability of GM salmon to grow faster does not necessarily mean they are preferentially preyed upon, and this leads to increased survival. In a competition scenario, such as a release of GM fish from a salmon farm into the wild, the GM salmon could initially outcompete wild-type salmon for food. This success would allow the GM salmon's greater survival.
+
+
+=== Rate of growthEdit ===
+GM fish have the potential to feed more efficiently than wild-type salmon. This leads to an accelerated growth rate during their first year after hatching. These fish have the capability to grow 11 times faster than wild-type salmon. This characteristic allows GM salmon to mature more rapidly and gives them the ability to reproduce in less than two years. This accelerated maturity implies that GM salmon can reproduce at a much faster rate than wild-type salmon.
+
+
+=== SmoltificationEdit ===
+Smoltification is the process of salmon adapting from freshwater to marine water. GM salmon can potentially achieve smolt size in only one year. This could allow GM fish to reach the ocean quicker. The ability to reach the ocean first could allow GM salmon to access more food with less competition from wild-type salmon.
+
+
+=== AllergenicityEdit ===
+Fish are one of the eight food types that the FDA is required by law to treat with special care, with regard to allergies. As part of the regulatory process, the FDA required data on whether changes occur in the kinds or levels of fish allergens (such as parvalbumin) in AquAdvantage. The FDA reviewed data from the company and concluded, "The allergenic potency of triploid ABT salmon was not significantly different from that of sponsor control diploid salmon."
+
+
+=== Swimming capabilitiesEdit ===
+GM salmon lack in swimming capabilities as compared to wild-type salmon. AquAdvantage specimens consume more energy when swimming than wild-type salmon. This is most likely due to the type of muscle fibers. GM fish's muscle fibers are smaller in diameter than wild-type salmon. The force a specific muscle can generate is proportional to the diameter of the muscle, and with a smaller muscle diameter, GM salmon produced less force than their wild-type counterparts.
+
+
+=== Reproductive competitionEdit ===
+Under simulated models, both precocial parr and anadromous GM male salmon lack reproductive success and have a reduced number of surviving offspring. GM salmon's lack of fertilization success can be attributed to nest fidelity, quivering frequency, and spawn participation. Under simulated competition environments, 94% of siring occurred by wild-type salmon, while only 5.4% was attributed to GM salmon. This advantage allows more than twice as many wild-type offspring to be produced. Other characteristics that could cause wild-type males to be chosen more frequently could be the lack of growth of the kype, the hooked jaw of a male, and red coloration on anadromous males, which demonstrates sexual maturity to females.
+Using in vitro analysis, GM salmon's ejaculate was much less concentrated and had a lower sperm count and decreased sperm velocity, all of which can decrease GM salmon's fertilization success.
+
+
+=== SolutionsEdit ===
+AquaBounty addresses these concerns by cultivating reproductively incapable females. Most escapees cannot reproduce either natively or by interbreeding with wild stocks, because treatments of eggs have been found to render 98.9% of them triploid; batches with more than 5% diploid individuals will be destroyed. The company plans to provide farmers with fish rather than eggs, and has proposed that AquAdvantage fish only be raised in land-based facilities.
+
+
+== FDA reviewEdit ==
+The Food and Drug Administration (FDA) approved AquaBounty Technologies' application to sell the AquAdvantage salmon to U.S. consumers on November 19, 2015. The decision marks the first time genetically modified animal has been approved to enter the United States food supply. The decision came nearly twenty years after the company first submitted data to the FDA, and after they had raised ten generations of the animals.  The announcement released by the FDA states: "AquAdvantage salmon is as safe to eat as any non-genetically engineered (GE) Atlantic salmon, and also as nutritious." 
+In September 2010, an FDA advisory panel indicated that the fish is "highly unlikely to cause any significant effects on the environment" and that it is "as safe as food from conventional Atlantic salmon" Kathleen Jones of the FDA's Center for Veterinary Medicine said:
+
+In conclusion, all of the data and information we reviewed ... really drive us to the conclusion that AquAdvantage salmon is Atlantic salmon, and food from AquAdvantage salmon is as safe as food from other Atlantic salmon.
+
+In October 2010, 39 lawmakers asked the FDA to reject the application. Other groups requested that the fish carry a label identifying its transgenic origin. Concerns included alleged flaws in sterilization and isolation, and excessive antibiotic use. In 2012, the major shareholder of AquaBounty Technologies said that he doubted that approval would be granted for the AquAdvantage salmon in a US election year.
+On 25 December 2012, the FDA published a draft environmental assessment for AquAdvantage salmon. The FDA also published a preliminary Finding of No Significant Impact. A 60-day period for the public to comment was to elapse before the FDA reviewed Aquadvantage salmon again, which was arbitrarily extended until May 2013. As of May 2013, the public comment period officially ended, and the FDA was then scheduled to finalize its assessment.
+On 25 November 2013, Environment Canada approved the product for salmon egg production for commercial purposes in Canada. .
+On 19 November 2015, the USFDA approved the product for commercial sale within the US 
+
+
+== NotesEdit ==
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+AquaBounty site

@@ -1,0 +1,262 @@
+Psychological typologies are classifications used by psychologists to describe the distinctions between people. The problem of finding the essential basis for the classification of psychological typesthat is, the basis determining a broader spectrum of derivative characteristicsis crucial in differential psychology.
+
+
+== Historical background ==
+
+
+=== The logic of development of classification hypotheses in psychology ===
+The entire history of human studies from the system-classification position reveals itself as arena of struggle of two opposite methodological directions, the goals of which were:
+1) to "catch" the central organizing link, some kind of the motor of all design, and to distribute people by the qualitative specificity of these central links;
+
+"The typological approach consists in the global perception of the person with the following reduction of variety of individual forms to a small number of the groups uniting around the representative type" (Meily, 1960).
+
+2) to decompose the psychic to its components in order to understand the work of parts and to create a classification on the basis of differences in the structure and quality of parts.
+
+"It is necessary to reduce all the personality character traits to the elementary mental elements and to the elementary forms of the basic psychological laws, revealing the nature of the discovered ties" (Polan, 1894).
+
+At present there are several thousand of various psychological classifications that point to these or other distinctions between people or mental characteristics as such.
+The classifications may have different ground scales of generalizations, degree of inner strictness.
+
+
+=== Classification of people and psychological characteristics ===
+The logic of psychological classifications development demanded parallel existing of two scientific approaches: one of which was named "psychology of types", and the other"psychology of traits". In the course of time both the approaches shifted towards each other: the psychology of typesin attempts to understand the structure of psychological traits of every type, trait psychologyin attempts to achieve more high and system generalizations.
+
+As soon as the fact that the observable traits do not corresponds to separate essential psychic characteristics and rather are only aspects of the personality and behavior, received general recognition immediately appeared the necessity to reveal the fundamental factors behind the traits. Haimans and Virsma as well as other scientists after them tried to solve the problem. However all these researches had a fragmentary character, their results have been caused by preliminary hypotheses, and the choice of traits as a rule was determined by the personal view of the researcher R.Maily 
+
+An example of trait psychology development (stages):
+Singling out the types of love as psychology of traits. In the Antique time the typology of love kinds was very popular, which comprised:
+Eros  a passionate physical and emotional love based on aesthetic enjoyment; stereotype of romantic love
+Ludus  a love that is played as a game or sport; conquest
+Storge  an affectionate love that slowly develops from friendship, based on similarity ( kindred to Philia )
+Pragma  love that is driven by the head, not the heart; undemonstrative
+Mania  highly volatile love; obsession; fueled by low self-esteem
+Agape  selfless altruistic love; spiritual; motherly love
+Every person, as a rule, possesses all the possible types of love, but in different proportion. Which can be expressed by the profile characteristic with ups and downs.
+The Types of people with similar profile characteristics combined into classification of higher level.
+The example of type psychology development (stages):
+Singling out groups of people that have obvious dominate of conscious cognitive operations "Rationals" or unconscious operation out"Irrationals".
+Pick out the specific cognitive abilities connected with rationality and irrationality.
+A network for the profile characteristic is worked out which is typical for rationals and irrationals.
+In the course of development of psychology as a science and a practice, the understanding has developed that the individual is a "microcosm", which has all traits, properties, and characteristics, but they are distributed according to certain systemic laws, which have yet to be discovered.
+
+
+=== Psychological type scales ===
+
+
+==== Cosmologies ====
+Systems of views about the material and mental world based on principles of harmony, common universal laws of the nature and mind, have the greatest scale and orderliness. Everything including the principle of psychological classification, has mathematical accuracy and clearness. The typology has the subordinated role, it reflects the natural belonging to cosmic laws.
+Example: Psycosmology
+
+
+==== Formal typologies ====
+Classifications that included stabil types singled out on the basis of some psychological or anatomo-physiological traits refer to formal typologies. The formal typology may have quote varies scale. Often these are typologies on the basis of behavior particulars in certain activity.
+Example: Witkin in 1954 singled out the types of people as field dependent and field independent. The field dependent do not see a simple figure in a complex geometrical background. The field independent can single out the figure from complex geometrical background.
+
+
+==== Dynamic typologies ====
+The dynamic typologies are connected with change and transformations of people, with doing through stages in their development (biological, psychological, social).
+Example: From the psychoanalytical point of view, the child in her development undergoes in a number of psychosexual stages which creates a particular make up of soul and mind, being a sort of psychological type.
+The developing person is viewed as an auto-erotic creature that receives sensual pleasure from stimulation of erogenous zones of the body by the parents or other people during the process of rearing. Freud believed that for every such stage there is a particular erogenous zone.
+The person goes through certain studies in the development of self-consciousness in the search of Self. Carl Jung considered the Self to be a central archetype, the one of order and wholeness of personality. Jung called ability of humans to self-cognition and self-development as individuation confluence of her/his conscious and unconscious. The first stage of the individuation is the acquisition of the element in the structure of the personality psychic called - person or mask hiding the real self and the unconscious, called the shadow.
+So the second stage of the individuation is awareness of the shadow. The third stage is meeting still other components of psychic  called Anima and Animus. The last stage of individuation  development of the Self, that becomes the new center of soul. It brings unity and integrates a conscious and unconscious material. All the mentioned stages intersect. The person constantly and repeatedly returns to old problems. Individuation may be depicted as a spiral in which the person continues once and again deal with the same fundamental problems, each time in a more subtle form.
+
+
+== Modeling of systems of psychological types ==
+In modeling of psychological systems the systematization and classification play a very important role. With the development of statistics in the description of weight of the trait (or type) in society character of the trait (type) distribution is very important. It is also important, if the distinctions of trait have a quantitative or qualitative character for the adequate interpretation of practically every research in the field of differential psychology understanding of certain fundamental statistical concepts is required. "There are at least three various theories of the psychological types worked out by psychologists. Some authors represent types as separate classes that exclude each other. Some others psychologists accept the theory of types as more or less detailed trait theory, defining the types as poles of one and same continuum between which people may be ranked by the law of normal distribution. The adepts of the third view believe that the types differ from the traits by having multimodal distributions in which the people are grouped with in definite points, representing pure types". Stagner, 1948.
+
+
+=== Distribution of the traits ===
+The more distribution is fundamental and doesn't depend on cultural factors. The majority of measuring instruments (tests) are constructed so that the trait could be normalized with the normal distribution term, if distinctions have quantitative character. For instance, the traits which enter the base of personality named the Big Five have a normal distribution.
+Example: Extraversion/introversion. Most people have ambivert characteristics on this scale.
+
+
+=== Strict sets ===
+If characteristics have qualitative rather than quantitative distinctions, they are usually described as strict sets.
+Example: Right-handedness and left-handedness. The deaf and the hearing. Types in Socionics.
+
+
+=== Nonstrict sets ===
+It is very seldom that a certain quality is stably absent absolutely in psychic. Therefore, in most cases, it is useful to use mild classifications which reflect real character of distribution more precisely.
+Example: Typology by Ernst Kretschmer or William Herbert Sheldon.
+
+
+=== Complex models ===
+More complex and systematization models take into account the fact that may meet both quantitative, and qualitative distinctions of traits. The distributions of these traits as clear connections may form types which in term have enough strict and steady distribution in society.
+Example: Psycosmology model in a context of general, typological and individual.
+
+
+== System classifications ==
+The system classifications proceeded from the postulate that whole is not a sum of the parts, but is a system of higher organization. The basis of classification often was searched for in laws of Universe functioning. The properties of classification: strictness (everyone belongs to one and only one class and remains in it for the whole life), quantity of classes is determined by laws of the Universe, the organization of psychic is a part of the more general system of functioning of the Universe.
+Examples: Astrological (Egypt, Babylon, Greece, the Classical antiquity), astro-musical system of types (India).
+
+The foundation of development of practices, known nowadays as "the western astrology", was the Mesopotamian astrology whereas the Chinese tradition became a core of systems so-called "Eastern astrology". As to astrological systems of meso-American Indians and druids, they haven't survived till present time in the living tradition and are now reconstructed only some with some degree of authenticity. Original astrological systems arose, probably, in other regions of the world as well, but they were quite regional (astrology of inks or original Javano-Balyiskian astrology, based on a "vuku" calendar.
+
+An interesting development of this idea can be found in Johann Kepler's works which really continued the traditions of astro-musical systems, having joined physical and mental laws in the theory of resonance.
+
+"In his exposition astrology became similar to the physical theory of resonance. The stars themselves do not influence the destiny of people, but the soul of person at the moment of a birth imprinted the angles between the stars and the following life reacted to them in specific ways".
+
+A somewhat different approach to problems of astrological knowledge can be observed in Carl Jung's works. Astrology, as Jung believed,  "is the top of all psychological knowledge in antiquity", the gist of which is in imprinting the symbolical configurations in the form of collective unconscious. "Astrology as collective unconscious to which the psychology addresses, consists of symbolical configurations:" planets "are Gods, the symbols of power unconscious"
+Domination of one of the four cognitive functions (thinking, feeling, sensation or intuition) is the basis for the classification that Carl Jung theorized from his clinical experience. This typology was expanded by Aura Augustinaviit (Socionics) and Isabel Briggs Myers with her mother, Katharine Briggs (Myers-Briggs Type Indicator).
+
+
+== Specific classifications ==
+The classification more often touched on the characteristics connected with the sphere of social interaction. They were built as a set of bipolar traits in which the dominance of certain traits were accentuated in the person's character. The characteristics of specific classifications are the absence of a clear borders between classesthe person can pass from one class into another under the influence of the external and internal forces. The number of classes depends on the position of the author of the classification.
+Examples: Socially-characterological (Theophrastus), sociopolitical (Plato).
+The Characters by Theophrastus contains thirty brief, vigorous and trenchant outlines of moral types, which form a picture of the life of his time, and of human nature in general.
+According to Plato, a state made up of different kinds of souls will, overall, decline from an aristocracy (rule by the best) to a timocracy (rule by the honorable), then to an oligarchy (rule by the few), then to a democracy (rule by the people), and finally to tyranny (rule by one person, rule by a tyrant).
+Plato's is one of the first typologies, based on his values. Plato singled out the following types:
+aristocratic characterized by dominant of the higher side of soul, aspiration to true search;
+timocratic characterized by strong development of ambition and inclination to struggle;
+oligarchic characterized by greediness, restraint and thrift;
+democratic characterized by moral instability, and aspiration to constant change of sensual pleasures;
+tyrannic characterized by dominant of lowest animal attraction.
+The specific classifications are often build by practical workers on the basis of concrete activity. Within any activity one can find many very different classifications.
+
+
+== Mixed classifications ==
+The characteristics of the classifications: combination of strictness and flexibility. There are laws of Universe, which determine strict classifications and there are earthly laws which act on another level, not destroying the strict classification, and creating variations within one class, contributing the system flexibility. The person as a part entered more general systemsthe Universe, the Society. However the person himself was an independent system with his own inner world, with his contradictions, unique way of life and experience, a disposition and levels of development of inner selves. The philosophers looked upon the person from a far distance, doctors had to see the particulars his physical and psychical organization.
+The typology of Hippocrates become a combination of theoretical ideas and practical methods. Remaining on the positions of cosmologists concerning the nature of human soul, he raised the questions about the structure and functioning of different psychical and physical organizations of humans as social creatures, and developed the typology of temperaments.
+Contemporary systemic classifications are represented by works of Carl Jung, Hans Eysenck, Ludmila Sobchik, Leonid Dorfman, Natali Nagibina and others. The authors of contemporary systematic conceptions try to generalize as much as possible the results of empirical research of individual characteristics within the frameworks of one typological model. Such a model, as a rule, is the center of the construction uniting the general, typological and individual psychological characteristics of humans.
+As examples of such systematic classification may serve the Theory of leading tendencies by Ludmila Sobchik, Psycosmology by Natali Nagibina, the Concept of the meta-individual world by Leonid Dorfman.
+The theory of leading tendencies laid in the basis of methodology of psychodiagnostical research, allows to understand the complex construct of personality in all its completeness. According to this theory, the integral image of the personality includes emotional sphere, individual style of cognition, the type of interpersonal behavior, strength and direction of motivation. The comparative analysis of the psychodiagnostical indicators received in successive studies of different levels of self-consciousness (objective unconscious, actual-subjective and ideal "Self"), reveals the zone of the inner conflict, level of self-understanding and ability of the individual to self-control".
+
+
+== Basis of classification ==
+The theoretical analysis and empirical verification of the classification systems of the psyche have been undertaken by a number of authors in the 20th century (C. Jung, H. Eysenck, R. Meily, V.S. Merlin, L.N. Sobchik, L.Ja. Dorfman, E.P. Ilyin, N.L. Nagibina and others).
+
+
+=== Bodily and formal-dynamic characteristics as grounds for classification ===
+These classifications are more often used by the clinical psychologists and the psychiatrists.
+Example: The Hippocratic school held that four humors: blood, black bile, yellow bile and phlegm consists the basis for the four types of temperaments.
+Example: Kretschmer's classification system was based on three main body types: asthenic/leptosomic (thin, small, weak), athletic (muscular, largeboned), and pyknic (stocky, fat). (The athletic category was later combined into the category asthenic/leptosomic.) Each of these body types was associated with certain personality traits and, in a more extreme form, psychopathologies.
+Example: American psychologist William Herbert Sheldon associates body types with human temperament types.Sheldon proposed that the human physique be classed according to the relative contribution of three fundamental elements, somatotypes, named after the three germ layers of embryonic development: the endoderm, (develops into the digestive tract), the mesoderm, (becomes muscle, heart and blood vessels), and the ectoderm (forms the skin and nervous system).
+Sheldon's "somatotypes" and their supposed associated physical traits can be summarized as follows:
+Ectomorphic: characterized by long and thin muscles/limbs and low fat storage; receding chin, usually referred to as slim.
+Mesomorphic: characterized by medium bones, solid torso, low fat levels, wide shoulders with a narrow waist; usually referred to as muscular.
+Endomorphic: characterized by increased fat storage, a wide waist and a large bone structure, usually referred to as fat.
+
+
+=== Cognitive characteristics as a basis for classification ===
+Cognitive characteristics as a basis for classification become popular in the 20th century.
+Table 1. Some examples of classifications based on concrete methods of receiving and processing information.
+
+
+=== Values and motivational characteristics as grounds for personality classifications ===
+The sphere of personality values and senses is situated at the crossing point of two large areas of psychic: motivation on one side and the world outlooking structure on the other. The sphere of values and senses with its unique picture of the world is the core of personality. Most bright psychological ideas concerning the sphere values and senses are presented in the work of Erich Fromm, M. Rokeach, Abraham Maslow and others.
+For example, M.Rokeach treats the values as a kind of steady conviction that a certain goal or way of living is more preferable than some other. The human values are characterized by the following main properties:
+1.The whole number of values of a person is relatively small.
+2.All people have the same values, although in different degrees.
+3.The values are organized in systems.
+4.The sources of human values can be tracked down in culture, society and its institutions etc.
+5.The influence of the values can be traced practically in all social phenomena, deserving studying.
+M.Rokeach distinguishes two classes of values  terminal and instrumental. He defines the terminal values as convictions that a certain final goal in individual life (for instance, happy family life, peace in the whole world) from the personal and the social point of view is worth to be pursued. The instrumental values are beliefs that a certain way of performance (for instant, honesty, rationalism) is from personal and social points of view preferable in any situations. In fact, the distinction between the terminal and instrumental values coincides with already existing, rather traditional differentiations of values-goals and values means. The system of personality values orientation as well as any psychological system can be represented as "multidimentional dynamic space".
+Example: Eric Fromm describes the ways an individual relates to the world and constitutes his general character, and develops from two specific kinds of relatedness to the world: acquiring and assimilating things ("assimilation"), and reacting to people ("socialization"). These orientations describe how a person has developed in regard to how he responds to conflicts in his or her life; he also considered that people were never pure in any such orientation. These two factors form four types of malignant character, which he calls Receptive, Exploitative, Hoarding and Marketing. He also described a positive character, which he called Productive.
+Example: N.Losski picked out three types of characters.
+1.Hedonistic type with domination of lower, sensual drives suppressing all higher aspirations. The people of this type are completely under the influence of the biological nature. Their self is not yet mature.
+2.Egoistic type. Their self is quite mature and decorates all the striving deeds and feelings. The Self (I) prevails in their consciousness and they are striving to broadly expose it in their activities.
+3.Superpersonal type. Their aspirations similarly to those of the first type, are as if given outside, but their source is not in the physical needs of the body, but in the factors of higher order, namely: in higher religious, scientific and aesthetic strivings. Such people act as if not on behalf of themselves, but on behalf of the higher will, which they recognize as the rules of their deeds.
+Losski points out, that it is impossible the sharp boundary between the three types, as there are intermediate types, that are transitional from one category to the other.
+
+
+=== Bounded complexes of cognitive characteristics, values and motives as ground for personality classifications ===
+Example: E. Spranger distinguishes six types of personality, which connect cognition and values correlating the personality type with cognition of the world.
+The Theoretical, whose dominant interest is the discovery of truth. A passion to discover, systematize and analyze; a search for knowledge.
+The Economic, who is interested in what is useful. A passion to gain a return on all investments involving time, money and resources.
+The Aesthetic, whose highest value is form and harmony. A passion to experience impressions of the world and achieve form and harmony in life; self-actualization.
+The Social, whose highest value is love of people. A passion to invest myself, my time, and my resources into helping others achieve their potential.
+The Political, whose interest is primarily in power. A passion to achieve position and to use that position to affect and influence others.
+The Religious, whose highest value is unity. A passion to seek out and pursue the highest meaning in life, in the divine or the ideal, and achieve a system for living.
+One dominating value corresponding to every type.
+
+
+== Contemporary problems of psychological classifications ==
+The problems of psychological classifications are caused the high complexity and mobility of psyche. To classify the objects of the material world is more easy a task.
+In psychology we study consciousness with the help of consciousness. Here new possibilities are opened and the same time new limitations occurred, in part, due to the subjectivity and the necessity to overcome it as it is known, in the psyche there are conscious and unconscious cognitive processes. They often take place separately, as two different means to get knowledge (information) about situations in the world. Because of this, for instance, estimations of personality characteristics with the help of projective tests (which are addressed mostly to unconscious properties) often contradict the results of self-estimations made with help of questionnaires (which are based on consciousness).
+For determining of psychological type of a person, it is important to have a measuring instrument (test, inventory etc.), that is calibrated to reveal not the present and actual situational characteristics, but the opens which are typical, repeating with higher probability in the course of life. That is why the methods, which allow to see the present characteristics through the prism of the person whole life: biographical, structured talk, longitudinal observation in real situations) are very important for the psychologists. Such methods are well developed in the clinical psychology. In the work with healthy people the use of these methods is rather narrow.
+Example: The program of personality measuring by A.F. Lazurski.
+Training qualified specialists in the field of research and diagnostics of psychological types is a particular problem. Here a whole complex of specific knowledge and skills is required. For measuring psychological types it is important to have the ability to see not separate fragments of the psychic reality but operating with the systems (cognition, motivation, values, will, emotions, self-consciousness) and taking into account their holistic character, to master the knowledge of steady variants of these systems and skills to compare their properties. The comparing and estimating the systems are more difficult in the absence of the reliable methodological base: there is no a generally accepted opinion on what to compare and how to estimate.
+For investigation the types it is necessary to be able to use both the qualitative and quantitative methods of empirical reality research, taking into account the following factors:
+1.The scale and the complex character of research (the possibility of keeping under control several plans of different scales).
+2.The character and specificity of distribution of properties and characteristics in the studied environment.
+3.The adequate number of sub-scales, not violating the completeness and the constructive validity of a psychological traits.
+
+
+== List of important theorists of psychological typology and differential psychology ==
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+1.Anastasi, A. (1981). Differential psychology. (4th ed.). New York: Macmillan.
+2.Asendorpf, J. B. (2003). Head-to-head comparison of the predictive validity of personality types and dimensions. European Journal of Personality, 17, 327346.
+3.Bates, K. L. (2006). Type A personality not linked to heart disease. Retrieved 2006-11-05.
+4.Daniels, David; and Price, Virginia (Updated and Revised 2009). The Essential Enneagram: Test and Self-Discovery Guide. HarperOne. ISBN 0-06-251676-0.
+5.Furnham, A., & Crump, J. (2005). Personality Traits, Types, and Disorders: An Examination of the Relationship Between Three Self-Report Measures. European Journal of Personality, 19, 167-184.
+6.Kagan, J. (1994). Galen's Prophecy: Temperament in Human Nature. New York: Basic Books.
+7.Keirsey, David (May 1, 1998) [1978]. Please Understand Me II: Temperament, Character, Intelligence (1st Ed. ed.). Prometheus Nemesis Book Co. pp. 3. ISBN 1-885705-02-6.
+8.Pittenger, D. J. (2004). The limitations of extracting typologies from trait measures of personality. Personality and Individual Differences, 37, 779787.
+9.McCrae, R. R., Terracciano, A., Costa, P. T., & Ozer, D. J. (2006). Person-factors in the California adult Q-set: Closing the door on personality types? European Journal of Personality, 20, 29-44.
+10.McCrae, R. M., & John, O. P. (1992). "An introduction to the five-factor model and its applications" (PDF). Journal of Personality 60 (2): 175215. doi:10.1111/j.1467-6494.1992.tb00970.x. PMID 1635039. [1]
+11.Myers, Isabel Briggs with Peter B. Myers (1980, 1995). Gifts Differing: Understanding Personality Type. Mountain View, CA: Davies-Black Publishing. pp. xixii. ISBN 0-89106-074-X.
+12. William H. Sheldon, The varieties of human physique: An introduction to constitutional psychology (New York: Harper & Brothers, 1940).
+13. William H. Sheldon, Atlas of Men. New York: Harper and Brothers, 1954.
+14.Jung, Carl (1976). Campbell, Joseph. ed. The Portable Jung. New York, NY: Penguin Books. pp. 178.
+15.Jung, C.G. ([1921] 1971). Psychological Types, Collected Works, Volume 6, Princeton, N.J.: Princeton University Press. ISBN 0-691-01813-8.
+In German language
+Ernst Kretschmer Krperbau und Charakter. Untersuchungen zum Konstitutionsproblem und zur Lehre von den Temperamenten. Springer Berlin 1921
+Martin Priwitzer. und das Wahnproblem
+Karl Leonhard Classification of Endogenous Psychoses and their Differentiated Etiology, 2nd edition edited by Helmut Beckmann. New York/Wien: Springer-Verlag 1999 ISBN 3-211-83259-9
+Die Populre Psychologie der Typen. Teil 1 /W.Red. N. Nagibina. Berlin, 2010
+In Russian language
+- ..  . .,1991.
+- ..   . //  , 1985, .6, 5, .3-18.
+ .  . ., 2001.
+ . .,  . .,  . .,  . .,  . .  .  . .4.   , 2003
+ . .,  . .,  . ., . .  . .   :  . .,   , 2004
+ ..      . ., 2002.
+ ..  . ., 1993.
+ ..   . ""., 2004.
+ .     . / , ,     XIII-XIX . ., 1999.
+ ..     . ., 1995.
+  .   - .          "   ".
+ :    . , 1986.
+ .     /    . . , 1997.
+ .  . ., 2000.
+ ..    . ., 1995.
+ .  . , 1981.
+ ..  :   ,    . ., 1999.
+ ..   . ., 1991.
+ ..    . /  . ., 1990, .130-233.
+ .  /  ,  .  .  5, ., , 1975.
+ ..,  ..     . ., 1985.
+ ..    . ., 1986.
+ . (. ..). ., 1997.
+ . .,  . .,  . .  .  . ., , 2005
+ . .  .  .  . .1. .,  , 2000
+ . .,  . .  .  .   . .2. .,  - , 2002.
+ . .,  . .  .  . .3. .,  - , 2002
+ .   . ., 2000
+ ..,  ..,  ..  ... . /   . ., 1980. .3, .145-168.
+. ..  4- ., . 1, ., 1990.
+  : . ( . .., ..), ., 1982.
+    1 /. . . . IIDP, , 2009
+ ..  . . ., 1910.
+ ..  .    . - ., 2005.
+  . .      . , 1993.
+ ..,  ..            . //  . 1963, 5.
+ ..     ? (  ). ., 1988.
+   .  1, ., 1989.
+ ..    . /   . , 1986.
+ .  . ., 1995.
+
+
+== External links ==
+Arikha, Noga (2007). Passions and Tempers: A History of the Humours
+Helminen, Pivi (1999). Discovering Our Potential: An Introduction to Character Types
+In Our Time (BBC Radio 4) episode on the four humours in MP3 format, 45 minutes
+Rudolf Steiner "The Four Temperaments" [2]
+The System of types - Psycosmology

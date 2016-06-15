@@ -15,12 +15,6 @@ pitjeva e v (2001) "modern numerical ephemerides of planets and the importance o
 == bibliometric information ==
 according to the nasa ads database the h-index of e.v pitjeva is 9 with a total number of citations (self-citations excluded) equal to 316
 == references ==
-^ institute applied astronomy ras (2006-08-23) "laboratory of ephemeris astronomy" retrieved 2010-05-12
-^ institute applied astronomy ras (2006-08-23) "epm2008" retrieved 2010-05-12
-^ iau wg nsfa "current best estimates" retrieved 2010-05-12
-^ international astronomical union "iau commission 4 membership" retrieved 2010-05-12
-^ international astronomical union "iau commission 52 membership" retrieved 2010-05-12
-^ international astronomical union "wg iau nsfa membership" retrieved 2010-05-12
 == external links ==
 laboratory of ephemeris astronomy institute of applied astronomy
 pitjeva e.v website at iau

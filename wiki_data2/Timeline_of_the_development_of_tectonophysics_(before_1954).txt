@@ -1,0 +1,153 @@
+The evolution of tectonophysics is closely linked to the history of the continental drift and plate tectonics hypotheses. The continental drift/ Airy-Heiskanen isostasy hypothesis had many flaws and scarce data. The fixist/ Pratt-Hayford isostasy, the contracting Earth and the expanding Earth concepts had many flaws as well.
+The idea of continents with a permanent location, the geosyncline theory, the Pratt-Hayford isostasy, the extrapolation of the age of the Earth by Lord Kelvin as a black body cooling down, the contracting Earth, the Earth as a solid and crystalline body, is one school of thought. A lithosphere creeping over the asthenosphere is a logical consequence of an Earth with internal heat by radioactivity decay, the Airy-Heiskanen isostasy, thrust faults and Niskanen's mantle viscosity determinations.
+
+
+== Introduction ==
+
+First there was the Creationism (Martin Luther), and the age of the Earth was 6000 years. There were stacks of calcareous rocks of maritime origin above sea level, and up and down motions were allowed (geosyncline hypothesis, James Hall and James D. Dana). Later on, the thrust fault concept appeared, and a contracting Earth (Eduard Suess, James D. Dana, Albert Heim) was its driving force. In 1862, the physicist William Thomson (who later became Lord Kelvin) calculated the age of Earth (as a cooling black body) at between 20 million and 400 million years. In 1895, John Perry produced an age of Earth estimate of 2 to 3 billion years old using a model of a convective mantle and thin crust. Finally, Arthur Holmes published The Age of the Earth, an Introduction to Geological Ideas in 1927, in which he presented a range of 1.6 to 3.0 billion years.
+Wegener had data for assuming that the relative positions of the continents change over time. It was a mistake to state the continents "plowed" through the sea, although it isn't sure that this fixist quote is true in the original in German. He was an outsider with a doctorate in astronomy attacking an established theory between 'geophysicists'. The geophysicists were right to state that the Earth is solid, and the mantle is elastic (for seismic waves) and inhomogeneous, and the ocean floor would not allow the movement of the continents. But excluding one alternative, substantiates the opposite alternative: passive continents and an active seafloor spreading and subduction, with accretion belts on the edges of the continents. The velocity of the sliding continents, was allowed in the uncertainty of the fixed continent model and seafloor subduction and upwelling with phase change allows for inhomogeneity.
+The problem too, was the specialisation. Arthur Holmes and Alfred Rittmann saw it right (Rittmann 1939). Only an outsider can have the overview, only an outsider sees the forest, not only the trees (Hellman 1998b, p. 145). But A. Wegener did not have the specialisation to correctly weight the quality of the geophysical data and the paleontologic data, and its conclusions. Wegener's main interest was meteorology, and he wanted to join the Denmark-Greenland expedition scheduled for mid 1912. So he hurried up to present his Continental Drift hypothesis.
+Mainly Charles Lyell, Harold Jeffreys, James D. Dana, Charles Schuchert, Chester Longwell, and the conflict with the Axis powers slowed down the acceptance of continental drifting (Rodney 2012).
+Abraham Ortelius (Ortelius 1596) (cited in Romm 1994), Francis Bacon (Bacon 1620)(cited in Keary & Vine 1990), Theodor Christoph Lilienthal (1756) (cited in Romm 1994, and in Schmeling, 2004), Alexander von Humboldt (1801 and 1845) (cited in Schmeling, 2004), Antonio Snider-Pellegrini (Snider-Pellegrini 1858), and others had noted earlier that the shapes of continents on opposite sides of the Atlantic Ocean (most notably, Africa and South America) seem to fit together (see also Brusatte 2004, and Kious & Tilling 1996).
+Note: Francis Bacon was thinking of western Africa and western South America and Theodor Lilienthal was thinking about the sunken island of Atlantis and changing sea levels.
+
+Hutton, J (1795). Theory of the Earth: with proofs and illustrations. Edinburgh: Cadell, Davies and Creech. ISBN 1-897799-78-0. There has been exerted an extreme degree of heat below the strata formed at the bottom of the sea. 
+Catastrophism (e.g. Christian Fundamentalism, William Thomson) vs. Uniformitarianism (e.g. Charles Lyell, Thomas Henry Huxley) (Hellman 1998a).
+Term coined by William Whewell.
+Uniformitarism is the prevailing view in the U.S. (Oreskes 2002).
+
+Charles Lyell assumed that land masses changed their location, but he assumed a mechanism of vertical movement (Krill 2011). James Dwight Dana assumed a permanent location as well, influencing the American fixist school of thought (Irving 2005). It wasn't known that the seafloor isn't mainly granite rock (sial) (as the continental cratons) but mainly basalt rock (sima).
+Quote, Lyell: "Continents therefore, although permanent for whole geological epochs, shift their positions entirely in the course of ages." ((Lyell 1875, p. 258) cited in (Summerhayes 1990))
+Quote, Wallace about Dana: "In 1856, in articles in the American Journal, he discussed the development of the American continent, and argued for its general permanence; and in his Manual of Geology in 1863 and later editions, the same views were more fully enforced and were latterly applied to all continents." ((Dana 1863) cited in (Wallace 2007, p. 342))
+
+Pratt's isostasy is the prevailing view (Oreskes 2002):
+Airy-Heiskanen Model; where different topographic heights are accommodated by changes in crustal thickness.
+Pratt-Hayford Model; where different topographic heights are accommodated by lateral changes in rock density.
+Vening Meinesz, or Flexural Model; where the lithosphere acts as an elastic plate and its inherent rigidity distributes local topographic loads over a broad region by bending.
+
+A cooling and contracting Earth is the prevailing view.
+H. Jeffreys was the most important contractionist (Frankel 1987, p. 211), (Jeffreys 1924) - (Jeffreys 1952)
+
+H. Wettstein (Wegener 1929, pp. 23), E. Suess, Bailey Willis and Benjamin Franklin allow horizontal move of the Earth's crust.
+Willis, Bailey; Willis, R. (1929). Geologic Structures. McGraw-Hill book company, inc. p. 131. the evidences of movement noted in rock structures are so numerous and on so large scale that it is clear that dynamic conditions exist from time to time.  (Holmes 1929a). But Willis was a fixist, as he supported the permanent position of the oceans, although he didn't believe in land-bridges (Krill 2011).
+Wettstein, H. (1880). Die Strmungen der Festen, Flssigen und Gasfrmigen und ihre Bedeutung fr Geologie, Astronomie, Klimatologie und Meteorologie. Zuerich. p. 406. 
+Quote, Benjamin Franklin (1782): "The crust of the Earth must be a shell floating on a fluid interior.... Thus the surface of the globe would be capable of being broken and distorted by the violent movements of the fluids on which it rested".
+
+The vertical movement of Scandinavia after the ice age is accepted (recent average uplift c. 1 cm/year). This implies a certain plasticity under the crust (Flint 1947).The alpine geology with its theory of thrusting (as geosyncline hypothesis; today's thrust tectonics) accepted horizontal movements. (Suess 1875) cited in (Holmes 1929a)
+
+1848 Arnold Escher shows Roderick Murchison the Glarus thrust at the Pass dil Segnas. But Arnold Escher does not publish it as a thrust as it contradicts the geosyncline hypothesis.
+Eduard Suess proposed Gondwanaland in 1861, as a result of the Glossopteris findings, but he believed that the oceans flooded the spaces currently between those lands. And he proposed the Tethys Sea in 1893. He came to the conclusion that the Alps to the North were once at the bottom of an ocean (Suess 1901).
+The idea of continental drifting shows up for the first time. John Henry Pepper merges Antonio Snider-Pellegrini's map, Evan Hopkins' proof of northward shifting of the continents of his neptunist book and his plutonism ((Hopkins 1844) and (Pepper 1861) cited in (Krill 2011)).
+1884, Marcel Alexandre Bertrand interpretes the Glarus thrust as a thrust.
+Bertrand, Marcel Alexandre (1884). "Rapports de structure des Alpes de Glaris et du bassin houiller du Nord". Socit Gologique de France Bulletin. 3 12: 318330. 
+
+Hans Schardt demonstrates that the Prealps are allochthonous.
+Schardt, H. (1884). "Etudes gologiques sur le Pays dEnhaut vaudois". Bull. Soc. Vaudoise Sci. Nat. 20: 1183. 
+Schardt, H. (1893). "Sur lorigine des Pralpes romandes". Arch. Sci. Phys. Nat. Genve 3: 570583. 
+Schardt, H. (1898). "Les rgions exotiques du versant Nord des Alpes Suisse. Pralpes du Chablais et du Stockhorn et les Klippes". Bull. Soc. Vaudoise Sci. Nat. 34: 113219. 
+
+1907, thrust faults get established: Lapworth, Peach and Horne working on parts of the Moine Thrust, Scotland.
+Peach, B.N., Horne, J., Gunn, W., Clough, C.T. & Hinxman, L.W. (1907). "The Geological Structure of the North-west Highlands of Scotland". Memoirs of the Geological Survey, Scotland (Glasgow: His Majesty's Stationery Office). 
+Leslie, A.G.; Krabbendam, M. (2009). "Transverse architecture of the Moine Thrust Belt and Moine Nappe, Northern Highlands, Scotland: new insight on a classic thrust belt" (PDF). Bollettino della Societa Geologica Italiana 128 (2): 295306. doi:10.3301/IJG.2009.128.2.295. 
+Director-Generals of the British Geological Survey: Roderick Murchison (18551872) and Archibald Geikie (18811901)
+
+Although Wegener's theory was formed independently and was more complete than those of his predecessors, Wegener later credited a number of past authors with similar ideas: Franklin Coxworthy (between 1848 and 1890), Roberto Mantovani (between 1889 and 1909), William Henry Pickering (1907) and Frank Bursley Taylor (1908). (Wegener 1929)
+1912-1929: Alfred Wegener develops his continental drift hypothesis. (Wegener 1912a, Wegener 1929)
+
+In the 1920s Earth scientists refer to themselves as drifters (or mobilists) or fixists (Frankel 1987, p. 206). Terms introduced by the Swiss geologist mile Argand in 1924 (Krill 2011).
+Moreover, most of the blistering attacks were aimed at Wegener himself, an outsider (PhD in Astronomy) who seemed to be attacking the very foundations of geology.
+
+
+== Controversy ==
+
+1912, Wegener presents his ideas at the German Geological Society, Frankfurt (Wegener 1912a). Karl Erich Andre (University of Marburg) must have delivered him some references. Strong points:
+Matching of the coastlines of eastern South America and western Africa, and many similarities between the respective coastlines of North America and Europe.
+Numerous geological similarities between Africa and South America, and others between North America and Europe.
+Many examples of past and present-day life forms having a geographically disjunctive distribution.
+Mountain ranges are usually located along the coastlines of the continents, and orogenic regions are long and narrow in shape.
+The Earth's crust exhibits two basic elevations, one corresponding to the elevation of the continental tables, the other to the ocean floors.
+The Permo-Carboniferous moraine deposits found in South Africa, Argentina, southern Brazil, India, and in western, central, and eastern Australia. (Frankel 1987, pp. 205206)
+Flooded land-bridges contradict isostasy.
+Note I: Wegener described in a sentence the seafloor spreading in the first publication only. But he believed it is a consequence of the continental drift (Wegener 1912a in Jacoby 1981). He abandoned this sentence probably under the advice of Emanuel Kayser, University of Marburg.
+Note II: Petermanns Geographische Mitteilungen is one of the leading geographical monthlies of international reputation. (Ruud 1930); Wladimir Kppen (father-in-law), (Kppen 1921a), (Kppen 1921b), (Kppen 1925) and Kurt Wegener (brother), (Wegener 1925), (Wegener 1941), (Wegener 1942) defended there the Continental drift hypothesis in a somewhat mirror controversy (in Demhardt 2005).
+Note III: Although the climate distribution was not always similar to nowadays. In the Carboniferous, coal mines are remains of the Equatorial Realm, glaciation remains are near the South Pole, and between glaciation and Equatorial Realm (centered between latitude 30 and the Tropic of Cancer and the Capricorn) there are remains of deserts (evaporites, salt lakes and sand dunes) (Brusatte 2004, p. 4). These are consequences of the evaporation rate and the atmospheric circulation.
+
+1912, Patrick Marshall uses the term "andesite line".
+1914, the idea of a strong outer layer (lithosphere), overlying a weak asthenosphere is introduced (Barrel 1914).
+H. Jeffreys and others, most important criticisms (Frankel 1987, p. 211), (Hellman 1998, p. 146):
+Continents can not "plow" through the sea, because the seafloor is denser than the continental crust.
+Pole-fleeing force is too weak to move continents and produce mountains.
+Paul Sophus Epstein calculated it to be one millionth of the gravity.
+
+If the tidal force moves continents, than the Earth's rotation would stop after only one year.
+
+Daly, Reginald A. (1926). Our Mobile Earth. New York: Charles Scribner's Sons. 
+Its opening sentence is Galileo's allegedly muttered rebellious phrase And yet it moves.
+Quote: "Daly,..., seeks to substitute sliding for drifting, assuming that broad domes or bulges form at the earth's surface, and on the flanks of these domes the continental masses slide downward, moving over hot basaltic glass as over a lubricated floor". (pp. 170291)
+
+By the mid-1920s, A. Holmes had rejected contractionism and he had introduced a model with convection (Frankel 1987, p. 212), (Holmes 1929a), (Holmes 1929b), (Holmes 1944).
+Note: in a way, not only A. Wegener (Wegener 1912a in Jacobi 1981) but A. Holmes and K. Wegener suggested seafloor spreading as well. (Holmes 1929c in Vine 1966), (Wegener 1942 in Demhardt 2005)
+
+The Alps were and still are the best investigated orogen worldwide. Otto Ampferer (Austrian Geological Survey) rejected contractionism 1906 and he defended convection, locally only at first. Otto Ampferer even used the word swallowed in a geological sense. The Geological Society Meeting in Innsbruck, held in 29 August 1912, changed a paradigm (T. Termier words, the acceptance of nappes and thrust faults). So that mile Argand (1916) speculated that the Alps were caused by the North motion of the African shield, and finally accepted this reason 1922, following Wegener's Continental drift theory (Argand 1922 as Staub 1924). Otto Ampferer in the mean time, at the Geological Society Meeting in Vienna, held in 4 April 1919, defended the link between the alpine faulting and Wegener's continental drift.Quote, translation: "The Alpine orogeny is the effect of the migration of the North African shield. Smoothing only alpine folds and nappes on the cross section between the Black Forest and Africa once again, then from the present distance of about 1,800 km, we have an initial gap of around 3,000 to 3,500 km, ie. a pressing of the alpine region, alpine region in a broader sense, of 1,500 km. To this amount must be Africa have moved to Europe. This brings us then to a true large scale continental drift of the African shield". (Staub 1924, p. 257) cited in (Wegener 1929, p. 10)
+
+W.A.J.M. van Waterschoot van der Gracht, Bailey Willis, Rollin T. Chamberlin, John Joly, G.A.F. Molengraaff, J.W. Gregory, Alfred Wegener, Charles Schuchert, Chester R. Longwell, Frank Bursley Taylor, William Bowie, David White, Joseph T. Singewald, Jr., and Edward W. Berry participated on a Symposium of the American Association of Petroleum Geologists (AAPG, 1926) (van der Gracht 1926) Although the chairman favored the drift hypothesis, it ceased to be an acceptable geological investigation subject in many universities under the influence of Jeffreys (1924) book (Machamer, Pera & Baltas 2000, pp. 7275).
+Quote, University of Chicago geologist Rollin T. Chamberlin: "If we are to believe in Wegener's hypothesis we must forget everything which has been learned in the past 70 years and start all over again." (Hellman 1998b), (Sullivan 1991, p. 15)
+Quote, Bailey Willis: "further discussion of it merely incumbers the literature and befogs the mind of fellow students. (It is) as antiquated as pre-Curie physics". (Hellman 1998b, p. 150), (Hallam 1983, p. 136)
+Bailey Willis and William Bowie saw the sima with great strength and rigidity through the seismological studies, and tidal forces would act more on the sima (2800 to 3300 kg/m3) as it is denser than the sial (2700 to 2800 kg/m3) (Frankel 1987, p. 211).
+Quote, W. Van Waterschoot van der Gracht (Wilson cycle): "there may have been a pre-Carboniferous "Atlantic" that was closed up during the Caledonian orogenis" (Holmes 1929a).
+
+By the late-1920s: discovery of the Wadati-Benioff zone by Kiyoo Wadati (two pairs plus one paper, 1927 to 1931) of the Japan Meteorological Agency, and Hugo Benioff of the California Institute of Technology.
+Alexander du Toit's book. (du Toit 1937)
+In 1923, he received a grant from the Carnegie Institution of Washington, and used this to travel to eastern South America to study the geology of Argentina, Paraguay and Brazil.
+
+1931: Peacock named the calc-alkaline igneous rock series.
+Peacock, M. A. (1931). "Classification of igneous rock series". Journal of Geology 39: 5467. Bibcode:1931JG.....39...54P. doi:10.1086/623788. 
+
+1931, age of the Earth by the National Research Council of the US National Academy of Sciences.
+1936, Augusto Gansser-Biaggi interpreted rocks located at the foot of Mount Kailash in the Indian part of the Himalayas as having originated in the seafloor. He brings back a sample with Ammonites of the Norian (Triassic). He later interpreted this Indus-Yarlung-Zangpo Suture Zone (ISZ) as the border between the Indian and the Eurasian Plate.
+David T. Griggs (1939). "A theory of mountain-building". American Journal of Science 237 (9): 611650. doi:10.2475/ajs.237.9.611. 
+January, 1939: at the annual meeting of the German Geological Society, Frankfurt, Alfred Rittmann opposed the idea that the Mid-Atlantic Ridge was an orogenic uplift (Rittmann 1939).
+"Atlantisheft I" [Atlantis Issue I]. Geologische Rundschau 30 (3). May 1939. 
+Orogenic volcanism (Pacific Ring of Fire) is dominated by calc-alkaline igneous rocks (Calc series), lacking alkali-basaltic magmas (Sodic series); whereas the Mid-Atlantic Ridge (extension) has mainly alkali-basaltic magmas (Ippolito & Marinelli 1981).
+
+Schwinner (1941) sees subduction as the cause of Wadati-Benioff zone and volcanic activity, but does not link it to continental drifting. He was in a way an anti-drifter.
+Umbgrove, JHF (1942). The Pulse of the Earth (1 ed.). The Hague, NL: Martinus Nyhoff. 
+Mid-1940s, paleontologist George Gaylord Simpson finds flaws on the paleontology data. (Frankel 1987, p. 217)
+Alexander du Toit, Glossopteris findings in Russia are an erroneous identification. It was used as argument by anti-drifters (Du Toit 1944).
+1944, cores of deep ocean sediment show rapid rate of accumulation, suggesting that old oceans are an impossibility ((Revelle 1944) cited in (Bullard 1975)).
+1948, Felix Andries Vening Meinesz, Dutch geophysicist who believes in convection currents as a result of his work on oceanic gravity anomalies. Highly respected by H. H. Hess, Hess even got a chance to work with him. (Frankel 1987, p. 230), (Vening Meinesz 1948), (Vening Meinesz 1952a), (Vening Meinesz 1952b), (Vening Meinesz 1955), (Vening Meinesz 1959)
+1949, Niskanen calculates the viscosity under the crust to be 5 1021 CGS units.
+Niskanen, E. (1949). "Publn. Isostatic Inst." 23. Helsinki. 
+
+1950, fading of the hypothesis from view.
+Gewers, T. W. (1950). "Transactions of the Geological Society of South Africa" 52 (suppl.): 1. marked regression away from continental drift 
+
+1951, Alfred Rittmann shows that crystalline mantle is able to creep at its temperature and pressure and he shows subduction, volcanism and erosion in the mountainous regions. Rittmann (1951), figure 4, p. 293.
+1951, Andr Amstutz uses the word subduction.
+Amstutz, Andr (1951). "Sur l'volution des structures alpines". Archives des sciences (in French) (Gneve) (45): 323329. 4) Premire phase tectogne, approximativement durant le crtac: Premires contractions tangentielles et dversements du ganticlinal brianonnais dans la dpression Mt. Rose, par subduction (ce mot n'est-il prfrable  celui de sous-charriage ?) de masses Mt. Rose sous de masses St.Bernard; et peut-tre simultanment dversements dans la dpression valaisanne-dauphinoise. (pp. 325-326) 
+Amstutz, Andr (1955). "Structures Alpines: subductions successives dans l'Ossola". Comptes rendus de l'Acadmie des sciences (Paris) 241: 967969. 
+
+1953, Adrian E. Scheidegger, anti-drifter.E.g.: it had been shown that floating masses on a rotating geoid would collect at the equator, and stay there. This would explain one, but only one, mountain building episode between any pair of continents; it failed to account for earlier orogenic episodes.
+
+
+== See also ==
+Timeline of the development of tectonophysics (after 1952)
+
+
+== Further reading ==
+Gohau, Gabriel (1990). A History of Geology. New Brunswick, NJ: Rutgers University Press. ISBN 0-8135-1665-X. 
+Wessel, P.; Mller, R. D. (2007). "Plate Tectonics". In Anthony B. Watts. Treatise on Geophysics: Crust and Lithosphere Dynamics 6. Elsevier. pp. 4998. 
+"NYC Regional Geology: Mesozoic Basins". USGS. 
+"Wilson Cycle: and A Plate Tectonic Rock Cycle". Lynn S. Fichter. 
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Cited books ===
+
+
+=== Cited articles ===

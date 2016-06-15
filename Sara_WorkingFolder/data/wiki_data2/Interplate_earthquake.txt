@@ -1,0 +1,11 @@
+An interplate earthquake is an earthquake that occurs at the boundary between two tectonic plates. Earthquakes of this type account for more than 90 percent of the total seismic energy released around the world. If one plate is trying to move past the other, they will be locked until sufficient stress builds up to cause the plates to slip relative to each other. The slipping process creates an earthquake with land deformations and resulting seismic waves which travel through the Earth and along the Earth's surface. Relative plate motion can be lateral as along a transform fault boundary or vertical if along a convergent subduction boundary or a rift at a divergent boundary. At a subduction boundary the motion is due to one plate slipping beneath the other plate resulting in an interplate thrust or megathrust earthquake, which are the most powerful earthquakes.
+Some areas of the world that are particularly prone to such events include the west coast of North America (especially California and Alaska), the northeastern Mediterranean region (Greece, Italy, and Turkey in particular), Iran, New Zealand, Indonesia, India, Japan, and parts of China.
+Interplate earthquakes differ from intraplate earthquake in the intensity of stress drop which occurs after the quake. Intraplate earthquake have, on average, more stress drop than that of the interplate earthquake. Interplate earthquakes also differ fundamentally from intraplate earthquakes in the way stress is released and recovered. An interplate earthquake results in an immediate stress drop along the fault. Following this is a period of postseismic stress restoration. This restoration occurs quickly within the first few decades following the rupture and is due to tectonic loading and viscous relaxation in the lower crust. This results in a transfer of stress to the upper crust. Later on, a period of steady stress increase occurs due to tectonic loading.
+
+
+== See also ==
+Intraplate earthquake
+Fault mechanics
+
+
+== References ==

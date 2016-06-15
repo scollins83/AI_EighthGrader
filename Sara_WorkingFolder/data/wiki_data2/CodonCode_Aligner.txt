@@ -1,0 +1,38 @@
+CodonCode Aligner is a commercial application for DNA sequence assembly, sequence alignment, and editing on Mac OS X and Windows.
+
+
+== Features ==
+Chromatogram editing, end clipping, and vector trimming.
+Sequence assembly and contig editing
+Aligning cDNA against genomic templates
+Sequence alignment and editing.
+Alignment of contigs to each other with ClustalW, MUSCLE, or built-in algorithms.
+Mutation detection, including detection of heterozygous single-nucleotide polymorphism.
+Analysis of heterozygous insertions and deletions.
+Start online BLAST searches.
+Restriction analysis - find and view restriction cut sites.
+Trace sharpening.
+Support for Phred, Phrap, ClustalW, and MUSCLE.
+
+
+== History ==
+The first beta version of CodonCode Aligner was released in April 2003, followed by the first full version in June 2003. Major upgrades were released in 2003, 2004, 2005, 2006, 2007, and 2008.
+In April 2009, CodonCode Aligner had been cited in more than 400 scientific publications. Citations cover a wide variety of biomedical research areas, including HIV research, biogeography and environmental biology, DNA methylation studies, genetic diseases, clinical microbiology, and evolution research and phylogenetics.
+
+
+== References ==
+
+
+== External links ==
+CodonCode Aligner homepage
+CodonCode Aligner Support Forum
+
+
+== See also ==
+Phred
+Phrap
+Consed
+Geneious
+MacVector
+Vector NTI
+UGENE

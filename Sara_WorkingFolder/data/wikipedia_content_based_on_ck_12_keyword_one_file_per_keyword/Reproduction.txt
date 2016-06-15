@@ -1,4 +1,4 @@
-reproduction (or procreation) is the biological process by which new individual organisms "offspring" are produced from their "parents" reproduction is a fundamental feature of all known life; each individual organism exists as the result of reproduction there are two forms of reproduction: asexual and sexual
+reproduction (or procreation breeding) is the biological process by which new individual organisms "offspring" are produced from their "parents" reproduction is a fundamental feature of all known life; each individual organism exists as the result of reproduction there are two forms of reproduction: asexual and sexual
 in asexual reproduction an organism can reproduce without the involvement of another organism asexual reproduction is not limited to single-celled organisms the cloning of an organism is a form of asexual reproduction by asexual reproduction an organism creates a genetically similar or identical copy of itself the evolution of sexual reproduction is a major puzzle for biologists the two-fold cost of sex is that only 50% of organisms reproduce and organisms only pass on 50% of their genes
 sexual reproduction typically requires the sexual interaction of two specialized organisms called gametes which contain half the number of chromosomes of normal cells and are created by meiosis with typically a male fertilizing a female of the same species to create a fertilized zygote this produces offspring organisms whose genetic characteristics are derived from those of the two parental organisms
 == asexual reproduction ==
@@ -12,7 +12,7 @@ bryophyte reproduces sexually but its commonly seen life forms are all haploid w
 === allogamy ===
 allogamy is the fertilization of an ovum from one individual with the spermatozoa of another
 === autogamy ===
-self-fertilization also known as autogamy occurs in hermaphroditic organisms where the two gametes fused in fertilization come from the same individual the term "autogamy" is also used for pollination (not necessarily leading to successful fertilization) and describes self-pollination within the same flower distinguished from geitonogamy transfer of pollen to a different flower on the same flowering plant or within a single monoecious gymnosperm plant for example species helonias bullata suffer from low genetic diversity due to self-fertilization
+self-fertilization also known as autogamy occurs in hermaphroditic organisms where the two gametes fused in fertilization come from the same individual e.g. some foraminiferans some ciliates the term "autogamy" is sometimes substituted for autogamous pollination (not necessarily leading to successful fertilization) and describes self-pollination within the same flower distinguished from geitonogamous pollination transfer of pollen to a different flower on the same flowering plant or within a single monoecious gymnosperm plant for example species helonias bullata suffer from low genetic diversity due to self-fertilization
 === mitosis and meiosis ===
 mitosis and meiosis are types of cell division mitosis occurs in somatic cells while meiosis occurs in gametes
 mitosis the resultant number of cells in mitosis is twice the number of original cells the number of chromosomes in the offspring cells is the same as that of the parent cell
@@ -42,6 +42,7 @@ birth
 breeding season
 masting
 mating system
+modes of reproduction
 plant reproduction
 reproductive system
 == notes ==

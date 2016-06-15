@@ -1,0 +1,43 @@
+The kynurenine pathway is a metabolic pathway leading to the production of nicotinamide adenine dinucleotide (NAD+) from the degradation of the essential amino acid tryptophan. Disruption in the pathway is associated with certain genetic disorders.
+
+
+== Kynurenine Pathway Dysfunction ==
+Disorders affecting the kynurenine pathway may be primary (of genetic origin) or secondary (due to inflammatory conditions).
+
+
+=== Hydroxykynureninuria ===
+Also known as Kynureninase Deficiency, this extremely rare inherited disorder is caused by the defective enzyme "kynureninase" which leads to a block in the pathway from tryptophan to nicotinic acid. As a result, tryptophan is no longer a source of nicotinic acid and deficiency of the vitamin can develop. Both, B6-responsive and B6-unresponsive forms are known. Patients with this disorder excrete excessive amounts of xanthurenic acid, kynurenic acid, 3-hydroxykynurenine, and kynurenine after tryptophan loading and are said to suffer from tachycardia, irregular breathing, arterial hypotension, cerebellar ataxia, developmental retardation, coma, renal tubular dysfunction, renal or metabolic acidosis, and even death. The only biochemical abnormality noted in affected patients was a massive hyperkynureninuria, seen only during periods of coma or after intravenous protein loading. This disturbance was temporarily corrected by large doses of vitamin B6. The activity of kynureninase in the liver was markedly reduced. The activity was appreciably restored by the addition of pyridoxal phosphate.
+
+
+=== Acquired and inherited enzyme deficiencies ===
+Downregulation of kynurenine-3-monooxygenase (KMO) can be caused by genetic polymorphisms, cytokines, or both. KMO deficiency leads to an accumulation of kynurenine and to a shift within the tryptophan metabolic pathway towards kynurenic acid and anthranilic acid.
+Deficiencies of one or more enzymes on the kynurenine pathway leads to an accumulation of intermediate metabolic products which can cause effects depending on their concentration, function and their inter-relation with other metabolic products. For example, Kynurenine 3-monooxygenase deficiency is associated with disorders of the brain (e.g. schizophrenia, tic disorders) and of the liver.  The mechanism behind this observation is typically a blockade or bottleneck situation at one or more enzymes on the kynurenine pathway due to the effects of Indolamine-2,3-Dioxygenase (IDO) and Tryptophan-2,3-Dioxygenase (TDO) and/or due to genetic polymorphisms afflicting the particular genes.
+Dysfunctional states of distinct steps of the kynurenine pathway (e.g. kynurenine, kynurenic acid, quinolinic acid, anthranilic acid, 3 -Hydroxykynurenine) have been described for a number of disorders, e.g.:
+HIV dementia
+Tourette Syndrome
+Tic disorders
+Psychiatric disorders (e.g. Schizophrenia, major depression, anxiety disorders)
+Multiple sclerosis
+Huntington's disease
+Encephalopathies
+Lipid metabolism
+Liver fat metabolism
+Systemic lupus erythematosus
+Glutaric aciduria
+Vitamin B6 deficiency
+Eosinophilia-myalgia syndrome
+
+
+== Research ==
+Research into roles of the kynurenine pathway in human physiology is ongoing.
+
+
+=== Aging ===
+Scientists are investigating the role of dysregulation of this pathway in aging and neurodegenerative diseases.
+
+
+=== Kynurenine/Tryptophan ratio ===
+Changes in the ratio of kynurenine versus tryptophan are reported for many diseases like e.g. arthritis, HIV/AIDS, neuropsychiatric disorders, cancer and inflammations. The ratio of Kynurenin/Tryptophan is also an indicator for the activity of Indolamine-2,3-Dioxygenase (IDO).
+
+
+== References ==

@@ -1,0 +1,5 @@
+The Global Sea Level Observing System (GLOSS) is an Intergovernmental Oceanographic Commission program whose purpose is to measure sea level globally for long-term climate change studies. The program's purpose has changed since the 2004 Indian Ocean earthquake and the program now collects realtime measurements of sea level. The project is currently upgrading the over 290 stations it currently runs, so that they can send realtime data via satellite to newly set up national tsunami centres. They are also fitting the stations with solar panels so they can continue to operate even if the mains power supply is interrupted by severe weather. The Global Sea Level Observing System does not compete with Deep-ocean Assessment and Reporting of Tsunamis as most GLOSS transducers are located close to land masses while DART's transducers are far out in the ocean.
+
+
+== External links ==
+Global Sea Level Observing System (GLOSS)

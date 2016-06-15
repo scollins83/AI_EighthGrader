@@ -1,0 +1,53 @@
+Banded iron formations (also known as banded ironstone formations or BIFs) are distinctive units of sedimentary rock that are almost always of Precambrian age.
+A typical BIF consists of repeated, thin layers (a few millimeters to a few centimeters in thickness) of silver to black iron oxides, either magnetite (Fe3O4) or hematite (Fe2O3), alternating with bands of iron-poor shales and cherts, often red in color, of similar thickness, and containing microbands (sub-millimeter) of iron oxides.
+Some of the oldest known rock formations, formed over 3,700 million years ago, include banded iron layers. Banded layers rich in iron were mostly deposited between 2,400 and 1,900 mya. Phanerozoic ironstones generally have a different genesis.
+Banded iron beds are an important commercial source of iron ore, such as the Pilbara region of Western Australia and the Animikie Group in Minnesota.
+
+
+== Relation to atmospheric oxygenation ==
+
+The formations are abundant around the time of the great oxygenation event, 2,400 million years ago (mya or Ma), and become less common after 1,800 mya. Conditions of a reappearance of a sea with dissolved iron at 1,900 million years ago, and later in association with Snowball Earth BIF reappeared 750 million years ago, and that is problematic to explain (see below).
+
+
+== Origins ==
+
+The conventional concept is that the banded iron layers were formed in sea water as the result of oxygen released by photosynthetic cyanobacteria. The oxygen then combined with dissolved iron in Earth's oceans to form insoluble iron oxides, which precipitated out, forming a thin layer on the ocean floor, which may have been anoxic mud (forming shale and chert). Each band is similar to a varve, to the extent that the banding is assumed to result from cyclic variations in available oxygen.
+It is unclear whether these banded ironstone formations were seasonal, followed some feedback oscillation in the ocean's complex system or followed some other cycle.
+It is assumed that initially the Earth started with vast amounts of iron and nickel dissolved in the world's acidic seas. As photosynthetic organisms generated oxygen, the available iron in the Earth's oceans precipitated out as iron oxides.
+At a suspected tipping point where the oceans became permanently oxygenated, small variations in oxygen production produced periods of free oxygen in the surface waters, alternating with periods of iron oxide deposition.
+
+
+== Snowball Earth scenario ==
+
+Until 1992, it was assumed that the rare, later (younger) banded iron deposits represented unusual conditions where oxygen was depleted locally, and iron-rich waters could form and then come into contact with oxygenated water.
+An alternative explanation of these later deposits was undergoing much discussion as part of the Snowball Earth hypothesis. Several hypotheses exist for the initiation of the Snowball Earths. The initiation mechanisms which include the breakup of the early equatorial supercontinent (Rodinia), the first colonization of the land by early lichens and fungi and variations in the Earth's axial tilt are yet to be convincingly identified. In a Snowball Earth state the earth's continents, and possibly seas at low latitudes, were totally covered in an ice age.
+If this was the case, Earth's free oxygen may have been nearly or totally depleted during a severe ice age circa 750 to 580 million years ago (mya). Dissolved iron then accumulated in the oxygen-poor oceans (possibly from seafloor hydrothermal vents). Following the thawing of the Earth, the seas became oxygenated once more causing the precipitation of the iron.
+Another mechanism for BIF's, also proposed in the context of the Snowball Earth discussion, is by deposition from metal-rich brines in the vicinity of hydrothermally active rift zones. Alternatively, some geochemists suggest that BIFs could form by direct oxidation of iron by microbial anoxygenic phototrophs.
+
+
+== Effect of asteroid impact ==
+Northern Minnesota's banded iron formations lie directly underneath a thick layer of material only recently recognized as ejecta from the Sudbury Basin impact. At the time of formation the earth had a single supercontinent with substantial continental shelves.
+An asteroid (estimated at 10 km across) slammed into waters about 1,000 m deep some 1.85 billion years ago. Computer models suggest that the tsunami would have been at least 1,000 m at the epicentre, and 100 m high about 3,000 km away. Those immense waves and large underwater landslides triggered by the impact stirred the ocean, bringing oxygenated waters from the surface down to the ocean floor.
+Sediments deposited on the seafloor before the impact, including BIFs contained little if any oxidized iron (Fe(III)), but were high in reduced iron (Fe(II)). This Fe(III) to Fe(II) ratio suggests that most parts of the ocean were relatively devoid of oxygen.
+Marine sediments deposited after the impact included substantial amounts of Fe(III) but very little Fe(II). This suggests that sizeable amounts of dissolved oxygen were available to form sediments rich in Fe(III). Following the impact dissolved iron was mixed into the deepest parts of the ocean. This would have choked off most of the supply of Fe(II) to shallower waters where BIFs typically accumulated.
+The geological record suggests that environmental changes were happening in oceans worldwide even before the Sudbury impact. The role the Sudbury Basin impact played in temporarily shutting down BIF accumulation is not fully understood.
+
+
+== See also ==
+Iron-rich sedimentary rocks
+Taconite
+
+
+== Notes ==
+
+
+== References ==
+Jelte P. Harnmeijer, 2003, Banded Iron-Formation: A Continuing Enigma of Geology, University of Washington Doc format
+Klein, Cornelis, 2005, Some Precambrian banded iron-formations (BIFs) from around the world: Their age, geologic setting, mineralogy, metamorphism, geochemistry, and origins, American Mineralogist; October 2005; v. 90; no. 10; p. 14731499; doi:10.2138/am.2005.1871 http://ammin.geoscienceworld.org/cgi/content/short/90/10/1473 abstract.
+Andreas Kappler, et al., 2005, Deposition of banded iron formations by anoxygenic phototrophic Fe(II)-oxidizing bacteria, Geology; November 2005; v. 33; no. 11; p. 865868; doi:10.1130/G21658.1 http://www.gps.caltech.edu/~claudia/papers/kappleretal_GEO2005.pdf
+Bekker, A., Slack, J.F., Planavsky, N., Krape, B., Hofmann, A., Konhauser, K.O., and Rouxel, O.J., 2010, Iron formation: The sedimentary product of a complex interplay among mantle, tectonic, oceanic, and biospheric processes, Economic Geology, v. 105, 467-508. PDF
+
+
+== External links ==
+ "Jaspilite". Encyclopedia Americana. 1920. 
+Flickr.com: Banded Iron Formation photo gallery

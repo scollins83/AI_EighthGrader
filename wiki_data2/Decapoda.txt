@@ -1,0 +1,118 @@
+The decapoda or decapods (literally "ten-footed") are an order of crustaceans within the class Malacostraca, including many familiar groups, such as crayfish, crabs, lobsters, prawns and shrimp. Most decapods are scavengers. The order is estimated to contain nearly 15,000 species in around 2,700 genera, with around 3,300 fossil species. Nearly half of these species are crabs, with the shrimp (about 3000 species) and Anomura (including hermit crabs, porcelain crabs, squat lobsters (about 2500 species) making up the bulk of the remainder. The earliest fossil decapod is the Devonian Palaeopalaemon.
+
+
+== AnatomyEdit ==
+
+As the name Decapoda (from the Greek , deca-, "ten", and  / , -pod, "foot") implies, all decapods have ten legs, in the form of five pairs of thoracic appendages on the last five thoracic segments. The front three pairs function as mouthparts and are generally referred to as maxillipeds; the remainder are pereiopods. In many decapods, however, one pair of legs has enlarged pincers; the claws are called chelae, so those legs may be called chelipeds. Further appendages are found on the abdomen, with each segment capable of carrying a pair of biramous pleopods, the last of which form part of the tail fan (together with the telson) and are called uropods.
+
+
+== ClassificationEdit ==
+Classification within the order Decapoda depends on the structure of the gills and legs, and the way in which the larvae develop, giving rise to two suborders: Dendrobranchiata and Pleocyemata. The Dendrobranchiata consist of prawns, including many species colloquially referred to as "shrimp", such as the "white shrimp", Litopenaeus setiferus. The Pleocyemata include the remaining groups, including "true shrimp". Those groups which usually walk rather than swim (Pleocyemata, excluding Stenopodidea and Caridea) form a clade called Reptantia.
+This classification to the level of superfamilies follows De Grave et al.
+
+Order Decapoda Latreille, 1802
+Suborder Dendrobranchiata Bate, 1888
+Penaeoidea Rafinesque, 1815
+Sergestoidea Dana, 1852
+
+Suborder Pleocyemata Burkenroad, 1963
+Infraorder Stenopodidea Bate, 1888
+Infraorder Caridea Dana, 1852
+Procaridoidea Chace & Manning, 1972
+Galatheacaridoidea Vereshchaka, 1997
+Pasiphaeoidea Dana, 1852
+Oplophoroidea Dana, 1852
+Atyoidea De Haan, 1849
+Bresilioidea Calman, 1896
+Nematocarcinoidea Smith, 1884
+Psalidopodoidea Wood-Mason, 1874
+Stylodactyloidea Bate, 1888
+Campylonotoidea Sollaud, 1913
+Palaemonoidea Rafinesque, 1815
+Alpheoidea Rafinesque, 1815
+Processoidea Ortmann, 1896
+Pandaloidea Haworth, 1825
+Physetocaridoidea Chace, 1940
+Crangonoidea Haworth, 1825
+
+Infraorder Astacidea Latreille, 1802
+Enoplometopoidea de Saint Laurent, 1988
+Nephropoidea Dana, 1852
+Astacoidea Latreille, 1802
+Parastacoidea Huxley, 1879
+
+Infraorder Glypheidea Winckler, 1882
+Glypheoidea Winckler, 1882
+
+Infraorder Axiidea de Saint Laurent, 1979b
+Infraorder Gebiidea de Saint Laurent, 1979
+Infraorder Achelata Scholtz & Richter, 1995
+Infraorder Polychelida Scholtz & Richter, 1995
+Infraorder Anomura MacLeay, 1838
+Aegloidea Dana, 1852
+Galatheoidea Samouelle, 1819
+Hippoidea Latreille, 1825a
+Kiwaoidea Macpherson, Jones & Segonzac, 2005
+Lithodoidea Samouelle, 1819
+Lomisoidea Bouvier, 1895
+Paguroidea Latreille, 1802
+
+Infraorder Brachyura Linnaeus, 1758
+Section Dromiacea De Haan, 1833
+Dromioidea De Haan, 1833
+Homolodromioidea Alcock, 1900
+Homoloidea De Haan, 1839
+
+Section Raninoida De Haan, 1839
+Section Cyclodorippoida Ortmann, 1892
+Section Eubrachyura de Saint Laurent, 1980
+Subsection Heterotremata Guinot, 1977
+Aethroidea Dana, 1851
+Bellioidea Dana, 1852
+Bythograeoidea Williams, 1980
+Calappoidea De Haan, 1833
+Cancroidea Latreille, 1802
+Carpilioidea Ortmann, 1893
+Cheiragonoidea Ortmann, 1893
+Corystoidea Samouelle, 1819
+Dairoidea Serne, 1965
+Dorippoidea MacLeay, 1838
+Eriphioidea MacLeay, 1838
+Gecarcinucoidea Rathbun, 1904
+Goneplacoidea MacLeay, 1838
+Hexapodoidea Miers, 1886
+Leucosioidea Samouelle, 1819
+Majoidea Samouelle, 1819
+Orithyioidea Dana, 1852c
+Palicoidea Bouvier, 1898
+Parthenopoidea MacLeay,
+Pilumnoidea Samouelle, 1819
+Portunoidea Rafinesque, 1815
+Potamoidea Ortmann, 1896
+Pseudothelphusoidea Ortmann, 1893
+Pseudozioidea Alcock, 1898
+Retroplumoidea Gill, 1894
+Trapezioidea Miers, 1886
+Trichodactyloidea H. Milne-Edwards, 1853
+Xanthoidea MacLeay, 1838
+
+Subsection Thoracotremata Guinot, 1977
+Cryptochiroidea Paul'son, 1875
+Grapsoidea MacLeay, 1838
+Ocypodoidea Rafinesque, 1815
+Pinnotheroidea De Haan, 1833
+
+
+== See alsoEdit ==
+
+List of Atlantic decapod species
+Phylogeny of Malacostraca
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+ Data related to Decapoda at Wikispecies
+Decapod Crustacea "Tree of Life" page at the Natural History Museum of Los Angeles County
+Decapoda at DMOZ

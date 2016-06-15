@@ -16,7 +16,10 @@ large dna and protein complexes: nucleosome
 centriole and microtubule-organizing center (mtoc)
 cytoskeleton
 flagellum
-cellular structure which is not membrane bound and does not have a well-defined structure: nucleolus
+nucleolus
+stress granule
+germ cell granule
+neuronal transport granule
 === eukaryotic organelles ===
 eukaryotic cells are structurally complex and by definition are organized in part by interior compartments that are themselves enclosed by lipid membranes that resemble the outermost cell membrane the larger organelles such as the nucleus and vacuoles are easily visible with the light microscope they were among the first biological discoveries made after the invention of the microscope
 not all eukaryotic cells have each of the organelles listed below exceptional organisms have cells that do not include some organelles that might otherwise be considered universal to eukaryotes (such as mitochondria) there are also occasional exceptions to the number of membranes surrounding organelles listed in the tables below (e.g. some that are listed as double-membrane are sometimes found with single or triple membranes) in addition the number of individual organelles of each type found in a given cell varies depending upon the function of that cell

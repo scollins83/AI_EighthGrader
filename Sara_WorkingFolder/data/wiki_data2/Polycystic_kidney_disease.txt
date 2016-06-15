@@ -1,0 +1,47 @@
+Polycystic kidney disease (PKD or PCKD, also known as polycystic kidney syndrome) is a genetic disorder in which abnormal cysts develop and grow in the kidneys. Cystic disorders can express themselves at any point, infancy, childhood, or adulthood. The disease occurs in humans and some other animals. PKD is characterized by the presence of multiple cysts (hence, "polycystic") typically in both kidneys; however, 17% of cases initially present with observable disease in one kidney, with most cases progressing to bilateral disease in adulthood.
+
+
+== Signs and symptomsEdit ==
+Signs and symptoms include high blood pressure, headaches, abdominal pain, blood in the urine, and excessive urination. Other symptoms include pain in the back, headaches and cyst formation (renal and other organs).
+
+
+== CauseEdit ==
+
+Polycystic kidney disease is a general term for the two types of PKD, each having their own pathology and causes. The two types of PKD are autosomal dominant polycystic kidney disease (ADPKD) and autosomal recessive polycystic kidney disease (ARPKD), which differ in their mode of genetic inheritance.
+
+
+=== Autosomal dominantEdit ===
+
+Autosomal dominant polycystic kidney disease (ADPKD) is the most common of all the inherited cystic kidney diseases with an incidence of 1:500 live births. Studies show that 10% of end-stage kidney disease (ESKD) patients being treated with dialysis in Europe and the U.S. were initially diagnosed and treated for ADPKD.
+There are three genetic mutations in the PKD-1, PKD-2, and PKD3 gene with similar phenotypical presentations. Gene PKD1 is located on chromosome 16 and codes for a protein involved in regulation of cell cycle and intracellular calcium transport in epithelial cells, and is responsible for 85% of the cases of ADPKD. A group of voltage-linked calcium channels are coded for by PKD2 on chromosome 4. PKD3 recently appeared in research papers as a postulated third gene. Fewer than 10% of cases of ADPKD appear in non-ADPKD families. Cyst formation begins in utero from any point along the nephron, although fewer than 5% of nephrons are thought to be involved. As the cysts accumulate fluid, they enlarge, separate entirely from the nephron, compress the neighboring kidney parenchyma, and progressively compromise kidney function.
+
+
+=== Autosomal recessiveEdit ===
+Autosomal recessive polycystic kidney disease (ARPKD) (OMIM #263200) is the lesser common of the two types of PKD, with an incidence of 1:20,000 live births and is typically identified in the first few weeks after birth. Unfortunately, the kidneys are often underdeveloped resulting in a 30% death rate in newborns with ARPKD.
+
+
+== MechanismEdit ==
+Some indications are that both autosomal and recessive polycystic kidney disease cyst formation is tied to cilia-mediated signaling that is irregular. Further, the polycystin-1 and polycystin-2 proteins appear to be involved in both autosomal and recessive polycystic kidney disease due to defects in both proteins. Both proteins have communication with calcium channel proteins this causes reduction in resting (intracellular) calcium and endoplasmic reticulum storage of calcium. The disease is characterized by a second hit phenomenon, in which a mutated dominant allele is inherited from a parent, with cyst formation occurring only after the normal, wild-type gene sustains a second genetic hit, resulting in renal tubular cyst formation and disease progression. Specifically, PKD is thought to result from defects in the primary cilium, an immotile, hair-like cellular organelle present on the surface of most cells in the body, anchored in the cell body by the basal body. In the kidney, primary cilia have been found to be present on most cells of the nephron, projecting from the apical surface of the renal epithelium into the tubule lumen. In response to fluid flow over the renal epithelium, the primary cilium is bent, resulting in a flow-induced increase in intracellular calcium.While it is not known how defects in the primary cilium lead to cyst development, it is thought to possibly be related to disruption of one of the many signaling pathways regulated by the primary cilium, including intracellular calcium, Hedgehog, Wnt/-catenin, cyclic adenosine monophosphate (cAMP), or planar cell polarity (PCP).function of the primary cilium is impaired, resulting in disruption of a number of intracellular signaling cascades that produce dedifferentiation of cystic epithelium, increased cell division, increased apoptosis, and loss of resorptive capacity.
+
+
+== PrognosisEdit ==
+ADPKD individuals might have a normal life; conversely, ADPKD can cause kidney dysfunction and can lead to kidney failure by the age of 40-60. ADPKD1 and ADPKD2 are very different, in that ADPKD2 is much milder. Currently, there are no therapies proven effective to prevent the progression polycystic kidney disease (autosomal dominant).
+
+
+== Treatment and researchEdit ==
+Obviously, if and when the disease progresses enough in a given case, the nephrologist or other practitioner and the patient will have to decide what form of renal replacement therapy will be used to treat end-stage kidney disease (kidney failure, typically stage 4 or 5 of chronic kidney disease). That will either be some form of dialysis, which can be done at least two different ways at varying frequencies and durations (whether it is done at home or in the clinic depends on the method used and the patient's stability and training) and eventually, if they are eligible because of the nature and severity of their condition and if a suitable match can be found, unilateral or bilateral kidney transplantation. A Cochrane Review study of autosomal dominant polycystic kidney disease made note of the fact that it is important at all times, while avoiding antibiotic resistance, of course, to control infections of the cysts in the kidneys, and if affected, the liver, when needed for a certain duration to combat infection, by using, quote: "bacteriostatic and bacteriocidal drugs". Lastly, the study also noted that the direction of research, quote: "has been focused on the genetics and pathophysiology of ADPKD and on promising therapies aimed at cyst initiation or expansion.".
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+Chapin, Hannah C.; Caplan, Michael J. (2010-11-15). "The cell biology of polycystic kidney disease". The Journal of Cell Biology 191 (4): 701710. doi:10.1083/jcb.201006173. ISSN 0021-9525. PMC 2983067. PMID 21079243. 
+Harris, Peter C.; Torres, Vicente E. (2009-01-01). "Polycystic Kidney Disease". Annual review of medicine 60: 321337. doi:10.1146/annurev.med.60.101707.125712. ISSN 0066-4219. PMC 2834200. PMID 18947299. 
+Press, Dove. "Polycystic kidney disease: inheritance, pathophysiology, prognosis, an | IJNRD". www.dovepress.com. Retrieved 2015-08-01. 
+
+
+== External linksEdit ==
+Polycystic Kidney Disease Research and Education
+The National Kidney Foundation: A to Z Health Guide
+Enfermedad Polqustica Renal en castellano (Spanish Wikipedia)

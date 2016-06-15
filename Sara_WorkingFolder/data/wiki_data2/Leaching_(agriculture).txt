@@ -1,0 +1,31 @@
+In agriculture, leaching refers to the loss of water-soluble plant nutrients from the soil, due to rain and irrigation. Soil structure, crop planting, type and application rates of fertilizers, and other factors are taken into account to avoid excessive nutrient loss. Leaching may also refer to the practice of applying a small amount of excess irrigation where the water has a high salt content to avoid salts from building up in the soil (salinity control). Where this is practiced, drainage must also usually be employed, to carry away the excess water.
+Leaching is an environmental concern when it contributes to groundwater contamination. As water from rain, flooding, or other sources seeps into the ground, it can dissolve chemicals and carry them into the underground water supply. Of particular concern are hazardous waste dumps and landfills, and, in agriculture, excess fertilizer, improperly stored animal manure, and biocides (e.g. pesticides, fungicides, insecticides and herbicides).
+
+
+== Nitrogen leaching ==
+
+Nitrogen is a common element in nature and an essential plant nutrient. Approximately 78% of Earth's atmosphere is nitrogen (N2). The strong bond between the atoms of N2 makes this gas quite inert and not directly usable by plants and animals. As nitrogen naturally cycles through the air, water and soil it undergoes various chemical and biological transformations. Nitrogen promotes plant growth. Livestock then eat the crops producing manure, which is returned to the soil, adding organic and mineral forms of nitrogen. The cycle is complete when the next crop uses the amended soil. To increase food production, fertilizers, such as nitrate (NO3) and ammonium (NH4), which are easily absorbed by plants, are introduced to the plant root zone. However, soils do not absorb the excess NO3 ions, which then move downward freely with drainage water, and are leached into groundwater, streams and oceans. The degree of leaching is affected by:
+soil type and structure. For example, sandy soil holds little water while clay soils have high water-retention rates;
+the amount of water used by the plants/crops;
+how much nitrate is already present in the soil.
+The level of N2O in the Earth's atmosphere is increasing at a rate of 0.2 to 0.3% annually. Anthropogenic sources of nitrogen are 50% greater than from natural sources, such as, soils and oceans. Leached agricultural inputs, i.e. fertilizers and manures, accounts for 75% of the anthropogenic source of nitrogen. The Food and Agriculture Organization of the United Nations (FAO) estimates world demand for nitrogen fertilizers will increase by 1.7% annually between 2011 and 2015. An increase of 7.5 million tonnes. Regional increases of nitrogen fertilizer use are expected to be 67% by Asia, 18% by the Americas, 10% by Europe, 3% by Africa,and 1% by Oceania.
+
+
+== Health impacts ==
+High levels of NO3 in water can adversely affect oxygen levels for both humans and aquatic systems. Human health issues include methemoglobinemia and anoxia, commonly referred to as blue baby syndrome. As a result of these toxic effects, regulatory agencies limit the amount of NO3 permissible in drinking water to 4550 mg1-1. Eutrophication, a decline in oxygen content of water, of aquatic systems can cause the death of fish and other marine species. Finally, leaching of NO3 from acidic sources can increase the loss of calcium and other soil nutrients, thereby reducing an ecosystem's productivity.
+
+
+== See also ==
+Leaching (pedology)
+Leaching model (soil)
+Soil salinity control (leaching requirement, leaching efficiency)
+SahysMod (spatial agro-hydro salinity, leaching and groundwater model)
+
+
+== References ==
+
+
+== External links ==
+International Panel on Climate Change (IPCC) On line : [1]
+R.J.Oosterbaan, Water and salt balances in agricultural hydrology. Lecture notes, International Course on Land Drainage, ILRI, Wageningen, The Netherlands. On line : [2]
+R.J.Oosterbaan, 1997. "SaltMod: A tool for interweaving of irrigation and drainage for salinity control". In: W.B.Snellen (ed.), Towards integration of irrigation, and drainage management. ILRI Special report, p. 4143. On line : [3]

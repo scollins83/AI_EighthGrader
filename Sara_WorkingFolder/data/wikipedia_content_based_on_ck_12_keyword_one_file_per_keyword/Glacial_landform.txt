@@ -7,7 +7,7 @@ u-shaped valley: u-shaped valleys are created by mountain glaciers when filled w
 arte: spiky high land between two glaciers if the glacial action erodes through a spillway (or col) forms
 == depositional landforms ==
 later when the glaciers retreated leaving behind their freight of crushed rock and sand (glacial drift) they created characteristic depositional landforms examples include glacial moraines eskers and kames drumlins and ribbed moraines are also landforms left behind by retreating glaciers the stone walls of new england contain many glacial erratics rocks that were dragged by a glacier many miles from their bedrock origin
-esker: built up bed of a sub-glacial stream
+esker: built up bed of a subglacial stream
 kame: irregularly shaped mound
 moraine: feature can be terminal (at the end of a glacier) lateral (along the sides of a glacier) or medial (formed by the emerger of lateral moraines from contributary glaciers)
 outwash fan: braided stream flowing from the front end of a glacier

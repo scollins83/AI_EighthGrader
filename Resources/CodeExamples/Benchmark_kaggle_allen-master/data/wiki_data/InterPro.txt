@@ -1,0 +1,44 @@
+interpro is a database of protein families domains and functional sites in which identifiable features found in known proteins can be applied to new protein sequences in order to functionally characterise them
+the contents of interpro consist of diagnostic signatures and the proteins that they significantly match the signatures consist of models (simple types such as regular expressions or more complex ones such as hidden markov models) which describe protein families domains or sites models are built from the amino acid sequences of known families or domains and they are subsequently used to search unknown sequences (such as those arising from novel genome sequencing) in order to classify them each of the member databases of interpro contribute towards a different niche from very high-level structure-based classifications (superfamily and cath-gene3d) through to quite specific sub-family classifications (prints and panther)
+interpro's intention is to provide a one-stop-shop for protein classification where all the signatures produced by the different member databases are placed into entries within the interpro database signatures which represent equivalent domains sites or families are put into the same entry and entries can also be related to one another additional information such as a description consistent names and gene ontology (go) terms are associated with each entry where possible
+== data contained in interpro ==
+interpro contains three main entities: proteins signatures (also referred to as "methods" or "models") and entries the proteins in uniprotkb are also the central protein entities in interpro information regarding which signatures significantly match these proteins are calculated as the sequences are released by uniprotkb and these results are made available to the public (see below) the matches of signatures to proteins are what determine how signatures are integrated together into interpro entries: comparative overlap of matched protein sets and the location of the signatures' matches on the sequences are used as indicators of relatedness only signatures deemed to be of sufficient quality are integrated into interpro
+interpro also includes data for splice variants and the proteins contained in the uniparc and unimes databases
+=== interpro member databases ===
+the signatures from interpro come from 11 "member databases" which are listed below
+cath-gene3d
+describes protein families and domain architectures in complete genomes protein families are formed using a markov clustering algorithm followed by multi-linkage clustering according to sequence identity mapping of predicted structure and sequence domains is undertaken using hidden markov models libraries representing cath and pfam domains functional annotation is provided to proteins from multiple resources functional prediction and analysis of domain architectures is available from the gene3d website
+hamap
+stands for high-quality automated and manual annotation of microbial proteomes hamap profiles are manually created by expert curators they identify proteins that are part of well-conserved bacterial archaeal and plastid-encoded (i.e chloroplasts cyanelles apicoplasts non-photosynthetic plastids) proteins families or subfamilies
+panther
+is a large collection of protein families that have been subdivided into functionally related subfamilies using human expertise these subfamilies model the divergence of specific functions within protein families allowing more accurate association with function (human-curated molecular function and biological process classifications and pathway diagrams) as well as inference of amino acids important for functional specificity hidden markov models (hmms) are built for each family and subfamily for classifying additional protein sequences
+pfam
+is a large collection of multiple sequence alignments and hidden markov models covering many common protein domains and families
+pirsf
+protein classification system is a network with multiple levels of sequence diversity from superfamilies to subfamilies that reflects the evolutionary relationship of full-length proteins and domains the primary pirsf classification unit is the homeomorphic family whose members are both homologous (evolved from a common ancestor) and homeomorphic (sharing full-length sequence similarity and a common domain architecture)
+prints
+is a compendium of protein fingerprints a fingerprint is a group of conserved motifs used to characterise a protein family; its diagnostic power is refined by iterative scanning of uniprot usually the motifs do not overlap but are separated along a sequence though they may be contiguous in 3d-space fingerprints can encode protein folds and functionalities more flexibly and powerfully than can single motifs their full diagnostic potency deriving from the mutual context afforded by motif neighbours
+prodom
+domain database consists of an automatic compilation of homologous domains current versions of prodom are built using a novel procedure based on recursive psi-blast searches
+prosite
+is a database of protein families and domains it consists of biologically significant sites patterns and profiles that help to reliably identify to which known protein family (if any) a new sequence belongs
+smart
+allows the identification and annotation of genetically mobile domains and the analysis of domain architectures more than 800 domain families found in signalling extracellular and chromatin-associated proteins are detectable these domains are extensively annotated with respect to phyletic distributions functional class tertiary structures and functionally important residues
+superfamily
+is a library of profile hidden markov models that represent all proteins of known structure the library is based on the scop classification of proteins: each model corresponds to a scop domain and aims to represent the entire scop superfamily that the domain belongs to superfamily has been used to carry out structural assignments to all completely sequenced genomes
+tigrfams
+is a collection of protein families featuring curated multiple sequence alignments hidden markov models (hmms) and annotation which provides a tool for identifying functionally related proteins based on sequence homology those entries which are "equivalogs" group homologous proteins which are conserved with respect to function
+== access ==
+the database is available for text- and sequence-based searches via a webserver and for download via anonymous ftp like other ebi databases it is in the public domain since its content can be used "by any individual and for any purpose"
+users can also use the signature scanning software interproscan if they have novel sequences that require characterisation interproscan is frequently used in genome projects in order to obtain a "first-pass" characterisation of the genome of interest as of february 2013 the public version of interproscan (v4.x) is perl-based however a new java-based architecture is under development which will form the core of interproscan v5
+to cite a particular interpro article in wikipedia use the template of the form {{interpro|iprxxxxxx}} where iprxxxxxx is an interpro accession number for instance ipr000001
+interpro aims to release data to the public every 8 weeks typically within a day of the uniprotkb release of the same proteins
+== other useful links ==
+protein family
+domain of unknown function
+sequence motif
+interpro quicktour on ebi train online
+== references ==
+== external links ==
+official website webserver
+databases ftp download

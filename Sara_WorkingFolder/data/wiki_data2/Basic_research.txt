@@ -1,0 +1,32 @@
+Basic research, also called pure research or fundamental research, is scientific research aimed to improve scientific theories for improved understanding or prediction of natural or other phenomena. Applied research, in turn, uses scientific theories to develop technology or techniques to intervene and alter natural or other phenomena. Though often driven by curiosity, basic research fuels applied science's innovations. The two aims are often coordinated in research and development.
+Although many discoveries have been serendipitous, discovery science specifically seeks discoveries, and, along with theoretical science and experimental science, is now key to basic research and is sometimes expressly planned.
+
+
+== Overview ==
+Basic research advances fundamental knowledge about the world. It focuses on refuting or supporting theories that explain observed phenomena. Pure research is the source of most new scientific ideas and ways of thinking about the world. It can be exploratory, descriptive, or explanatory; however, explanatory research is the most common.
+Basic research generates new ideas, principles, and theories, which may not be immediately utilized but nonetheless form the basis of progress and development in different fields. Today's computers, for example, could not exist without research in pure mathematics conducted over a century ago, for which there was no known practical application at the time. Basic research rarely helps practitioners directly with their everyday concerns; nevertheless, it stimulates new ways of thinking that have the potential to revolutionize and dramatically improve how practitioners deal with a problem in the future.
+
+
+== Basic versus applied science ==
+Applied science focuses on the development of technology and techniques. In contrast, basic science develops scientific knowledge and predictions, principally in natural sciences but also in other empirical sciences, which are used as the scientific foundation for applied science. Basic science develops and establishes information to predict phenomena and perhaps to understand nature, whereas applied science uses portions of basic science to develop interventions via technology or technique to alter events or outcomes. Applied and basic sciences can interface closely in research and development.
+A distinction can be made between basic science and disciplines such as medicine and technology. They can be grouped as STM (science, technology & medicine) or STS (science, technology & society). These groups are interrelated and influence each other, although they may differ in the specifics such as methods and standards.
+The Nobel Prize mixes basic with applied sciences for its award in Physiology or Medicine. In contrast, the Royal Society of London awards distinguish natural science from applied science.
+
+
+== Physics ==
+"Basic science" or "fundamental science" may also refer to physics. In philosophy of science, the branches of science are often described such that fundamental physics is the foundation underlying the others, called special sciences, that rest upon and in principle are derivable from and reducible to fundamental physics. In a conceived unity of science, the special sciences investigate domains whose entities and laws emerge from the domain of the idealized fundamental physics. Basic science may also be used to refer to the natural sciences in general, as compared to the social sciences and applied sciences.
+Whereas fundamental physics seeks laws of universal regularity, special sciences usually include ceteris paribus laws, predictively accurate to high probability in "normal conditions" or with "all else equal", but having exceptions. Although exceptionless, chemistry's laws were presumably reduced to fundamental physicsto quantum mechanics and then quantum electrodynamicsand so chemistry, presumed to emerge, is a special science. Bridging physical sciences to biological sciences via biochemistry, and influencing sciences generally, chemistry has been viewed as the central science.
+
+
+== See also ==
+Blue skies research
+Hard and soft science
+Normative science
+Pure mathematics
+
+
+== References ==
+
+
+== Further reading ==
+Levy, David M. (2002). "Research and Development". In David R. Henderson (ed.). Concise Encyclopedia of Economics (1st ed.). Library of Economics and Liberty.  OCLC 317650570, 50016270 and 163149563

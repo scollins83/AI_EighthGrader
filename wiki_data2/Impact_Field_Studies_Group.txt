@@ -1,0 +1,31 @@
+The Impact Field Studies Group (IFSG) is a scientific organization emphasizing geologic field research of suspected and confirmed sites of impact craters and impact structures. The group is composed of researchers, professionals and students involved in study of impact sites. IFSG's web site is hosted by the Department of Earth and Planetary Sciences at University of Tennessee, Knoxville.
+
+
+== Impact Database ==
+
+IFSG member David Rajmon maintains for the organization a list which was originally called the Suspected Earth Impact Sites (SEIS) list from 2004 to 2009. It was then renamed to simply the Impact Database. The list classifies impact sites as confirmed, most probable, probable, possible, improbable, rejected and proposed (unevaluated). The list retains rejected entries because they tend to be submitted repeatedly.
+The IFSG Impact Database accepts submissions of proposed new impact sites. However, they require submitters do some significant homework as listed below first.
+The submitter should download the Impact Database or KML (Google Earth) version of it to verify that the site has not already been included, and possibly rejected.
+If the submitter is not familiar with the science behind recognition of impact craters, they must read Traces of Catastrophe.
+They should look at maps to consider other alternatives to impact craters, whether man-made (such as mining pits and ponds) or natural (such as sinkholes and volcanic vents).
+The page lists some suggestions how to avoid fixating on the possibility of an impact and consider more open investigation of what the feature is.
+
+
+== Field trips ==
+IFSG arranges field trips to impact-related sites. Past events have included
+Marquez crater, Texas, USA, 2004
+Serpent Mound crater, Ohio, USA, 2004
+CretaceousPaleogene boundary (KT boundary), Texas, USA, 2005
+Middlesboro crater, Kentucky, USA and Flynn Creek crater, Tennessee, USA, 2005
+Sierra Madera crater, Texas, USA, 2006
+Kentland crater, Indiana, USA, 2007
+Wells Creek crater, Tennessee, USA, 2008
+Nevada Test Site, Nevada, USA, 2009 (nuclear explosion craters at NTS were how shock metamorphism was studied by Eugene Shoemaker and then applied to create the science of impact geology)
+
+
+== References ==
+
+
+== External links ==
+Impact Field Studies Group
+Impact Database maintained for IFSG by member David Rajmon

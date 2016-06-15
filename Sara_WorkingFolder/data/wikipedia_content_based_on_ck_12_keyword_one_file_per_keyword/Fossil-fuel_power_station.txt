@@ -1,13 +1,52 @@
 a fossil-fuel power station is a power station which burns fossil fuel such as coal natural gas or petroleum to produce electricity central station fossil-fuel power plants are designed on a large scale for continuous operation in many countries such plants provide most of the electrical energy used fossil-fuel power stations have machinery to convert the heat energy of combustion into mechanical energy which then operates an electrical generator the prime mover may be a steam turbine a gas turbine or in small plants a reciprocating internal combustion engine all plants use the energy extracted from expanding gas either steam or combustion gases very few mhd generators have been built which directly convert the energy of moving hot gas into electricity
 byproducts of thermal power plant operation must be considered in their design and operation waste heat energy which remains due to the finite efficiency of the carnot rankine or diesel power cycle is released directly to the atmosphere or river/lake water or indirectly to the atmosphere using a cooling tower with river or lake water used as a cooling medium the flue gas from combustion of the fossil fuels is discharged to the air this gas contains carbon dioxide and water vapor as well as other substances such as nitrogen oxides (nox) sulfur oxides (sox) mercury traces of other metals and for coal-fired plants fly ash solid waste ash from coal-fired boilers must also be removed some coal ash can be recycled for building materials
-fossil fueled power stations are major emitters of co2 a greenhouse gas which according to a consensus opinion of scientific organisations is a contributor to global warming per unit of electric energy brown coal emits nearly two times as much co2 as natural gas and black coal emits somewhat less than brown carbon capture and storage of emissions is not currently available
+fossil fueled power stations are major emitters of carbon dioxide (co2) a greenhouse gas which according to a consensus opinion of scientific organisations is a contributor to global warming the results of a recent study show that the net income available to shareholders of large companies could see a significant reduction from the greenhouse gas emissions liability related to only natural disasters in the u.s from a single coal-fired power plant however as of 2015 no such cases have awarded damages in the u.s per unit of electric energy brown coal emits nearly two times as much co2 as natural gas and black coal emits somewhat less than brown carbon capture and storage of emissions is not currently available
 == basic concepts ==
-in a fossil fuel power plant the chemical energy stored in fossil fuels such as coal fuel oil natural gas or oil shale and oxygen of the air is converted successively into thermal energy mechanical energy and finally electrical energy each fossil fuel power plant is a complex custom-designed system construction costs as of 2004 run to us$1,300 per kilowatt or $650 million for a 500 mwe unit multiple generating units may be built at a single site for more efficient use of land natural resources and labour most thermal power stations in the world use fossil fuel outnumbering nuclear geothermal biomass or solar thermal plants
+in a fossil fuel power plant the chemical energy stored in fossil fuels such as coal fuel oil natural gas or oil shale and oxygen of the air is converted successively into thermal energy mechanical energy and finally electrical energy each fossil fuel power plant is a complex custom-designed system construction costs as of 2004 run to us$1,300 per kilowatt or $650 million for a 500 mwe unit multiple generating units may be built at a single site for more efficient use of land natural resources and labor most thermal power stations in the world use fossil fuel outnumbering nuclear geothermal biomass or solar thermal plants
 === heat into mechanical energy ===
 the second law of thermodynamics states that any closed-loop cycle can only convert a fraction of the heat produced during combustion into mechanical work the rest of the heat called waste heat must be released into a cooler environment during the return portion of the cycle the fraction of heat released into a cooler medium must be equal or larger than the ratio of absolute temperatures of the cooling system (environment) and the heat source (combustion furnace) raising the furnace temperature improves the efficiency but complicates the design primarily by the selection of alloys used for construction making the furnace more expensive the waste heat cannot be converted into mechanical energy without an even cooler cooling system however it may be used in cogeneration plants to heat buildings produce hot water or to heat materials on an industrial scale such as in some oil refineries plants and chemical synthesis plants
 typical thermal efficiency for utility-scale electrical generators is around 33% for coal and oil-fired plants and 56 60% (lhv) for combined-cycle gas-fired plants plants designed to achieve peak efficiency while operating at capacity will be less efficient when operating off-design (i.e temperatures too low.)
 practical fossil-fuel stations operating as heat engines cannot exceed the carnot cycle limit for conversion of heat energy into useful work fuel cells do not have the same thermodynamic limits as they are not heat engines
-temperature of hot steam using the reported efficiencies and the efficiency of an ideal carnot engine one can estimate the engine temperature this estimate is the minimum heat water/steam temperature as we neglect other losses for example the effective temperature of the cooling water can be significantly higher assume the cold temperature is 10 c or 280 k than equals:
+temperature of hot steam using the reported efficiencies and the efficiency of an ideal carnot engine one can estimate the engine temperature this estimate is the minimum heat water/steam temperature as we neglect other losses for example the effective temperature of the cooling water can be significantly higher assume the cold temperature
+t
+c
+{\displaystyle t_{c}}
+is 10 c or 280 k than
+t
+h
+{\displaystyle t_{h}}
+equals:
+=
+1
+t
+c
+t
+h
+{\displaystyle \eta \,=\,1-{\frac {t_{c}}{t_{h}}}}
+t
+h
+=
+t
+c
+1
+{\displaystyle t_{h}\,=\,{\frac {t_{c}}{1-\eta }}}
+t
+h
+=
+280
+1
+0.33
+{\displaystyle t_{h}\,=\,{\frac {280}{1-0.33}}}
+t
+h
+=
+418
+k
+=
+145
+o
+c
+{\displaystyle t_{h}\,=\,418\,\mathrm {k} =145^{o}\mathrm {c} }
 this temperature is presumably much lower than the actual steam temperature due to several losses
 == coal ==
 coal is the most abundant fossil fuel on the planet it is a relatively cheap fuel with some of the largest deposits in regions that are relatively stable politically such as china india and the united states this contrasts with natural gas and petroleum the largest deposits of which are located in the politically volatile persian gulf solid coal cannot directly replace natural gas or petroleum in most applications petroleum is mostly used for transportation and the natural gas not used for electricity generation is used for space water and industrial heating coal can be converted to gas or liquid fuel but the efficiencies and economics of such processes can make them unfeasible vehicles or heaters may require modification to use coal-derived fuels coal can produce more pollution than petroleum or natural gas
@@ -69,7 +108,7 @@ regardless of the conversion a truly low-carbon fossil fuel power plant implemen
 === low nox burners ===
 a common retrofit in fossil fueled power stations is the replacement of original burners with low nox burners careful consideration of fluid dynamics and flame thermodynamics has enabled substantial reduction in flame temperature leading to reduced formation of nitrous oxides
 === clean coal ===
-clean coal is the name attributed to a process whereby coal is chemically washed of minerals and impurities sometimes gasified burned and the resulting flue gases treated with steam with the purpose of removing sulfur dioxide and reburned so as to make the carbon dioxide in the flue gas economically recoverable the coal industry uses the term "clean coal" to describe technologies designed to enhance both the efficiency and the environmental acceptability of coal extraction preparation and use but has provided no specific quantitative limits on any emissions particularly carbon dioxide whereas contaminants like sulfur or mercury can be removed from coal carbon cannot be effectively removed while still leaving a usable fuel and clean coal plants without carbon sequestration and storage do not significantly reduce carbon dioxide emissions james hansen in an open letter to u.s president barack obama has advocated a "moratorium and phase-out of coal plants that do not capture and store co2" in his book storms of my grandchildren similarly hansen discusses his declaration of stewardship the first principle of which requires "a moratorium on coal-fired power plants that do not capture and sequester carbon dioxide"
+clean coal is a process whereby coal is chemically washed of minerals and impurities sometimes gasified burned and the resulting flue gases treated with steam with the purpose of removing sulfur dioxide and reburned so as to make the carbon dioxide in the flue gas economically recoverable the coal industry uses the term "clean coal" to describe technologies designed to enhance both the efficiency and the environmental acceptability of coal extraction preparation and use but has provided no specific quantitative limits on any emissions particularly carbon dioxide whereas contaminants like sulfur or mercury can be removed from coal carbon cannot be effectively removed while still leaving a usable fuel and clean coal plants without carbon sequestration and storage do not significantly reduce carbon dioxide emissions james hansen in an open letter to u.s president barack obama has advocated a "moratorium and phase-out of coal plants that do not capture and store co2" in his book storms of my grandchildren similarly hansen discusses his declaration of stewardship the first principle of which requires "a moratorium on coal-fired power plants that do not capture and sequester carbon dioxide"
 == combined heat and power ==
 combined heat and power (chp) also known as cogeneration is the use of a power station to provide both electric power and process heat or district heating while rejecting heat at a higher than normal temperature to enable building heating lowers overall plant electric power efficiency the extra fuel burnt is more than offset by the reduction in fossil fuel that would otherwise be used for heating buildings this technology is widely practiced in for example denmark other scandinavian countries and parts of germany calculations show that chpdh is the cheapest method of carbon emissions reductions
 == alternatives to fossil fuel power plants ==

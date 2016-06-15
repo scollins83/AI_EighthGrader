@@ -1,0 +1,32 @@
+Atmospheric temperature range is the numerical difference between the minimum and maximum values of temperature observed in a given location during a period of time (e.g., in a given day, month, year, century) or the average (average of all temperature ranges in a period of time). The variation in temperature that occurs from the highs of the day to the cool of nights is called diurnal temperature variation.
+
+
+== Parameters affecting the range ==
+The size of ground-level atmospheric temperature ranges depends on several factors, such as:
+The average temperature
+The average humidity
+The regime of winds (intensity, duration, variation, temperature, etc.)
+The proximity to large bodies of water, such as the sea
+
+The figure at left shows an example of monthly temperatures recorded at one of such locations, the city of Campinas, state of So Paulo, Brazil, which lies approximately 60 km north of the Capricorn line (latitude of 22 degrees). Average yearly temperature is 22.4 degrees Celsius, ranging from an average minimum of 12.2 degrees to a maximum of 29.9 degrees. The average temperature range is 11.4 degrees. Variability along the year is small (standard deviation of 2.31 for the maximum monthly average and 4.11 for the minimum). It is easy to see in the graph another typical phenomenon of temperature ranges, which is its increase during winter (lower average air temperature).
+In Campinas, for example, the daily temperature range in July (the coolest month of the year) may vary between typically 10 and 24 degrees Celsius (range of 14), while in January, it may range between 20 and 30 degrees Celsius (range of 10).
+The effect of latitude, tropical climate, constant gentle wind and sea-side locations show smaller average temperature ranges, smaller variations of temperature, and a higher average temperature (second graph, taken for the same period as Campinas, at Aracaju, capital of the state of Sergipe, also in Brazil, at a latitude of 10 degrees, nearer to the Equator). Average maximum yearly temperature is 28.7 degrees Celsius and average minimum is 21.9. The average temperature range is 5.7 degrees only. Temperature variation along the year in Aracaju is very damped (standard deviation of 1.93 for the maximum temperature and 2.72 for the minimum temperature).
+
+
+== Uses ==
+A location which combines an average temperature of 19 degrees Celsius, 60% average humidity and a temperature range of about 10 degrees Celsius around the average temperature (yearly temperature variation) is considered ideal in terms of comfort for the human species. Most of the places with these characteristics are located in the transition between temperate and tropical climates, approximately around the tropics, particularly in the Southern hemisphere (the tropic of Capricorn).
+
+
+== Lifted Minimum Temperature ==
+
+The minimum temperature at night does not occur on the ground but few tens of centimeters above the ground. The lowest temperature layer is called Ramdas layer after L. A. Ramdas, who first reported this phenomenon in 1932 based on observations at different screen heights at six meteorological centers across India. The phenomenon is attributed to the interaction of thermal radiation effects on atmospheric aerosols and convection transfer close to the ground.
+
+
+== See also ==
+Airport reference temperature
+
+
+== References ==
+^ a b "Station statistics". Agritempo (in Portuguese). Retrieved October 11, 2013. 
+^ Ramdas, L.A. and Atmanathan, S., 1932. The vertical distribution of air temperature near the ground at night. Beitrage zur Geophysik, v.37, pp. 116117.
+^ Lake, JV (1955). "The nocturnal heat balance". Nature 176 (4470). Bibcode:1955Natur.176...32L. doi:10.1038/176032b0.

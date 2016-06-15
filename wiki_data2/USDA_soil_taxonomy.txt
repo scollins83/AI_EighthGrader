@@ -1,0 +1,54 @@
+USDA Soil Taxonomy developed by United States Department of Agriculture and the National Cooperative Soil Survey provides an elaborate classification of soil types according to several parameters (most commonly their properties) and in several levels: Order, Suborder, Great Group, Subgroup, Family, and Series.
+
+
+== Soil Orders ==
+
+
+== Example of classification of a soil type ==
+Order: Entisols
+Suborder: Fluvents
+Great Group: Torrifluvents
+Subgroup: Typic Torrifluvents
+Family: Fine-loamy, mixed, superactive, calcareous, Typic Torrifluvents
+Series: Jocity, Youngston.
+
+Another Example
+Order: Alfisols
+Suborder: Xeralfs
+Great Group: Durixeralfs
+Subgroup: Abruptic Durixeralfs
+Family: Fine, Mixed, Active, thermic Abruptic Durixeralfs
+Series: San Joaquin (soil)
+
+Link to Official Series Description: ftp://ftp-fc.sc.egov.usda.gov/NSSC/StateSoil_Profiles/ca_soil.pdf
+
+
+== Soil Temperature Regimes (STR) ==
+
+Soil temperature regimes, such as frigid, mesic, and thermic, are used to classify soils at some of the lower levels of the Soil Taxonomy. The cryic temperature regime distinguishes some higher-level groups. These regimes are based on the mean annual soil temperature (MAST), mean summer temperature, and the difference between mean summer and winter temperatures all at a soil depth of 50 cm. It is normally assumed that the MAST (in C) equals the sum of the mean annual air temperature plus 2C. If the difference between mean summer and winter temperatures is less than 6C, then add "Iso" at the front of the name of the Soil Temperature Class.
+
+
+== Soil Moisture Regimes (SMR) ==
+
+The soil moisture regime, often reflective of climatic factors, is a major determinant of the productivity of terrestrial ecosystems, including agricultural systems. The soil moisture regimes are defined based on the levels of the groundwater table and the amounts of soil water available to plants during a given year in a particular region. Several moisture regime classes are used to characterize soils.
+
+
+== See also ==
+FAO soil classification
+International Committee on Anthropogenic Soils (ICOMANTH)
+Soil classification
+Soil horizon
+1938 USDA soil taxonomy
+Soil
+Soil in the United States
+Soil in Botswana
+
+
+== References ==
+
+
+== External links ==
+USDA / NRCS soil taxonomy webpage
+Soil taxonomy document
+A Compendium of On-Line Soil Survey Information: Soil Classification Systems
+USDA-NRCS Web Soil Survey

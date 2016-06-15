@@ -1,6 +1,6 @@
-radioactive decay also known as nuclear decay or radioactivity is the process by which a nucleus of an unstable atom loses energy by emitting radiation a material that spontaneously emits such radiation which includes alpha particles beta particles gamma rays and conversion electrons is considered radioactive
-radioactive decay is a stochastic (i.e random) process at the level of single atoms in that according to quantum theory it is impossible to predict when a particular atom will decay the chance that a given atom will decay never changes that is it does not matter how long the atom has existed for a large collection of atoms however the decay rate for that collection can be calculated from their measured decay constants or half-lives this is the basis of radiometric dating the half-lives of radioactive atoms have no known limits for shortness or length of duration and range over 55 orders of magnitude in time
-there are many types of radioactive decay (see table below) a decay or loss of energy from the nucleus results when an atom with one type of nucleus called the parent radionuclide (or parent radioisotope) transforms into an atom with a nucleus in a different state or with a nucleus containing a different number of protons and neutrons the product is called the daughter nuclide in some decays the parent and the daughter nuclides are different chemical elements and thus the decay process results in the creation of an atom of a different element this is known as a nuclear transmutation
+radioactive decay also known as nuclear decay or radioactivity is the process by which the nucleus of an unstable atom loses energy by emitting radiation including alpha particles beta particles gamma rays and conversion electrons a material that spontaneously emits such radiation is considered radioactive
+radioactive decay is a stochastic (i.e random) process at the level of single atoms in that according to quantum theory it is impossible to predict when a particular atom will decay the chance that a given atom will decay never changes that is it does not matter how long the atom has existed the decay rate for a large collection of atoms however can be calculated from their measured decay constants or half-lives this is the basis of radiometric dating the half-lives of radioactive atoms have no known lower or upper limit spanning a time range of over 55 orders of magnitude from nearly instantaneous to far longer than the age of the universe a radioactive source emits its decay products isotropically
+there are many different types of radioactive decay (see table below) a decay or loss of energy from the nucleus results when an atom with one type of nucleus called the parent radionuclide (or parent radioisotope) transforms into an atom with a nucleus in a different state or with a nucleus containing a different number of protons and neutrons the product is called the daughter nuclide in some decays the parent and the daughter nuclides are different chemical elements and thus the decay process results in the creation of an atom of a different element this is known as a nuclear transmutation
 the first decay processes to be discovered were alpha decay beta decay and gamma decay alpha decay occurs when the nucleus ejects an alpha particle (helium nucleus) this is the most common process of emitting nucleons but in rarer types of decays nuclei can eject protons or in the case of cluster decay specific nuclei of other elements beta decay occurs when the nucleus emits an electron or positron and a neutrino in a process that changes a proton to a neutron or the other way about the nucleus may capture an orbiting electron causing a proton to convert into a neutron in a process called electron capture all of these processes result in a well-defined nuclear transmutation
 by contrast there are radioactive decay processes that do not result in a nuclear transmutation the energy of an excited nucleus may be emitted as a gamma ray in a process called gamma decay or be used to eject an orbital electron by its interaction with the excited nucleus in a process called internal conversion highly excited neutron-rich nuclei formed as the product of other types of decay occasionally lose energy by way of neutron emission resulting in a change of an element from one isotope to another
 another type of radioactive decay results in products that are not defined but appear in a range of "pieces" of the original nucleus this decay called spontaneous fission happens when a large unstable nucleus spontaneously splits into two (and occasionally three) smaller daughter nuclei and generally leads to the emission of gamma rays neutrons or other particles from those products
@@ -10,6 +10,7 @@ radioactivity was discovered in 1896 by the french scientist henri becquerel whi
 it soon became clear that the blackening of the plate had nothing to do with phosphorescence as the blackening was also produced by non-phosphorescent salts of uranium and metallic uranium it became clear from these experiments that there was a form of invisible radiation that could pass through paper and was causing the plate to react as if exposed to light
 at first it seemed as though the new radiation was similar to the then recently discovered x-rays further research by becquerel ernest rutherford paul villard pierre curie marie curie and others showed that this form of radioactivity was significantly more complicated rutherford was the first to realize that all such elements decay in accordance with the same mathematical exponential formula rutherford and his student frederick soddy were the first to realize that many decay processes resulted in the transmutation of one element to another subsequently the radioactive displacement law of fajans and soddy was formulated to describe the products of alpha and beta decay
 the early researchers also discovered that many other chemical elements besides uranium have radioactive isotopes a systematic search for the total radioactivity in uranium ores also guided pierre and marie curie to isolate two new elements: polonium and radium except for the radioactivity of radium the chemical similarity of radium to barium made these two elements difficult to distinguish
+marie and pierre curies study of radioactivity is an important factor in science and medicine after their research on becquerel's rays lead them to the discovery on both radium and polonium they coined the term "radioactivity." their research on the penetrating rays in uranium and discovery of radium launched an era of using radium for treatment of cancer their exploration of radium could be seen as the first peaceful use of nuclear energy and the start of modern nuclear medicine
 == early health dangers ==
 the dangers of ionizing radiation due to radioactivity and x-rays were not immediately recognized
 === x-rays ===
@@ -19,7 +20,7 @@ despite this there were some early systematic hazard investigations and as early
 === radioactive substances ===
 however the biological effects of radiation due to radioactive substances were less easy to gauge this gave the opportunity for many physicians and corporations to market radioactive substances as patent medicines examples were radium enema treatments and radium-containing waters to be drunk as tonics marie curie protested against this sort of treatment warning that the effects of radiation on the human body were not well understood curie later died from aplastic anaemia likely caused by exposure to ionizing radiation by the 1930s after a number of cases of bone necrosis and death of radium treatment enthusiasts radium-containing medicinal products had been largely removed from the market (radioactive quackery)
 === radiation protection ===
-only a year after rntgen's discovery of x rays the american engineer wolfram fuchs (1896) gave what is probably the first protection advice but it was not until 1925 that the first international congress of radiology (icr) was held and considered establishing international protection standards the effects of radiation on genes including the effect of cancer risk were recognized much later in 1927 hermann joseph muller published research showing genetic effects and in 1946 was awarded the nobel prize for his findings
+only a year after rntgen's discovery of x rays the american engineer wolfram fuchs (1896) gave what is probably the first protection advice but it was not until 1925 that the first international congress of radiology (icr) was held and considered establishing international protection standards the effects of radiation on genes including the effect of cancer risk were recognized much later in 1927 hermann joseph muller published research showing genetic effects and in 1946 was awarded the nobel prize in physiology or medicine for his findings
 the second icr was held in stockholm in 1928 and proposed the adoption of the rontgen unit and the 'international x-ray and radium protection committee' (ixrpc) was formed rolf sievert was named chairman but a driving force was george kaye of the british national physical laboratory the committee met in 1931 1934 and 1937
 after world war ii the increased range and quantity of radioactive substances being handled as a result of military and civil nuclear programmes led to large groups of occupational workers and the public being potentially exposed to harmful levels of ionising radiation this was considered at the first post-war icr convened in london in 1950 when the present international commission on radiological protection (icrp) was born since then the icrp has developed the present international system of radiation protection covering all aspects of radiation hazard
 == units of radioactivity ==
@@ -51,6 +52,47 @@ total activity a is the number of decays per unit time of a radioactive sample
 number of particlesn is the total number of particles in the sample
 specific activitysa number of decays per unit time per amount of substance of the sample at time set to zero (t = 0) "amount of substance" can be the mass volume or moles of the initial sample
 these are related as follows:
+t
+1
+/
+2
+=
+ln
+(
+2
+)
+=
+ln
+(
+2
+)
+{\displaystyle t_{1/2}={\frac {\ln(2)}{\lambda }}=\tau \ln(2)}
+a
+=
+d
+n
+d
+t
+=
+n
+{\displaystyle a=-{\frac {\mathrm {d} n}{\mathrm {d} t}}=\lambda n}
+s
+a
+a
+0
+=
+d
+n
+d
+t
+|
+t
+=
+0
+=
+n
+0
+{\displaystyle s_{a}a_{0}=-{\frac {\mathrm {d} n}{\mathrm {d} t}}{\bigg |}_{t=0}=\lambda n_{0}}
 where n0 is the initial amount of active substance substance that has the same percentage of unstable particles as when the substance was formed
 == mathematics of radioactive decay ==
 === universal law of radioactive decay ===
@@ -59,32 +101,321 @@ the mathematics of radioactive decay depend on a key assumption that a nucleus o
 ==== one-decay process ====
 consider the case of a nuclide a that decays into another b by some process a b (emission of other particles like electron neutrinos
 e and electrons e as in beta decay are irrelevant in what follows) the decay of an unstable nucleus is entirely random and it is impossible to predict when a particular atom will decay however it is equally likely to decay at any instant in time therefore given a sample of a particular radioisotope the number of decay events dn expected to occur in a small interval of time dt is proportional to the number of atoms present n that is
+d
+n
+d
+t
+n
+{\displaystyle -{\frac {\mathrm {d} n}{\mathrm {d} t}}\propto n.}
 particular radionuclides decay at different rates so each has its own decay constant  the expected decay dn/n is proportional to an increment of time dt:
 the negative sign indicates that n decreases as time increases as the decay events follow one after another the solution to this first-order differential equation is the function:
+n
+(
+t
+)
+=
+n
+0
+e
+t
+=
+n
+0
+e
+t
+/
+{\displaystyle n(t)=n_{0}\,e^{-{\lambda }t}=n_{0}\,e^{-t/\tau },\,\!}
 where n0 is the value of n at time t = 0
 we have for all time t:
+n
+a
++
+n
+b
+=
+n
+t
+o
+t
+a
+l
+=
+n
+a
+0
+{\displaystyle n_{a}+n_{b}=n_{\mathrm {total} }=n_{a0},}
 where ntotal is the constant number of particles throughout the decay process which is equal to the initial number of a nuclides since this is the initial substance
 if the number of non-decayed a nuclei is:
+n
+a
+=
+n
+a
+0
+e
+t
+{\displaystyle n_{a}=n_{a0}e^{-{\lambda }t}\,\!}
 then the number of nuclei of b i.e the number of decayed a nuclei is
+n
+b
+=
+n
+a
+0
+n
+a
+=
+n
+a
+0
+n
+a
+0
+e
+t
+=
+n
+a
+0
+(
+1
+e
+t
+)
+{\displaystyle n_{b}=n_{a0}-n_{a}=n_{a0}-n_{a0}e^{-{\lambda }t}=n_{a0}\left(1-e^{-{\lambda }t}\right).}
 the number of decays observed over a given interval obeys poisson statistics if the average number of decays is <n> the probability of a given number of decays n is
+p
+(
+n
+)
+=
+n
+n
+exp
+(
+n
+)
+n
+{\displaystyle p(n)={\frac {\langle n\rangle ^{n}\exp(-\langle n\rangle )}{n!}}.}
 ==== chain-decay processes ====
 chain of two decays
 now consider the case of a chain of two decays: one nuclide a decaying into another b by one process then b decaying into another c by a second process i.e a b c the previous equation cannot be applied to the decay chain but can be generalized as follows since a decays into b then b decays into c the activity of a adds to the total number of b nuclides in the present sample before those b nuclides decay and reduce the number of nuclides leading to the later sample in other words the number of second generation nuclei b increases as a result of the first generation nuclei decay of a and decreases as a result of its own decay into the third generation nuclei c the sum of these two terms gives the law for a decay chain for two nuclides:
+d
+n
+b
+d
+t
+=
+b
+n
+b
++
+a
+n
+a
+{\displaystyle {\frac {\mathrm {d} n_{b}}{\mathrm {d} t}}=-\lambda _{b}n_{b}+\lambda _{a}n_{a}.}
 the rate of change of nb that is dnb/dt is related to the changes in the amounts of a and b nb can increase as b is produced from a and decrease as b produces c
 re-writing using the previous results:
 the subscripts simply refer to the respective nuclides i.e na is the number of nuclides of type a na0 is the initial number of nuclides of type a a is the decay constant for a - and similarly for nuclide b solving this equation for nb gives:
+n
+b
+=
+n
+a
+0
+a
+b
+a
+(
+e
+a
+t
+e
+b
+t
+)
+{\displaystyle n_{b}={\frac {n_{a0}\lambda _{a}}{\lambda _{b}-\lambda _{a}}}\left(e^{-\lambda _{a}t}-e^{-\lambda _{b}t}\right).}
 in the case where b is a stable nuclide (b = 0) this equation reduces to the previous solution:
+lim
+b
+0
+[
+n
+a
+0
+a
+b
+a
+(
+e
+a
+t
+e
+b
+t
+)
+]
+=
+n
+a
+0
+a
+0
+a
+(
+e
+a
+t
+1
+)
+=
+n
+a
+0
+(
+1
+e
+a
+t
+)
+{\displaystyle \lim _{\lambda _{b}\rightarrow 0}\left[{\frac {n_{a0}\lambda _{a}}{\lambda _{b}-\lambda _{a}}}\left(e^{-\lambda _{a}t}-e^{-\lambda _{b}t}\right)\right]={\frac {n_{a0}\lambda _{a}}{0-\lambda _{a}}}\left(e^{-\lambda _{a}t}-1\right)=n_{a0}\left(1-e^{-\lambda _{a}t}\right),}
 as shown above for one decay the solution can be found by the integration factor method where the integrating factor is ebt this case is perhaps the most useful since it can derive both the one-decay equation (above) and the equation for multi-decay chains (below) more directly
 chain of any number of decays
 for the general case of any number of consecutive decays in a decay chain i.e a1 a2 ai ad where d is the number of decays and i is a dummy index (i = 1 2 3 d) each nuclide population can be found in terms of the previous population in this case n2 = 0 n3 = 0,... nd = 0 using the above result in a recursive form:
+d
+n
+j
+d
+t
+=
+j
+n
+j
++
+j
+1
+n
+(
+j
+1
+)
+0
+e
+j
+1
+t
+{\displaystyle {\frac {\mathrm {d} n_{j}}{\mathrm {d} t}}=-\lambda _{j}n_{j}+\lambda _{j-1}n_{(j-1)0}e^{-\lambda _{j-1}t}.}
 the general solution to the recursive problem is given by bateman's equations:
 ==== alternative decay modes ====
 in all of the above examples the initial nuclide decays into only one product consider the case of one initial nuclide that can decay into either of two products that is a b and a c in parallel for example in a sample of potassium-40 89.3% of the nuclei decay to calcium-40 and 10.7% to argon-40 we have for all time t:
+n
+=
+n
+a
++
+n
+b
++
+n
+c
+{\displaystyle n=n_{a}+n_{b}+n_{c}}
 which is constant since the total number of nuclides remains constant differentiating with respect to time:
+d
+n
+a
+d
+t
+=
+(
+d
+n
+b
+d
+t
++
+d
+n
+c
+d
+t
+)
+n
+a
+=
+n
+a
+(
+b
++
+c
+)
+{\displaystyle {\begin{aligned}{\frac {\mathrm {d} n_{a}}{\mathrm {d} t}}&=-\left({\frac {\mathrm {d} n_{b}}{\mathrm {d} t}}+{\frac {\mathrm {d} n_{c}}{\mathrm {d} t}}\right)\\-\lambda n_{a}&=-n_{a}\left(\lambda _{b}+\lambda _{c}\right)\\\end{aligned}}}
 defining the total decay constant in terms of the sum of partial decay constants b and c:
+=
+b
++
+c
+{\displaystyle \lambda =\lambda _{b}+\lambda _{c}.}
 notice that
+d
+n
+a
+d
+t
+<
+0
+d
+n
+b
+d
+t
+>
+0
+d
+n
+c
+d
+t
+>
+0
+{\displaystyle {\frac {\mathrm {d} n_{a}}{\mathrm {d} t}}<0,{\frac {\mathrm {d} n_{b}}{\mathrm {d} t}}>0,{\frac {\mathrm {d} n_{c}}{\mathrm {d} t}}>0.}
 solving this equation for na:
+n
+a
+=
+n
+a
+0
+e
+t
+{\displaystyle n_{a}=n_{a0}e^{-\lambda t}.}
 where na0 is the initial number of nuclide a when measuring the production of one nuclide one can only observe the total decay constant  the decay constants b and c determine the probability for the decay to result in products b or c as follows:
+n
+b
+=
+b
+n
+a
+0
+(
+1
+e
+t
+)
+{\displaystyle n_{b}={\frac {\lambda _{b}}{\lambda }}n_{a0}\left(1-e^{-\lambda t}\right),}
+n
+c
+=
+c
+n
+a
+0
+(
+1
+e
+t
+)
+{\displaystyle n_{c}={\frac {\lambda _{c}}{\lambda }}n_{a0}\left(1-e^{-\lambda t}\right).}
 because the fraction b/ of nuclei decay into b while the fraction c/ of nuclei decay into c
 === corollaries of the decay laws ===
 the above equations can also be written using quantities related to the number of nuclide particles n in a sample;
@@ -95,22 +426,146 @@ where l = 70236022000000000006.0221023 is avogadro's constant ar is the relative
 === decay timing: definitions and relations ===
 ==== time constant and mean-life ====
 for the one-decay solution a b:
+n
+=
+n
+0
+e
+t
+=
+n
+0
+e
+t
+/
+{\displaystyle n=n_{0}\,e^{-{\lambda }t}=n_{0}\,e^{-t/\tau },\,\!}
 the equation indicates that the decay constant has units of t1 and can thus also be represented as 1/ where is a characteristic time of the process called the time constant
 in a radioactive decay process this time constant is also the mean lifetime for decaying atoms each atom "lives" for a finite amount of time before it decays and it may be shown that this mean lifetime is the arithmetic mean of all the atoms' lifetimes and that it is  which again is related to the decay constant as follows:
+=
+1
+{\displaystyle \tau ={\frac {1}{\lambda }}.}
 this form is also true for two-decay processes simultaneously a b + c inserting the equivalent values of decay constants (as given above)
+=
+b
++
+c
+{\displaystyle \lambda =\lambda _{b}+\lambda _{c}\,}
 into the decay solution leads to:
+1
+=
+=
+b
++
+c
+=
+1
+b
++
+1
+c
+{\displaystyle {\frac {1}{\tau }}=\lambda =\lambda _{b}+\lambda _{c}={\frac {1}{\tau _{b}}}+{\frac {1}{\tau _{c}}}\,}
 ==== half-life ====
 a more commonly used parameter is the half-life given a sample of a particular radionuclide the half-life is the time taken for half the radionuclide's atoms to decay for the case of one-decay nuclear reactions:
+n
+=
+n
+0
+e
+t
+=
+n
+0
+e
+t
+/
+{\displaystyle n=n_{0}\,e^{-{\lambda }t}=n_{0}\,e^{-t/\tau },\,\!}
 the half-life is related to the decay constant as follows: set n = n0/2 and t = t1/2 to obtain
+t
+1
+/
+2
+=
+ln
+2
+=
+ln
+2
+{\displaystyle t_{1/2}={\frac {\ln 2}{\lambda }}=\tau \ln 2.}
 this relationship between the half-life and the decay constant shows that highly radioactive substances are quickly spent while those that radiate weakly endure longer half-lives of known radionuclides vary widely from more than 1019 years such as for the very nearly stable nuclide 209bi to 1023 seconds for highly unstable ones
 the factor of ln(2) in the above relations results from the fact that concept of "half-life" is merely a way of selecting a different base other than the natural base e for the lifetime expression the time constant is the e -1 -life the time until only 1/e remains about 36.8% rather than the 50% in the half-life of a radionuclide thus is longer than t1/2 the following equation can be shown to be valid:
+n
+(
+t
+)
+=
+n
+0
+e
+t
+/
+=
+n
+0
+2
+t
+/
+t
+1
+/
+2
+{\displaystyle n(t)=n_{0}\,e^{-t/\tau }=n_{0}\,2^{-t/t_{1/2}}.\,\!}
 since radioactive decay is exponential with a constant probability each process could as easily be described with a different constant time period that (for example) gave its "(1/3)-life" (how long until only 1/3 is left) or "(1/10)-life" (a time period until only 10% is left) and so on thus the choice of and t1/2 for marker-times are only for convenience and from convention they reflect a fundamental principle only in so much as they show that the same proportion of a given radioactive substance will decay during any time-period that one chooses
 mathematically the nth life for the above situation would be found in the same way as aboveby setting n = n0/n t = t1/n and substituting into the decay solution to obtain
+t
+1
+/
+n
+=
+ln
+n
+=
+ln
+n
+{\displaystyle t_{1/n}={\frac {\ln n}{\lambda }}=\tau \ln n.}
 === example ===
 a sample of 14c has a half-life of 5,730 years and a decay rate of 14 disintegration per minute (dpm) per gram of natural carbon
 if an artifact is found to have radioactivity of 4 dpm per gram of its present c we can find the approximate age of the object using the above equation:
+n
+=
+n
+0
+e
+t
+/
+{\displaystyle n=n_{0}\,e^{-t/\tau },}
 where:
+n
+n
+0
+=
+4
+/
+14
+0.286
+{\displaystyle {\frac {n}{n_{0}}}=4/14\approx 0.286,}
+=
+t
+1
+/
+2
+ln
+2
+8267
+{\displaystyle \tau ={\frac {t_{1/2}}{\ln 2}}\approx 8267}
 years
+t
+=
+ln
+n
+n
+0
+10356
+{\displaystyle t=-\tau \,\ln {\frac {n}{n_{0}}}\approx 10356}
 years
 == changing decay rates ==
 the radioactive decay modes of electron capture and internal conversion are known to be slightly sensitive to chemical and environmental effects that change the electronic structure of the atom which in turn affects the presence of 1s and 2s electrons that participate in the decay process a small number of mostly light nuclides are affected for example chemical bonds can affect the rate of electron capture to a small degree (in general less than 1%) depending on the proximity of electrons to the nucleus in 7be a difference of 0.9% has been observed between half-lives in metallic and insulating environments this relatively large effect is because beryllium is a small atom whose valence electrons are in 2s atomic orbitals which are subject to electron capture in 7be because (like all s atomic orbitals in all atoms) they naturally penetrate into the nucleus
@@ -161,6 +616,7 @@ the lund/lbnl nuclear data search contains tabulated information on radioactive 
 nomenclature of nuclear chemistry
 specific activity and related topics
 the live chart of nuclides iaea
+interactive chart of nuclides
 health physics society public education website
 beach chandler b. ed (1914) "becquerel rays" the new student's reference work chicago: f e compton and co
 annotated bibliography for radioactivity from the alsos digital library for nuclear issues

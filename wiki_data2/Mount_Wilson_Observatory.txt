@@ -1,0 +1,99 @@
+The Mount Wilson Observatory (MWO) is an astronomical observatory in Los Angeles County, California, United States. The MWO is located on Mount Wilson, a 1,740-metre (5,710-foot) peak in the San Gabriel Mountains near Pasadena, northeast of Los Angeles.
+The observatory contains two historically important telescopes: the 100-inch (2.5 m) Hooker telescope, which was the largest aperture telescope in the world from its completion in 1917 to 1949, and the 60-inch (1.5 m) Hale telescope which was the largest telescope in the world when it was completed in 1908. It also contains the Snow solar telescope completed in 1905, the 18 meter solar tower completed in 1908, the 46 meter solar tower completed in 1912, and the CHARA array, built by Georgia State University, which became fully operational in 2004 and was the largest optical interferometer in the world at its completion.
+Due to the inversion layer that traps smog over Los Angeles, Mount Wilson has naturally steadier air than any other location in North America, making it ideal for astronomy and in particular for interferometry. The increasing light pollution due to the growth of greater Los Angeles has limited the ability of the observatory to engage in deep space astronomy, but it remains a productive center, with the CHARA Array continuing important stellar research.
+The observatory was conceived and founded by George Ellery Hale, who had previously built the 1 meter telescope at the Yerkes Observatory, then the world's largest telescope. The Mount Wilson Solar Observatory was first funded by the Carnegie Institution of Washington in 1904, leasing the land from the owners of the Mount Wilson Hotel in 1904. Among the conditions of the lease was that it allow public access.
+
+
+== Solar telescopesEdit ==
+
+There are three solar telescopes at Mount Wilson Observatory. Today, just one of these telescopes, the 18 meter solar tower, is still used for solar research.
+The Snow solar telescope was the first telescope installed at the fledgling Mount Wilson Solar Observatory. It was the world's first permanently mounted solar telescope. Solar telescopes had previously been portable so they could be taken to solar eclipses around the world. The telescope was donated to Yerkes Observatory by Helen Snow of Chicago. George Ellery Hale, then director of Yerkes, had the telescope brought to Mount Wilson to put it into service as a proper scientific instrument. Its 610 mm primary mirror with a 18.3 meter focal length, coupled with a spectrograph, did groundbreaking work on the spectra of sunspots, doppler shift of the rotating solar disc and daily solar images in several wavelengths. Stellar research soon followed as the brightest stars could have their spectra recorded with very long exposures on glass plates. Today the Snow solar telescope is mostly used by undergraduate students who get hands on training in solar physics and spectroscopy.
+
+The 18 meter solar tower soon built on the work started at the Snow telescope. At its completion in 1908, the vertical tower design of the 18 meter solar telescope allowed much higher resolution of the solar image and spectrum than the Snow telescope could achieve. The higher resolution came from situating the optics higher above the ground, thereby avoiding the distortion caused by the heating of the ground by the sun. On June 25, 1908, Hale would record Zeeman splitting in the spectrum of a sunspot, showing for the first time that magnetic fields existed somewhere besides the earth. A later discovery was of the reversed polarity in sunspots of the new solar cycle of 1912. The success of the 18 meter tower prompted Hale to pursue yet another, taller tower telescope. In the 1960"s, Robert Leighton discovered the sun had a 5-minute oscillation and the field of heliosiesmology was born. The 18-meter tower is operated by the Department of Physics and Astronomy at USC.
+The 150-foot solar tower expanded on the tower design with its tower-in-a-tower design. (The tower is actually 176 feet (54 m) tall.) An inner tower supports the optics above, while an outer tower, which completely surrounds the inner tower, supports the dome and floors around the optics. This design allowed complete isolation of the optics from the effect of wind swaying the tower. It was first completed in 1910, but unsatisfactory optics caused a two-year delay before a suitable doublet lens was installed. Research included solar rotation, sunspot polarities, daily sunspot drawings, and many magnetic field studies. The solar telescope would be the world's largest for 50 years until the McMath-Pierce Solar telescope was completed at Kitt Peak in Arizona in 1962. In 1985, UCLA took over operation of the solar tower from the Carnegie Observatories after it was decided to stop funding the observatory.
+
+
+== 60-inch Hale telescopeEdit ==
+
+For his 60-inch Hale telesecope, George Ellery Hale received the 60-inch (1.5 m) mirror blank, cast by Saint-Gobain in France, in 1896 as a gift from his father, William Hale. It was a glass disk 19 cm thick and weighing 860 kg. However it was not until 1904 that Hale received funding from the Carnegie Institution to build an observatory. Grinding began in 1905 and took two years. The mounting and structure for the telescope was built in San Francisco and barely survived the 1906 earthquake. Transporting the pieces to the top of Mount Wilson was an enormous task. First light was December 8, 1908. It was at the time the largest operational telescope in the world. Lord Rosse's Leviathan of Parsonstown, a 1.8-meter telescope built in 1845, was, by the 1890s, out of commission.
+
+The Hale telescope is a reflector telescope built for newtonian, cassegrain and coud configurations. It is currently used in the bent Cassegrain configuration. It became one of the most productive and successful telescopes in astronomical history. Its design and light-gathering power allowed the pioneering of spectroscopic analysis, parallax measurements, nebula photography, and photometric photography. Though surpassed in size by the Hooker telescope nine years later, the Hale telescope remained one of the largest in use for decades.
+In 1992, the 60-inch Hale telescope was fitted with an early adaptive optics system, the Atmospheric Compensation Experiment (ACE). The 69-channel system improved the potential resolving power of the telescope from 0.5-1.0 arc sec to 0.07 arc sec. ACE was developed by DARPA for the Strategic Defense Initiative system, and the National Science Foundation funded the civilian conversion.
+Today, the telescope is used for public outreach. It is the second largest telescope in the world devoted to the general public. Custom made 10 cm eyepieces are fitted to its focus using the bent cassegrain configuration to provide views of the moon, planetary, and deep-sky objects. Groups of up to 25 individuals are able to book the telescope for an evening of observing, with a Telescope Operator and a Session Director taking care of the safe operation of the telescope. As of the 2015 observing season, the cost for a half-night of observing is $900 and full night of observing is $1700.
+
+
+== Hooker telescopeEdit ==
+
+The 100-inch (2.5 m) Hooker telescope located at Mount Wilson Observatory, California, was the world's largest telescope from 1917 to 1949. It is one of the most famous telescopes in observational astronomy of the 20th century. It was used by Edwin Hubble soon after its completion in 1917. With the Hooker telescope, Hubble was able to prove that the Universe goes beyond the Milky Way galaxy and showed that it was expanding. The discoveries made with the 100-inch Hooker telescope fundamentally changed the scientific view of the Universe.
+
+
+=== ConstructionEdit ===
+
+Once the sixty-inch telescope project was well underway, Hale immediately set about creating a larger telescope. John D. Hooker provided crucial funding of $45,000 for the purchase and grinding of the mirror, while Andrew Carnegie. provided funds to complete the telescope and dome. The Saint-Gobain factory was again chosen to cast a blank in 1906, which it completed in 1908. After considerable trouble over the blank (and potential replacements), the Hooker telescope was completed and saw "first light" on November 2, 1917. As with the sixty-inch telescope, the bearings are assisted by the use of mercury floats to support the 100 ton weight of the telescope.
+In 1919 the Hooker telescope was equipped with a special attachment, a 6-meter optical astronomical interferometer developed by Albert A. Michelson, much larger than the one he had used to measure Jupiter's satellites. Michelson was able to use the equipment to determine the precise diameter of stars, such as Betelgeuse, the first time the size of a star had ever been measured. Henry Norris Russell developed his star classification system based on observations using the Hooker.
+In 1935 the silver coating used since 1917 on the Hooker mirror was replaced with a more modern and longer lasting aluminum coating that reflected 50% more light than the older silver method of coating. The newer method of coating for the telescope mirrors was first tested on the older 1.5 meter mirror.
+
+Edwin Hubble performed many critical calculations from work on the Hooker telescope. In 1923, Hubble discovered the first Cepheid variable in the spiral nebula of Andromeda using the 2.5-meter telescope. This discovery allowed him to calculate the distance to the spiral nebula of Andromeda and show that it was actually a galaxy outside our own Milky Way. Hubble, assisted by Milton L. Humason, observed the magnitude of the redshift in many galaxies and published a paper in 1929 that showed the universe is expanding.
+The Hooker's reign of three decades as the largest telescope came to an end when the Caltech-Carnegie consortium completed its 200-inch (5.1 m) Hale telescope in 1948 at Palomar Observatory, 144 km south, in San Diego County, California.
+By the 1980s, the focus of astronomy research had turned to deep space observation, which required darker skies than what could be found in the Los Angeles area, due to the ever-increasing problem of light pollution. In 1989, the Carnegie Institution, which ran the observatory, handed it over to the non-profit Mount Wilson Institute. At that time, the 2.5-meter telescope was deactivated, but it was restarted in 1992 and in 1995 it was outfitted with a visible light adaptive optics system and later in 1997, it hosted the UnISIS, laser guide star adaptive optics system.
+As the use of the telescope for scientific work diminished again, a decision was made to convert it to use for visual observing. Because of the high position of the Cassegrain focus above the observing floor, a system of mirrors and lenses was developed to allow viewing from a position at the bottom of the telescope tube. With the conversion completed in 2014, the 2.5 meter telescope began its new life as the world's largest telescope dedicated to public use. Regularly scheduled observing began with the 2015 observing season.
+The telescope has a resolving power of 0.05 arcsecond.
+
+
+== InterferometryEdit ==
+
+Astronomical interferometry has a rich history at Mount Wilson. No fewer than seven interferometers have been located here. The reason for this is the extremely steady air over Mount Wilson is well suited to interferometry, the use of multiple viewing points to increase resolution enough to allow for the direct measurement of details such as star diameters.
+
+
+=== 20 foot Stellar InterferometerEdit ===
+The first of these interferometers was the 20 foot Stellar Interferometer. In 1919 the 100 inch Hooker telescope was equipped with a special attachment, a 20-foot optical astronomical interferometer developed by Albert A. Michelson and Francis G. Pease. It was attached to the end of the 100 inch telescope and used the telescope as a guiding platform to maintain alignment with the stars being studied. By December 1920, Michelson and Pease were able to use the equipment to determine the precise diameter of a star, the red giant Betelgeuse, the first time the angular size of a star had ever been measured. In the next year, Michelson and Pease measured the diameters of 6 more red giants before reaching the resolution limit of the 20 foot beam interferometer.
+To expand on the work of the 20 foot interferometer, Pease, Michelson and George E. Hale designed a 50-foot interferometer which was installed at Mount Wilson Observatory in 1929. It successfully measured the diameter of Betelgeuse, but, other than beta Andromedae, could not measure any stars not already measured by the 20 foot interferometer.
+Optical interferometry reached the limit of the available technology and it took about thirty years for faster computing, electronic detectors and lasers to make larger interferometers possible again.
+
+
+=== Infrared Spatial InterferometerEdit ===
+
+The Infrared Spatial Interferometer (ISI) is an array of three 1.65 meter telescopes operating in the mid-infrared. The telescopes are fully mobile and their current site on Mount Wilson allows for placements as far as 70 meters apart, giving the resolution of a telescope of that diameter. The signals are converted to radio frequencies through heterodyne circuits and then combined electronically using techniques copied from radio astronomy. ISI is run by an arm of the University of California, Berkeley. The longest, 70-meter baseline provides a resolution of 0.003 arcsec at 11 micrometers. On July 9, 2003, ISI recorded the first closure phase aperture synthesis measurements in the mid infrared.
+
+
+=== CHARA arrayEdit ===
+
+The Center for High Angular Resolution Astronomy (CHARA) is an interferometer formed from six 1 meter telescopes arranged along three axes with a maximum separation length of 330 m. The light beams travel through vacuum tubes and are combined optically, requiring a building 100 meters long with movable mirrors to keep the light in phase as the earth rotates. CHARA is operated by the Georgia State University and began scientific use in 2002 and "routine operations" in early 2004. In the infrared the integrated image can resolve down to 0.0005 arcseconds. six telescopes are in regular use for scientific observations and as of late 2005 imaging results are routinely acquired. The array captured the first image of the surface of a main sequence star other than the sun published in early 2007.
+
+
+== Other telescopesEdit ==
+A 61 cm telescope fitted with an infrared detector purchased from a military contractor was used by Eric Becklin in 1966 to determine the center of the Milky Way for the first time.
+In 1968, the first large-area near-IR (2.2 m) survey of the sky was conducted by Gerry Neugebauer and Robert B. Leighton using a 157 cm reflecting dish they had built. The instrument is now in the Smithsonian.
+
+
+== HistoryEdit ==
+
+Letters to the Mount Wilson Observatory are the subject of a permanent exhibition at the Museum of Jurassic Technology in Los Angeles, California. A small room is dedicated to a collection of unusual letters and theories received by the observatory circa 19151935. These letters were also collected in the book No One May Ever Have the Same Knowledge Again: Letters to Mt. Wilson Observatory 19151935 (ISBN 0-9647215-0-3).
+The historic monument came under threat during the August 2009 California wildfires.
+The poet Alfred Noyes was present for the "first light" of the Hooker telescope on November 2, 1917. Noyes used this night as the setting in the opening of Watchers of the Sky, the first volume in his trilogy The Torchbearers, an epic poem about the history of science. According to his account of the night, the first object viewed in the telescope was Jupiter and Noyes himself was the first to see one of the planet's moons through the telescope.
+
+
+== In popular cultureEdit ==
+The Observatory was a filming location in a space themed episode of Check It Out! with Dr. Steve Brule.
+
+
+== See alsoEdit ==
+List of largest optical reflecting telescopes
+List of largest optical telescopes historically
+List of largest optical telescopes in the 20th century
+Mount Wilson Toll Road
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Official website
+The 100-inch Hooker Telescope
+150-Foot Solar Tower Webcam Image
+
+CHARA
+The ISI Array
+Mount Wilson Observatory Clear Sky Clock
+Letters to the MWO, 1915-1935
+"Telescope's Five Ton Eye Is Restored With Silver", January 1931, Popular Mechanics

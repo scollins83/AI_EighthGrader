@@ -1,0 +1,157 @@
+A Renewable Portfolio Standard (RPS) is a regulation that requires the increased production of energy from renewable energy sources, such as wind, solar, biomass, and geothermal. Other common names for the same concept include Renewable Electricity Standard (RES) at the United States federal level and Renewables Obligation in the UK.
+The RPS mechanism generally places an obligation on electricity supply companies to produce a specified fraction of their electricity from renewable energy sources. Certified renewable energy generators earn certificates for every unit of electricity they produce and can sell these along with their electricity to supply companies. Supply companies then pass the certificates to some form of regulatory body to demonstrate their compliance with their regulatory obligations. Because it is a market mandate, the RPS relies almost entirely on the private market for its implementation. Unlike feed-in tariffs which guarantee purchase of all renewable energy regardless of cost, RPS programs tend to allow more price competition between different types of renewable energy, but can be limited in competition through eligibility and multipliers for RPS programs. Those supporting the adoption of RPS mechanisms claim that market implementation will result in competition, efficiency and innovation that will deliver renewable energy at the lowest possible cost, allowing renewable energy to compete with cheaper fossil fuel energy sources.
+RPS-type mechanisms have been adopted in several countries, including Britain, Italy, Poland, Sweden, Belgium, and Chile, as well as in 33 of 50 U.S. states, and the District of Columbia.
+
+
+== Program diversity ==
+Of all the state-based RPS programs in place today, no two are the same. Each has been designed taking into account state-specific policy objectives (e.g. economic growth, diversity of energy supply, environmental concerns), local resource endowment, political considerations, and the capacity to expand renewable energy production. At the most basic level, this gives rise to differing RPS targets and years (e.g. Arizona's 15% by 2025 and Colorado's 30% by 2020 ). Looking at these two values alone can however be misleading. Other factors in program design include resource eligibility, in-state requirements, new build requirements, technology favoritism, lobbying by industry associations and non-profits, groups cost caps, program coverage (IOUs versus Cooperatives and Municipal utilities), cost recovery by utilities, penalties for non-compliance, rules regarding REC creation and trading, and additional non-binding goals. Since RPS programs create a mandate to purchase renewable energy, they create a lucrative captive market of buyers for renewable energy producers who are eligible in a particular state's RPS program to issue RECs. Because of the wide variety and localized regulation of US RPS programs, they are vulnerable to regulatory capture. A state may choose to promote new investment in renewable energy generation capacity by not making eligible existing renewable energy such as hydroelectric plants or geothermal energy to qualify under a RPS program.
+
+
+=== Additional non-binding goals ===
+Many states that have mandatory Renewable Portfolio Standards also have additional voluntary targets either for the total proportion of renewable energy or for a particular technology type.
+
+
+=== Program coverage ===
+Program coverage refers to those entities that are expected or obliged to meet the renewable portfolio targets and goals. In many states, municipalities and cooperatives are exempt from the RPS target, have a lower target, or are required to develop their own targets. Furthermore, in some states such as Minnesota, individual utilities (e.g., Xcel Energy) are singled out for special treatment.
+
+
+=== Renewable energy certificates (RECs) ===
+Most states with RPS programs have associated renewable energy certificate trading programs. RECs provide a mechanism by which to track the amount of renewable power being sold and to financially reward eligible power producers. For each unit of power that an eligible producer generates, a certificate or credit is issued. These can then be sold either in conjunction with the underlying power or separately to energy supply companies. A market exists for RECs because energy supply companies are required to redeem certificates equal to their obligation under the RPS program. State specific programs or various applications (e.g., WREGIS, M-RETS, NEPOOL GIS) are used to track REC issuance and ownership. These credits can in some programs be 'banked' (for use in future years) or borrowed (to meet current year commitments). There is a great deal of variety among the states in the handling and functioning of RECs and this will be a major issue in integrating state and federal programs.
+
+
+=== Multipliers ===
+For states with REC trading programs, a Renewable Energy Certificate is issued to eligible producers for each MWh of renewable energy production. Some state programs, in order to promote specific renewable technology types, apply a credit multiplier by which a MWh of electricity produced by a particular technology receives more than one REC. For example, a wind multiplier of 3 means that one MWh of electricity produced with wind technology provides the producer of that electricity with 3 certificates. RPS multipliers are powerful tools for regulators to direct revenue, investment, and job creation to particular types of renewable energy vs a free market of renewable energy. Since the definition of what is renewable energy isn't clear cut, for example, nuclear power, and whether an RPS program should consider environmental damage of a renewable energy source (for example, hydroelectric dams, bird strikes of wind turbines, geothermal earthquakes, solar thermal water use) affects RPS program implementations. A state can use a multiplier as protectionism to local renewable energy generators from out of state renewable generators. Since RECs are regulated at a state level, their ability to be traded over state lines varies.
+
+
+=== Solar renewable energy certificates (SRECs) ===
+Over 16 of the approximately 30 states with RPS programs have also established a set-aside for solar energy. This results in the creation and trading of RECs specific to solar known as solar renewable energy certificates (SRECs). The solar set-aside establishes a separate market for SRECs that encourages the inclusion of solar technology in the renewable energy mix. This differs from the REC multiplier approach used by some states in which a REC from solar might count 2-3 times as much as any other REC. Multipliers have had limited impact in promoting solar technology since most REC buyers will find it easier to source 2-3 times their REC needs from the economics and scale that come with wind farms. With a separate market for SRECs, states are able to ensure that a portion of their renewable energy comes from solar. As a result, states with solar carve-outs, such as New Jersey, have had more success in promoting solar energy through the RPS than states, such as Texas, with a generic REC market or REC multiplier.
+
+
+=== Tiers and Set Asides ===
+Many state programs promote particular technology types by establishing sub-targets known as carve outs or set-asides. In addition to meeting the overall RPS targets, energy supply companies need to show that they have acquired a particular percentage of their power sales from the designated technology type. In some instances, multiple technology types are bundled together in 'tiers' or 'classes' with similar effect. Not all states have set-asides or tiers (some preferring to promote particular technologies through credit multipliers) and each state that groups technologies together in a tier does so differently.
+
+
+=== Eligible technologies ===
+Every state defines 'renewable' technologies differently. Ohio, for example, is the only state that counts advanced nuclear power generation as an eligible technology. States often start with an assessment whether the renewable technology is economically feasible in the absence of an RPS program. This is best personified by distinguishing between small and large hydroelectric facilities. Many states exclude existing renewable facilities from benefiting from an RPS program for the same reason. A state's definition of eligible technologies is also driven by the objectives of the program. Programs designed to promote diversity in generation types may include or promote technologies different from programs designed to achieve environmental goals.
+In a 2011 report published by the Union of Concerned Scientists, Doug Koplow said:
+
+Nuclear power should not be eligible for inclusion in a renewable portfolio standard. Nuclear power is an established, mature technology with a long history of government support. Furthermore, nuclear plants are unique in their potential to cause catastrophic damage (due to accidents, sabotage, or terrorism); to produce very long-lived radioactive wastes; and to exacerbate nuclear proliferation.
+
+The United Nations classifies a particular subset of presently operating nuclear fission technologies as renewable. Reactors that produce more fissile fuel than they consume - breeder reactors and, eventually, nuclear fusion, are classified within the same category as conventional renewable energy sources, such as solar and falling water.
+
+
+=== Penalties ===
+In order to motivate compliance, states that have enforceable standards will have penalties for utilities that fail to reach the specified targets. States may choose to set penalty values or make arbitrary penalty amounts when suppliers fail to meet a renewable target. Where specific technologies are promoted through either tiers or set-aside provisions, the penalties for missing these targets are typically separate and higher. Some states have higher penalties for repeat violations and others escalate penalties on a yearly basis according to price indices.
+
+
+=== Cost caps ===
+All states either place caps on the cost of the program or include some form of 'escape clause' whereby the regulatory authority can suspend the program or exempt utilities from meeting its requirements. The need for such measures arises from the difficulties in estimating in advance the actual cost of the RPS program. The realized cost to the utility and the ratepayer is not known until the supply and cost base of renewable power, along with actual demand, is established. However, likely costs can be estimated, and some states appear to have set cost caps low enough that complete RPS requirements could not be fulfilled without a significant decrease in renewables costs.
+
+
+=== Cost recovery ===
+With few exceptions, utilities are allowed to recover the additional cost of procuring renewable power. The method by which this can be achieved varies by state. Some states opt for a ratepayer surcharge while others require utilities to include costs in rate base. In some instances, utilities are even able to recover the cost of penalties associated with non-compliance.
+
+
+== Existing Renewable Portfolio Standards ==
+
+
+=== Australia ===
+Renewable Energy (Electricity) Act 2000 (Cth)
+
+
+=== China ===
+China adopted a renewable energy target in 2006 and modified it in 2009 to the following targets:
+Renewable electricity - 500 GW by 2020 (300 from hydro, 150 from wind, 30 from biomass, and 20 from solar PV)
+Renewable energy - 15% by 2020 (15% non-fossile-fuel, which includes nuclear)
+
+
+=== European Union ===
+The European Union passed the Directive on Electricity Production from Renewable Energy Sources in 2001 and expanded it in 2007 to the following EU-wide targets (although member states are free to pass more aggressive targets):
+Renewable electricity - 33% by 2020
+Renewable energy - 20% by 2020
+
+
+==== Germany ====
+The German Renewable Energy Act, since its adoption in 2000, is producing strong growth in renewable power capacity by encouraging private investors through guaranteed Feed-in tariffs. Germany adopted targets more aggressive than EU mandated targets on September 2010:
+Renewable electricity - 35% by 2020 and 80% by 2050
+Renewable energy - 18% by 2020, 30% by 2020, and 60% by 2050
+
+
+=== Japan ===
+Based on the 1997 Act on the Promotion of New Energy Usage, 118 million KWh was targeted in 2012 (METI).
+
+
+=== Republic of Korea ===
+The Republic of Korea adopted the Act on the Promotion of the Development, Use, and Diffusion of New and Renewable Energy since 2012.
+
+
+=== United States ===
+Currently, regulations vary from state to state because there is no federal policy. However, the federal government has discussed enacting a nationwide RPS in the future. Such a policy would establish a common goal for every state in the country, which is less confusing than the state by state table below. If the federal government does pass a national Renewable Portfolio Standard it could be problematic for some states. Since each state has a unique environmental landscape, each state has different abilities when it comes to producing renewable energy. States with less renewable resources available could be penalized for their lack of ability.
+RPS mechanisms have tended to be most successful in stimulating new renewable energy capacity in the United States where they have been used in combination with federal Production Tax Credits (PTC). In periods, where PTC have been withdrawn the RPS alone has often proven to be insufficient stimulus to incentivise large volumes of capacity.
+
+
+==== Federal ====
+Public Utility Regulatory Policies Act is a law, passed in 1978 by the United States Congress as part of the National Energy Act. It is meant to promote greater use of renewable energy.
+In 2009, the US Congress considered Federal level RPS requirements. The "American Clean Energy and Security Act" reported out of committee in July by the Senate Committee on Energy & Natural Resources includes a Renewable Electricity Standard that calls for 3% of U.S. electrical generation to come from non-hydro renewables by 20112013. However, the proposed Support Renewable Energy Act died in the 111th Congress.
+In 2007, the Edison Electric Institute, a trade association for Americas investor-owned utilities, reiterated their continuing opposition to a nationwide RPS; among the reasons included were that it conflicts with and preempts existing RES programs passed in many states, it does not adequately consider the uneven distribution of renewable resources across the country, and it creates inequities among utility customers, by specifically exempting all rural electric cooperatives, and government-owed utilities from the RES mandate.
+The American Legislative Exchange Council (ALEC) has drafted the model bill Electricity Freedom Act, which ALEC affiliate representatives are now attempting to roll out in various states and which "would end requirements for states to derive a specific percentage of their electricity needs from renewable energy sources."  As a result, of being unable to stop the approval of this model legislation, the American Wind Energy Association and the Solar Energy Industry Association allowed their ALEC membership lapse after one year as members.
+Different state RPS programs issue a different number of Renewable Energy Credits depending on the generation technology; for example, solar generation counts for twice as much as other renewable sources in Michigan and Virginia.
+
+
+==== State ====
+
+
+===== California =====
+The California Renewables Portfolio Standard was created in 2002 under Senate Bill 1078 and further accelerated in 2006 under Senate Bill 107. The bills stipulate that California electricity corporations must expand their renewable portfolio by 1% each year until reaching 20% in 2010. On November 17, 2008, Governor Arnold Schwarzenegger signed executive order S-14-08 which mandated a RPS of 33% by 2020 which sits in addition to the 20% by 2010 order.
+
+
+===== Colorado =====
+The Colorado Renewable Portfolio Standard was updated from 20% to 30% in the 2010 Legislative Session as House Bill 1001. This increase is anticipated to increase solar industry jobs from current (2009) estimated 2,500 to 33,500 by 2020. The updated RPS is also anticipated to create an additional $4.3B (U.S.) in state revenue within the industries.
+
+
+===== Michigan =====
+On October 6, 2008, Public Act 295 was signed into law in the State of Michigan. This Act, known as the Clean, Renewable and Efficient Energy Act, established a Renewable Energy Standard for the State of Michigan. The Renewable Energy Standard requires Michigan electric providers to achieve a retail supply portfolio that includes at least 10% renewable energy by 2015.
+A ballot proposal to raise the standard to 25% renewable energy by 2025 as a constitutional amendment was put to the voters in the November 2012 General Election as Proposal 3. A Proposal To Amend the State Constitution to Establish a Standard for Renewable Energy. The ballot proposal was defeated with over 60% opposing the proposal.
+According to the State of Michigan, as of March 4, 2013 "progress toward the first compliance year in 2012 and the 10 percent renewable energy standard in 2015 is going smoothly. Michigans electric providers are on track to meet the 10 percent renewable energy requirement. The renewable energy standard is resulting in the development of new renewable capacity and can be credited with the development of over 1,000 MW of new renewable energy projects becoming commercially operational since the Act became law. The weighted average price of renewable energy contracts is $82.54 per MWh which is less than forecasted in REPs."
+
+
+===== Nevada =====
+In 1997 Nevada passed a Renewable Portfolio Standard as part of their 1997 Electric Restructuring Legislation (AB 366) It required any electric providers in the state to acquire actual renewable electric generation or purchase renewable energy credits so that each utility had 1 percent of total consumption in renewables. However, on June 8, 2001, Nevada Governor Kenny Guinn signed SB 372, at the time the country's most aggressive renewable portfolio standard. The law requires that 15 percent of all electricity generated in Nevada be derived from new renewables by the year 2013.
+The Nevada RPS includes double goal. The 2001 revision requires that at least 5 percent of the renewable energy projects must generate electricity from solar energy.
+In June 2005, the Nevada legislature passed a bill during a special legislative session that modified the Nevada RPS (Assembly Bill 03). The bill extends the deadline and raised the requirements of the RPS to 20 percent of sales by 2015.
+Florida
+On Friday January 9, 2009 the Florida Public Service Commission unanimously agreed to require the state's utilities to generate 20 percent of their power from renewable resources by 2020.
+This is still not law until the legislature approves. This will drastically change the landscape for renewable energy applications for a state that gets less than 3 percent of its power from renewable energy. The proposal calls for 7 percent renewable energy by January 2013, 12 percent by 2016, 18 percent by 2019 and 20 percent by end of 2020.
+
+
+===== Ohio =====
+In an April 2008 unanimous vote, the Ohio legislature passed a bill requiring 25 percent of Ohio's energy to be generated from alternative and renewable sources, of which half or 12.5 percent must derive from renewable sources. However, in June 2014, the state froze its RPS at 2.5 percent for two years.
+
+
+===== Texas =====
+The Texas Renewable Portfolio Standard was originally created by Senate Bill 7 in 1999. The Texas RPS mandated that utility companies jointly create 2000 new MWs of renewables by 2009 based on their market share. In 2005, Senate Bill 20, increased the states RPS requirement to 5,880 MW by 2015, of which, 500 MW must come from non-wind resources. The bill set a goal of 10,000 MW of renewable energy capacity for 2025. The state's installed capacity reached the 10,000 MW target in early 2010, 15 years ahead of schedule.
+
+
+== See also ==
+List of U.S. states by electricity production from renewable sources
+Net metering
+power purchase agreement
+project finance
+Renewable electricity
+Renewables Obligation
+
+
+== References ==
+
+
+== External links ==
+Compare State Renewable Portfolio Standard Programs at RPS EDGE Databases
+What are Renewable Electricity Standards?
+Center for Climate and Energy Solutions RPS Map
+States with RPS Regulations
+Solar Energy Industries Association
+American Wind Energy Association
+Edison Electric Institute
+Renewables Portfolio Standard
+California's Renewable Energy Law Lives!
+The New York Renewable Portfolio Standard

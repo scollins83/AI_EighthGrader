@@ -1,0 +1,29 @@
+In 2006, the International Astronomical Union (IAU) defined a planet as a body in orbit around the Sun that was large enough to have achieved hydrostatic equilibrium and to have cleared the neighbourhood around its orbit. An object in hydrostatic equilibrium is one that is large enough for its gravity to have overcome its internal rigidity, and so relax into a rounded (ellipsoidal) shape. The practical meaning of "cleared the neighborhood" is that a planet is comparatively massive enough for its gravitation to control the orbits of all objects in its vicinity. By the IAU's definition, there are eight planets in the Solar System. Those objects in orbit around the Sun that have achieved hydrostatic equilibrium but have not cleared their neighborhoods are called dwarf planets, and the remainder are termed small Solar System bodies. In addition, the Sun itself and a dozen or so natural satellites are also massive enough to have achieved hydrostatic equilibrium. Apart from the Sun, these bodies are included in the term planetary-mass object, or planemo. All known planetary-mass objects in the Solar System, as well as the Sun, are listed below, along with a sample of the largest objects whose shape has yet to be accurately determined. The Sun's orbital characteristics are listed in relation to the Galactic Center. All other objects are listed in order of their distance from the Sun.
+
+
+== Sun ==
+The Sun is a G-type main-sequence star. It contains almost 99.9 percent of all the mass in the Solar System.
+
+
+== Planets ==
+Planets are both large enough to have achieved hydrostatic equilibrium and have cleared their neighborhoods of similar objects. There are four terrestrial planets (Mercury, Venus, Earth and Mars) and four giant planets, which can be divided further into two gas giants (Jupiter and Saturn) and two ice giants (Uranus and Neptune). When excluding the Sun, the four giant planets account for more than 99 percent of the mass of all bodies in the Solar System.
+
+
+== Dwarf planets ==
+The IAU, the internationally recognized authority for assigning designations to celestial bodies, defines dwarf planets as bodies that are large enough to have achieved hydrostatic equilibrium, but have not cleared their neighbourhoods of similar objects. Since 2008, there have been five dwarf planets recognized by the IAU. Ceres orbits in the asteroid belt, between the orbits of Mars and Jupiter. The others orbit beyond Neptune and are sub-classified as plutoids.
+
+
+=== Most-likely additional dwarf planets ===
+
+These trans-Neptunian objects are theoretically large enough to be dwarf planets. Dozens more could have been included. Both Quaoar and Orcus have known moons that have allowed the mass of the systems to be determined. Both are more massive than the 51020 kg recommendation of the IAU 2006 draft proposal as sufficient for classification as a dwarf planet.
+
+
+== Satellites ==
+
+There are 19 natural satellites in the Solar System that are known to be massive enough to be close to hydrostatic equilibrium, which Alan Stern calls satellite planets. However, several of these were once in equilibrium but are no longer: these include all of the moons listed for Saturn apart from Titan and Rhea. Other moons that were once in equilibrium but are no longer very round, such as Saturn's Phoebe, are not included. Satellites are listed first in order from the Sun, and second in order from their parent body.
+
+
+== Notes ==
+
+
+== References ==

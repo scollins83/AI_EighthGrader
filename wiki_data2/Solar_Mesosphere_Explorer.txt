@@ -1,0 +1,17 @@
+The Solar Mesosphere Explorer (also known as Explorer 64) was an United States unmanned spacecraft to investigate the processes that create and destroy ozone in Earth's upper atmosphere. The mesosphere is a layer of the atmosphere extending from the top of the stratosphere to an altitude of about 80 kilometers (50 mi). The spacecraft carried five instruments to measure ozone, water vapor and incoming solar radiation.
+Launched on October 6, 1981, on a Delta rocket from Vandenberg Air Force Base, in California, the satellite returned data until April 4, 1989. The spacecraft reentered Earth's atmosphere on March 5, 1991.
+Managed for NASA by the Jet Propulsion Laboratory, the Solar Mesosphere Explorer was built by Ball Space Systems and operated by the Laboratory for Atmospheric and Space Physics of the University of Colorado where one hundred undergraduate and graduate students were involved.
+Mass: 437 kilograms (963 pounds)
+Power: Solar panels which charged NiCad batteries
+Configuration: Cylinder 1.25 meter (4.1 ft) diameter by 1.7 meter (5.6 ft) high
+Science instruments: Ultraviolet ozone spectrometer, 1.27 micrometre spectrometer, nitrogen dioxide spectrometer, four-channel infrared radiometer, solar ultraviolet monitor, solar proton alarm detector
+
+
+== References ==
+
+
+== External links ==
+JPL - Solar Mesosphere Explorer
+Launch video
+Nitric Oxide measurements results
+Daily Solar Irradiance results

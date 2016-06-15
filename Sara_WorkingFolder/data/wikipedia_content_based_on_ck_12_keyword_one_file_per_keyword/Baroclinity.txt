@@ -1,5 +1,7 @@
 in fluid dynamics the baroclinity (sometimes called baroclinicity) of a stratified fluid is a measure of how misaligned the gradient of pressure is from the gradient of density in a fluid in meteorology a baroclinic atmosphere is one for which the density depends on both the temperature and the pressure; contrast this with a barotropic atmosphere for which the density depends only on the pressure in atmospheric terms the barotropic zones of the earth are generally found in the central latitudes or tropics whereas the baroclinic areas are generally found in the mid-latitude/polar regions
 baroclinity is proportional to
+p
+{\displaystyle \nabla p\times \nabla \rho }
 which is proportional to the sine of the angle between surfaces of constant pressure and surfaces of constant density thus in a barotropic fluid (which is defined by zero baroclinity) these surfaces are parallel
 areas of high atmospheric baroclinity are characterized by the frequent formation of cyclones
 == baroclinic instability ==
@@ -14,7 +16,42 @@ the study of the evolution of these baroclinic instabilities as they grow and th
 == baroclinic vector ==
 beginning with the equation of motion for a fluid (say the euler equations or the navierstokes equations without viscosity) and taking the curl one arrives at the equation of motion for the curl of the fluid velocity that is to say the vorticity
 in a fluid that is not all of the same density a source term appears in the vorticity equation whenever surfaces of constant density (isopycnic surfaces) and surfaces of constant pressure (isobaric surfaces) are not aligned the material derivative of the local vorticity is given by
-(where is the velocity and is the vorticity is pressure and is density) the baroclinic contribution is the vector
+d
+d
+t
+t
++
+(
+v
+)
+=
+(
+)
+v
+(
+v
+)
++
+1
+2
+p
+baroclinic contribution
+{\displaystyle {\frac {d{\vec {\omega }}}{dt}}\equiv {\frac {\partial {\vec {\omega }}}{\partial t}}+({\vec {v}}\cdot {\vec {\nabla }}){\vec {\omega }}=({\vec {\omega }}\cdot {\vec {\nabla }}){\vec {v}}-{\vec {\omega }}({\vec {\nabla }}\cdot {\vec {v}})+\underbrace {{\frac {1}{\rho ^{2}}}{\vec {\nabla }}\rho \times {\vec {\nabla }}p} _{\text{baroclinic contribution}}}
+(where
+v
+{\displaystyle {\vec {v}}}
+is the velocity and
+{\displaystyle {\vec {\omega }}}
+is the vorticity
+p
+{\displaystyle p}
+is pressure and
+{\displaystyle \rho }
+is density) the baroclinic contribution is the vector
+1
+2
+p
+{\displaystyle {\frac {1}{\rho ^{2}}}\nabla \rho \times \nabla p}
 this vector is of interest both in compressible fluids and in incompressible (but inhomogeneous) fluids internal gravity waves as well as unstable rayleightaylor modes can be analyzed from the perspective of the baroclinic vector it is also of interest in the creation of vorticity by the passage of shocks through inhomogeneous media such as in the richtmeyermeshkov instability
 divers may be familiar with the very slow waves that can be excited at a thermocline or a halocline; these are internal waves similar waves can be generated between a layer of water and a layer of oil when the interface between these two surfaces is not horizontal and the system is close to hydrostatic equilibrium the gradient of the pressure is vertical but the gradient of the density is not therefore the baroclinic vector is nonzero and the sense of the baroclinic vector is to create vorticity to make the interface level out in the process the interface overshoots and the result is an oscillation which is an internal gravity wave unlike surface gravity waves internal gravity waves do not require a sharp interface for example in bodies of water a gradual gradient in temperature or salinity is sufficient to support internal gravity waves driven by the baroclinic vector
 == notes ==

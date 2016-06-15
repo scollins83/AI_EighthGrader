@@ -1,0 +1,19 @@
+A strainmeter is an instrument used by geophysicists to measure the deformation of the Earth. Linear strainmeters measure the changes in the distance between two points, using either a solid piece of material (over a short distance) or a laser interferometer (over a long distance, up to several hundred meters). The type using a solid length standard was invented by Benioff in 1932, using an iron pipe; later instruments used rods made of fused quartz. Modern instruments of this type can make measurements of length changes over very small distances, and are commonly placed in boreholes to measure small changes in the diameter of the borehole. Another type of borehole instrument detects changes in a volume filled with fluid (such as silicone oil). The most common type is the dilatometer invented by Sacks and Evertson in the USA (patent 3,635,076); a design that uses specially shaped volumes to measure the strain tensor has been developed by Sakata in Japan.
+All these types of strainmeters can measure deformation over frequencies from a few Hz to periods of days, months, and years. This allows them to measure signals at lower frequencies than can be detected with seismometers. Most strainmeter records show signals from the earth tides, and seismic waves from earthquakes. At longer periods, they can also record the gradual accumulation of stress (physics) caused by plate tectonics, the release of this stress in earthquakes, and rapid changes of stress following earthquakes.
+The most extensive network of strainmeters is installed in Japan; it includes mostly quartz-bar instruments in tunnels and borehole strainmeters, with a few laser instruments. Starting in 2003 there has been a major effort (the Plate Boundary Observatory) to install many more strainmeters along the Pacific/North-America plate boundary in the United States. The aim is to install about 100 borehole strainmeters, primarily in Washington, Oregon and California, and five laser strainmeters, all in California.
+
+
+== See also ==
+Strain (materials science)
+Strain tensor
+
+
+== External links ==
+Pion Flat Observatory, CA: laser strainmeters
+GTSM Technologies, AUS: borehole strainmeters
+Plate Boundary Observatory
+US Geological Survey, see under Fault Monitoring
+
+
+== References ==
+Agnew DC (1986). "Strainmeters and tiltmeters". Reviews of Geophysics 24 (3): 579624. doi:10.1029/RG024i003p00579.

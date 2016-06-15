@@ -1,0 +1,41 @@
+Magnetostratigraphy is a geophysical correlation technique used to date sedimentary and volcanic sequences. The method works by collecting oriented samples at measured intervals throughout the section. The samples are analyzed to determine their characteristic remanent magnetization (ChRM), that is, the polarity of Earth's magnetic field at the time a stratum was deposited. This is possible because volcanic flows acquire a thermoremanent magnetization and sediments acquire a depositional remanent magnetization, both of which reflect the direction of the Earth's field at the time of formation.
+
+
+== TechniqueEdit ==
+When measurable magnetic properties of rocks vary stratigraphically they may be the basis for related but different kinds of stratigraphic units known collectively as magnetostratigraphic units (magnetozones). The magnetic property most useful in stratigraphic work is the change in the direction of the remanent magnetization of the rocks, caused by reversals in the polarity of the Earth's magnetic field. The direction of the remnant magnetic polarity recorded in the stratigraphic sequence can be used as the basis for the subdivision of the sequence into units characterized by their magnetic polarity. Such units are called "magnetostratigraphic polarity units" or chrons.
+If the ancient magnetic field was oriented similar to today's field (North Magnetic Pole near the Geographic North Pole) the strata retain a normal polarity. If the data indicate that the North Magnetic Pole was near the Geographic South Pole, the strata exhibit reversed polarity.
+
+
+=== Sampling proceduresEdit ===
+Oriented paleomagnetic samples are collected in the field using a rock core drill, or as hand samples (chunks broken off the rock face). To average out sampling errors, a minimum of three samples is taken from each sample site. Spacing of the sample sites within a stratigraphic section depends on the rate of deposition and the age of the section. In sedimentary layers, the preferred lithologies are mudstones, claystones, and very fine-grained siltstones because the magnetic grains are finer and more likely to orient with the ambient field during deposition.
+
+
+=== Analytical proceduresEdit ===
+Samples are first analyzed in their natural state to obtain their natural remanent magnetization (NRM). The NRM is then stripped away in a stepwise manner using thermal or alternating field demagnetization techniques to reveal the stable magnetic component.
+Magnetic orientations of all samples from a site are then compared and their average magnetic polarity is determined with directional statistics, most commonly Fisher statistics or bootstrapping. The statistical significance of each average is evaluated. The latitudes of the Virtual Geomagnetic Poles from those sites determined to be statistically significant are plotted against the stratigraphic level at which they were collected. These data are then abstracted to the standard black and white magnetostratigraphic columns in which black indicates normal polarity and white is reversed polarity.
+
+
+=== Correlation and agesEdit ===
+Because the polarity of a stratum can only be normal or reversed, variations in the rate at which the sediment accumulated can cause the thickness of a given polarity zone to vary from one area to another. This presents the problem of how to correlate zones of like polarities between different stratigraphic sections. To avoid confusion at least one isotopic age needs to be collected from each section. In sediments, this is often obtained from layers of volcanic ash. Failing that, one can tie a polarity to a biostratigraphic event that has been correlated elsewhere with isotopic ages. With the aid of the independent isotopic age or ages, the local magnetostratigraphic column is correlated with the Global Magnetic Polarity Time Scale (GMPTS).
+Because the age of each reversal shown on the GMPTS is relatively well known, the correlation establishes numerous time lines through the stratigraphic section. These ages provide relatively precise dates for features in the rocks such as fossils, changes in sedimentary rock composition, changes in depositional environment, etc. They also constrain the ages of cross-cutting features such as faults, dikes, and unconformities.
+
+
+==== Sediment accumulation ratesEdit ====
+Perhaps the most powerful application of these data is to determine the rate at which the sediment accumulated. This is accomplished by plotting the age of each reversal (in millions of years ago) vs. the stratigraphic level at which the reversal is found (in meters). This provides the rate in meters per million years which is usually rewritten in terms of millimeters per year (which is the same as kilometers per million years).
+These data are also used to model basin subsidence rates. Knowing the depth of a hydrocarbon source rock beneath the basin-filling strata allows calculation of the age at which the source rock passed through the generation window and hydrocarbon migration began. Because the ages of cross-cutting trapping structures can usually be determined from magnetostratigraphic data, a comparison of these ages will assist reservoir geologists in their determination of whether or not a play is likely in a given trap.
+Changes in sedimentation rate revealed by magnetostratigraphy are often related to either climatic factors or to tectonic developments in nearby or distant mountain ranges. Evidence to strengthen this interpretation can often be found by looking for subtle changes in the composition of the rocks in the section. Changes in sandstone composition are often used for this type of interpretation.
+
+
+== See alsoEdit ==
+Biostratigraphy
+Chemostratigraphy
+Chronostratigraphy
+Cyclostratigraphy
+Lithostratigraphy
+Tectonostratigraphy
+
+
+== NotesEdit ==
+
+
+== ReferencesEdit ==

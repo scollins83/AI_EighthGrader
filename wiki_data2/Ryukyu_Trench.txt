@@ -1,0 +1,24 @@
+The Ryukyu Trench (, Ryky kaik), also called Nansei-Shot Trench, is a 1398 km (868 mi) long oceanic trench located along the southeastern edge of Japan's Ryukyu Islands in the Philippine Sea in the Pacific Ocean, between northeastern Taiwan and southern Japan. The trench has a maximum depth of 7460 m (24,476 ft). The trench is the result of oceanic crust of the Philippine Plate obliquely subducting beneath the continental crust of the Eurasian Plate at a rate of approximately 52 mm/yr . In conjunction with the adjacent Nankai Trough to the northeast, subduction of the Philippine plate has produced 34 volcanoes. The largest earthquake to have been recorded along the Ryukyu Trench, the 1968 Hyga-nada earthquake, was magnitude 7.5 and occurred along the northernmost part of the trench  on April 1, 1968. This earthquake also produced a tsunami.
+
+
+== Ryukyu Trench and Ryukyu Arc structure near Taiwan ==
+An east-west planar seismic zone associated with the Ryukyu Trench occurs off the east coast of Taiwan. This seismic zone is continuous laterally for 50 km and to 150 km depth. The hypocenters of earthquakes at this location outline a Benioff zone indicating that the Philippine Sea Plate is subducting at an angle of about 45 beneath the Eurasian plate in this area; the dip of the slab changes dramatically from one end of the trench to the other as noted in the next section. Such depth and dip inferences of this area are consistent with the positions of the overlying Tatun and Chilung volcano groups of Taiwan.
+The region behind (N and NW of) the Ryukyu Arc is a bathymetric low known as the Okinawa Trough. The Yilan Plain of Taiwan could be the westward continuation of this trough, but the Yilan Plain sits on the forearc side of the Ryukyu Trench system. This may indicate that the Ilan Plain represents a former spreading centre that sits trench-ward of the current spreading centre and volcanic arc.
+Near 122E (about 100 km East of the Taiwan Coast), the Ryukyu Arc is displaced to the north relative to the eastern extent of the arc. One hypothesis is that a north trending dextral transform faults has displaced this section of the arc to the north. A competing hypothesis claims that no transform fault motion is involved in the displacement, but rather the trench is continuous up to the northeast continental margin of Taiwan. A third hypothesis maintains that the trench is continuous through the continental margin right up to the northeastern Taiwan coastline, also without the existence of a dextral north-south trending fault.
+
+
+== Seismic structure ==
+Ocean bottom seismography methods combined with earthquake studies of the Benioff zone constrain the dip angle of the Philippine Sea Plate along the Ryukyu trench. In the Northern part of the Ryukyu trench, the dip of the Philippine Sea Plate is shallow at shallow depth, reaching only about 11 in the first 50 km, and steeper at deeper depths, reaching 70 below about 70 km. In contrast, the slab dip in the central and southern parts of the Ryukyu trench is more gentle, reaching only 40-50 at 70 km depth.
+Ocean bottom seismography studies of the Ryukyu trench provide insight into the P-wave velocity structure of the area. In the northern part of the trench, several transects have been studied, including a profile of the back arc region parallel to the trench, a transect spanning the trench, fore arc and back arc region, and a transect spanning the Ryukyu volcanic arc. The transect perpendicular to the length of the trench images many distinct velocity layers. The sedimentary wedge created by subduction has four distinct layers with p-wave velocities of 1.8 km/s, 2.8-2.9 km/s, 3.5 km/s, and 4.55 km/s. In the area of this transect, the wedge reaches a thickness of 9 km at 50 km from the trench. Beneath the wedge are several seismic layers within the oceanic crust.
+Separate ocean bottom seismography and multi-channel seismic studies provide insight into the structure of the northern end of the Ryukyu trench region. Features of note include a thick (712 km) low velocity (45 km/s) zone on the landward side of the trench, the existence of subducting paleo-arc crust near the top of the trench in contrast to simple oceanic crust located at the middle of the trench, and a zone in which the Philippine Plate subducts beneath low P-wave velocity material (Vp = 5 km/s) that coincides with the location of the Mw 7.5 1968 Hyuganada earthquake. It has been hypothesized that the above structural heterogeneity, in particular the subducting paleo-arc crust and its associated bathymetric highs, is one reason why earthquakes in this region are not larger i.e. exceeding Mw 8.0. The exact mechanism by which the subduction of paleo-arc crust prevents sufficient stress build up for a larger earthquake is unknown.
+
+
+== See also ==
+Pacific Ring of Fire
+Philippine Sea Plate
+Ryukyu Islands
+1968 Hyga-nada earthquake
+Okinawa Trough
+
+
+== References ==

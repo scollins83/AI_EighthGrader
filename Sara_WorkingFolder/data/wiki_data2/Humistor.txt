@@ -1,0 +1,18 @@
+A humistor is a type of variable resistor whose resistance varies based on humidity.
+
+
+== Construction ==
+A humistor has a ceramic composition comprising at least one component having a spinel type cubic symmetry selected from the group consisting of MgCr2 O4, FeCr2 O4, NiCr2 O4, CoCr2 O4, MnCr2 O4, CuCr2 O4, Mg2 TiO4, Zn2 TiO4, Mg2 SnO4 and Zn2 SnO4, and , if desired, at least one component selected from the group consisting of TiO2, ZrO2, HfO2 and SnO2. A humidity sensor has a sensing portion which usually comprises a humidity-sensitive resistor composed of an organic polymer, such as a polyamide resin, polyvinyl chloride or polyethylene, or a metal oxide.
+
+
+== Operation ==
+A capacitive humidity sensor detects humidity based on a change of capacitance between two detection electrodes provided on a semiconductor substrate. The capacitance type humidity sensor detects humidity by measuring the change in the electrostatic capacity of an element corresponding to the ambient humidity. A resistive humidity sensor detects relative humidity by measuring the change in the resistance of an element corresponding to the ambient humidity. Most of the resistance type humidity sensors include an electrolytic, polymeric, or metallic oxide sensor element. An impedance humidity sensor changes its electrical impedance as the humidity of the surrounding environment changes, and the measured impedance is converted into humidity readings.
+
+
+== Applications ==
+Humidity sensors can be used not only to measure the humidity in an atmosphere but also to automatically control humidifiers, dehumidifiers, and air conditioners for humidity adjustment.
+
+
+== References ==
+^ Free Patents Online: Humidity sensitive ceramic resistor. United States Patent 4086556
+^ Electronics Manufacturers: Humidity sensors

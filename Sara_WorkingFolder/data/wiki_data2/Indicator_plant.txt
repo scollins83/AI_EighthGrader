@@ -1,0 +1,76 @@
+Since a plant species or plant community acts as a measure of environmental conditions, it is referred to as biological indicators, bioindicators or phytoindicators. In other words, plant which indicate some very specific conditions of environment are called plant indicators. 
+
+
+== Plants ==
+
+
+=== Potential productivity of land ===
+Forest serve as good indicators of land productivity. For example- vegetative growth of trees like Quercus. marilandica, Q. stellata are comparatively poor on lowland or sterile sandy soil than the normal soil in which they grow under conditions.
+
+
+=== Climate ===
+Evergreen forests indicate high rainfall in winter as well as summer; Sclerphyllous vegetation indicate heavy rainfall in winter and low during summer; Grassland indicate heavy rains during summer and low during winter; Xerophytic vegetation indicate a very low or no rainfall in the year.
+
+
+=== Soil characteristics ===
+Luxuriant (abundant) growth of some taller and deeply rooted grasses like Psoralea indicates a sandy loam type of soil, whereas the presence of grasses Andropogon indicates sandy soil. Rumex acetosella indicates an acid grassland soil, whereas Spermacoce stricta the iron rich soil in the area. Shorea robusta, Cassia obtusifolia, Geranium sp. and Impatiens sp. indicate proper aeration of soil.
+
+
+=== Fires ===
+Some plants as Agrostis, Eupilobium, Pium, Populus, Pteris, and Pyronema dominate in areas destroyed by fires. Particular species of Pteridium indicate burnt and highly disturbed coniferous forests.
+
+
+=== Pollution ===
+Plants like Utricularia, Chara, Wolffia grow in polluted waters. Bacteria like E. coli also indicate water pollution. Presence of diatoms in water indicates pollution by sewage.
+
+
+== Lichen ==
+
+
+=== I) Indicators of radioactive particles ===
+Dead lichen thalii are capable of absorbing F, heavy metals including SO2 and Pb. Lichens are also utilized for survey of long life nuclides (a distinct kind of atom or nucleus characterized by a specific number of protons and neutrons) like strontium (90Sr) and cesium (137Cs) released from nuclear explosions.
+
+
+=== ii) Sensitivity to air pollution ===
+Lichens can thus be used as reliable biological indicators of pollution. Lecanora conizaeoides is the most tolerant of all lichens to SO2, thus occurs in city also. Thus lichens are used as pollution monitors.
+
+
+== Algae ==
+Ulva, Enteromorpha are used in monitoring the water quality of estuaries (the tidal mouth of a large river).
+Heavy metal pollution of water in monitored by Cladophora, Stigeoclonium.
+Chlorella is used to monitor toxic substances in water.
+Duniella teritolecta, Cyclotella cryptic, Pavlova lutheri are indicators of oil pollution.
+Cyanobacteria like Nostoc, Microscopium, Haplosiphon, Welwitschii are the indicators of soil pesticides as dithane, deltan, BHC, aldrex, rogor.
+
+
+== Fungi and bacteria ==
+Fungi are used to monitor of oil pollution, Scolecobasidium, Mortierella, Humicola, Verticillum are able to utilize waste oil.
+Bacteria like Pseudomonas, Clostridium, and Streptococcus are used in assessment (estimation) and prediction of changes in marine environment induced by human activities. Pseudomonas metabolizes oil and converts into harmless end product as CO2 and H2O.
+
+
+== Higher plants ==
+Medicago sativa grow in low SO2.
+Rumex acetosella grow in acidic soil.
+
+
+=== Minerals ===
+Many plants indicate the presence of characteristics minerals in the soils, theses plant are called metallocoles/metallophytes.
+Gold- Equisetum arvense;
+Diamond- Vallozia candida;
+Silver-Eriogonium ovalifolium;
+Much useful knowledge can be obtained about our land by observation of the wild plants and cover crops that are growing, and their condition. These include indicating fertility levels and potential nutrient deficiencies, waterlogging or compaction problems, pH levels and so on. When assessing land by observation of indicator species however it is good practice to observe plant communities or consistent populations of indicator species rather than individual specimens which may not be typical. Perennial weeds which may have colonised an area for some time are also a more reliable form of indicator than annual weeds which may have only been there for that year and thus indicate a temporary condition.
+
+
+=== Viral infection ===
+Plant species will respond differentially to the presence of viruses due to variation in susceptibility. This can cause differences in observable symptoms as well as the magnitude of those symptoms. For instance, a plant may harbor a viral infection and show no observable symptoms yet still be negatively affected. Therefore, some plant species become useful as indicators because their symptoms will develop at a faster rate, are more obvious, or are more consistent for diagnosis. Common techniques of transferring a viral infection from a suspected plant to an indicator plant include grafting or sap transmission. However, ELISA testing, related serological tests, and direct electron microscope observation of viruses are more modern methods for detection.
+
+
+== Examples ==
+Fertile soil supports plants such as nettles, chickweed, groundsel and fat hen.
+Nitrogen-deficient conditions are indicated by the presence of nitrogen fixing legumes such as clovers or vetches.
+Bracken, plantains, sorrel, knapweeds, rhododendron and cranberries are amongst the plants that favour acidic conditions, while alkaline conditions tend to support populations of perennial sow thistle, bladder campion, and henbane.
+Waterlogged or poorly drained land is indicated by the presence of species such as mosses, creeping buttercup and horsetail, or bog loving plants including sedges, rushes, marsh marigold, or marsh orchid.
+
+
+== See also ==
+Organic gardening

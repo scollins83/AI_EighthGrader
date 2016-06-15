@@ -1,0 +1,75 @@
+Coal power in the United States accounted for 39% of the country's electricity production in 2014. Coal supplied 16.5 quadrillion BTUs of energy to electric power plants in 2013, which made up nearly 92% of coal's contribution to energy supply. Utilities buy more than 90 percent of the coal mined in the United States.
+Coal has been used to generate electricity in the United States since an Edison plant was built to serve New York City in 1882. The first alternating current power station was opened by General Electric in Ehrenfeld, Pennsylvania in 1902, servicing the Webster Coal and Coke Company. By the mid-twentieth century, coal had become the leading fuel for generating electricity in the US. The long, steady rise of coal-fired generation of electricity shifted to a decline after 2007. The decline has been linked to the increased availability of natural gas and renewable power, and more stringent environmental regulations. The Environmental Protection Administration has advanced restrictions on coal plants to counteract mercury pollution, smog, and global warming only in 2012;
+
+
+== Recent trends, comparisons, and forecasts ==
+
+The average share of electricity generated from coal in the US has dropped from 52.8% in 1997 to 45.0% in 2009. In 2009, there were 1436 coal-powered units at the electrical utilities across the US, with a total nominal capacity of 338.732 GW (compared to 1024 units at nominal 278 GW in 2000). The actual average generated power from coal in 2006 was 227.1 GW (1.991 trillion kilowatt-hours per year), the highest in the world and still slightly ahead of China (1.95 trillion kilowatt-hours per year) at that time. In 2000, the US average production of electricity from coal was 224.3 GW (1.966 trillion kilowatt-hours for the year). In 2006, US electrical generation consumed 1,026,636,000 short tons (931,349,000 metric tons) or 92.3% of the coal mined in the US.
+In the first quarter of 2012, the use of coal for electricity generation declined substantially more, 21% from 2011 levels. According to the U.S. Energy Information Administration, 27 gigawatts of capacity from coal-fired generators is to be retired from 175 coal-fired power plants between 2012 and 2016. Natural gas showed a corresponding increase, increasing by a third over 2011. Coal's share of electricity generation dropped to just over 36%.
+The coal plants are mostly base-load plants and account for about 32% of the peak electricity production in the summer, when the electricity demand is the highest and the auxiliary (mostly non-coal) plants are added to the grid.
+As of 7/7/11, utility companies will shut down and retire aging coal-fired power plants following the Environmental Protection Agency's (EPA) announcement of the Cross-State Air Pollution Rule (CSAP). The extent of shutdowns and reduction in utilization will depend on factors such as future price of natural gas and cost of installation of pollution control equipment; however, as of 2013, the future of coal-fired power plants in the United States did not appear promising. Recent estimates gauge that an additional 40 gigawatts (GW) of coal-fired capacity will retire by 2020 (in addition to the nearly 20GW that have retired as of 2014). This is driven most strongly by inexpensive natural gas competing with coal, and EPAs Mercury and Air Toxics Standards (MATS), which require significant reductions in emissions of mercury, acid gases, and toxic metals, scheduled to take effect in April 2015.
+
+
+=== Canceled and slowed proposals ===
+On October 19, 2007, the Kansas Department of Health and Environment was the first government agency to reject a permit for a new coal-fired plant planned by Sunflower Electric Power Corporation on the basis of carbon dioxide emissions.
+Southwestern Power Group's Bowie Power Station proposed an IGCC plant that was scrapped in favor of a natural gas plant. Regulatory uncertainty was cited as one of the reasons.
+A proposed 1,960MW Florida Power & Light's Glades Power Plant plant was rejected by the Florida Public Service Commission. Uncertainty over possible future carbon taxes was cited as one of the reasons.
+An air permit for a plant in Kentucky was rejected in August 2007 in a circuit court on the basis its air pollution control analysis was inadequate.
+Cancellation of 8 (out of an intended 11) proposed coal plants of former TXU Corporation in Texas by the current owners, Kohlberg Kravis Roberts & Co. and TPG, was finalized on October 15, 2007.
+
+
+== Environmental impacts ==
+In the United States, three coal-fired power plants reported the largest toxic air releases in 2001:
+CP&L Roxboro Steam Electric Plant in Semora, North Carolina. The four-unit, 2,462 megawatt facility is one of the largest power plants in the United States.
+Reliant Energy's Keystone Power Plant in Shelocta, Pennsylvania.
+Georgia Power Bowen Steam Electric Generating Plant in Cartersville, Georgia.
+The Environmental Protection Agency classified the 44 sites as potential hazards to communities, which means the waste sites could cause death and significant property damage if an event such as a storm or a structural failure caused a spill. They estimate that about 300 dry landfills and wet storage ponds are used around the country to store ash from coal-fired power plants. The storage facilities hold the noncombustible ingredients of coal and the ash trapped by equipment designed to reduce air pollution.
+
+
+=== Acid rain ===
+
+Byproducts of coal plants have been linked to acid rain.
+
+
+==== Sulfur dioxide emissions ====
+86 coal powered plants have a capacity of 107.1 GW, or 9.9% of total U.S. electric capacity, they emitted 5,389,592 tons of SO2 in 2006  which represents 28.6% of U.S. SO2 emissions from all sources.
+
+
+=== Carbon footprint: CO2 emissions ===
+
+Emissions from electricity generation account for the largest share of U.S. greenhouse gases, 38.9% of U.S. production of carbon dioxide in 2006 (with transportation emissions close behind, at 31%). Although coal power only accounted for 49% of the U.S. electricity production in 2006, it was responsible for 83% of CO2 emissions caused by electricity generation that year, or 1,970 Tg of CO2 emissions. Further 130 Tg of CO2 were released by other industrial coal-burning applications.
+Click Here to see a graph displaying CO2 emissions from coal powered plants.
+
+
+=== Mercury pollution ===
+U.S. coal-fired electricity-generating power plants owned by utilities emitted an estimated 48 tons of mercury in 1999, the largest source of man-made mercury pollution in the U.S. In 1995-96, this accounted for 32.6% of all mercury emitted into the air by human activity in the U.S. In addition, 13.1% was emitted by coal-fired industrial and mixed-use commercial boilers, and 0.3% by coal-fired residential boilers, bringing the total U.S. mercury pollution due to coal combustion to 46% of the U.S. man-made mercury sources. In contrast, China's coal-fired power plants emitted an estimated 200  90 tons of mercury in 1999, which was about 38% of Chinese human-generated mercury emissions (45% being emitted from non-ferrous metals smelting). Mercury in emissions from power plants can be reduced by the use of activated carbon.
+
+
+== Public debate ==
+
+
+=== Advocates ===
+In 2007 an advertising campaign was launched to improve public opinion on coal power titled America's Power. This was done by the American Coalition for Clean Coal Electricity (then known as Americans for Balanced Energy Choices), a pro-coal organization started in 2000.
+
+
+=== Opposition ===
+In the face of increasing electricity demand through the 2000s, the US has seen a "Growing Trend Against Coal-Fired Power Plants". In 2005 the 790 MW Mohave Power Station closed rather than implement court ordered pollution controls. In 2006 through 2007 there was first a bullish market attitude towards coal with the expectation of a new wave of plants, but political barriers and pollution concerns escalated exponentially, which is likely to damage plans for new generation and put pressure on older plants. In 2007, 59 proposed coal plants were cancelled, abandoned, or placed on hold by sponsors as a result of financing obstacles, regulatory decisions, judicial rulings, and new global warming legislation.
+The Stop Coal campaign has called for a moratorium on the construction of any new coal plants and for the phase out of all existing plants, citing concern for global warming. Others have called for a carbon tax and a requirement of carbon sequestration for all coal power plants.
+The creation in January 2009 of a Presidential task force (to look at ways to alter the energy direction of the United States energy providers) favors the trend away from coal-fired power plants.
+
+
+== See also ==
+Coal mining in the United States
+Mountaintop removal mining
+Superfund
+
+
+== References ==
+
+
+== External links ==
+Carbon-emissions culprit? Coal.
+Clean Air Watch.
+State Coal Profile Index Map
+Coal production in the United States  an historical overview
+Is America Ready to Quit Coal?

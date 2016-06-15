@@ -2,8 +2,7 @@ waste and wastes are unwanted or unusable materials waste is any substance which
 the term is often subjective (because waste to one person is not necessarily waste to another) and sometimes objectively inaccurate (for example to send scrap metals to a landfill is to inaccurately classify them as waste because they are recyclable) examples include municipal solid waste (household trash/refuse) hazardous waste wastewater (such as sewage which contains bodily wastes (feces and urine) and surface runoff) radioactive waste and others
 == definitions ==
 === united nations environment program ===
-according to the basel convention
-"'wastes' are substances or objects which are disposed of or are intended to be disposed of or are required to be disposed of by the provisions of national law"
+according to the basel convention of 1989 "'wastes' are substance or objects which are disposed of or are intended to be disposed of or are required to be disposed of by the provisions of national law"
 === united nations statistics division glossary of environment statistics ===
 "wastes are materials that are not prime products (that is products produced for the market) for which the initial user has no further use in terms of his/her own purposes of production transformation or consumption and of which he/she wants to dispose wastes may be generated during the extraction of raw materials the processing of raw materials into intermediate and final products the consumption of final products and other human activities residuals recycled or reused at the place of generation are excluded."
 === european union ===
@@ -22,7 +21,7 @@ inappropriately managed waste can attract rodents and insects which can harbour 
 === social costs ===
 waste management is a significant environmental justice issue many of the environmental burdens cited above are more often borne by marginalized groups such as racial minorities women and residents of developing nations nimby (not in my back yard) is the opposition of residents to a proposal for a new development because it is close to them however the need for expansion and siting of waste treatment and disposal facilities is increasing worldwide there is now a growing market in the transboundary movement of waste and although most waste that flows between countries goes between developed nations a significant amount of waste is moved from developed to developing nations
 === economic costs ===
-the economic costs of managing waste are high and are often paid for by municipal governments; money can often be saved with more efficiently designed collection routes modifying vehicles and with public education environmental policies such as pay as you throw can reduce the cost of management and reduce waste quantities waste recovery (that is recycling reuse) can curb economic costs because it avoids extracting raw materials and often cuts transportation costs "economic assessment of municipal waste management systems case studies using a combination of life-cycle assessment (lca) and life-cycle costing (lcc)" the location of waste treatment and disposal facilities often has an impact on property values due to noise dust pollution unsightliness and negative stigma the informal waste sector consists mostly of waste pickers who scavenge for metals glass plastic textiles and other materials and then trade them for a profit this sector can significantly alter or reduce waste in a particular system but other negative economic effects come with the disease poverty exploitation and abuse of its workers
+the economic costs of managing waste are high and are often paid for by municipal governments; money can often be saved with more efficiently designed collection routes modifying vehicles and with public education environmental policies such as pay as you throw can reduce the cost of management and reduce waste quantities waste recovery (that is recycling reuse) can curb economic costs because it avoids extracting raw materials and often cuts transportation costs "economic assessment of municipal waste management systems case studies using a combination of life-cycle assessment (lca) and life-cycle costing (lcc)" the location of waste treatment and disposal facilities often reduces property values due to noise dust pollution unsightliness and negative stigma the informal waste sector consists mostly of waste pickers who scavenge for metals glass plastic textiles and other materials and then trade them for a profit this sector can significantly alter or reduce waste in a particular system but other negative economic effects come with the disease poverty exploitation and abuse of its workers
 == resource recovery ==
 resource recovery is the retrieval of recyclable waste which was intended for disposal for a specific next use it is the processing of recyclables to extract or recover materials and resources or convert to energy this process is carried out at a resource recovery facility resource recovery is not only important to the environment but it can be cost effective by decreasing the amount of waste sent to the disposal stream reduce the amount of space needed for landfills and protect limited natural resources
 == energy recovery ==
@@ -39,6 +38,7 @@ chemical hazards
 environmental dumping
 fly-tipping
 garbage truck
+global waste trade
 human waste
 list of waste management acronyms
 litter
@@ -46,6 +46,7 @@ midden
 waste by country
 waste collection
 waste converter
+waste atlas
 == references ==
 == external links ==
 media related to waste at wikimedia commons
@@ -53,3 +54,4 @@ waste at dmoz
 cambio verde: waste-food exchange project in curitiba brazil
 waste area
 resource productivity and waste at the oecd
+southern innovator magazine issue 5: waste and recycling - united nations office for south-south cooperation

@@ -1,0 +1,17 @@
+The ozone depletion potential (ODP) of a chemical compound is the relative amount of degradation to the ozone layer it can cause, with trichlorofluoromethane (R-11 or CFC-11) being fixed at an ODP of 1.0. Chlorodifluoromethane (R-22), for example, has an ODP of 0.04. CFC 11, or R-11 has the maximum potential amongst chlorocarbons because of the presence of three chlorine atoms in the molecule.
+The first proposal of ODP came from Wuebbles in 1983. It was defined as a measure of destructive effects of a substance compared to a reference substance.
+Precisely, ODP of a given substance is defined as the ratio of global loss of ozone due to given substance over the global loss of ozone due to CFC-11 of the same mass.
+ODP can be estimated from the structure of a given substance. Chlorofluorocarbons have ODPs roughly equal to 1. Brominated substances have usually higher ODPs in range 5 - 15, because of more aggressive bromine reaction with ozone. Hydrochlorofluorocarbons have ODPs mostly in range 0.005 - 0.2 due to the presence of the hydrogen which causes them to react readily in the troposphere, therefore reducing their chance to reach the stratosphere. Hydrofluorocarbons (HFC) have no chlorine content, so their ODP is essentially zero.
+ODP is often used in conjunction with a compound's global warming potential (GWP) as a measure of how environmentally detrimental it can be. GWP represents the potential of a substance to contribute to global warming.
+In a broad sense, haloalkanes that contain no hydrogen are stable in the troposphere and decompose only in the stratosphere. Those compounds that contain hydrogen also react with OH radicals and can therefore be decomposed in the troposphere, as well. The ozone depletion potential increases with the heavier halogens since the C-X bond strength is lower. Note the trend of the CClF2-X series in the table below.
+
+
+== Ozone depleting potential of common compounds ==
+
+
+== References ==
+
+
+== External links ==
+List of ozone depleting substances with their ODPs
+Scientific Assessment of Ozone Depletion: 1991

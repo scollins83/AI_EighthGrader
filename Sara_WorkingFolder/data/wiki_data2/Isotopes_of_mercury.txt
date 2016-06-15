@@ -1,0 +1,38 @@
+There are seven stable isotopes of mercury (Hg) with 202Hg being the most abundant (29.86%). The longest-lived radioisotopes are 194Hg with a half-life of 444 years, and 203Hg with a half-life of 46.612 days. Most of the remaining thirty-one radioisotopes have half-lives that are less than a day. 199Hg and 201Hg are the most often studied NMR-active nuclei, having spins of 1/2 and 3/2 respectively.
+Mercury-180, producible from thallium-180, was found in 2010 to be capable of an unusual form of spontaneous fission. The fission products are krypton-80 and ruthenium-100.
+Standard atomic weight: 200.592(3) u.
+
+
+== Table ==
+^ Abbreviations:
+EC: Electron capture
+IT: Isomeric transition
+^ Bold for stable isotopes
+^ When produced from 180Tl can also undergo fission to 100Ru and 80Kr
+^ Believed to undergo  decay to 192Pt or ++ decay to 196Pt with a half-life over 2.51018 years
+^ Believed to undergo  decay to 194Pt
+^ Believed to undergo  decay to 195Pt
+^ Believed to undergo  decay to 196Pt
+^ Believed to undergo  decay to 197Pt
+^ Believed to undergo  decay to 198Pt
+^ Believed to undergo  decay to 200Pt or  decay to 204Pb
+
+
+=== Notes ===
+Values marked # are not purely derived from experimental data, but at least partly from systematic trends. Spins with weak assignment arguments are enclosed in parentheses.
+Uncertainties are given in concise form in parentheses after the corresponding last digits. Uncertainty values denote one standard deviation, except isotopic composition and standard atomic mass from IUPAC, which use expanded uncertainties.
+
+
+== References ==
+
+Isotope masses from:
+G. Audi; A. H. Wapstra; C. Thibault; J. Blachot; O. Bersillon (2003). "The NUBASE evaluation of nuclear and decay properties" (PDF). Nuclear Physics A 729: 3128. Bibcode:2003NuPhA.729....3A. doi:10.1016/j.nuclphysa.2003.11.001. 
+
+Isotopic compositions and standard atomic masses from:
+J. R. de Laeter; J. K. Bhlke; P. De Bivre; H. Hidaka; H. S. Peiser; K. J. R. Rosman; P. D. P. Taylor (2003). "Atomic weights of the elements. Review 2000 (IUPAC Technical Report)". Pure and Applied Chemistry 75 (6): 683800. doi:10.1351/pac200375060683. 
+M. E. Wieser (2006). "Atomic weights of the elements 2005 (IUPAC Technical Report)". Pure and Applied Chemistry 78 (11): 20512066. doi:10.1351/pac200678112051. Lay summary. 
+
+Half-life, spin, and isomer data selected from the following sources. See editing notes on this article's talk page.
+G. Audi; A. H. Wapstra; C. Thibault; J. Blachot; O. Bersillon (2003). "The NUBASE evaluation of nuclear and decay properties" (PDF). Nuclear Physics A 729: 3128. Bibcode:2003NuPhA.729....3A. doi:10.1016/j.nuclphysa.2003.11.001. 
+National Nuclear Data Center. "NuDat 2.1 database". Brookhaven National Laboratory. Retrieved September 2005. 
+N. E. Holden (2004). "Table of the Isotopes". In D. R. Lide. CRC Handbook of Chemistry and Physics (85th ed.). CRC Press. Section 11. ISBN 978-0-8493-0485-9.

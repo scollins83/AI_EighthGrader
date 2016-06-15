@@ -1,0 +1,55 @@
+an immune disorder is a dysfunction of the immune system these disorders can be characterized in several different ways:
+by the component(s) of the immune system affected
+by whether the immune system is overactive or underactive
+by whether the condition is congenital or acquired
+according to the international union of immunological societies more than 150 primary immunodeficiency diseases (pids) have been characterized however the number of acquired immunodeficiencies exceeds the number of pids
+it has been suggested that most people have at least one primary immunodeficiency due to redundancies in the immune system though many of these are never detected
+== list of some autoimmune disorders ==
+lupus
+scleroderma
+certain types of hemolytic anemia
+vasculitis
+type one diabetes
+graves disease
+rheumatoid arthritis
+multiple sclerosis (although it is thought to be an immune-mediated process)
+goodpasture's syndrome
+pernicious anemia
+some types of myopathy
+lyme disease (late)
+== immunodeficiencies ==
+primary immune deficiency diseases are those caused by inherited genetic mutations secondary or acquired immune deficiencies are caused by something outside the body such as a virus or immune suppressing drugs
+primary immune diseases are at risk to an increased susceptibility to and often recurrent ear infections pneumonia bronchitis sinusitis or skin infections immunodeficient patients may less frequently develop abscesses of their internal organs autoimmune or rheumatologic and gastrointestinal problems
+primary immune deficiencies
+severe combined immunodeficiency (scid)
+digeorge syndrome
+hyperimmunoglobulin e syndrome (also known as jobs syndrome)
+common variable immunodeficiency (cvid): b-cell levels are normal in circulation but with decreased production of igg throughout the years so it is the only primary immune disorder that presents onset in the late teens years
+chronic granulomatous disease (cgd): a deficiency in nadph oxidase enzyme which causes failure to generate oxygen radicals classical recurrent infection from catalase positive bacteria and fungi
+wiskott-aldrich syndrome (was)
+autoimmune lymphoproliferative syndrome (alps)
+hyper igm syndrome: x-linked disorder that causes a deficiency in the production of cd40 ligand on activated t-cells this increases the production and release of igm into circulation the b-cell and t-cell numbers are within normal limits increased susceptibility to extracellular bacteria and opportunistic infections
+leukocyte adhesion deficiency (lad)
+nf-b essential modifier (nemo) mutations
+selective immunoglobulin a deficiency: the most common defect of the humoral immunity characterized by a deficiency of iga produces repeating sino-pulmonary and gastrointestinal infections
+x-linked agammaglobulinemia (xla; also known as bruton type agammaglobulinemia): characterized by a deficiency in tyrosine kinase enzyme that blocks b-cell maturation in the bone marrow no b-cells are produced to circulation and thus there are no immunoglobulin classes although there tends to be a normal cell-mediated immunity
+x-linked lymphoproliferative disease (xlp)
+ataxia-telangiectasia
+secondary immune deficiencies
+aids
+== allergies ==
+an allergy is an abnormal immune reaction to a harmless antigen
+seasonal allergy
+mastocytosis
+perennial allergy
+anaphylaxis
+food allergy
+allergic rhinitis
+atopic dermatitis
+== see also ==
+disorders of human immunity
+hypersplenism
+== references ==
+== external links ==
+immune disorder at dmoz
+^ basic pathology - robbins et al - 9th edition

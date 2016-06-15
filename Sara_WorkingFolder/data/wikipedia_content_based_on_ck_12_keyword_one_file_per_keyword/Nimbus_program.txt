@@ -22,11 +22,6 @@ nimbus-3 tested a snap-19 radioisotope thermoelectric generator in space
 == see also ==
 coastal zone color scanner
 == references ==
-^ lindsey rebecca (july 19 2005) "nimbus: 40th anniversary" nasa earth observatory retrieved 2006-05-16
-^ national environmental satellite center (january 1970) "sirs and the improved marine weather forecast" mariners weather log (environmental science services administration) 14 (1): 1215
-^ techno-archaeology rescues climate data from early satellites u.s national snow and ice data center (nsidc) january 2010 webcitation archive wayback machine
-^ nimbus-3
-^ environmental science services administration (july 1966) "on the editor's desk" mariners weather log (department of commerce) 10 (4): 122
 == external links ==
 http://nssdc.gsfc.nasa.gov/earth/nimbus.html nimbus program
 http://nssdc.gsfc.nasa.gov/earth/nimbus_sensor.html experimental instrumentation on-board nimbus satellites

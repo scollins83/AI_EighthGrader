@@ -1,0 +1,36 @@
+The NowCast is a weighted average of hourly air monitoring data used by the United States Environmental Protection Agency for real-time reporting of the Air Quality Index (AQI) for PM (PM10 or PM2.5) data.
+The NowCast is computed from the most recent 12 hours of PM monitoring data, but the NowCast weights the most recent hours of data more heavily than an ordinary 12-hour average when pollutant levels are changing. The NowCast is used in lieu of a 24-hour average PM concentration in the calculation of the AQI until an entire calendar day of hourly concentrations has been monitored.
+
+
+== Calculation of the NowCast ==
+Let c1,c2,...c12 represent the hourly PM concentrations for the most recent 12-hour period, with c1 the most recent hourly value, and let cmin and cmax represent the minimum and maximum hourly concentration for the 12-hour period.
+Define:
+
+and let
+
+With these definitions the NowCast is given by:
+
+For the special case where there is no variability in the hourly values, cmin = cmax, w = 1, and the NowCast reduces to the twelve-hour average:
+
+For the special case where w=1/2:
+
+But 1/(1-x)=1 + x + x2+ ... , x < 1, so to a good approximation, when w = 1/2:
+
+Because the most recent hours of data are weighted so heavily in the NowCast when PM levels are changing, EPA does not report the NowCast when data is missing for c1 or c2.
+
+
+== Example ==
+Consider a day when the hourly average PM2.5 concentration is zero for all hours of the day, except for a single hour from noon to 1 pm, where a monitor records a concentration pulse of 71 micrograms per cubic meter (g/m3). According to the equation above, the Nowcast is 71/2 g/m3=35.5 g/m3 the hour after the pulse, two hours later it is 71/4 g/m3=17.8 g/m3 and three hours later it is 71/8 g/m3= 8.9 g/m3. To calculate the corresponding AQI values, each NowCast concentration is substituted into the AQI equation in place of the 24-hour average PM2.5 concentration:
+
+where:
+ = the AQI,
+ = the 24-hour average PM2.5 pollutant concentration,
+= the concentration breakpoint that is  ,
+= the concentration breakpoint that is  ,
+= the index breakpoint corresponding to ,
+= the index breakpoint corresponding to .
+and:
+Thus, the three Nowcast concentrations correspond to air quality indices of 101, (AQI Color Code Orange, Air Quality: Unhealthy for Sensitive Groups), 63 (AQI Color Code Yellow, Air Quality: Moderate ), and 37 (AQI Color Code Green, Air Quality: Good) respectively. After the day is over and all of the hourly data is available, the AQI for the day is calculated from the 24-hr average; 71/24 g/m3= 3.0 g/m3, an AQI of 12 (Color Code Green, Air Quality: Good).
+
+
+== References ==

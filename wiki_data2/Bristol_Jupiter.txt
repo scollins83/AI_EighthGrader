@@ -1,0 +1,201 @@
+The Bristol Jupiter was a British nine-cylinder single-row piston radial engine built by the Bristol Aeroplane Company. Originally designed late in World War I and known as the Cosmos Jupiter, a lengthy series of upgrades and developments turned it into one of the finest engines of its era.
+The Jupiter was widely used on many aircraft designs during the 1920s and 1930s. Thousands of Jupiters of all versions were produced, both by Bristol and abroad under licence.
+A turbo-supercharged version of the Jupiter known as the Orion suffered development problems and only a small number were produced. The "Orion" name was later re-used by Bristol for an unrelated turboprop engine.
+
+
+== Design and development ==
+The Jupiter was designed during World War I by Roy Fedden of Cosmos Engineering. During the rapid downscaling of military spending after the war, Cosmos became bankrupt in 1920, and was eventually purchased by the Bristol Aeroplane Company on the strengths of the Jupiter design and the encouragement of the Air Ministry. The engine matured into one of the most reliable on the market. It was the first air-cooled engine to pass the Air Ministry full-throttle test, the first to be equipped with automatic boost control, and the first to be fitted to airliners.
+The Jupiter was fairly standard in design, but featured four valves per cylinder, which was uncommon at the time. The cylinders were machined from steel forgings, and the cast cylinder heads were later replaced with aluminium alloy following studies by the RAE. In 1927, a change was made to move to a forged head design due to the rejection rate of the castings. The Jupiter VII introduced a mechanically driven supercharger to the design, and the Jupiter VIII was the first to be fitted with reduction gear.
+In 1925, Fedden started designing a replacement for the Jupiter. Using a shorter stroke to increase the rpm, and including a supercharger for added power, resulted in the Bristol Mercury of 1927. Applying the same techniques to the original Jupiter-sized engine in 1927 resulted in the Bristol Pegasus. Neither engine would fully replace the Jupiter for a few years.
+In 1926 a Jupiter-engined Bristol Bloodhound, G-EBGG, completed an endurance flight of 25,074 miles, during which the Jupiter ran for a total of 225 hours, 54 minutes, without part failure or replacement.
+
+
+=== Licensed production ===
+The Jupiter saw widespread use in licensed versions, with fourteen countries eventually producing the engine. In France, Gnome-Rhone produced a version known as the Gnome-Rhne 9 Jupiter which was used in several local civilian designs, as well as achieving some export success. Siemens-Halske took out a license in Germany and produced several versions of increasing power, eventually resulting in the Bramo 323 Fafnir, which saw use in German wartime aircraft.
+In Japan, the Jupiter was license-built from 1924 by Nakajima, forming the basis of their own subsequent radial aero-engine design, the Nakajima Ha-1 Kotobuki. It was produced in Poland as the PZL Bristol Jupiter, in Italy as the Alfa Romeo 126-RC35, and in Czechoslovakia by Walter Engines. The most produced version was in the Soviet Union, where their Shvetsov M-22 version powered the initial Type 4 version of the Polikarpov I-16 (55 units produced). Type 4 Polikarpovs can be identified by their lack of exhaust stubs, rounded NACA cowling and lack of cowling shutters, features which were introduced on the Shvetsov M-25 powered Type 5 and later variants (total production 4,500+ units). [1]  Production started in 1918 and ceased in 1930.
+
+
+== Variants ==
+The Jupiter was produced in many variants, one of which was the Bristol Orion of 1926. Metallurgy problems with this turbo-supercharged engine caused the project to be abandoned after only nine engines had been built.
+Brazil Straker Jupiter I
+(1918) 400 hp (300 kW). Two built.
+Cosmos Jupiter II
+(1918) 400 hp (300 kW). One built.
+Bristol Jupiter II
+(1923) 400 hp (300 kW).
+Bristol Jupiter III
+(1923) 400 hp (300 kW).
+
+Bristol Jupiter IV
+(1926) 430 hp (320 kW). Variable valve timing, Bristol Triplex carburettor.
+Bristol Jupiter V
+(1925) 480 hp (360 kW).
+Bristol Jupiter VI
+(1927) 520 hp (390 kW). Produced in both high (6.3:1) and low (5.3:1) compression ratios.
+Bristol Jupiter VIA
+(1927) 440 hp (330 kW). Civil version of Jupiter VI.
+Bristol Jupiter VIFH
+(1932) 440 hp (330 kW). Equipped with gas starter motor.
+Bristol Jupiter VIFL
+(1932) 440 hp (330 kW). Compression ratio 5.15:1.
+Bristol Jupiter VIFM
+(1932) 440 hp (330 kW). Compression ratio 5.3:1.
+Bristol Jupiter VIFS
+(1932) 400 hp (300 kW). Compression ratio 6.3:1.
+Bristol Jupiter VII
+(1928) 375 hp (280 kW). Compression ratio 5.3:1, fully supercharged. Built by Gnome-Rhone as the 9ASB.
+Bristol Jupiter VIIF
+(1929) 480 hp (360 kW). Compression ratio 5.3:1. Forged cylinder heads.
+
+Bristol Jupiter VIIF.P
+(1930) 480 hp (360 kW). 'P' for pressure feed lubrication to wrist-pins.
+Bristol Jupiter VIII
+(1929) 440 hp (330 kW). Jupiter VI but compression ratio increased to 6.3:1.
+Bristol Jupiter VIIIF
+(1929) 460 hp (340 kW). Jupiter VIII with forged cylinder heads and lowered compression ratio (5.8:1).
+Bristol Jupiter VIIIF.P
+(1929) 460 hp (340 kW). As Jupiter VIII with pressure feed lubrication (TBO at this stage in development was only 150 hours due to multiple failures).
+Bristol Jupiter IX
+480 hp (360 kW). Compression ratio 5.3:1.
+Bristol Jupiter IXF
+550 hp (410 kW). Compression ratio 5.3:1. Forged cylinder heads.
+Bristol Jupiter X
+470 hp (350 kW). Compression ratio 5.3:1.
+Bristol Jupiter XF
+540 hp (400 kW). Compression ratio 5.3:1. Forged cylinder heads.
+Bristol Jupiter XFA
+483 hp (360 kW). Compression ratio 5.3:1.
+Bristol Jupiter XFAM
+580 hp (430 kW).
+Bristol Jupiter XFBM
+580 hp (430 kW).
+Bristol Jupiter XFS
+Fully supercharged.
+Bristol Jupiter XI
+Compression ratio 5.15:1.
+Bristol Jupiter XIF
+500 hp (370 kW). Compression ratio 5.15:1.
+Bristol Jupiter XIFA
+480 hp (360 kW). As Jupiter XIF with 0.656:1 reduction ratio
+Bristol Jupiter XIF.P
+525 hp (391 kW). As Jupiter XIF with pressure feed lubrication.
+Bristol Orion I
+(1926) Jupiter III, turbo-supercharged, abandoned programme.
+Gnome-Rhne 9A Jupiter
+French licence production primarily of 9A, 9Aa, 9Ab, 9Akx and 9Ad variants.
+Siemens-Halske Sh20, Sh21 and Sh22
+Siemens-Halske took out a license in Germany and produced several versions of increasing power, eventually resulting in the Bramo 323 Fafnir, which saw use in wartime models.
+Nakajima Ha-1 Kotobuki
+In Japan, the Jupiter was license-built from 1924 by Nakajima.
+PZL Bristol Jupiter
+Polish production.
+Alfa Romeo Jupiter
+Italian licence production, 420 hp (310 kW).
+Alfa 126 R.C.35
+Alfa Romeo developed variant
+Walter Jupiter
+Licence production in Czechoslovakia by Walter Engines
+Shvetsov M-22
+The most produced version was in the Soviet Union.
+
+
+== Applications ==
+The Jupiter is probably best known for powering the Handley Page HP.42 Hannibal airliners, which flew the London-Paris route in the 1930s. Other civilian uses included the de Havilland Giant Moth and Hercules, the Junkers G 31 (which would evolve into the famous Ju-52), and the huge Dornier Do X flying boat, which used no less than twelve engines.
+Military uses were less common, but included the parent company's Bristol Bulldog, as well as the Gloster Gamecock and Boulton Paul Sidestrand. It was also found in prototypes around the world, from Japan to Sweden.
+By 1929 the Bristol Jupiter had flown in 262 different aircraft types, it was noted in the French press at that year's Paris Air Show that the Jupiter and its license-built versions were powering 80% of the aircraft on display.
+Note:
+
+
+=== Cosmos Jupiter ===
+Bristol Badger
+Bristol Bullet
+Sopwith Schneider
+Westland Limousine
+
+
+=== Bristol Jupiter ===
+
+
+=== Gnome-Rhne Jupiter ===
+Bernard SIMB AB 12
+Blanchard BB-1
+Fizir F1M-Jupiter
+Latcore 6
+
+
+=== Shvetsov M-22 ===
+Kalinin K-5
+Polikarpov I-5
+Polikarpov I-15
+Polikarpov I-16
+Tupolev I-4
+Yakovlev AIR-7
+
+
+== Engines on display ==
+A Bristol Jupiter VIIF is on static display at the Shuttleworth Collection, Old Warden, Bedfordshire.
+
+
+== Specifications (Jupiter XFA) ==
+Data from Lumsden
+
+
+=== General characteristics ===
+Type: Nine-cylinder, naturally aspirated, air-cooled radial engine
+Bore: 5.75 in (146 mm)
+Stroke: 7.5 in (190 mm)
+Displacement: 1,753 in3 (28.7 L)
+Diameter: 54.5 in (1,384 mm)
+Dry weight: 995 lb (451 kg)
+
+
+=== Components ===
+Valvetrain: Overhead poppet valve, four valves per cylinder, two intake and two exhaust
+Supercharger: Single speed, single stage
+Fuel type: 73-77 Octane petrol
+Cooling system: Air-cooled
+
+
+=== Performance ===
+Power output:
+550 hp (414 kW) at 2,200 rpm at 11,000 ft (3,350 m) - maximum power limited to five minutes operation.
+525 hp (391 kW) at 2,000 rpm - maximum continuous power at 11,000 ft (3,350 m)
+483 hp (360 kW) at 2,000 rpm - takeoff power
+Specific power: 0.31 hp/in3 (14.4 kW/L)
+Compression ratio: 5.3:1
+Power-to-weight ratio: 0.55 hp/lb (0.92 kW/kg)
+
+
+== See also ==
+Related development
+Alfa Romeo 125
+Bristol Mercury
+Bristol Pegasus
+Nakajima Kotobuki
+Siemens-Halske Sh 22
+Comparable engines
+BMW 132
+Pratt & Whitney R-1340, first of the famous Wasp radial engine line
+Pratt & Whitney R-1690 Hornet
+Wright R-1820 Cyclone 9
+Related lists
+List of aircraft engines
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Bibliography ===
+
+
+== Further reading ==
+Gunston, Bill. By Jupiter! The Life of Sir Roy Fedden. The Johns Hopkins University Press.
+
+
+== External links ==
+"The Cosmos Aero Engines" (PDF). Flight XI (27): 869871. July 3, 1919. No. 549. Retrieved January 12, 2011.  Contemporary article on Cosmos Engineering's air-cooled radial engines. Photos of the Cosmos Jupiter are on page 870, and a short technical description is on page 871.
+Bristol Jupiter endurance test - Flight, March 1926
+A 1929 Flight advertisement for the Jupiter

@@ -1,0 +1,16 @@
+UX Arietis is a variable star of the RS CVn type, located in the northern zodiacal constellation of Aries. Based upon parallax measurements from the Hipparcos satellite, it is roughly 168 light years away. The variability of the star is believed due to a combination of cool star spots and warm flares, set against the baseline quiescent temperature of the stellar atmosphere. The variability appears to be cyclical with a period of 89 years.
+
+
+== References ==
+
+
+== Further reading ==
+Brinkman, Albert (2000). "High-Resolution Spectrum of UX Ari". Chandra Proposal ID #02200030. Bibcode:2000cxo..prop..392B. 
+Drake, Stephen (1999). "Acis/hetg Spectroscopy of the Active Binaries Algol & UX Ari". Chandra Proposal ID #01200248. Bibcode:1999cxo..prop...20D. 
+V. Aarum Ulvs & G. W. Henry (2003). "BV photometry of UX Ari in the period 1987-2002". Astronomy and Astrophysics. 
+
+
+== External links ==
+HIP 16042
+Image HD 21242
+HIP 16042

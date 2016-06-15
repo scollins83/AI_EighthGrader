@@ -6,10 +6,10 @@ if substrate molecules are moving from areas of lower concentration to areas of 
 plants need to absorb mineral salts from the soil or other sources but these salts exist in very dilute solution active transport enables these cells to take up salts from this dilute solution against the direction of the concentration gradient
 == primary active transport ==
 primary active transport also called direct active transport directly uses metabolic energy to transport molecules across a membrane
-most of the enzymes that perform this type of transport are transmembrane atps a primary atpase universal to all animal life is the sodium-potassium pump which helps to maintain the cell potential other sources of energy for primary active transport are redox energy and photon energy (light) an example of primary active transport using redox energy is the mitochondrial electron transport chain that uses the reduction energy of nadh to move protons across the inner mitochondrial membrane against their concentration gradient an example of primary active transport using light energy are the proteins involved in photosynthesis that use the energy of photons to create a proton gradient across the thylakoid membrane and also to create reduction power in the form of nadph
+most of the enzymes that perform this type of transport are transmembrane atpases a primary atpase universal to all animal life is the sodium-potassium pump which helps to maintain the cell potential other sources of energy for primary active transport are redox energy and photon energy (light) an example of primary active transport using redox energy is the mitochondrial electron transport chain that uses the reduction energy of nadh to move protons across the inner mitochondrial membrane against their concentration gradient an example of primary active transport using light energy are the proteins involved in photosynthesis that use the energy of photons to create a proton gradient across the thylakoid membrane and also to create reduction power in the form of nadph
 === model of active transport ===
 atp hydrolysis is used to transport hydrogen ions against the electrochemical gradient (from low to high hydrogen ion concentration) phosphorylation of the carrier protein and the binding of a hydrogen ion induce a conformational (shape) change that drives the hydrogen ions to transport against the electrochemical gradient hydrolysis of the bound phosphate group and release of hydrogen ion then restores the carrier to its original conformation
-== atp using primary active transport types ==
+== types of atp-powered primary active transporters ==
 p-type atpase: sodium potassium pump calcium pump proton pump
 f-atpase: mitochondrial atp synthase chloroplast atp synthase
 v-atpase: vacuolar atpase
@@ -30,9 +30,9 @@ the pump for sodium and potassium is called sodium-potassium pump or na +/k+-atp
 in the epithelial cells of the stomach gastric acid is produced by hydrogen potassium atpase an electroneutral pump
 water ethanol and chloroform exemplify simple molecules that do not require active transport to cross a membrane
 == endocytosis and exocytosis ==
-endocytosis is the process by which cells take in materials the cellular membrane folds around the desired materials outside the cell the ingested particle becomes trapped within a pouch vacuole or inside the cytoplasm often enzymes from lysosomes are then used to digest the molecules absorbed by this process
+endocytosis is the process by which cells take in materials the cellular membrane folds around the desired materials outside the cell the ingested particle becomes trapped within a pouch known as a vesicle inside the cytoplasm often enzymes from lysosomes are then used to digest the molecules absorbed by this process
 biologists distinguish two main types of endocytosis: pinocytosis and phagocytosis
-in pinocytosis cells engulf liquid particles (in humans this process occurs in the small intestine cells there engulf fat droplets)
+in pinocytosis cells engulf liquid particles (in humans this process occurs in the small intestine where cells engulf fat droplets)
 in phagocytosis cells engulf solid particles
 == see also ==
 atp-binding cassette transporter

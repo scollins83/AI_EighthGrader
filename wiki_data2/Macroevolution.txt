@@ -1,0 +1,72 @@
+Macroevolution is evolution on a scale of separated gene pools. Macroevolutionary studies focus on change that occurs at or above the level of species, in contrast with microevolution, which refers to smaller evolutionary changes (typically described as changes in allele frequencies) within a species or population. Macroevolution and microevolution describe fundamentally identical processes on different time scales.
+The process of speciation may fall within the purview of either, depending on the forces thought to drive it. Paleontology, evolutionary developmental biology, comparative genomics and genomic phylostratigraphy contribute most of the evidence for the patterns and processes that can be classified as macroevolution. An example of macroevolution is the appearance of feathers during the evolution of birds from theropod dinosaurs, when now viewed at a distance from the future, although as they arose the developing changes would be deemed microevolution.
+The evolutionary course of Equidae (wide family including all horses and related animals) is often viewed as a typical example of macroevolution again from the broad viewpoint after a notable accumulation of previously microevolutionary changes. The earliest known genus, Hyracotherium (now reclassified as a palaeothere), was a browsing herbivore animal resembling a dog that lived in the early Cenozoic. The preferred evolutionary explanation is that as its habitat transformed into an open arid grassland (which we can reconstruct through pollen and seed records), selective pressure acted so that the animal become a fast grazer (as recorded by dentition changes etc). Thus elongation of legs and head as well as reduction of toes gradually occurred, producing the only extant genus of Equidae, Equus.
+
+
+== Origin of the term ==
+Russian entomologist Yuri Filipchenko first coined the terms "macroevolution" and "microevolution" in 1927 in his German language work, "Variabilitt und Variation". Since the inception of the two terms, their meanings have been revised several times and the term macroevolution fell into limited disfavour when it was taken over by such writers as the geneticist Richard Goldschmidt (1940) and the paleontologist Otto Schindewolf to describe their orthogenetic theories.
+A more practical definition of the term describes it as changes occurring on geological time scales, in contrast to microevolution, which occurs on the timescale of human lifetimes. This definition reflects the spectrum between micro- and macro-evolution, whilst leaving a clear difference between the terms: because the geological record rarely has a resolution better than 10,000 years, and humans rarely live longer than 100 years, "meso-evolution" is never observed.
+While such evolutionary biologists Theodosius Dobzhansky, Bernhard Rensch and Ernst Mayr use the term, many neo-Darwinian do not, preferring instead to talk of evolution as changes in allele frequencies without mention of the level of the changes (above species level or below). Use of the term is most common in the continental European traditions (as Dobzhansky, Mayr, Rensch, Goldschmidt and Schindewolf were) and less common in the Anglo-American tradition (such as John Maynard Smith and Richard Dawkins). Hence, use of the term "macroevolution" is sometimes wrongly used as a litmus test of whether the writer is "properly" neo-Darwinian or not.
+
+
+== Macroevolution and the modern evolutionary synthesis ==
+Within the modern evolutionary synthesis school of thought, macroevolution is thought of as the compounded effects of microevolution. Thus, the distinction between micro- and macroevolution is not a fundamental one  the only difference between them is of time and scale. As Ernst W. Mayr observes, "transspecific evolution is nothing but an extrapolation and magnification of the events that take place within populations and species...it is misleading to make a distinction between the causes of micro- and macroevolution". However, time is not a necessary distinguishing factor  macroevolution can happen without gradual compounding of small changes; whole-genome duplication can result in speciation occurring over a single generation - this is especially common in plants.
+Changes in the genes regulating development have also been proposed as being important in producing speciation through large and relatively sudden changes in animals' morphology.
+
+
+== Types of macroevolution ==
+There are many ways to view macroevolution, for example, by observing changes in the genetics, morphology, taxonomy, ecology, and behavior of organisms. There is evidence that these elements of macroevolution are closely tied to each other so when viewing evolution from one of these perspective, it must also be considered in the context of the others. Sahney et al. stated the connection as "As taxonomic diversity has increased, there have been incentives for tetrapods to move into new modes of life, where initially resources may seem unlimited, there are few competitors and possible refuge from danger. And as ecological diversity increases, taxa diversify from their ancestors at a much greater rate among faunas with more superior, innovative or more flexible adaptations."
+Molecular evolution occurs through small changes in the molecular or cellular level. Over a long period of time, this can cause big effects on the genetics of organisms.
+Taxonomic evolution occurs through small changes between populations and then species. Over a long period of time, this can cause big effects on the taxonomy of organisms, with the growth of whole new clades above the species level.
+Morphological evolution occurs through small changes in the morphology of an organism. Over a long period of time, this can cause big effects on the morphology of major clades. This can be clearly seen in Cetacea, throughout the early evolution of Cetacea, hindlimbs were still present. However over millions of years the hindlimbs regressed and became internal.
+Ecological evolution occurs through small changes in the ecological roles organisms occupy. Over a long period of time, this can cause big effects on the ecological landscape. For example, the occupation of a niche.
+
+
+== Research topics ==
+Some examples of subjects whose study falls within the realm of macroevolution:
+Adaptive radiations such as the Cambrian Explosion.
+Changes in biodiversity through time.
+Genome evolution, like horizontal gene transfer, genome fusions in endosymbioses, and adaptive changes in genome size.
+Mass extinctions.
+Speciation and extinction rates.
+The debate between punctuated equilibrium and gradualism.
+The role of development in shaping evolution, particularly such topics as heterochrony and phenotypic plasticity.
+At present-day there is developing an interdisciplinary approach which aims at considering macroevolution at a transdisciplinary scale, and concentrates on the comparison between biological and social macroevolution as this gives new significant possibilities to understand peculiarities of each of the two types of macroevolution.
+Abrupt transformations from one biologic system to another, for example the passing of life from water into land or the transition from invertebrates to vertebrates, are rare. Few major biological types have emerged during the evolutionary history of life and most of them survive till today. When lifeforms take such giant leaps, they meet little to no competition and are able to exploit a plethora of available niches, following a pattern of adaptive radiation. This can lead to convergent evolution, where unrelated populations display similar adaptations.
+Recently, Persi & Horn have argued that macroevolutionary events along the history of an extant species may leave a stamp on its proteome: the existence of compositionally ordered (CO) sections of proteins. Introducing a universal measure that counts an effective CO vocabulary they have shown that it distinguishes between major eukaryotic clades.
+
+
+== Misuse ==
+
+The term "macroevolution" frequently arises within the context of the evolution/creation debate, usually used by creationists alleging a significant difference between the evolutionary changes observed in field and laboratory studies and the larger scale macroevolutionary changes that scientists believe to have taken thousands or millions of years to occur. They accept that evolutionary change is possible within what they call "kinds" ("microevolution"), but deny that one "kind" can evolve into another ("macroevolution"). While this claim is maintained on the vagueness of the undefined, unscientific term "kind", evolution of life forms beyond the species level (i.e. "macroevolution" by the scientific definition) has been observed multiple times under both controlled laboratory conditions and in nature. In creation science, creationists accepted speciation as occurring within a "created kind" or "baramin", but objected to what they called "third level-macroevolution" of a new genus or higher rank in taxonomy. Generally, there is ambiguity as to where they draw a line on "species", "created kinds", etc. and what events and lineages fall within the rubric of microevolution or macroevolution. The claim that macroevolution does not occur, or is impossible, is not supported by the scientific community.
+Such claims are rejected by the scientific community on the basis of ample evidence that macroevolution is an active process both presently and in the past. The terms macroevolution and microevolution relate to the same processes operating at different scales, but creationist claims misuse the terms in a vaguely defined way which does not accurately reflect scientific usage, acknowledging well observed evolution as "microevolution" and denying that "macroevolution" takes place. Evolutionary theory (including macroevolutionary change) remains the dominant scientific paradigm for explaining the origins of Earth's biodiversity. Its occurrence is not disputed within the scientific community. While details of macroevolution are continuously studied by the scientific community, the overall theory behind macroevolution (i.e. common descent) has been overwhelmingly consistent with empirical data. Predictions of empirical data from the theory of common descent have been so consistent that biologists often refer to it as the "fact of evolution".
+Describing the fundamental similarity between Macro and Microevolution in his authoritative textbook "Evolutionary Biology," biologist Douglas Futuyma writes,
+
+One of the most important tenets of the theory forged during the Evolutionary Synthesis of the 1930s and 1940s was that "macroevolutionary" differences among organisms - those that distinguish higher taxa - arise from the accumulation of the same kinds of genetic differences that are found within species. Opponents of this point of view believed that "macroevolution" is qualitatively different from "microevolution" within species, and is based on a totally different kind of genetic and developmental patterning... Genetic studies of species differences have decisively disproved [this] claim. Differences between species in morphology, behavior, and the processes that underlie reproductive isolation all have the same genetic properties as variation within species: they occupy consistent chromosomal positions, they may be polygenic or based on few genes, they may display additive, dominant, or epistatic effects, and they can in some instances be traced to specifiable differences in proteins or DNA nucleotide sequences. The degree of reproductive isolation between populations, whether prezygotic or postzygotic, varies from little or none to complete. Thus, reproductive isolation, like the divergence of any other character, evolves in most cases by the gradual substitution of alleles in populations.
+
+Nicholas Matzke and Paul R. Gross have accused creationists of using "strategically elastic" definitions of micro- and macroevolution when discussing the topic. The actual definition of macroevolution accepted by the vast majority of scientists is "any change at the species level or above" (phyla, group, etc.) and microevolution is "any change below the level of species." Matzke and Gross state that many creationist critics define macroevolution as something that cannot be attained, as these critics dismiss any observed evolutionary change as "just microevolution".
+
+
+== See also ==
+List of transitional fossils
+Transitional fossil
+Microevolution
+Speciation
+
+
+== Notes ==
+
+
+== References ==
+AAAS, American Association for the Advancement of Science (16 February 2006). "Statement on the Teaching of Evolution" (pdf). aaas.org. Retrieved 2007-01-14. 
+IAP, Interacademy Panel (2006-06-21). IAP Statement on the Teaching of Evolution (PDF). interacademies.net. Retrieved 2007-01-14. 
+Myers, P.Z. (2006-06-18). Ann Coulter: No Evidence for Evolution?. Pharyngula (ScienceBlogs). Retrieved 2007-09-12. 
+NSTA, National Science Teachers Association (2007). "An NSTA Evolution Q&A". Retrieved 2008-02-01. 
+Pinholster, Ginger (19 February 2006). "AAAS Denounces Anti-Evolution Laws as Hundreds of K-12 Teachers Convene for 'Front Line' Event". aaas.org. Retrieved 2007-01-14. 
+
+
+== External links ==
+Introduction to macroevolution
+Macroevolution as the common descent of all life
+Macroevolution in the 21st century Macroevolution as an independent discipline.
+Macroevolution FAQ

@@ -1,0 +1,120 @@
+The Boeing Insitu ScanEagle is a small, long-endurance unmanned aerial vehicle (UAV) built by Insitu, a subsidiary of Boeing. The ScanEagle was designed by Insitu based on the Insitu SeaScan, a commercial UAV that was intended for fish-spotting. The ScanEagle continues to receive improvements through upgrades and changes.
+
+
+== Design and developmentEdit ==
+ScanEagle is a descendant of another Insitu UAV, the Insitu SeaScan, which was conceived of as a remote sensor for collecting weather data as well as helping commercial fishermen locate and track schools of tuna. ScanEagle emerged as the result of a strategic alliance between Boeing and Insitu. The resulting technology has been successful as a portable Unmanned Aerial System (UAS) for autonomous surveillance in the battlefield, and has been deployed since August 2004 in the Iraq War.
+ScanEagle carries a stabilized electro-optical and/or infrared camera on a lightweight inertial stabilized turret system, and an integrated communications system having a range of over 62 miles (100 km); it has a flight endurance of over 20 hours. ScanEagle has a 10.2-foot (3.1 m) wingspan a length of 4.5 feet (1.4 m) and a mass of 44 pounds (20 kg) and can operate up to 80 knots (92 mph; 150 km/h), with an average cruising speed of 48 knots (55 mph; 89 km/h). Block D aircraft featured a higher-resolution camera, a custom-designed Mode C transponder and a new video system. A Block D aircraft, flying at Boeing's test range in Boardman, Oregon set a type endurance record of 22 hours, 8 minutes.
+
+ScanEagle needs no airfield for deployment. Instead, it is launched using a pneumatic launcher, patented by Insitu, known as the "SuperWedge" launcher. It is recovered using the "Skyhook" retrieval system, which uses a hook on the end of the wingtip to catch a rope hanging from a 30-to-50-foot (9.1 to 15.2 m) pole. This is made possible by high-quality differential GPS units mounted on the top of the pole and UAV. The rope is attached to a shock cord to reduce stress on the airframe imposed by the abrupt stop.
+Each ScanEagle system costs US$3.2 million (2006). A complete system comprises four air vehicles or AVs, a ground control station, remote video terminal, the SuperWedge launch system and Skyhook recovery system.
+
+
+=== ImprovementsEdit ===
+On 18 March 2008, Boeing, with ImSAR and Insitu successfully flight-tested a ScanEagle with ImSAR's NanoSAR A radar mounted aboard. The ImSAR NanoSAR is the world's smallest Synthetic Aperture Radar, weighs 3.5 lb (1,590 g) and is 100 cubic inches (1.6 litres) in volume. It is designed to provide high quality real-time ground imaging through adverse weather conditions or other battlefield obscurants.
+In 2009, Boeing and Insitu announced the NightEagle, a modified ScanEagle Block E with an infrared camera for night operations.
+In August 2010, Boeing announced plans to control ScanEagles from control stations on E-3A AWACS aircraft and on the V-22.
+In July 2011, a team of two ScanEagles and another UAV cooperated to search and navigate a mountain area autonomously.
+Insitu introduced an improved ScanEagle 2 variant in October 2014 that has a new purpose-built heavy-fuel engine for increased reliability, which increases electrical power but decreases endurance to 16 hours. It also has a larger nose to carry day and night sensors at the same time, an increased payload, and heavier empty and max take-off weights; wingspan, service ceiling, and cruise and top speed remain the same. Other upgrades include a fully digital video system, a better navigation system, Ethernet-based architecture and reduced Electronic Magnetic Interference (EMI), and a new ground control station while using the same launcher and skyhook recovery system. The ScanEagle 2 was made to appeal to the growing commercial UAV market and orders will start being taken in 2015, either new built or as an upgrade for existing ScanEagle aircraft.
+
+
+== Operational historyEdit ==
+
+The ScanEagle entered service with the U.S. Navy in 2005. In addition to the United States military, the Australian Army also operates the ScanEagle UAV and the Canadian Government also leased the ScanEagle.
+On 15 and 16 October 2008, the National Oceanic and Atmospheric Administration (NOAA) conducted three successful test flights of the ScanEagle, launching it from the fisheries and oceanographic research ship NOAAS Oscar Dyson (R 224) in Puget Sound, Washington, flying it remotely from the ship, and recovering it back aboard. In 2009, the NOAA oceanographic research ship NOAAS McArthur II (R 330) began operating a ScanEagle owned by the University of Alaska to monitor the distribution and population of seals in the Bering Sea.
+In April 2009, a ScanEagle launched by the U.S. Navy was used during the stand-off between the U.S. Navy and a lifeboat controlled by pirates holding Captain Richard Phillips of the MV Maersk Alabama in the Indian Ocean after a failed hijack attempt.
+Insitu announced that the ScanEagle had totaled 500,000 combat flight hours and over 56,000 sorties by July 2011.
+In September 2011, Insitu revealed the ScanEagle had been employed by the U.S. Navy in Operation Unified Protector during the 2011 Libyan Revolution. The UAV was launched and recovered by the destroyer USS Mahan (DDG-72) to provide video imagery over three days that located "contacts of interest that no one else could find," which was relayed to the ship and then to the NATO command center by the secure video injection system.
+In late May 2013, the U.S. Coast Guard used a ScanEagle to seize over 1,000 lb of cocaine from a fast boat in the eastern Pacific. The ScanEagle was being deployed off the USCGC Bertholf (WMSL-750) during demonstrations to assess UAV use in the Coast Guard. The aircraft was able to maintain visual surveillance of the boat until a cutter was able to interdict the vessel, marking the first time a UAV deployed from a Coast Guard cutter participated in drug interdiction. The trials in May lasted two weeks with 90 flight hours completed. The Coast Guard hopes to begin purchases of unmanned aerial systems by FY 2016, with small UAVs deployed from its National Security Cutter fleet by the following year. Long-term goals are to use unmanned systems to augment their manned fleet, while UAVs on offshore patrol cutters would replace medium endurance cutters.
+On 26 July 2013, the ScanEagle became one of the first unmanned aerial vehicles to be granted certification by the Federal Aviation Administration to fly in U.S. airspace for commercial purposes. ScanEagles will be deployed to Alaska off a ship for ConocoPhillips to scout for icebergs and count whales, protecting drilling platforms and fulfilling environmental requirements. The ScanEagle can safely accomplish observation missions in hazardous Arctic locations, which is safer, cheaper, and more environmentally friendly than using manned aircraft. Commercial certification was the result of previous military certification and the Congressionally mandated opening of airspace over much of Alaska to small UAVs. Only four ScanEagles were certified with strict requirements: only one aircraft of the type is allowed airborne at any one time, they cannot fly through clouds or icing conditions, and they cannot take off or land during certain gust and wind conditions. The certifications did not mention line-of-sight control. On 12 September 2013, a ScanEagle with ConocoPhillips conducted its first flight from a research vessel and flew for 36 minutes. On its second flight, the aircraft experienced engine failure. It aborted the flight and landed in the water, as it was programmed to. A boat recovered the downed ScanEagle.
+
+
+=== Iranian capture and reverse engineering claimsEdit ===
+
+In December 2012, Iran stated it had captured an American ScanEagle that allegedly violated its airspace over the Persian Gulf. Iran later stated it had also captured two other ScanEagles. The U.S. Navy stated that none of its ScanEagles were missing. Photo evidence of a ScanEagle in Iran showed no U.S. military markings. In August, 2013, CBC News reported that the Canadian Navy had lost a ScanEagle drone in June 2012. The Navy denied it was obtained by Iran. On 17 December 2012, Iran announced it was starting mass production for a copy of the ScanEagle and has put that UAV into service. Iran later released images of this production line.
+On September 2013 a new UAV named Yasir was delivered to Iran's Army ground force; according to Jane's Information Group, the Yasir UAV appears to share the ScanEagle's 1.37 m length and 3.11 m wingspan, although it does have a slightly different twin tail boom and inverted-V tail plane configuration. In unveiling the Yasir, the Commander of the Iranian Army's Ground Forces, Brigadier General Ahmad-Reza Pourdastan, is quoted by the Iranian Fars News Agency as saying it is capable of flying at an altitude of 15,000 ft, has an endurance of 8 hours, and an operational radius of 200 km.
+In October 2013, during a five-day visit to Iran by Russian Air Force Commander Lieutenant General Viktor Bondarev, Islamic Revolutionary Guards Corps presented him with a copy of the US ScanEagle drone as a gift. In November 2013, a video appeared on YouTube showing a Yasir UAV flying over Damascus, Syria in support of Syrian Arab Army forces fighting against rebels.
+
+
+== OperatorsEdit ==
+ Australia
+Australian Defence Force
+ Canada
+Canadian Army
+ Czech Republic
+Czech Army
+ Malaysia
+Malaysian Armed Forces
+ Colombia
+Colombian Air Force
+ Netherlands
+Royal Netherlands Army
+ Japan
+Japan Ground Self-Defense Force
+ Iran
+Armed Forces of the Islamic Republic of Iran - see Yasir (UAV)
+ Italy
+Italian Navy
+ Poland
+
+ Romania
+ Spain
+Spanish Navy
+ Singapore
+Republic of Singapore Navy
+ Tunisia
+Tunisian Navy
+ United Kingdom
+Royal Navy
+ United States
+United States Air Force
+United States Marine Corps
+United States Navy
+National Oceanic and Atmospheric Administration
+ Yemen
+Yemeni Air Force
+
+
+== VariantsEdit ==
+ScanEagle X200
+A civilian-variant with a restricted category type certificate issued by the United States Federal Aviation Authority.
+CU-169
+Canadian military designation for the ScanEagle.
+
+
+== Notable appearances in mediaEdit ==
+The ScanEagle is mentioned by name and its camera POV is shown as a major plot element in the 2013 drama Captain Phillips
+
+
+== SpecificationsEdit ==
+Data from Insitu, USAF
+General characteristics
+Crew: none on-board
+Payload: 7.5 lb (3.4 kg)
+Length: 5.1-5.6 ft (1.55-1.71 m)
+Wingspan: 10.2 ft (3.11 m)
+Height: ()
+Empty weight: 30.9-39.68 lb (14-18 kg)
+Loaded weight: 39.7 lb (18 kg)
+Max. takeoff weight: 48.5 lb (22 kg)
+Powerplant: 1  2-stroke 3W piston engine, 1.5 hp (1.12 kW)
+Performance
+Maximum speed: 80 knots (92 mph, 148 km/h)
+Cruise speed: 60 knots (69 mph, 111 km/h)
+Endurance: 24+ hours
+Service ceiling: 19,500 ft (5,950 m)
+Avionics
+High resolution, day/night camera and thermal imager
+
+
+== See alsoEdit ==
+AAI RQ-2 Pioneer - an earlier sea-based fixed-wing UAV
+Boeing Insitu RQ-21 Integrator - developed from the ScanEagle.
+National Navy UDT-SEAL MuseumScanEagle on display,
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+ScanEagle product page on Insitu.com
+ScanEagle page on Boeing.com

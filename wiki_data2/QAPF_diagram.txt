@@ -1,0 +1,23 @@
+A QAPF diagram is a double triangle diagram which is used to classify igneous rocks based on mineralogic composition. The acronym, QAPF, stands for "Quartz, Alkali feldspar, Plagioclase, Feldspathoid (Foid)". These are the mineral groups used for classification in QAPF diagram. Q, A, P and F percentages are normalized (recalculated so that their sum is 100%).
+
+
+== Origin ==
+QAPF diagrams were created by the International Union of Geological Sciences (IUGS): Subcommission on the Systematics of Igneous Rocks fostered by Albert Streckeisen (whence their alternative name: Streckeisen diagrams). Geologists worldwide accept the diagrams as a classification of igneous, especially plutonic rocks.
+
+
+== Usage ==
+QAPF diagrams are mostly used to classify plutonic rocks (phaneritic rocks), but are also used to classify volcanic rocks if modal mineralogical compositions have been determined. QAPF diagrams are not used to classify pyroclastic rocks or volcanic rocks if modal mineralogical composition is not determined, instead the TAS classification (Total-Alkali-Silica) is used. TAS is also used if volcanic rock contains volcanic glass (such as obsidian). QAPF diagrams are also not used if mafic minerals make up more than 90% of the rock composition (for example: peridotites and pyroxenites).
+An exact name can be given only if the mineralogical composition is known, which cannot be determined in the field.
+
+
+== References ==
+Streckeisen, A. L., 1974. Classification and Nomenclature of Plutonic Rocks. Recommendations of the IUGS Subcommission on the Systematics of Igneous Rocks. Geologische Rundschau. Internationale Zeitschrift fr Geologie. Stuttgart. Vol.63, p. 773-785.
+Streckeisen, A. L., 1978. IUGS Subcommission on the Systematics of Igneous Rocks. Classification and Nomenclature of Volcanic Rocks, Lamprophyres, Carbonatites and Melilite Rocks. Recommendations and Suggestions. Neues Jahrbuch fr Mineralogie, Abhandlungen, Vol. 141, 1-14.
+Le Maitre,R.W. 2002. Igneous Rocks: A Classification and Glossary of Terms : Recommendations of International Union of Geological Sciences Subcommission on the Systematics of Igneous Rocks. Cambridge University Press, 236pp.
+
+
+== External links ==
+Classification of Igneous Rocks - IUGS Classification, Geological Sciences Department - Cal Poly Pomona, archived from the original on 30 Sep 2011 
+
+
+== Footnotes ==

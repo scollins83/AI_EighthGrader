@@ -1,0 +1,38 @@
+ADInstruments is an international company that produces data acquisition and analysis systems for the life sciences industry. It is headquartered in Dunedin, New Zealand and has more than 170 staff worldwide. Voted a finalist in Kenexa/JRA Top 10 Best Place to work in 2009, 2010., 2011 and 2012, and voted number one place to work in the life sciences industry in 2012 by The Scientist Magazine. ADInstruments partners with several producers of life sciences equipment, including Transonic Systems Inc., Danish Myo Technology, Telemetry Research Ltd., Radnoti Glass Technologies Inc., Panlab s.I. and Millar Instruments Ltd. ADInstruments is also an Applied Science industry partner with the University of Otago (New Zealand)
+
+
+== History ==
+In 1985, the Physiology Department at New Zealand's University of Otago encouraged the development of a computer-based data acquisition system to replace their paper-based systems. In 1985, as part of his Computer Science Masters at the university, Michael Macknight built the MacLab, one of the first analog to digital converters that connected to a Macintosh computer.
+Two software packages were then developed: Chart (chart-recorder software, now LabChart) and Scope (digital oscilloscope software), which provided software control of the recording unit as well as a range of display and analysis features:
+In 1988, business name was registered and the company began manufacturing Macintosh computer-based data acquisition systems for the life sciences research market.
+In 1996 the company's first Windows compatible data acquisition system was released. The Windows compatible MacLab data acquisition systems were branded as PowerLab.
+In 2005 the LabTutor software for education was released.
+
+
+== Sponsorship ==
+The company provides grants, awards and sponsorship to students, researchers and educators in the life sciences industry:
+
+
+=== Undergraduate ===
+The Faculty for Undergraduate Neuroscience (FUN) presents awards to undergraduate neuroscience students.
+Prize for Human Structure and Function, for the highest aggregate mark in human structure and function subjects at the University of Newcastle (Australia).
+Zoology Prize, awarded annually to a student of LaTrobe University (Australia) with the highest aggregate mark in the animal physiology stream of Zoology Honours
+
+
+=== Educator ===
+The National Association of Biology Teachers (NABT) Technology Innovation Grant
+Progressive Educator Award
+CRAWFLY Educator Scholarship Program
+
+
+== Award nomination ==
+In 2008 the company was nominated for two Life Science Industry Awards:
+Best Sales Representative
+Most Knowledgeable Technical Support
+
+
+== References ==
+
+
+== External links ==
+BusinessWeek profile

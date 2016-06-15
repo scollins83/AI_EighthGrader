@@ -1,0 +1,73 @@
+See also Tree of life (disambiguation) for other meanings of the Tree of Life.
+
+The tree of life is a metaphor used to describe the relationships between organisms, both living and extinct. Its use dates back to at least the early 1800s. It was employed by Charles Darwin to express the concept of the branching divergence of varieties and then species in a process of common descent from ancestors. Ernst Haeckel coined the term phylogeny for the evolutionary relationships of species through time, and went further than Darwin in proposing phylogenic histories of life. The modern development of this idea is called the phylogenetic tree.
+
+
+== Early trees of life ==
+
+Although the mutability of species may have appeared in paintings and trees have been used as a metaphor for other purposes (Porphyrian tree) earlier than 1800, the combination of the concept of branching evolution and the tree image did not appear before 1800. The earliest tree of life was published by the French botanist Augustin Augier in 1801. It shows the relationships between members of the plant kingdom.
+
+Jean-Baptiste Lamarck (17441829) produced the first branching tree of animals in his Philosophie Zoologique (1809). It was an upside-down tree starting with worms and ending with mammals. However, Lamarck did not believe in common descent of all life. Instead, he believed that life consists of separate parallel lines advancing from simple to complex.
+The American geologist Edward Hitchcock (17931864) published in 1840 the first Tree of Life based on paleontology in his Elementary Geology. On the vertical axis are paleontological periods. Hitchcock made a separate tree for plants (left) and animals (right). The plant and the animal tree are not connected at the bottom of the chart. Furthermore, each tree starts with multiple origins. Hitchcock's tree was more realistic than Darwin's 1859 theoretical tree (see below) because Hitchcock used real names in his trees. It is also true that Hitchcock's trees were branching trees. However, they were not real evolutionary trees, because Hitchcock believed that a deity was the agent of change. That was an important difference with Darwin.
+The first edition of Vestiges of the Natural History of Creation, which was published anonymously in 1844 in England, contained a tree like diagram (p. 212) in the chapter 'Hypothesis of the development of the vegetable and animal kingdoms'. It shows a model of embryological development where fish (F), reptiles (R), and birds (B) represent branches from a path leading to mammals (M). In the text this branching tree idea is tentatively applied to the history of life on earth: "there may be branching" (p. 191), but the branching diagram is not displayed again specifically for this purpose. However, the image of a branching tree could easily have inspired others to use it explicitly as a representation of the history of life on earth.
+In 1858, a year before Darwin's Origin, the paleontologist Heinrich Georg Bronn (18001862) published a hypothetical tree labeled with letters. Although not a creationist, Bronn did not propose a mechanism of change.
+
+
+== Darwin's tree of life ==
+
+Charles Darwin (18091882) used the concept of a tree of life in the context of his theory of evolution. In On the Origin of Species (1859) Chapter IV he presented an abstract diagram of a theoretical tree of life for species of an unnamed large genus (see figure). On the horizontal base line hypothetical species within this genus are labelled A  L and are spaced irregularly to indicate how distinct they are from each other, and are above broken lines at various angles suggesting that they have diverged from one or more common ancestors. On the vertical axis divisions labelled I  XIV each represent a thousand generations. From A, diverging lines show branching descent producing new varieties, some of which go extinct, so that after ten thousand generations descendants of A have become distinct new varieties or even sub-species a10, f10, and m10. Similarly, the descendants of I have diversified to become the new varieties w10 and z10. The process is extrapolated for a further four thousand generations so that the descendants of A and I become fourteen new species labelled a14 to z14. While F has continued for fourteen thousand generations relatively unchanged, species B,C,D,E,G,H,K and L have gone extinct. In Darwin's own words: "Thus the small differences distinguishing varieties of the same species, will steadily tend to increase till they come to equal the greater differences between species of the same genus, or even of distinct genera.". This is a branching pattern with no names given to species, unlike the more linear tree Ernst Haeckel made years later (figure below) which includes the names of species and shows a more linear development from "lower" to "higher" species. In his summary to the section as revised in the 6th edition of 1872, Darwin explains his views on the tree of life:
+
+The affinities of all the beings of the same class have sometimes been represented by a great tree. I believe this simile largely speaks the truth. The green and budding twigs may represent existing species; and those produced during former years may represent the long succession of extinct species. At each period of growth all the growing twigs have tried to branch out on all sides, and to overtop and kill the surrounding twigs and branches, in the same manner as species and groups of species have at all times overmastered other species in the great battle for life. The limbs divided into great branches, and these into lesser and lesser branches, were themselves once, when the tree was young, budding twigs; and this connection of the former and present buds by ramifying branches may well represent the classification of all extinct and living species in groups subordinate to groups. Of the many twigs which flourished when the tree was a mere bush, only two or three, now grown into great branches, yet survive and bear the other branches; so with the species which lived during long-past geological periods, very few have left living and modified descendants. From the first growth of the tree, many a limb and branch has decayed and dropped off; and these fallen branches of various sizes may represent those whole orders, families, and genera which have now no living representatives, and which are known to us only in a fossil state. As we here and there see a thin straggling branch springing from a fork low down in a tree, and which by some chance has been favoured and is still alive on its summit, so we occasionally see an animal like the Ornithorhynchus or Lepidosiren, which in some small degree connects by its affinities two large branches of life, and which has apparently been saved from fatal competition by having inhabited a protected station. As buds give rise by growth to fresh buds, and these, if vigorous, branch out and overtop on all sides many a feebler branch, so by generation I believe it has been with the great Tree of Life, which fills with its dead and broken branches the crust of the earth, and covers the surface with its ever-branching and beautiful ramifications.
+
+The meaning and importance of Darwin's use of the tree of life metaphor have been extensively discussed. Stephen Jay Gould, for example, says that Darwin placed the famous passage quoted above "at a crucial spot in his text", where it marked the conclusion of his argument for natural selection, illustrating both the interconnectedness by descent of organisms as well as their success and failure in the history of life. David Penny has written that Darwin did not use the tree of life to describe the relationship between groups of organisms, but to suggest that, as with branches in a living tree, lineages of species competed with and supplanted one another. Petter Hellstrm has demonstrated that Darwin consciously chose to name his tree after the biblical tree of life, as described in Genesis, thus relating his theory to Christian mythology, and suggesting that he did so to mobilise the imagination of his readers.
+
+
+== Haeckel's tree of life ==
+
+Ernst Haeckel (18341919) constructed several trees of life. Left is shown the first sketch of the famous Haeckel's tree of life in the 1870s which shows "Pithecanthropus alalus" as the ancestor of Homo sapiens. In the middle is the tree of life from Generelle Morphologie der Organismen (1866) with three kingdoms Plantae, Protista and Animalia. On the right is the 'Pedigree of Man' published in The Evolution of Man (1879).
+
+
+== The tree of life today ==
+
+The model of a tree is still considered valid for eukaryotic life forms. As of 2010, research into the earliest branches of the eukaryote tree has suggested a tree with either four supergroups or two supergroups. There does not yet appear to be a consensus; in a review article, Roger and Simpson conclude that "with the current pace of change in our understanding of the eukaryote tree of life, we should proceed with caution."
+Biologists now recognize that the prokaryotes (the two domains of bacteria and archaea) and certain animals such as bdelloid rotifers and tardigrades have the ability to transfer genetic information between unrelated organisms through horizontal gene transfer (HGT). Recombination, gene loss, duplication, and gene creation are a few of the processes by which genes can be transferred within and between bacterial and archaeal species, causing variation that is not due to vertical transfer. There is emerging evidence of HGT occurring within the prokaryotes at the single and multicell level and the view is now emerging that the tree of life gives an incomplete picture of life's evolution. It was a useful tool in understanding the basic processes of evolution for prokaryotes, but cannot explain the full complexity of the situation.
+
+
+=== Phylogenetic tree ===
+
+A phylogenetic tree or evolutionary tree is a branching diagram or "tree" showing the inferred evolutionary relationships among various biological species or other entitiestheir phylogenybased upon similarities and differences in their physical or genetic characteristics. The taxa joined together in the tree are implied to have descended from a common ancestor.
+In a rooted phylogenetic tree, each node with descendants represents the inferred most recent common ancestor of the descendants, and the edge lengths in some trees may be interpreted as time estimates. Each node is called a taxonomic unit. Internal nodes are generally called hypothetical taxonomic units, as they cannot be directly observed. Trees are useful in fields of biology such as bioinformatics, systematics, and comparative phylogenetics.
+Unrooted trees illustrate only the relatedness of the leaf nodes and do not require the ancestral root to be known or inferred.
+In September 2015, the first draft of the Open Tree of Life was published, in which information from nearly 500 previously published trees was combined into a single online database, free to browse and download.
+
+
+== See also ==
+Bacterial phyla
+Cladistics
+Common descent
+History of evolutionary thought
+Holism
+Horizontal gene transfer
+Last universal ancestor
+Phylogenetic tree
+Tree of Life Web Project
+
+
+== Footnotes ==
+
+
+== References ==
+Darwin, Charles (1859), On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life (1st ed.), London: John Murray, ISBN 1-4353-9386-4 
+Darwin, Charles (1872), The Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life (6th ed.), London: John Murray, ISBN 1-4353-9386-4 
+Doolittle, W. F.; Bapteste, E. (2007). "Inaugural Article: Pattern pluralism and the Tree of Life hypothesis". Proceedings of the National Academy of Sciences 104 (7): 20432049. doi:10.1073/pnas.0610699104. PMC 1892968. PMID 17261804. 
+
+
+== External links ==
+Tree of Life Web Project - explore complete phylogenetic tree interactively
+Tree of Life illustration - A modern illustration of the complete tree of life.
+Science Magazine Tree of Life - Sample tree of life from Science journal.
+Science journal issue - Issue devoted to the tree of life.
+[3]-Report on recent paper on "pruning" of the tree of life model.
+The Tree of Life by Garrett Neske, The Wolfram Demonstrations Project: "presents an interactive tree of life that allows you to explore the relationships between many different kinds of organisms by allowing you to select an organism and visualize the clade to which it belongs."
+The Green Tree of Life - Hyperbolic tree The University and Jepson Herbaria
+[4] - NCBI's taxonomy database common tree

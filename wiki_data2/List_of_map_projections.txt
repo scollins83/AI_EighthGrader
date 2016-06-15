@@ -1,0 +1,36 @@
+This list/table provides an overview of significant map projections, including those described by articles in Wikipedia. It is sortable by the main fields. Inclusion in the table is subjective, as there is no definitive list of map projections.
+
+
+== Table of projectionsEdit ==
+
+
+== KeyEdit ==
+
+The designation "deployed" means popularisers/users rather than necessarily creators. The type of projection and the properties preserved by the projection use the following categories:
+
+
+=== Type of projectionEdit ===
+Cylindrical: In standard presentation, these map regularly-spaced meridians to equally spaced vertical lines, and parallels to horizontal lines.
+Pseudocylindrical: In standard presentation, these map the central meridian and parallels as straight lines. Other meridians are curves (or possibly straight from pole to equator), regularly spaced along parallels.
+Pseudoazimuthal: In standard presentation, pseudoazimuthal projections map the equator and central meridian to perpendicular, intersecting straight lines. They map parallels to complex curves bowing away from the equator, and meridians to complex curves bowing in toward the central meridian. Listed here after pseudocylindrical as generally similar to them in shape and purpose.
+Conic: In standard presentation, conic (or conical) projections map meridians as straight lines, and parallels as arcs of circles.
+Pseudoconical: In standard presentation, pseudoconical projections represent the central meridian as a straight line, other meridians as complex curves, and parallels as circular arcs.
+Azimuthal: In standard presentation, azimuthal projections map meridians as straight lines and parallels as complete, concentric circles. They are radially symmetrical. In any presentation (or aspect), they preserve directions from the center point. This means great circles through the central point are represented by straight lines on the map.
+Other: Typically calculated from formula, and not based on a particular projection
+Polyhedral maps: Polyhedral maps can be folded up into a polyhedral approximation to the sphere, using particular projection to map each face with low distortion.
+Retroazimuthal: Direction to a fixed location B (by the shortest route) corresponds to the direction on the map from A to B.
+
+
+=== PropertiesEdit ===
+Conformal: Preserves angles locally, implying that locally shapes are not distorted.
+Equal Area: Areas are conserved.
+Compromise: Neither conformal nor equal-area, but a balance intended to reduce overall distortion.
+Equidistant: All distances from one (or two) points are correct. Other equidistant properties are mentioned in the notes.
+Gnomonic: All great circles are straight lines.
+
+
+== NotesEdit ==
+
+
+== Further readingEdit ==
+James P. Snyder (1987), Map ProjectionsA Working Manual: USGS Professional Paper 1395, Washington: Government Printing Office. http://pubs.er.usgs.gov/publication/pp1395 .

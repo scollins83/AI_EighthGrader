@@ -1,0 +1,75 @@
+In meteorology, "precipitation types" can include the character or phase of the precipitation which is falling to ground level. There are three distinct ways that precipitation can occur. Convective precipitation is generally more intense, and of shorter duration, than stratiform precipitation. Orographic precipitation occurs when moist air is forced upwards over rising terrain, such as a mountain.
+Precipitation can also fall in either liquid or solid phases, or transition between them. Liquid forms of precipitation include rain and drizzle. Rain or drizzle which freezes on contact within a subfreezing air mass gains the preceding adjective "freezing", becoming known as freezing rain or freezing drizzle. Frozen forms of precipitation include snow, ice needles, sleet, hail, and graupel. Intensity is classified either by rate of fall, or by visibility restriction.
+
+
+== Phases ==
+Precipitation falls in many forms, or phases. They can be subdivided into:
+Liquid precipitation:
+Drizzle (DZ)
+Rain (RA)
+
+Freezing precipitation:
+Freezing drizzle (FZDZ)
+Freezing rain (FZRA)
+Rain and snow mixed / "Snain" (RASN)
+
+Frozen precipitation:
+Snow (SN)
+Snow grains (SG)
+Ice pellets / Sleet (PL)
+Hail (GR)
+Snow pellets / Graupel (GS)
+Ice crystals (IC)
+
+Fog condensation on vegetation foliage, dripping on forest soil.
+The parenthesized letters are the METAR codes for each phenomenon.
+
+
+== Mechanisms ==
+Precipitation occurs when the air becomes saturated with water vapor, and can no longer hold all of it in vapor form. This occurs when moist air cools, usually when an airmass rises through the atmosphere. However, an airmass can also cool (e.g. through radiative cooling, or ground contact with cold terrain) without a change in altitude.
+Convective precipitation occurs when air rises vertically through the (temporarily) self-sustaining mechanism of convection. Stratiform precipitation occurs when large air masses rise diagonally as larger-scale atmospheric dynamics force them to move over each other. Orographic precipitation is similar, except the upwards motion is forced when a moving airmass encounters the rising slope of a landform such as a mountain ridge.
+
+
+=== Convection ===
+
+Convection occurs when the Earth's surface, within a conditionally unstable or moist atmosphere, becomes heated more than its surgs, leading to significant evaporation. Convective rain, or showery precipitation, occurs from convective clouds, e.g., cumulonimbus or cumulus congestus. It falls as showers with rapidly changing intensity. Convective precipitation falls over a certain area for a relatively short time, as convective clouds have limited horizontal extent. Most precipitation in the tropics appears to be convective; however, it has been suggested that stratiform precipitation thunderstorms.
+Graupel and hail indicate convection. In mid-latitudes, convective precipitation is associated with cold fronts (often behind the front), squall lines, and warm fronts in very moist air.
+
+
+=== Frontal ===
+
+Frontal precipitation is caused by frontal systems surrounding extratropical cyclones or lows, which form when warm and often tropical air meets cooler air. Frontal precipitation typically falls out of nimbostratus clouds.
+When masses of air with different density (moisture and temperature characteristics) meet, less dense warmer air overrides colder air. The warmer air is forced to rise and if conditions are right becomes saturated, causing precipitation. In turn, precipitation can enhance the temperature and moisture contrast along a frontal boundary. Passing weather fronts cause sudden changes in general temperature, and in the humidity and pressure in the air at ground level.
+Warm fronts occur where the warm air pushes out a previously lodged cold air mass. The warm air overrides the cooler air and moves upward. Warm fronts are followed by extended periods of light rain and drizzle, because, after the warm air rises above the cooler air (which remains on the ground), it gradually cools due to the air's expansion while being lifted, which forms clouds and leads to precipitation.
+Cold fronts occur when a mass of cooler air dislodges a mass of warm air. This type of transition is sharper, since cold air is more dense than warm air. The rain duration is shorter, and generally more intense, than that which occurs ahead of warm fronts.
+A wide variety of weather can be found along an occluded front, with thunderstorms possible, but usually their passage is associated with a drying of the air mass.
+
+
+=== Orographic ===
+
+Orographic or relief rainfall is caused when masses of air pushed by wind are forced up the side of elevated land formations, such as large mountains. The lift of the air up the side of the mountain results in adiabatic cooling, and ultimately condensation and precipitation. In mountainous parts of the world subjected to relatively consistent winds (for example, the trade winds), a more moist climate usually prevails on the windward side of a mountain than on the leeward (downwind) side. Moisture is removed by orographic lift, leaving drier air (see Foehn) on the descending (generally warming), leeward side where a rain shadow is observed.
+
+In Hawaii, Mount Waialeale (Waialeale), on the island of Kauai, is notable for its extreme rainfall. It has the highest average annual rainfall on Earth, with 460 inches (12,000 mm) per year. Storm systems affect the region with heavy rains between October and March. Local climates vary considerably on each island due to their topography, divisible into windward (Koolau) and leeward (Kona) regions based upon location relative to the higher mountains. Windward sides face the east-to-northeast trade winds and receive much more rainfall; leeward sides are drier and sunnier, with less rain and less cloud cover. On the island of Oahu, clouds and often rain can usually be observed around the windward mountain peaks, while the southern parts of the island (including most of Honolulu and Waikiki) receive dramatically less rainfall throughout the year.
+In South America, the Andes mountain range blocks Pacific Ocean moisture that arrives on the continent, resulting in a desertlike climate just downwind across western Argentina. The Sierra Nevada range creates the same effect in North America, causing the Great Basin desert, Mojave Desert, and Sonoran Desert.
+
+
+== Intensity ==
+Precipitation is measured using a rain gauge. When classified according to the rate of precipitation, rain can be divided into categories. Light rain describes rainfall which falls at a rate of between a trace and 2.5 millimetres (0.098 in) per hour. Moderate rain describes rainfall with a precipitation rate of between 2.6 millimetres (0.10 in) and 7.6 millimetres (0.30 in) per hour. Heavy rain describes rainfall with a precipitation rate above 7.6 millimetres (0.30 in) per hour.
+Snowfall intensity is classified in terms of visibility. When the visibility is over 1 kilometre (0.62 mi), snow is determined to be light. Moderate snow describes snowfall with visibility restrictions between .5 kilometres (0.31 mi) and 1 kilometre (0.62 mi). Heavy snowfall describes conditions when visibility is restricted below .5 kilometres (0.31 mi).
+
+
+== Gallery ==
+
+
+== See also ==
+Weather
+Flood
+Cyclone
+Low pressure area
+
+
+== References ==
+
+
+== External links ==
+UK Met Office: Why does it rain?

@@ -1,0 +1,18 @@
+vapour density is the density of a vapour in relation to that of hydrogen it may be defined as mass of a certain volume of a substance divided by mass of same volume of hydrogen
+vapor density = mass of n molecules of gas / mass of n molecules of hydrogen
+therefore:
+vapour density = molar mass of gas / molar mass of h2
+vapour density = molar mass of gas / 2.016
+vapour density = ~ molar mass
+(and thus: molar mass = ~2 vapour density)
+== alternative definition ==
+in many web sources particularly in relation to safety considerations at commercial and industrial facilities in the u.s. vapour density is defined with respect to air not hydrogen air is given a vapour density of one for this use air has a molecular weight of 28.97 atomic mass units and all other gas and vapour molecular weights are divided by this number to derive their vapour density for example acetone has a vapour density of 2 in relation to air that means acetone vapour is twice as heavy as air this can be seen by dividing the molecular weight of acetone 58.1 by that of air 28.97 which equals 2
+with this definition the vapour density would indicate whether a gas is denser (greater than one) or less dense (less than one) than air the density has implications for container storage and personnel safetyif a container can release a dense gas its vapour could sink and if flammable collect until it is at a concentration sufficient for ignition even if not flammable it could collect in the lower floor or level of a confined space and displace air possibly presenting an asphyxiation hazard to individuals entering the lower part of that space
+== see also ==
+relative density (also known as specific gravity)
+victor meyer apparatus
+== references ==
+^ msds glossary of terms vapor density msdsonline.com retrieved on 2012-02-09
+^ hazmat math: calculating vapor density firenuggets.com retrieved on 2012-02-09
+^ msds: acetone hazard.com (1998-04-21) retrieved on 2012-02-09
+^ niosh pocket guide: acetone cdc.gov retrieved on 2012-02-09

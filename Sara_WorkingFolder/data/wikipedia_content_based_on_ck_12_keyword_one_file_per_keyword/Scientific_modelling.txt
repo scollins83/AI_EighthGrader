@@ -69,12 +69,13 @@ nowadays there are some 40 magazines about scientific modelling which offer all 
 rainer hegselmann ulrich mller and klaus troitzsch (eds.) (1996) modelling and simulation in the social sciences from the philosophy of science point of view theory and decision library dordrecht: kluwer
 paul humphreys (2004) extending ourselves: computational science empiricism and scientific method oxford: oxford university press
 johannes lenhard gnter kppers and terry shinn (eds.) (2006) "simulation: pragmatic constructions of reality" springer berlin
-tom ritchey (2012) "outline for a morphology of modelling methods: contribution to a general theory of modelling" in: acta morphologica generalis vol 1 no 1 pp 1-20
+tom ritchey (2012) "outline for a morphology of modelling methods: contribution to a general theory of modelling" in: acta morphologica generalis vol 1 no 1 pp 120
 fritz rohrlich (1990) "computer simulations in the physical sciences" in: proceedings of the philosophy of science association vol 2 edited by arthur fine et al. 507-518 east lansing: the philosophy of science association
 rainer schnell (1990) "computersimulation und theoriebildung in den sozialwissenschaften" in: klner zeitschrift fr soziologie und sozialpsychologie 1 109-128
 sergio sismondo and snait gissis (eds.) (1999) modeling and simulation special issue of science in context 12
 eric winsberg (2001) "simulations models and theories: complex physical systems and their representations" in: philosophy of science 68 (proceedings): 442-454
 eric winsberg (2003) "simulated experiments: methodology for a virtual world" in: philosophy of science 70: 105125
+eric winsberg (2010) science in the age of computer simulation chicago: university of chicago press
 tom helikar jim a rogers (2009) "chemchains: a platform for simulation and analysis of biochemical networks aimed to laboratory scientists" biomed central
 == external links ==
 models entry in the internet encyclopedia of philosophy
@@ -83,5 +84,5 @@ the world as a process: simulations in the natural and social sciences in: r heg
 research in simulation and modelling of various physical systems
 modelling water quality information center u.s department of agriculture
 ecotoxicology & models
-a morphology of modelling methods acta morphologica generalis vol 1 no 1 pp 1-20
+a morphology of modelling methods acta morphologica generalis vol 1 no 1 pp 120
 template:computer modelling

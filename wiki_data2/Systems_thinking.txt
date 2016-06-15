@@ -1,0 +1,155 @@
+Systems thinking is the process of understanding how those things which may be regarded as systems influence one another within a complete entity, or larger system. In nature, systems thinking examples include ecosystems in which various elements such as air, water, movement, plants, and animals work together to survive or perish. In organizations, systems consist of people, structures, and processes that work together to make an organization "healthy" or "unhealthy".
+Systems thinking has roots in the General Systems Theory that was advanced by Ludwig von Bertalanffy in the 1940s and furthered by Ross Ashby in the 1950s. The field was further developed by Jay Forrester and members of the Society for Organizational Learning at MIT which culminated in the popular book The Fifth Discipline by Peter Senge which defined Systems thinking as the capstone for true organizational learning.
+Systems thinking has been defined as an approach to problem solving, by viewing "problems" as parts of an overall system, rather than reacting to specific parts, outcomes or events, and thereby potentially contributing to further development of unintended consequences. Systems thinking is not one thing but a set of habits or practices within a framework that is based on the belief that the component parts of a system can best be understood in the context of relationships with each other and with other systems, rather than in isolation. Systems thinking focuses on cyclical rather than linear cause and effect.
+In systems science, it is argued that the only way to fully understand why a problem or element occurs and persists is to understand the parts in relation to the whole. Standing in contrast to Descartes's scientific reductionism and philosophical analysis, it proposes to view systems in a holistic manner. Consistent with systems philosophy, systems thinking concerns an understanding of a system by examining the linkages and interactions between the elements that compose the entirety of the system.
+Systems science thinking attempts to illustrate how small catalytic events that are separated by distance and time can be the cause of significant changes in complex systems. Acknowledging that an improvement in one area of a system can adversely affect another area of the system, it promotes organizational communication at all levels in order to avoid the silo effect. Systems thinking techniques may be used to study any kind of system  physical, biological, social, scientific, engineered, human, or conceptual.
+
+
+== The concept of a system ==
+Several ways to think of and define a system include:
+a system is composed of parts
+all the parts of a system must be related (directly or indirectly), else there are really two or more distinct systems
+a system is encapsulated (has a boundary)
+the boundary of a system is a decision made by an observer, or a group of observers
+a system can be nested inside another system
+a system can overlap with another system
+a system is bounded in time, but may be intermittently operational
+a system is bounded in space, though the parts are not necessarily co-located
+a system receives input from, and sends output into, the wider environment
+a system consists of processes that transform inputs into outputs
+a system is autonomous in fulfilling its purpose (a car is not a system. A car with a driver is a system)
+Systems science thinkers consider that:
+a system is a dynamic and complex whole, interacting as a structured functional unit circuit
+energy, material and information flow among the different elements that compose a system
+a system is a community situated within an environment
+energy, material and information flow from and to the surrounding environment via semi-permeable membranes or boundaries that may include negotiable limits
+systems are often composed of entities seeking equilibrium but can exhibit patterns, cycling, oscillation, randomness or chaos (see Chaos Theory), or exponential behavior (see Exponential Function)
+A holistic system is any set (group) of interdependent or temporally interacting parts. Parts are generally systems themselves and are composed of other parts, just as systems are generally parts or holons (see Holon Philosophy) of other systems.
+Systems science and the application of systems science thinking has been grouped into the following three categories based on the techniques or methodologies used to design, analyze, modify, or manage a system:
+Hard Systems  involving simulations, hard systems approaches to system thinking often use computers and the techniques of operations research/management science. Hard systems approaches are useful for problems that can be justifiably quantified. However, hard systems cannot easily take into account unquantifiable variables such as opinions, culture, or politics, etc.,, and may treat people as being passive, rather than as having complex motivations.
+Soft Systems, or Soft systems methodology  is a methodology for systems that cannot easily be quantified, especially systems involving people holding multiple and conflicting frames of reference. Soft systems methods are useful for understanding motivations, viewpoints, and interactions, and for addressing qualitative as well as quantitative dimensions of problem situations. Soft systems approaches to system thinking may utilize foundation methodological work developed by Peter Checkland, Brian Wilson and their colleagues at Lancaster University, and may include Morphological analysis which is a complementary method for structuring and analyzing non-quantifiable problem complexes.
+Evolutionary Systems  Bla H. Bnthy developed a methodology that is applicable to the design of complex social systems. This technique integrates critical systems inquiry with soft systems methodologies. Evolutionary systems, similar to dynamic systems are understood as open, complex systems, but with the capacity to evolve over time. Bnthy uniquely integrated the interdisciplinary perspectives of systems research (including chaos, complexity, cybernetics), cultural anthropology, evolutionary theory, and others.
+
+
+== The systems approach ==
+The systems thinking approach incorporates several tenets:
+Interdependence of objects and their attributes - independent elements can never constitute a system
+Holism - emergent properties not possible to detect by analysis should be possible to define by a holistic approach
+Goal seeking - systemic interaction must result in some goal or final state
+Inputs and outputs - in a closed system inputs are determined once and constant; in an open system additional inputs are admitted from the environment
+Transformation of inputs into outputs - this is the process by which the goals are obtained
+Entropy - the amount of disorder or randomness present in any system
+Regulation - a method of feedback is necessary for the system to operate predictably
+Hierarchy - complex wholes are made up of smaller subsystems
+Differentiation - specialized units perform specialized functions
+Equifinality - alternative ways of attaining the same objectives (convergence)
+Multifinality - attaining alternative objectives from the same inputs (divergence)
+A treatise on systems thinking ought to address many issues including:
+
+Encapsulation of a system in space and/or in time
+Active and passive systems (or structures)
+Transformation by an activity system of inputs into outputs
+Persistent and transient systems
+Evolution, the effects of time passing, the life histories of systems and their parts.
+Design and designers.
+
+Using the tenet of "multifinality", a supermarket could be considered to be:
+
+a "profit making system" from the perspective of management and owners
+a "distribution system" from the perspective of the suppliers
+an "employment system" from the perspective of employees
+a "materials supply system" from the perspective of customers
+an "entertainment system" from the perspective of loiterers
+a "social system" from the perspective of local residents
+a "dating system" from the perspective of single customers
+
+As a result of such thinking, new insights may be gained into how the supermarket works, why it has problems, how it can be improved or how changes made to one component of the system may impact the other components.
+
+
+== Applications ==
+Systems science thinking is increasingly being used to tackle a wide variety of subjects in fields such as computing, engineering, epidemiology, information science, health, manufacture, management, sustainable development, and the environment. Professor Rajagopal, EGADE Business School, building on the work of Ferdinand Tnnies has suggested the application of systems thinking in developing marketing strategy from the perspectives of corporate business restructuring in the post-economic recession situations.
+Some examples:
+
+
+== Examples of systems ==
+
+
+=== Kenneth Boulding's hierarchy of systems ===
+TABLE 3.1 Kenneth Boulding's hierarchy of systems (abstracted from Boulding 1956, pp. 8994)
+
+ Level  Characteristic unit    Summary description
+ (1)    framework              static systems
+ (2)    clockwork              simple dynamic systems
+ (3)    thermostat             control mechanisms and cybernetic systems
+ (4)    cell                   open systems, or self-maintaining structures
+ (5)    plant                  genetic/societal systems
+ (6)    animal                 mobile, teleological systems with self-awareness
+ (7)    human individual       animal systems with self-consciousness
+ (8)    human society          social systems with self-consciousness
+ (9)    transcendental idea    ultimate, absolutes, and inescapeable knowledges
+
+
+=== Stafford Beer's classification of systems ===
+FIGURE 4.1: Stafford Beer's classification of systems based on degrees of complexity and uncertainty. Source: Beer (1959, p. 18).
+
+-----------------------------------------------------------------------
+SYSTEMS             Simple          Complex         Exceedingly 
+                                                     complex
+-----------------------------------------------------------------------
+Deterministic   Window catch     Electronic digital   EMPTY
+                                    computer
+              --------------------------------------
+                Billiards        Planetary system
+              --------------------------------------
+                Machine-shop     Automation
+                   lay-out
+-----------------------------------------------------------------------
+Probabilistic   Penny tossing    Stockholding         The economy
+              ---------------------------------------------------------
+                Jellyfish        Conditioned          The brain  
+                   movement         reflexed
+              ---------------------------------------------------------
+                Statistical      Industrial           THE COMPANY
+                quality control     profitability
+
+
+== See also ==
+
+
+== References ==
+
+
+== Bibliography ==
+Russell L. Ackoff (1999) Ackoff's Best: His Classic Writings on Management. (Wiley) ISBN 0-471-31634-2
+Russell L. Ackoff (2010) Systems Thinking for Curious Managers. (Triarchy Press). ISBN 978-0-9562631-5-5
+Bla H. Bnthy (1996) Designing Social Systems in a Changing World (Contemporary Systems Thinking). (Springer) ISBN 0-306-45251-0
+Bla H. Bnthy (2000) Guided Evolution of Society: A Systems View (Contemporary Systems Thinking). (Springer) ISBN 0-306-46382-2
+Ludwig von Bertalanffy (1976; revised) General System theory: Foundations, Development, Applications. (George Braziller) ISBN 0-8076-0453-4
+Fritjof Capra (1997) The Web of Life (HarperCollins) ISBN 0-00-654751-6
+Peter Checkland (1981) Systems Thinking, Systems Practice. (Wiley) ISBN 0-471-27911-0
+Peter Checkland, Jim Scholes (1990) Soft Systems Methodology in Action. (Wiley) ISBN 0-471-92768-6
+Peter Checkland, Jim Sue Holwell (1998) Information, Systems and Information Systems. (Wiley) ISBN 0-471-95820-4
+Peter Checkland, John Poulter (2006) Learning for Action. (Wiley) ISBN 0-470-02554-9
+C. West Churchman (1984 - revised) The Systems Approach. (Delacorte Press) ISBN 0-440-38407-9.
+John Gall (2003) The Systems Bible: The Beginner's Guide to Systems Large and Small. (General Systemantics Pr/Liberty) ISBN 0-9618251-7-0
+Jamshid Gharajedaghi (2005) Systems Thinking: Managing Chaos and Complexity - A Platform for Designing Business Architecture. (Butterworth-Heinemann) ISBN 0-7506-7973-5
+Charles Franois (ed) (1997), International Encyclopedia of Systems and Cybernetics, Mnchen: K. G. Saur.
+Charles L. Hutchins (1996) Systemic Thinking: Solving Complex Problems CO:PDS ISBN 1-888017-51-1
+Bradford Keeney (2002 - revised) Aesthetics of Change. (Guilford Press) ISBN 1-57230-830-3
+Donella Meadows (2008) Thinking in Systems - A primer (Earthscan) ISBN 978-1-84407-726-7
+Pouvreau David (2013). "Une histoire de la 'systmologie gnrale' de Ludwig von Bertalanffy - Gnalogie, gense, actualisation et postrit d'un projet hermneutique", Doctoral Thesis (1138 pages), Ecole des Hautes Etudes en Sciences Sociales (EHESS), Paris : http://tel.archives-ouvertes.fr/tel-00804157
+John Seddon (2008) Systems Thinking in the Public Sector. (Triarchy Press). ISBN 978-0-9550081-8-4
+Peter M. Senge (1990) The Fifth Discipline - The Art & Practice of The Learning Organization. (Currency Doubleday) ISBN 0-385-26095-4
+Lars Skyttner (2006) General Systems Theory: Problems, Perspective, Practice (World Scientific Publishing Company) ISBN 981-256-467-5
+Graeme Snooks (2008) 'A general theory of complex living systems: Exploring the demand side of dynamics'. Complexity, 13(6), July/August: 12-20.
+Frederic Vester (2007) The Art of interconnected Thinking. Ideas and Tools for tackling with Complexity (MCB) ISBN 3-939314-05-6
+Gerald M. Weinberg (2001 - revised) An Introduction to General Systems Thinking. (Dorset House) ISBN 0-932633-49-8
+Brian Wilson (1990) Systems: Concepts, Methodologies and Applications, 2nd ed. (Wiley) ISBN 0-471-92716-3
+Brian Wilson (2001) Soft Systems Methodology: Conceptual Model Building and its Contribution. (Wiley) ISBN 0-471-89489-3
+Ludwig von Bertalanffy (1969) General System Theory. (George Braziller) ISBN 0-8076-0453-4
+Dietrich Dorner (1996) The Logic of Failure. Trans. Rita Kimber and Robert Kimber. (Metropolitan Books) ISBN 978-0-201-47948-5
+Barry Richmond (2001) Introduction to Systems Thinking: STELLA. (High Performance Systems) ISBN 978-0-9704921-1-1
+
+
+== External links ==
+Learn Systems Thinking via Systems And Us

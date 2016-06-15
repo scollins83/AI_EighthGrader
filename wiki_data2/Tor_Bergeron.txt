@@ -1,0 +1,10 @@
+Tor Bergeron (15 August 1891  13 June 1977) was the Swedish meteorologist who proposed a mechanism for the formation of precipitation in clouds. In the 1930s, Bergeron and W. Findeisen developed the concept that clouds contain both supercooled water and ice crystals. According to Bergeron, most precipitation is formed as a consequence of water evaporating from small supercooled droplets and accreting onto ice crystals, which then fall as snow, or melt and fall as cold rain depending on the ambient air temperature. This process is known as the Bergeron Process, and is believed to be the primary process by which precipitation is formed.
+Bergeron was one of the principal scientists in the Bergen School of Meteorology, which transformed this science by introducing a new conceptual foundation for understanding and predicting weather. While developing innovative methods of forecasting, the Bergen scientists established the notion of weather fronts and elaborated a new model of extratropical cyclones that accounted for their birth, growth, and decay. Bergeron is credited with discovering the occlusion process, which marks the final stage in the life cycle of an extratropical cyclone.
+In 1966 he was awarded the prestigious International Meteorological Organization Prize from the World Meteorological Organization. 
+
+
+== References ==
+A complete bibliography for Bergeron can be found in Liljequist (1981):
+Liljequist, Gsta H. Tor Bergeron: A Biography. Pure and Applied Geophysics 119 (1981): 409442.
+
+^ "Winners of the IMO Prize". World Meteorological Organization. Retrieved 8 December 2015.

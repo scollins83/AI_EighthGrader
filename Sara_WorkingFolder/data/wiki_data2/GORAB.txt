@@ -1,0 +1,24 @@
+RAB6-interacting golgin also known as N-terminal kinase-like-binding protein 1 (NTKL-BP1) or SCY1-like 1-binding protein 1 (SCYL1-BP1) is a protein that in humans is encoded by the GORAB gene.
+
+
+== Function ==
+This gene encodes a member of the golgin family, a group of coiled-coil proteins localized to the Golgi apparatus. The encoded protein may function in the secretory pathway. The encoded protein, which also localizes to the cytoplasm, was identified by interactions with the N-terminal kinase-like protein, and thus it may function in mitosis.
+
+
+== Clinical significance ==
+Mutations in this gene have been associated with geroderma osteodysplastica.
+
+
+== See also ==
+Gerodermia osteodysplastica
+
+
+== References ==
+
+
+== Further Reading ==
+
+
+== External links ==
+SCYL1BP1 protein, human at the US National Library of Medicine Medical Subject Headings (MeSH)
+This article incorporates text from the United States National Library of Medicine, which is in the public domain.

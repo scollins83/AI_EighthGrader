@@ -1,0 +1,37 @@
+The Deep Sea Drilling Project (DSDP) was an ocean drilling project operated from 1968 to 1983. The program was considered to be successful as evidenced by the data and publications that have resulted from it and is now supported by Texas A&M University, although for the years of its operations these were all coordinated by the Scripps Institution of Oceanography at the University of California, San Diego. DSDP provided crucial data to support the seafloor spreading hypothesis and helped to prove the theory of plate tectonics. DSDP was the first of three international scientific ocean drilling programs that have operated over more than 40 years.
+
+
+== History ==
+The initial contract between the National Science Foundation (NSF) and the Regents of the University of California was signed on June 24, 1966. This contract initiated the first phase the DSDP, which was based in Scripps Institution of Oceanography at the University of California, San Diego. Global Marine, Inc. conducted the drilling operations. The Levingston Shipbuilding Company laid the keel of the Glomar Challenger on October 18, 1967, in Orange, Texas. It sailed down the Sabine River to the Gulf of Mexico, and after a period of testing, DSDP accepted the ship on August 11, 1968.
+Through contracts with Joint Oceanographic Institutions (JOI), NSF supported the scientific advisory structure for the project and funded pre-drilling geophysical site surveys. Scientific planning was conducted under the auspices of the Joint Oceanographic Institutions for Deep Earth Sampling (JOIDES). The JOIDES advisory group consisted of 250 distinguished scientists from academic institutions, government agencies, and private industry from all over the world. Over the next 30 months, the second phase consisted of drilling and coring in the Atlantic, Pacific, and Indian Ocean as well as the Mediterranean and Red Sea. Technical and scientific reports followed during the period. The second phase of DSDP ended on August 11, 1972.
+The success of the Glomar Challenger was almost immediate. On one of the sites with a water depth of 1,067 m (3,500 ft), core samples revealed the existence of salt domes. Oil companies received samples after an agreement to publish their analysis. The potential of oil beneath deep ocean salt domes remains an important avenue for commercial development today.
+As for the purpose of the scientific exploration, one of the most important discoveries was made when the crew drilled 17 holes at 10 different locations along an oceanic ridge between South America and Africa. The retrieved core samples provided strong proof for continental drift and seafloor renewal at rift zones. This confirmation of Alfred Wegener's theory of continental drift strengthened the proposal of a single, ancient land mass, which is called Pangaea. The samples gave further evidence to support the plate tectonics theory, which at the time attempted to explain the formation of mountain ranges, earthquakes, and oceanic trenches. Another discovery was how youthful the ocean floor is in comparison to Earth's geologic history. After analysis of samples, scientists concluded that the ocean floor is probably no older than 200 million years. This is in comparison with the 4.5 billion-year age of the Earth.
+The International Phase of Ocean Drilling (IPOD) began in 1975 with the Federal Republic of Germany, Japan, the United Kingdom, the Soviet Union, and France joining the United States in field work aboard the Glomar Challenger and in post-cruise scientific research. The Glomar Challenger docked for the last time with DSDP in November 1983. Parts of the ship, such as its dynamic positioning system, engine telegraph, and thruster console, are stored at the Smithsonian Institution in Washington, D.C. With the advent of larger and more advanced drilling ships, the JOIDES Resolution replaced the Glomar Challenger in January 1985. The new program, called the Ocean Drilling Program (ODP), continued exploration from 1985 to 2003, at which point it was replaced by the Integrated Ocean Drilling Program (IODP).
+
+
+== Coring Operations ==
+Although itself a remarkable engineering accomplishment, the Glomar Challenger was the site of many advances in deep ocean drilling. One problem solved was the replacement of worn drill bits. A length of pipe suspended from the ship down to the bottom of the sea might have been as long as 20,483 ft (6,243 m). The maximum depth penetrated through the ocean bottom could have been as great as 4,262 ft (1299 m). To replace the bit, the drill string must be raised, a new bit attached, and the string remade down to the bottom. However, the crew must thread this string back into the same drill hole. The technique for this formidable task was accomplished on June 14, 1970, in the Atlantic Ocean in 10,000 ft (3048 m) of water off the coast of New York. This re-entry was accomplished with the use of sonar scanning equipment and a re-entry cone that had a diameter of 16 ft (4.88 m) and height of 14 ft (4.27 m).
+One major technological advance was the extended use of the holes after drilling. Geophysical and geochemical measurements were made during and after drilling, and occasionally long-term seismic monitoring devices were installed in the holes. This extended our understanding of the dynamic processes involved in plate tectonics. Another technological advance was the introduction of the hydraulic piston corer in 1979, which permitted virtually undisturbed cores of sediment to be recovered. This greatly enhanced the ability of scientists to study ancient ocean environments.
+From August 11, 1968, to November 11, 1983, the Glomar Challenger achieved the following accomplishments:
+
+
+== Core Samples, Publications, and Data ==
+The ship retrieved core samples in 30 ft (9.1 m) long cores with a diameter of 2.5 in (6.4 cm). These cores are currently stored at three repositories in the USA, Germany, and Japan. One half of each core is called the archive half and is preserved for future use. The working half of each core is used to provide samples for ongoing scientific research.
+The scientific results were published as the "Initial Reports of the Deep Sea Drilling Project", which contains the results of studies of the recovered core material and the associated geophysical information from the expeditions from 1968 to 1983. These reports describe the core materials and scientific data obtained at sea and in shore-based laboratories post-cruise. These volumes were originally prepared for NSF under contract by the University of California, Scripps Institution of Oceanography. In 2007, the printed books were scanned and prepared for electronic presentation by the Texas A&M University College of Geosciences.
+
+
+== See also ==
+Project Mohole
+Ocean Drilling Program
+Integrated Ocean Drilling Program
+Glomar Challenger
+
+
+== References ==
+
+
+== External links ==
+http://www.deepseadrilling.org/
+http://www.deepseadrilling.org/i_reports.htm
+http://www.encyclopedia.com/topic/Deep_Sea_Drilling_Project.aspx
+Archiving of scientific results of DSDP in PANGAEA

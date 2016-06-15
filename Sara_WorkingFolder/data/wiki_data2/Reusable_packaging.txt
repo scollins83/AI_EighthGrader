@@ -1,0 +1,64 @@
+Reusable packaging is manufactured of durable materials and is specifically designed for multiple trips and extended life. A reusable package or container is designed for reuse without impairment of its protective function.  The term returnable is sometimes used interchangeably but it can also include returning packages or components for other than reuse: recycling, disposal, incineration, etc. Typically, the materials used to make returnable packaging include steel, wood, polypropylene sheets or other plastic materials.
+Reusability of packaging is an important consideration of the environmental credo of reduce, reuse, and recycle. It is also important to the movement toward more sustainable packaging. Returnable packaging is encouraged by regulators.
+
+
+== Industrial shipping containers ==
+For many years, several types of shipping containers have been returnable and reusable. These have made most sense when a reverse logistics system is available or can be readily developed. A return, recondioning, and reuse system can save money on the cost per shipment and can reduce the environmental footprint of the packaging.
+Manufacturing, particularly the automobile industry, has used heavy-duty returnable racks for shipping hoods, fenders, engines, dashboards, etc. from suppliers to final assembly plants. The racks are then returned for the next shipment cycle.
+Bulk foods, chemicals, and pharmaceuticals are often shipped in reusable and returnable containers. These need to be carefully inspected, cleaned and sanitized as part of the reuse cycle. An effective Quality Management System is necessary.
+Wooden pallets are often made to be expendable, for a single shipment. Others are heavy duty and intended for multiple shipments. Some are in pallet pools which are used, inspected, and refurbished for extended usage.
+Often reusable industrial shipping containers have bar code labels or RFID chips to help identify and route the containers.
+
+
+=== Use In Automotive Industry ===
+Automotive OEM manufacturers use and encourage the use of returnable packaging to move components from their vendors to their factories. The components are placed in returnable packaging and are at times and arranged in a way that facilitates movement straight to assemble lines. Such packaging replaces traditional corrugated cartons, thereby helping companies cut costs by avoiding wastage and effort required in disposing the cartons. It also helps in reducing the environmental footprint of the automotive industry.
+Other advantages of using returnable packaging include avoiding damages to parts in while in transit. Parts are at times placed in specially designed receptacles for easy picking on the assembly line contributing to fewer mistakes and simpler inventory management.
+A few examples of returnable packaging in automotive industry:
+
+
+== Consumer packaging ==
+Several types of consumer containers have been in reuse systems. Reusable bottles for milk, soda, and beer have been part of closed-loop use-return-clean-refill-reuse cycles.
+Home canning often uses glass mason jars which are often reused several times.
+With any food packaging, proper cleaning and disinfecting between each use is critical to health.
+
+
+== Reuse for other purposes ==
+
+Used packages are often reused for purposes other than their primary use. For example, a single-use plastic shopping bag might be reused as a trash bin bag, a household storage bag, or a dog feces bag.
+
+
+== Justification ==
+Reusable packaging often costs more initially and uses more and different materials than single-use packaging. It often requires adding complexity to the distribution system. Not all packaging justifies being returnable and reusable.
+A thorough cost analysis is required. This involves all of the material, labor, transport, inspection, refurbishing, cleaning, and management costs. Often these costs may be incurred by different companies with different cost structures.
+The environmental costs and benefits can also be complex. The material, energy, pollution, etc. needs to be accounted for throughout the entire system. A Life Cycle Assessment offers a good methodology for this task.
+
+
+== See also ==
+Shaker-style pantry box
+Pallet crafts
+
+
+== References ==
+^ ASTM D996
+^ Soroka, W. Illustrated Glossary of Packaging Terminology (Second ed.). Institute of Packaging Professionals. p. 185. 
+^ Use Reusables: Fundamentals of Reusable Transport Packaging (PDF), US Environmental Protection Agency, 2012, retrieved 28 June 2014 
+^ Golding, A (2004), Reuse of Primary Packaging (PDF), Contract B4-3040/98/000180/MAR/E3, European Commission, retrieved 30 June 2014 
+^ Twede, D (2009), "Logistical/Distribution Packaging", in Yam, K L, Encyclopedia of Packaging Technology, Wiley, ISBN 978-0-470-08704-6 
+^ Ernst & Young Accountants (2014), Life Cycle Assessment of Newly Manufactured and Reconditioned Industrial Packaging (PDF), Reusable Industrial Packaging Association 
+^ Tomey, R D (1995). "Returnable Packaging Components in Physical Distribution Systems". In Fiedler, R M. Distribution Packaging Technology. Institute of Packaging Professionals. 
+^ Harder, MS (1996). "How to Develop a Returnable Pack for Multiple Plant Use". In Fiedler, R M. The Best of TransPack. Institute of Packaging Professionals. 
+^ Mata, T M (2001). "Life cycle assessment of different reuse percentages for glass beer bottles". International Journal of Life cycle Assessment 6 (5): 5863. doi:10.1007/BF02978793. Retrieved 28 June 2014. 
+^ Spitzly, David (1997), Life Cycle Design of Milk and Juice Packaging (PDF), U.S. Environmental Protection Agency, retrieved 29 June 2014 
+^ Singh, J; Krasowski, Singh (January 2011), "Life cycle inventory of HDPE bottle-based liquid milk packaging systems", Packaging Technology and Science: 4960, doi:10.1002/pts.909, retrieved 29 June 2014 
+^ Van Doorsselaer, K; Fox (2000), "Estimation of the energy needs in life cycle analysis of one-way and returnable glass packaging", Packaging Technology and Science: 235239, doi:10.1002/(SICI)1099-1522(199909, retrieved 29 June 2014 
+
+
+=== Books, general references ===
+Design Criteria for Specialized Shipping Containers, US DoD, Mil-Std 648C, 1999
+McKinlay, A. H., "Transport Packaging", Institute of Packaging Professionals, 2004
+Yam, K.L., "Encyclopedia of Packaging Technology", John Wiley & Sons, 2009, ISBN 978-0-470-08704-6
+Reusables 101, Packaging Revolution www.packagingrevolution.net
+Industry Associations
+National Wooden Pallet and Container Association
+Reusable Packaging Association
+Reusable Industrial Packaging Association

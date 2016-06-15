@@ -1,0 +1,60 @@
+Extensional tectonics is concerned with the structures formed, and the tectonic processes associated with, the stretching of the crust or lithosphere.
+
+
+== Deformation styles ==
+The types of structure and the geometries formed depend on the amount of stretching involved. Stretching is generally measured using the parameter , known as the beta factor where ,  is the initial crustal thickness and  is the final crustal thickness. It is also the equivalent of the strain parameter stretch.
+
+
+=== Low beta factor ===
+In areas of relatively low crustal stretching, the dominant structures are high to moderate angle normal faults, with associated half grabens and tilted fault blocks.
+
+
+=== High beta factor ===
+In areas of high crustal stretching, individual extensional faults may become rotated to too low a dip to remain active and a new set of faults may be generated. Large displacements may juxtapose syntectonic sediments against metamorphic rocks of the mid to lower crust and such structures are called detachment faults. In some cases the detachments are folded such that the metamorphic rocks are exposed within antiformal closures and these are known as metamorphic core complexes.
+
+
+=== Passive margins ===
+Passive margins above a weak layer develop a specific set of extensional structures. Large listric regional (i.e. dipping towards the ocean) faults are developed with rollover anticlines and related crestal collapse grabens. On some margins, such as the Niger Delta, large counter-regional faults are observed, dipping back towards the continent, forming large grabenal mini-basins with antithetic regional faults.
+
+
+== Geological environments associated with extensional tectonics ==
+Areas of extensional tectonics are typically associated with:
+
+
+=== Continental rifts ===
+
+Rifts are linear zones of localized crustal extension. They range in width from somewhat less than 100 km up to several hundred km, consisting of one or more normal faults and related fault blocks. In individual rift segments one polarity (i.e. dip direction) normally dominates giving a half-graben geometry. Other common geometries include metamorphic core complexes and tilted blocks. Examples of active continental rifts are the Baikal Rift Zone and the East African Rift.
+
+
+=== Divergent plate boundaries ===
+
+Divergent plate boundaries are zones of active extension as the crust newly formed at the mid-ocean ridge system becomes involved in the opening process.
+
+
+=== Gravitational spreading of zones of thickened crust ===
+Zones of thickened crust, such as those formed during continent-continent collision tend to spread laterally; this spreading occurs even when the collisional event is still in progress. After the collision has finished the zone of thickened crust generally undergoes gravitational collapse, often with the formation of very large extensional faults. Large-scale Devonian extension, for example, followed immediately after the end of the Caledonian orogeny particularly in East Greenland and western Norway.
+
+
+=== Releasing bends along strike-slip faults ===
+When a strike-slip fault is offset along strike such as to create a gap i.e. a left-stepping bend on a sinistral fault, a zone of extension or transtension is generated. Such bends are known as releasing bends or extensional stepovers and often form pull-apart basins or rhombochasms. Examples of active pull-apart basins include the Dead Sea, formed at a left-stepping offset of the sinistral sense Dead Sea Transform system, and the Sea of Marmara, formed at a right-stepping offset on the dextral sense North Anatolian Fault system.
+
+
+=== Back-arc basins ===
+
+Back-arc basins form behind many subduction zones due to the effects of oceanic trench roll-back which leads to a zone of extension parallel to the island arc.
+
+
+=== Passive margins ===
+A passive margin built out over a weaker layer, such as an overpressured mudstone or salt, tends to spread laterally under its own weight. The inboard part of the sedimentary prism is affected by extensional faulting, balanced by outboard shortening.
+
+
+== See also ==
+Strike-slip tectonics
+Thrust tectonics
+
+
+== References ==
+
+
+== External links ==
+Extension: Chapter 17; A complimentary resource to Chapter 17 of the textbook "Strukturgeologi" by Haakon Fossen & Roy Gabrielsen

@@ -1,0 +1,29 @@
+A Water safety plan is a plan to ensure the safety of drinking water through the use of a comprehensive risk assessment and risk management approach that encompasses all steps in water supply from catchment to consumer.
+
+
+== Origins ==
+During the revision of the World Health Organisation (WHO) Guidelines for Drinking-water Quality the value of the Water Safety Plan (WSP) approach has repeatedly been highlighted in a series of expert review meetings in Berlin (2000), Adelaide (2001) and Loughborough (2001).
+Water safety plans are considered by the WHO as the most effective means of maintaining a safe supply of drinking water to the public. Their use should ensure that water is safe for human consumption and that it meets regulatory water standards relating to human health. Comprehensive risk assessment and risk management form the backbone of these plans, which aim to steer management of drinking water-related health risks away from end-of-pipe monitoring and response.
+The principles and concepts of other risk management paradigms are extensively drawn upon in WSP design, including the multi-barrier approach and HACCP[1].
+In order to produce a plan, a thorough assessment of the water supply process from water source to the consumer's tap must be carried out by the water provider. Hazards and risks should be identified, and appropriate steps towards minimizing these risks are then investigated.
+
+
+== Key components ==
+There are three key components to any Water Safety Plan (WSP):
+a system assessment, which determines if the drinking water supply chain as a whole is capable of supplying water of sufficiently high a standard to meet regulatory targets;
+operational monitoring, in order to identify control measures in the drinking water system; and
+management plans, which document the system assessment, describe actions taken during various operational conditions and define monitoring and communication plans.
+
+
+== WSPs in England and Wales ==
+The Drinking Water Inspectorate (DWI) of England and Wales strongly supports the WHO's WSP initiative and offers guidance and support to water suppliers on the implementation of these plans.
+
+
+== See also ==
+
+Food safety
+ISO 14001
+Water quality
+
+
+== References ==

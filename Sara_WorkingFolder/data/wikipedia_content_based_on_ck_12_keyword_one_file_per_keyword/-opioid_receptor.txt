@@ -1,0 +1,49 @@
+the -opioid receptor also known as delta opioid receptor or simply delta receptor abbreviated dor is a 7-transmembrane g-protein coupled receptor that has enkephalins as its endogenous ligands the regions of the brain where the -opioid receptor is largely expressed vary from species model to species model in humans the -opioid receptor is most heavily expressed in the basal ganglia and neocortical regions of the brain; the basal ganglia which is heavily gaba populated has been linked to major depressive disorder suggesting a possible role for the -opioid receptor in mood modulation
+== function ==
+the endogenous system of opioid receptors ( mor kor and dor) is well known for its analgesic potential however the exact role of -opioid receptor activation in pain modulation is largely up for debate largely this also depends on the model at hand since receptor activity is known to change from species to species activation of receptors produces analgesia much more significantly than that of mu-opioid agonists however it seems like mu agonism provides heavy potentiation to any d agonism therefore even selective mu agonists can cause analgesia under the right conditions whereas others can cause none whatsoever it is also suggested however that the pain modulated by the mu-opioid receptor and that modulated by the -opioid receptor are distinct types with the assertion that dor modulates the nociception of chronic pain while mor modulates acute pain
+evidence for whether agonists produce respiratory depression is mixed; high doses of the agonist peptide dpdpe produced respiratory depression in sheep but in tests on mice the non-peptide agonist snc-80 produced respiratory depression only at the very high dose of 40 mg/kg in contrast both the peptide agonist deltorphin ii and the non-peptide agonist (+)-bw373u86 actually stimulated respiratory function and blocked the respiratory depressant effect of the potent -opioid agonist alfentanil without affecting pain relief it thus seems likely that while opioid agonists can produce respiratory depression at very high doses at lower doses they have the opposite effect a fact that may make mixed / agonists such as dpi-3290 potentially very useful drugs that might be much safer than the agonists currently used for pain relief.many agonists may also cause seizures at high doses although not all agonists produce this effect
+of additional interest is the potential for agonists to be developed for use as a novel class of antidepressant drugs following robust evidence of both antidepressant effects and also upregulation of bdnf production in the brain in animal models of depression these antidepressant effects have been linked to endogenous opioid peptides acting at and opioid receptors and so can also be produced by enkephalinase inhibitors such as rb-101 ] however in human models the data for antidepressant effects remains inconclusive in the 2008 phase 2 clinical trial by astra zeneca nct00759395 15 patients were treated with the selective delta agonist azd 2327 the results showed no significant effect on mood suggesting that delta modulation might not participate in the regulation of mood in humans however doses were administered at low doses and the pharmacological data also remains inconclusive further trials are required
+another interesting aspect of -opioid receptor function is the suggestion of mu/delta opioid receptor interactions at the extremes of this suggestion lies the possibility of a mu-delta opioid receptor oligomer the evidence for this stems from the different binding profiles of typical mu and delta agonists such as morphine and damgo respectively in cells that coexpress both receptors compared to those in cells that express them individually in addition work by fan and coworkers shows the restoration of the binding profiles when distal carboxyl termini are truncated at either receptor suggesting that the termini play a role in the oligomerization while this is exciting rebuttal by the javitch and coworkers suggest the idea of oligomerization may be overplayed relying on ret javitch and coworkers showed that ret signals were more characteristic of random proximity between receptors rather than an actual bond formation between receptors suggesting that discrepancies in binding profiles may be the result of downstream interactions rather than novel effects due to oligomerization nevertheless coexpression of receptors remains unique and potentially useful in the treatment of mood disorders and pain
+recent work indicates that exogenous ligands that activate the receptors mimic the phenomenon known as ischemic preconditioning experimentally if short periods of transient ischemia are induced the downstream tissues are robustly protected if longer-duration interruption of the blood supply is then effected opiates and opioids with activity mimic this effect in the rat model introduction of active ligands results in significant cardioprotection
+== ligands ==
+until comparatively recently there were few pharmacological tools for the study of receptors as a consequence our understanding of their function is much more limited than those of the other opioid receptors for which selective ligands have long been available
+however there are now several selective opioid agonists available including peptides such as dpdpe and deltorphin ii and non-peptide drugs such as snc-80 the more potent (+)-bw373u86 a newer drug dpi-287 which does not produce the problems with convulsions seen with the earlier agents and the mixed / agonist dpi-3290 which is a much more potent analgesic than the more highly selective agonists selective antagonists for the receptor are also available with the best known being the opiate derivative naltrindole
+=== agonists ===
+peptides
+leu-enkephalin
+met-enkephalin
+deltorphins
+non-peptides
+7-spiroindanyloxymorphone
+n-phenethyl-14-ethoxymetopon
+adl-5859
+bu-48
+snc-80
+bw373u86
+dpi-221
+dpi-287
+dpi-3290
+tan-67
+rwj-394674
+norbuprenorphine (peripherally restricted)
+cannabidiol
+tetrahydrocannabinol
+xorphanol
+mitragyna speciosa (kratom) indole derivatives:
+mitragynine
+mitragynine pseudoindoxyl
+=== antagonists ===
+buprenorphine
+trazodone
+naltriben
+naltrindole
+== interactions ==
+opioid receptors have been shown to interact with 2 adrenergic receptors arrestin 1 and gprasp1
+== see also ==
+k-opioid receptor
+-opioid receptor
+== references ==
+== further reading ==
+== external links ==
+"opioid receptors: " iuphar database of receptors and ion channels international union of basic and clinical pharmacology
+delta opioid receptor at the us national library of medicine medical subject headings (mesh)

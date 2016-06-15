@@ -1,0 +1,40 @@
+The chemoton is an abstract model for the fundamental unit of life introduced by Hungarian theoretical biologist Tibor Gnti. It is the oldest known computational abstract of protocell. Gnti conceived the basic idea in 1952 and formulated the concept in 1971 in his book The Principles of Life (originally written in Hungarian, and translated to English only in 2003). He surmised the chemoton as the original ancestor of all organisms, or the last universal common ancestor.
+The basic assumption of the model is that life should fundamentally and essentially have three properties: metabolism, self-replication, and a bilipid membrane. The metabolic and replication functions together form an autocatalytic subsystem necessary for the basic functions of life, and a membrane encloses this subsystem to separate it from the surrounding environment. Therefore, any system having such properties may be regarded as alive, and it will be subjected to natural selection and contain a self-sustaining cellular information. The model is regarded as one of the most, if not the most, significant contribution to theoretical biology in the 20th century to understand the chemical basis and origin of life as it provides a philosophy of evolutionary units.
+
+
+== Property ==
+Chemoton is a protocell that grows by metabolism, reproduce by biological fission, and has at least rudimentary genetic variation. Thus, it contains three subsystems, namely autocatalytic network for metabolism, a lipid bilayer for structural organisation, and a replicating machinery for information. Unlike cellular metabolic reactions, metabolism of chemoton in autonomous chemical cycle and is not dependent on enzymes. Autocatalysis produces its own structures and functions. Hence, the process itself has no hereditary variation. The model reaction however asserts that another molecule (T in the diagram) is spontaneously produced that is incorporated into the structure. This molecule is amphipathic like membrane lipids, but it is highly dynamic, leaving small gaps that close and open frequently. This unstable structure is important for new amphipathic molecules to be added, so that a membrane is subsequently formed. This will become a microsphere. Due to metabolic reaction, osmotic pressure will build up inside the miscrosphere, and this will generate a force for invaginating the membrane, and ultimately division. In fact, this is close to the cell division of cell wall-less bacteria, such as Mycoplasma. Continuous reactions will also invariably produce variable polymers that can be inherited by daughter cells. In advanced version of the chemoton, the hereditary information will act as a genetic material, something like a ribozyme of the RNA World.
+
+
+== Significance ==
+
+
+=== Origin of life ===
+The primary use of the chemoton model is in the study of the chemical origin of life. Because chemoton itself can be, though in theory, as a primitive or minimal cellular life as it satisfies the definition of what a cell is (that it is a unit of biological activity enclosed by a membrane and capable of self-reproduction). Experimental demonstration showed that a synthesised chemotron can survive in a wide range of chemical solutions, it formed materials for its internal components, it metabolised its chemicals, and it grew in size and multiplied itself.
+
+
+=== Unit of selection ===
+As it is scientifically hypothesised that the first replicating systems must be simple structure, most likely before any enzymes or templates existed, chemoton provides a plausible scenario. As an autocatalytic but non-genetic entity, it predates the enzyme-dependent precursors of life, such as RNA World. But being capable of self-replication and producing variant metabolites, it possibly could be an entity with the first biological evolution, therefore, the origin of the unit of Darwinian selection.
+
+
+=== Artificial life ===
+Chemoton has laid down the foundation of some aspects of artificial life. The computational basis has become a topic of software development and experimentation in the investigation of artificial life. The main reason is that chemoton simplifies the otherwise complex biochemical and molecular functions of living cells. Since the chemoton is a system consisting of a large but fixed number of interacting molecular species, it can effectively be implemented in a process algebra-based language such as the BlenX programming language.
+
+
+== See also ==
+
+Hypercycle (chemistry) by Manfred Eigen and Peter Schuster
+Quasispecies model
+
+
+== References ==
+
+
+== Further reading ==
+T. Gnti: The Principles of Life, Oxford University Press (2003) ISBN 9780198507260
+T. Gnti: Chemoton Theory: Theory of Living Systems, Kluwer Academic/Plenum Publishers (2003) ISBN 9780306477850
+
+
+== External links ==
+Chemoton homepage
+Chemoton project

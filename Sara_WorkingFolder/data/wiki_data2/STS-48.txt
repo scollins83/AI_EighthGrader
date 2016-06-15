@@ -1,0 +1,38 @@
+STS-48 was a Space Shuttle mission that launched on 12 September 1991, from Kennedy Space Center, Florida. The orbiter was Space Shuttle Discovery. The primary payload was the Upper Atmosphere Research Satellite. The mission landed on 18 September at 12:38 am at Edwards Air Force Base on runway 22. The mission was completed in 81 revolutions of the Earth and traveled 2.2 million miles. The 5 astronauts carried out a number of experiments and deployed several satellites. The total launch mass was 240,062 pounds (108,890 kg) and the landing mass was 192,780 pounds (87,440 kg).
+
+
+== Crew ==
+
+
+=== Crew seating arrangements ===
+
+
+== Mission highlights ==
+
+Space Shuttle Discovery was launched into a 57-degree inclination orbit from the Kennedy Space Center (KSC) Launch Complex 39A at 7:11 p.m. Eastern Daylight Time (EDT) on 12 September 1991. Launch was delayed for 14 minutes at the T-5 minute mark due to a noise problem in the air-to-ground link. The noise cleared itself, and the countdown proceeded normally to launch.
+On the third day of the mission, the Upper Atmosphere Research Satellite (UARS) was deployed from Discovery's payload bay 350 statute miles above Earth to study human effects on the planet's atmosphere and its shielding ozone layer. The UARS mission objectives were to provide an increased understanding of the energy input into the upper atmosphere, global photochemistry of the upper atmosphere, dynamics of the upper atmosphere, the coupling among these processes, and the coupling between the upper and lower atmosphere. This provided data for a coordinated study of the structure, chemistry, energy balance, and physical action of the Earth's middle atmosphere - that slice of air between 10 and 60 miles above the Earth. The UARS was the first major flight element of NASA's Mission to Planet Earth, a multi-year global research program that would use ground-based, airborne, and space-based instruments to study the Earth as a complete environmental system. UARS had ten sensing and measuring devices: Cryogenic Limb Array Etalon Spectrometer (CLAES); Improved Stratospheric and Mesospheric Sounder (ISAMS); Microwave Limb Sounder (MLS); Halogen Occultation Experiment (HALOE); High Resolution Doppler Imager (HRDI); Wind Imaging Interferometer (WlNDII); Solar Ultraviolet Spectral Irradiance Monitor (SUSIM); Solar/Stellar Irradiance Comparison Experiment (SOLSTICE); Particle Environment Monitor (PEM) and Active Cavity Radiometer Irradiance Monitor (ACRIM II). UARS's initial 18-month mission was extended several times  it was finally retired after 14 years of service.
+Secondary payloads were: Ascent Particle Monitor (APM); Middeck 0-Gravity Dynamics Experiment (MODE); Shuttle Activation Monitor (SAM); Cosmic Ray Effects and Activation Monitor (CREAM); Physiological and Anatomical Rodent Experiment (PARE); Protein Crystal Growth II-2 (PCG II-2); Investigations into Polymer Membrane Processing (IPMP); and the Air Force Maui Optical Site (AMOS) experiment.
+The flight was the first to test an electronic still camera in space, a modified Nikon F4. Images obtained during the flight were monochrome with 8 bits of digital information per pixel (256 gray levels) and stored on a removable hard disk. The images could be viewed and enhanced on board using a modified lap-top computer before being transmitted to the ground via the orbiter digital downlinks.
+STS-48 was the second post-Challenger mission to have Kennedy Space Center as the planned End-Of-Mission landing site, and the first mission to have a planned night landing at KSC. However, due to weather conditions at KSC in Florida, Discovery flew one extra orbit and landed at Edwards Air Force Base, California, at 3:38 a.m. EDT on 18 September 1991. The orbiter returned to KSC on 26 September 1991.
+
+
+== Ice particles ==
+Video while in orbit on 15 September 1991 shows a flash of light and several objects that appear to be flying in an artificial or controlled fashion. NASA explained the objects as ice particles reacting to engine jets. Philip C. Plait discussed the issue in his book Bad Astronomy, agreeing with NASA. This topic was also discussed in an episode of UFO Hunters.
+
+
+== See also ==
+
+Space science
+List of space shuttle missions
+List of human spaceflights chronologically
+Nikon NASA F4
+
+
+== Notes ==
+
+ This article incorporates public domain material from websites or documents of the National Aeronautics and Space Administration.
+
+
+== External links ==
+NASA mission summary
+STS-48 Video Highlights

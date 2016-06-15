@@ -1,0 +1,24 @@
+MIKE URBAN is a GIS-based urban modeling system for water distribution systems and wastewater collection systems. MIKE URBAN developed by DHI Water.Environment.Health and it is fully integrated with ArcGISTM (ESRI).
+
+
+== Modules ==
+MIKE URBAN includes three main modules: MIKE URBAN Model Manager, Collection System (CS) module, Water Distribution modules.
+MIKE URBAN Model Manager: it is a time series data management package and a modeling environment, including two public domain modeling program, SWMM5 and EPANET, that were developed by the United States Environmental Protection Agency.
+Collection System (CS) module: it includes pipe flow simulation, rainfall-runoff simulation, real-time control simulation, pollutant transport simulation, biological processes simulation.
+Water Distribution (WD) module: it includes automatic calibration of water distribution network models, fire-flow tool for analysing the capacity of water distribution systems, control simulation options for extended period simulations, transient flow simulation of fully pressurised systems.
+
+
+== Applications ==
+MIKE URBAN can be used for collection system (CS) and water distribution (WD) system data management, stormwater modeling, wastewater modeling and water distribution network modeling.
+
+
+== See also ==
+Pipe network analysis
+MOUSE
+SWAT model
+Stochastic Empirical Loading and Dilution Model
+Storm Water Management Model
+
+
+== External links ==
+DHI Water.Environment.Health

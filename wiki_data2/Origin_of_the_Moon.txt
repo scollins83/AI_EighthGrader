@@ -1,0 +1,60 @@
+Origin of the Moon refers to any of the various explanations for the formation of the Moon, Earth's natural satellite. The leading theory has been the giant impact hypothesis. However, research continues on this matter, and there are a number of variations and alternatives. Other proposed scenarios include captured body, fission, formed together (condensation theory), planetesimal collisions (formed from asteroid-like bodies), and collision theories.
+The standard GIH (Giant Impact Hypothesis) suggests a Mars-sized body called Theia impacted Earth, creating a large debris ring around the Earth which then formed the system. However, the Moon's oxygen isotopic ratios seem to be essentially identical to Earth's. Oxygen isotopic ratios, which may be measured very precisely, yield a unique and distinct signature for each solar system body. If Theia had been a separate protoplanet, it probably would have had a different oxygen isotopic signature from Earth, as would the ejected mixed material. Also, the Moon's titanium isotope ratio (50Ti/47Ti) appears so close to the Earth's (within 4 ppm), that little if any of the colliding body's mass could likely have been part of the Moon.
+
+
+== Giant impact hypothesis ==
+
+The most widely accepted explanation for the origin of the Moon involves a collision of two protoplanetary bodies during the early accretional period of Solar System evolution. This "giant impact hypothesis", which became popular in 1984, satisfies the orbital conditions of the Earth and Moon and can account for the relatively small metallic core of the Moon. Collisions between planetesimals are now recognized to lead to the growth of planetary bodies early in the evolution of the Solar System, and in this framework it is inevitable that large impacts will sometimes occur when the planets are nearly formed. It is thought to have originated in the 1940s with Reginald Aldworth Daly, a Canadian professor at Harvard.
+The hypothesis requires a collision between a body about 90% the present size of the Earth, and another the diameter of Mars (half of the terrestrial radius and a tenth of its mass). The colliding body has sometimes been referred to as Theia, the mother of Selene, the Moon goddess in Greek mythology. This size ratio is needed in order for the resulting system to possess sufficient angular momentum to match the current orbital configuration. Such an impact would have put enough material into orbit about the Earth to have eventually accumulated to form the Moon.
+Computer simulations show a need for a glancing blow, which causes a portion of the collider to form a long arm of material that then shears off. The asymmetrical shape of the Earth following the collision then causes this material to settle into an orbit around the main mass. The energy involved in this collision is impressive: trillions of tons of material would have been vaporized and melted. In parts of the Earth the temperature would have risen to 10,000 C (18,000 F).
+The Moon's relatively small iron core is explained by Theia's core accreting into Earth's. The lack of volatiles in the lunar samples is also explained in part by the energy of the collision. The energy liberated during the reaccreation of material in orbit about the Earth would have been sufficient to melt a large portion of the Moon, leading to the generation of a magma ocean.
+The newly formed moon orbited at about one-tenth the distance that it does today, and became tidally locked with the Earth, where one side continually faces toward the Earth. The geology of the Moon has since been more independent of the Earth. While this hypothesis explains many aspects of the Earth-Moon system, there are still a few unresolved problems facing it, such as the Moon's volatile elements not being as depleted as expected from such an energetic impact.
+Another issue is Lunar and Earth isotope comparisons. In 2001, the most precise measurement yet of the isotopic signatures of lunar rocks was published. Surprisingly, the Apollo lunar samples carried an isotopic signature identical to Earth rocks, but different from other Solar system bodies. Since most of the material that went into orbit to form the Moon was thought to come from Theia, this observation was unexpected. In 2007, researchers from Caltech showed that the likelihood of Theia having an identical isotopic signature as the Earth was very small (<1 percent). Published in 2012, an analysis of titanium isotopes in Apollo lunar samples showed that the Moon has the same composition as the Earth which conflicts with the moon forming far from Earth's orbit.
+To help explain problems with this, a new theory published in late 2012 posits two bodieseach five-times the size of Marscollided, then re-collided, forming a large disc of debris that eventually formed the Earth and Moon. The paper was called Forming a Moon with an Earth-like composition via a Giant Impact, by R.M Canup.
+A late 2012 study on the depletion of zinc isotopes on the Moon, supported "the giant impact origin for the Earth and moon".
+In 2013, a study was released that indicated water in lunar magma was 'indistinguishable' from carbonaceous chondrites and nearly the same as Earth's, based on the composition of isotopes.
+GIH theory was again challenged in September 2013, with a growing sense that lunar origins are more complicated.
+
+
+== Other hypotheses ==
+
+
+=== Capture ===
+This hypothesis states that the Moon was captured by the Earth. This was popular until the 1980s, and some things in favor of this model include the Moon's size, orbit, and tidal locking.
+One problem is understanding the capture mechanism. A close encounter with Earth typically results in either collision or altered trajectories. For this hypothesis to function, there might have been a large atmosphere extended around the primitive Earth, which would be able to slow the movement of the Moon before it could escape. That hypothesis may also explain the irregular satellite orbits of Jupiter and Saturn. In addition, this hypothesis has difficulty explaining the essentially identical oxygen isotope ratios of the two worlds.
+
+
+=== Fission ===
+This is the now discredited hypothesis that an ancient, rapidly spinning Earth expelled a piece of its mass. This was proposed by George Darwin (son of the famous biologist Charles Darwin) in the 1800s and retained some popularity until Apollo. The Austrian Geologist Otto Ampherer in 1925 also suggested the emerging of the Moon as cause for continental drift.
+It was proposed that the Pacific Ocean represented the scar of this event. However, today it is known that the oceanic crust that makes up this ocean basin is relatively young, about 200 million years old and less, whereas the Moon is much older. The Moon does not consist of oceanic crust but of mantle material, which originated inside the proto-Earth in the Precambrian. However, the assumption that the Pacific is not the result of lunar creation does not disprove the fission hypothesis. This hypothesis also cannot account for the angular momentum of the EarthMoon system.
+
+
+=== Accretion ===
+The hypothesis of accretion suggests that the Earth and the Moon formed together as a double system from the primordial accretion disk of the Solar System. The problem with this hypothesis is that it does not explain the angular momentum of the Earth-Moon system or why the Moon has a relatively small iron core compared to the Earth (25% of its radius compared to 50% for the Earth).
+
+
+== Additional theories and studies ==
+
+In 2011, it was theorized that a second moon existed 4.5 billion years ago, and later had an impact with the Moon, as a part of the accretion process in the formation of the Moon.
+One hypothesis, presented only as a possibility, was that the Earth took the Moon from Venus.
+
+
+== See also ==
+Geology of the Moon
+Late heavy bombardment
+Lunar theory
+Other moons of Earth
+Lunar Reconnaissance Orbiter
+MoonRise (Lunar lander proposal)
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Lunar formation Case Western Reserve University
+The Once and Future Moon (September 28, 2012)
+Nature - Moon-forming impact theory rescued

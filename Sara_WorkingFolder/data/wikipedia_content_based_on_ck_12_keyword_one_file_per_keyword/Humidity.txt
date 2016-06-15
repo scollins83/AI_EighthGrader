@@ -3,23 +3,168 @@ there are three main measurements of humidity: absolute relative and specific ab
 == types ==
 === absolute humidity ===
 absolute humidity is the total mass of water vapor present in a given volume of air it does not take temperature into consideration absolute humidity in the atmosphere ranges from near zero to roughly 30 grams per cubic meter when the air is saturated at 30 c
-absolute humidity is the mass of the water vapor () divided by the volume of the air and water vapor mixture () which can be expressed as:
+absolute humidity is the mass of the water vapor
+(
+m
+h
+2
+o
+)
+{\displaystyle (m_{h_{2}o})}
+ divided by the volume of the air and water vapor mixture
+(
+v
+n
+e
+t
+)
+{\displaystyle (v_{net})}
+ which can be expressed as:
+a
+h
+=
+m
+h
+2
+o
+v
+n
+e
+t
+{\displaystyle ah={m_{h_{2}o} \over v_{net}}.}
 the absolute humidity changes as air temperature or pressure changes this makes it unsuitable for chemical engineering calculations e.g for clothes dryers where temperature can vary considerably as a result absolute humidity in chemical engineering may refer to mass of water vapor per unit mass of dry air also known as the mass mixing ratio (see "specific humidity" below) which is better suited for heat and mass balance calculations mass of water per unit volume as in the equation above is also defined as volumetric humidity because of the potential confusion british standard bs 1339 (revised 2002) suggests avoiding the term "absolute humidity" units should always be carefully checked many humidity charts are given in g/kg or kg/kg but any mass units may be used
 the field concerned with the study of physical and thermodynamic properties of gasvapor mixtures is named psychrometrics
 === relative humidity ===
-the relative humidity of an air-water mixture is defined as the ratio of the partial pressure of water vapor (h2o) in the mixture to the saturated vapor pressure of water at a given temperature thus the relative humidity of air is a function of both water content and temperature
-relative humidity is normally expressed as a percentage and is calculated by using the following equation:
+the relative humidity
+(
+r
+h
+{\displaystyle (rh}
+or
+)
+{\displaystyle \phi )}
+of an air-water mixture is defined as the ratio of the partial pressure of water vapor
+(
+p
+h
+2
+o
+)
+{\displaystyle (p_{h_{2}o})}
+in the mixture to the equilibrium vapor pressure of water
+(
+p
+h
+2
+o
+)
+{\displaystyle (p_{h_{2}o}^{*})}
+at a given temperature:
+=
+p
+h
+2
+o
+p
+h
+2
+o
+{\displaystyle \phi ={p_{h_{2}o} \over p_{h_{2}o}^{*}}}
+relative humidity is normally expressed as a percentage; a higher percentage means that the air-water mixture is more humid
 relative humidity is an important metric used in weather forecasts and reports as it is an indicator of the likelihood of precipitation dew or fog in hot summer weather a rise in relative humidity increases the apparent temperature to humans (and other animals) by hindering the evaporation of perspiration from the skin for example according to the heat index a relative humidity of 75% at 80.0 f (26.7 c) would feel like 83.6 f 1.3 f (28.7 c 0.7 c) at ~44% relative humidity
 === specific humidity ===
-specific humidity (or moisture content) is the ratio of water vapor mass () to the air parcel's total (i.e. including dry) mass () and is sometimes referred to as the humidity ratio specific humidity is approximately equal to the "mixing ratio" which is defined as the ratio of the mass of water vapor in an air parcel to the mass of dry air for the same parcel
+specific humidity (or moisture content) is the ratio of water vapor mass (
+m
+v
+{\displaystyle m_{v}}
+) to the air parcel's total (i.e. including dry) mass (
+m
+a
+{\displaystyle m_{a}}
+) and is sometimes referred to as the humidity ratio specific humidity is approximately equal to the "mixing ratio" which is defined as the ratio of the mass of water vapor in an air parcel to the mass of dry air for the same parcel
 specific humidity is defined as:
+s
+h
+=
+m
+v
+m
+a
+{\displaystyle sh={m_{v} \over m_{a}}.}
 specific humidity can be expressed in other ways including:
+s
+h
+=
+0.622
+p
+h
+2
+o
+p
+(
+d
+r
+y
+a
+i
+r
+)
+{\displaystyle sh={0.622\times {p_{h_{2}o}} \over {p_{(dry\,air)}}}}
+0.622
+=
+m
+m
+h
+2
+o
+m
+m
+(
+d
+r
+y
+a
+i
+r
+)
+{\displaystyle 0.622={{mm_{h_{2}o}} \over {mm_{(dry\,air)}}}}
 or:
+s
+h
+=
+0.622
+p
+h
+2
+o
+p
+0.378
+p
+h
+2
+o
+{\displaystyle sh={{0.622\times p_{h_{2}o}} \over {p-0.378\times p_{h_{2}o}}}.}
 using this definition of specific humidity the relative humidity can be expressed as
+=
+s
+h
+p
+(
+0.622
++
+0.378
+s
+h
+)
+p
+h
+2
+o
+{\displaystyle \phi ={{sh\times p} \over {(0.622+0.378\times sh)p_{h_{2}o}^{*}}}}
 however specific humidity is also defined as the ratio of water vapor to the total mass of the system (dry air plus water vapor) for example the ashrae 2009 handbook ch1,1.2 (9a) defines specific humidity as "the ratio of the mass of water vapor to total mass of the moist air sample"
 == measurement ==
 there are various devices used to measure and regulate humidity a device used to measure humidity is called a psychrometer or hygrometer a humidistat is a humidity-triggered switch often used to control a dehumidifier
-humidity is also measured on a global scale using remotely placed satellites these satellites are able to detect the concentration of water in the troposphere at altitudes between 4 and 12 kilometers satellites that can measure water vapor have sensors that are sensitive to infrared radiation water vapor specifically absorbs and re-radiates radiation in this spectral band satellite water vapor imagery plays an important role in monitoring climate conditions (like the formation of thunderstorms) and in the development of future weather forecasts
+humidity is also measured on a global scale using remotely placed satellites these satellites are able to detect the concentration of water in the troposphere at altitudes between 4 and 12 kilometers satellites that can measure water vapor have sensors that are sensitive to infrared radiation water vapor specifically absorbs and re-radiates radiation in this spectral band satellite water vapor imagery plays an important role in monitoring climate conditions (like the formation of thunderstorms) and in the development of weather forecasts
 == climate ==
 while humidity itself is a climate variable it also interacts strongly with other climate variables the humidity is affected by winds and by rainfall at the same time humidity affects the energy budget and thereby influences temperatures in two major ways first water vapor in the atmosphere contains "latent" energy during transpiration or evaporation this latent heat is removed from surface liquid cooling the earth's surface this is the biggest non-radiative cooling effect at the surface it compensates for roughly 70% of the average net radiative warming at the surface
 second water vapor is the most abundant of all greenhouse gases water vapor like a green lens that allows green light to pass through it but absorbs red light is a "selective absorber" along with other greenhouse gases water vapor is transparent to most solar energy as you can literally see but it absorbs the infrared energy emitted (radiated) upward by the earth's surface which is the reason that humid areas experience very little nocturnal cooling but dry desert regions cool considerably at night this selective absorption causes the greenhouse effect it raises the surface temperature substantially above its theoretical radiative equilibrium temperature with the sun and water vapor is the cause of more of this warming than any other greenhouse gas
@@ -34,7 +179,7 @@ for any gas at a given temperature and pressure the number of molecules present 
 == effects ==
 === animals and plants ===
 humidity is one of the fundamental abiotic factors that defines any habitat and is a determinant of which animals and plants can thrive in a given environment
-the human body dissipates heat through perspiration and its evaporation heat convection to the surrounding air and thermal radiation are the primary modes of heat transport from the body under conditions of high humidity the rate of evaporation of sweat from the skin decreases also if the atmosphere is as warm as or warmer than the skin during times of high humidity blood brought to the body surface cannot dissipate heat by conduction to the air and a condition called hyperthermia results with so much blood going to the external surface of the body relatively less goes to the active muscles the brain and other internal organs physical strength declines and fatigue occurs sooner than it would otherwise alertness and mental capacity also may be affected resulting in heat stroke or hyperthermia
+the human body dissipates heat through perspiration and its evaporation heat convection to the surrounding air and thermal radiation are the primary modes of heat transport from the body under conditions of high humidity the rate of evaporation of sweat from the skin decreases also if the atmosphere is as warm as or warmer than the skin during times of high humidity blood brought to the body surface cannot dissipate heat by conduction to the air and a condition called hyperthermia results with so much blood going to the external surface of the body less goes to the active muscles the brain and other internal organs physical strength declines and fatigue occurs sooner than it would otherwise alertness and mental capacity also may be affected resulting in heat stroke or hyperthermia
 === human comfort ===
 humans are sensitive to humid air because the human body uses evaporative cooling as the primary mechanism to regulate temperature under humid conditions the rate at which perspiration evaporates on the skin is lower than it would be under arid conditions because humans perceive the rate of heat transfer from the body rather than temperature itself we feel warmer when the relative humidity is high than when it is low
 some people experience difficulty breathing in humid environments some cases may possibly be related to respiratory conditions such as asthma while others may be the product of anxiety sufferers will often hyperventilate in response causing sensations of numbness faintness and loss of concentration among others
@@ -43,13 +188,13 @@ air conditioning reduces discomfort in the summer not only by reducing temperatu
 many electronic devices have humidity specifications for example 5% to 45% at the top end of the range moisture may increase the conductivity of permeable insulators leading to malfunction too low humidity may make materials brittle a particular danger to electronic items regardless of the stated operating humidity range is condensation when an electronic item is moved from a cold place (e.g garage car shed an air conditioned space in the tropics) to a warm humid place (house outside tropics) condensation may coat circuit boards and other insulators leading to short circuit inside the equipment such short circuits may cause substantial permanent damage if the equipment is powered on before the condensation has evaporated a similar condensation effect can often be observed when a person wearing glasses comes in from the cold (i.e the glasses become foggy) it is advisable to allow electronic equipment to acclimatise for several hours after being brought in from the cold before powering on some electronic devices can detect such a change and indicate when plugged in and usually with a small droplet symbol that they cannot be used until the risk from condensation has passed in situations where time is critical increasing air flow through the device's internals such as removing the side panel from a pc case and directing a fan to blow into the case will reduce significantly the time needed to acclimatise to the new environment
 in contrast a very low humidity level favors the build-up of static electricity which may result in spontaneous shutdown of computers when discharges occur apart from spurious erratic function electrostatic discharges can cause dielectric breakdown in solid state devices resulting in irreversible damage data centers often monitor relative humidity levels for these reasons
 === building construction ===
-common construction methods often produce building enclosures with a poor thermal boundary an insulation and air barrier system designed to retain indoor environmental conditions while resisting external environmental conditions the energy-efficient heavily-sealed architecture introduced in the 20th century also sealed off the movement of moisture and this has resulted in a secondary problem of condensation forming in and around walls which encourages the development of mold and mildew additionally buildings with foundations not properly sealed will allow water to flow through the walls due to capillary action of pores found in masonry products solutions for energy-efficient buildings that avoid condensation are a current topic of architecture
+common construction methods often produce building enclosures with a poor thermal boundary requiring an insulation and air barrier system designed to retain indoor environmental conditions while resisting external environmental conditions the energy-efficient heavily-sealed architecture introduced in the 20th century also sealed off the movement of moisture and this has resulted in a secondary problem of condensation forming in and around walls which encourages the development of mold and mildew additionally buildings with foundations not properly sealed will allow water to flow through the walls due to capillary action of pores found in masonry products solutions for energy-efficient buildings that avoid condensation are a current topic of architecture
 === industry ===
 high humidity can often have a negative effect on the capacity of chemical plants and refineries that use furnaces as part of the process (e.g steam reforming wet sulfuric acid process) the humidity will reduce the oxygen concentration and the flue gas fans have to pull more air through the system to get the same firing rate (dry air is 20.9% oxygen at 100% relative humidity the air is 20.4% oxygen)
 == see also ==
-savory brittleness scale
 dew point depression
 humidity indicator
+savory brittleness scale
 == references ==
 united states environmental protection agency "iaq in large buildings" retrieved jan 9 2006
 == external links ==

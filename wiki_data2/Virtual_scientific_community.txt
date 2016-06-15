@@ -1,0 +1,23 @@
+A virtual scientific community is a group of people, often researchers and students, who share multiple resources related to the scientific field, and whose main medium of communication is the internet. Examples of such communities include the Computational Intelligence and Machine Learning Portal or the Biomedical Informatics Research Network.
+There are numerous scientific repositories and websites in existence that, while useful, do not meet the definition of a virtual scientific community. Examples of such are data and scientific literature repositories as well as open access journals.
+
+
+== Further reading ==
+Jacek M. Zurada, Janusz Wojtusiak, Maciej A. Mazurowski,Devendra Mehta, Khalid Moidu, Steve Margolis, Toward Multidisciplinary Collaboration in the CIML Virtual Community, Proceedings of the 2008 Workshop on Building Computational Intelligence and Machine Learning Virtual Organizations, pp. 6266
+
+
+== See also ==
+science
+community
+CIML community portal
+
+
+== External links ==
+The Computational Intelligence and Machine Learning Virtual Community
+What is BIRN?
+
+
+== References ==
+^ Jacek M. Zurada, Janusz Wojtusiak, Maciej A. Mazurowski,Devendra Mehta, Khalid Moidu, Steve Margolis, Toward Multidisciplinary Collaboration in the CIML Virtual Community, Proceedings of the 2008 Workshop on Building Computational Intelligence and Machine Learning Virtual Organizations, pp. 62-66
+^ Jacek M. Zurada, Janusz Wojtusiak, Maciej A. Mazurowski,Devendra Mehta, Khalid Moidu, Steve Margolis, Toward Multidisciplinary Collaboration in the CIML Virtual Community, Proceedings of the 2008 Workshop on Building Computational Intelligence and Machine Learning Virtual Organizations, pp. 62-66
+^ Jacek M. Zurada, Janusz Wojtusiak, Fahmida Chowdhury, James E. Gentle, Cedric J. Jeannot, and Maciej A. Mazurowski, Computational Intelligence Virtual Community: Framework and Implementation Issues,Proceeding of the IEEE World Congress on Computational Intelligence, Hong Kong, June 16, 2008

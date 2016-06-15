@@ -1,0 +1,43 @@
+For the wave phenomena scientist, see Hans Jenny (cymatics).
+Hans Jenny (7 February 1899  9 January 1992) was a soil scientist and expert on pedology (the study of soil in its natural environment), particularly the processes of soil formation.
+
+
+== Overview ==
+Hans Jenny was born in Basel, Switzerland. He earned a diploma in agriculture from the Swiss Federal Institute of Technology (ETH Zurich) in 1922, and a D. Sc. degree in 1927 for a thesis on ion exchange reactions.
+Following an appointment at the University of Missouri, he joined the faculty at Berkeley in 1936. International recognition came to Jenny after the 1941 publication of Factors of Soil Formation. His synthesis of field studies with the abstract formalism of physical chemistry set down the generic mathematical relationship that connects the observed properties of soil with the independent factors that determine the process of soil formation:
+s = f(cl, o, r, p, t, ...)
+where s - soil properties; cl - regional climate; o - potential biota, r - relief; p - parent material; t - time.
+Jenny left the ellipsis open to indicate that there might be other variables in the function.
+In The Soil Resource, Origin and Behaviour (1980), Jenny redefined the soil forming factors as state variables and extended the effects to ecosystem properties. Parent material and relief define the initial state for soil development, regional climate, and potential biota determine the rate at which chemical and biological transformations proceed, and time determines the reach of these processes, and their expression in ecosystem, soil, vegetation, and animal component properties.
+One notable project was his study of the Mendocino pygmy forest, a remarkable community of ericaceous and coniferous plant species whose stunted growth and grotesquely twisted morphology reveal a long and tortured struggle for survival on a 500,000-year-old marine terrace. The University of California's Hans Jenny Pygmy Forest Reserve is named in his honor, and is found within the boundaries of Jug Handle State Natural Reserve.
+Jenny applied fundamental soil science to the problems of the day, when he wrote about "the rosy outlook that is sweeping the nation about converting biomass to alcohol and gasohol...We are promised construction of ingenious machines that will pick up all crop residues in the fields and leaf litter and humus in the forests. The carbon and nitrogen cycles of ecosystems will be curtailed and soil stability endangered. Because of a possible climatic warm-up, we do not wish to accelerate humus oxidation and the concomitant flux of carbon dioxide from soil into the atmosphere. I am arguing against indiscriminate conversion of biomass and organic wastes to fuels. The humus capital, which is substantial, deserves being maintained because good soils are a national asset." 
+
+
+== Bibliography ==
+Jenny, Hans (1929) Relation of temperature to the amount of nitrogen in soils. Soil Science 27: 169188.
+Jenny, Hans (1936) Simple kinetic theory of ionic exchange. I. Ions of equal valency. Journal of Physical Chemistry 40: 501507.
+Jenny, Hans (1961) E.W. Hilgard and the Birth of Modern Soil Science. Pisa, Italy: Collana della Rivista Agrochimia.
+Jenny, Hans (1968) The image of soil in landscape art, old and new. Pontifical Academy of Sciences Scripta Varia 32: 947979.
+Jenny, Hans (1980) The Soil Resource, Origin and Behaviour, Springer-Verlag, New York.
+Jenny, Hans (1989) Hans Jenny. Soil Scientist, Teacher, and Scholar. Regional Oral History Office, The Bancroft Library, University of CaliforniaBerkeley, CA.
+Jenny, Hans (1994) Factors of Soil Formation. A System of Quantitative Pedology. New York: Dover Press. (Reprint, with Foreword by R. Amundson, of the 1941 McGraw-Hill publication). pdf file format.
+Jenny, Hans and K. Stuart (1984) My friend, the soil. Journal of Soil and Water Conservation 39: 158161.
+Jenny, Hans, R. Overstreet, and A.D. Ayers (1939) Contact depletion of bare roots as revealed by radioactive indicators. Soil Science 48: 924.
+Jenny, Hans, T.R. Nielsen, N.T. Colemna, and D.E. Williams (1950) Concerning the measurement of pH, ion activities, and membrane potentials in colloidal systems. Science 112: 164167.
+
+
+== See also ==
+History of Soil Science
+
+
+== Notes ==
+^ Jenny, Hans (1980). "Alcohol or Humus (Letters)". Science 209 (4455): 444. doi:10.1126/science.209.4455.444. PMID 17831353. 
+
+
+== References ==
+University of California, Hans Jenny, in memoriam
+Amundsen, R., 2004, History of Soil Science: Hans Jenny, pdf format, in Encyclopedia of Soils in the Environment. Hillel, D., J.L.. Hatfield, D.S. Powlson, C. Rosenweig, K.M. Scow, M.J. Singer and D.L. Sparks. Editors. (2004) Four-Volume Set, Volume 1-4, ISBN 0-12-348530-4
+
+
+== External links ==
+Hans Jenny Memorial Lecture in Soil Science - The Genius of Soil

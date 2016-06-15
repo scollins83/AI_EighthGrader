@@ -1,0 +1,36 @@
+Elena Vladimirovna Pitjeva is a Russian astronomer working at the Institute of Applied Astronomy, Russian Academy of Sciences, St. Petersburg. She has published over 100 articles, as listed in Google Scholar and the Astrophysics Data System in the field of solar system dynamics and celestial mechanics . She began employment activity as an engineer-observer at the Astrophysical observation station of the Astronomical Observatory of Leningrad State University in Byurakan (Armenia). Then Pitjeva worked at the Institute of Theoretical Astronomy of the USSA Academy of Science and the Institute Applied Astronomy RAS since the date of its foundation in 1988 as researcher and senior researcher. At present she is head of the Laboratory of Ephemeris Astronomy of this institute. Major research interests of Dr. Pitjeva include the construction of numerical ephemerides of the planets, the determination of the planets' and asteroids' masses, the parameters of planet rotation and planetary topography, the solar corona and oblateness and general relativity testing. She is one of creators of the numerical Ephemerides of Planets and the Moon (EPM) of IAA RAS that originated in the seventies of the past century and have been developed since that time. The version of the EPM2004 ephemeris has been adopted as the ephemeris basis of Russian Astronomical Yearbook since 2006. The updated EPM2008 ephemerides are available to outside users via ftp. The works of Pitjeva have recently been used by several scientists to test several models of modified gravity in the Solar System. Dr. Pitjeva has also contributed to a better understanding an influence of asteroids and Trans-Neptunian Objects on the planets' motion. Recently Dr. Pitjeva collaborated with Dr. Standish and proposed to the IAU Working Group on Numerical Standards for Fundamental Astronomy (NSFA) the values of the masses of the three largest asteroids, the Moon-Earth mass ratio and the astronomical unit in meters, mainly obtained while fitting the constructed DE (JPL) and EPM (IAA RAS) planet ephemerides. These values have been adopted by the 27 General Assembly of International Astronomical Union as Current Best Estimates as the IAU (2009) System of Astronomical Constants. Pitjeva is a member of the International Astronomical Union: OC of Commission 4 Ephemerides, Commission 52 Relativity in Fundamental Astronomy  IAU WG NSFA.,
+
+
+== Education and Academic degrees ==
+Pitjeva graduated from the Faculty of Mathematical and Mechanical at Leningrad State University in 1972 in the specialty of astronomy. Pitjeva gained her Ph.D. in the field of "Astrometry and Celestial Mechanics" in 1994, with the thesis Improvement of ephemerides of the major planets and determination of some astronomical constants by radar observations", and earned the Doctor of Science degree, the highest (after Ph.D.) scientific degree in Russia, with the thesis "Construction of high-precision ephemerides of the major planets and determination of some astronomical constants", in 2005. Dr. Pitjeva is a pupil of Professor G.A. Krasinski and Professor V.A. Brumberg.
+
+
+== Publications (selection) ==
+Pitjeva, E. V. (2010). "Influence of trans-neptunian objects on motion of major planets and limitation on the total TNO mass from planet and spacecraft". Proc. IAU Symp. No. 263/ Icy bodies of the solar system //D. Lazzaro, D. Prialnik, R. Schulz, J. A. Fernandez (eds.), Cambridge University Press. pp. 9397. 
+Pitjeva, E. V. (2010). "EPM ephemerides and relativity". Proc. IAU Symp. No. 261 / Relativity in fundamental astronomy: dynamics, reference frame, and data analysis //S. Klioner, P.K. Seidelmann, M. Soffel (eds.), Cambridge University Press. pp. 170178. 
+Pitjeva, E. V.; Standish, E. M. (2009). "Proposals for the masses of the three largest asteroids, the Moon-Earth mass ratio and the Astronomical Unit". Celestial Mechanics and Dynamical Astronomy 103 (4): 365. Bibcode:2009CeMDA.103..365P. doi:10.1007/s10569-009-9203-8. 
+Pitjeva, E. V. (2009). "Ephemerides EPM2008: the updated model, constants, data" (PDF). Proceedings of the "Journees 2008 Systemes de reference spatio-temporels", M. Soffel and N. Capitaine (eds.), Lohrmann-Observatorium and Observatoire de Paris. pp. 5760. 
+Khriplovich, I. B.; Pitjeva, E. V. (2006). "Upper limits on density of dark matter in Solar System". International Journal of Modern Physics D 15 (4): 615. arXiv:astro-ph/0601422. Bibcode:2006IJMPD..15..615K. doi:10.1142/S0218271806008462. 
+Pitjeva, E. V. (2005). "High-Precision Ephemerides of PlanetsEPM and Determination of Some Astronomical Constants" (PDF). Solar System Research 39 (3): 176. Bibcode:2005SoSyR..39..176P. doi:10.1007/s11208-005-0033-2. 
+Pitjeva, E. V. (2005). "Relativistic Effects and Solar Oblateness from Radar Observations of Planets and Spacecraft". Astronomy Letters 31 (5): 340. Bibcode:2005AstL...31..340P. doi:10.1134/1.1922533. 
+Pitjeva, E. V. (2004). "Estimations of masses of the largest asteroids and the main asteroid belt from ranging to planets, Mars orbiters and landers". 35th COSPAR Scientific Assembly. Held 1825 July 2004, in Paris, France. p. 2014. Bibcode:2004cosp.meet.2014P. 
+Krasinsky, G. A.; Pitjeva, E. V.; Vasilyev, M. V.; Yagudina, E. I. (July 2002). "Hidden Mass in the Asteroid Belt". Icarus 158 (1): 98105. Bibcode:2002Icar..158...98K. doi:10.1006/icar.2002.6837. 
+Pitjeva, E. V. (2001). "Modern numerical ephemerides of planets and the importance of ranging observations for their creation". Celestial Mechanics and Dynamical Astronomy 80 (3/4): 249. doi:10.1023/A:1012289530641. 
+
+
+== Bibliometric information ==
+According to the NASA ADS database, the h-index of E.V. Pitjeva is 9, with a total number of citations (self-citations excluded) equal to 316.
+
+
+== References ==
+^ Institute Applied Astronomy RAS (2006-08-23). "Laboratory of Ephemeris Astronomy". Retrieved 2010-05-12. 
+^ Institute Applied Astronomy RAS (2006-08-23). "EPM2008". Retrieved 2010-05-12. 
+^ IAU WG NSFA. "Current Best Estimates". Retrieved 2010-05-12. 
+^ International Astronomical Union. "IAU Commission 4 Membership". Retrieved 2010-05-12. 
+^ International Astronomical Union. "IAU Commission 52 Membership". Retrieved 2010-05-12. 
+^ International Astronomical Union. "WG IAU NSFA Membership". Retrieved 2010-05-12. 
+
+
+== External links ==
+Laboratory of Ephemeris Astronomy, Institute of Applied Astronomy
+Pitjeva E.V. website at IAU

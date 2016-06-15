@@ -1,0 +1,16 @@
+the wave base in physical oceanography is the maximum depth at which a water wave's passage causes significant water motion for water depths deeper than the wave base bottom sediments and the seafloor are no longer stirred by the wave motion above
+== process ==
+in seawater the water particles are moved in a circular orbital motion when a wave passes the radius of the circle of motion for any given water molecule decreases exponentially with increasing depth the wave base which is the depth of influence of a water wave is about half the wavelength
+at depths greater than half the wavelength the water motion is less than 4% of its value at the water surface and may be neglected
+for example in a pool of water 1 metre (3.3 ft) deep a wave with a 2 metres (6.6 ft) wavelength would barely be moving the water at the bottom in the same pool a wave with a wavelength of 0.5 metres (1.6 ft) would not be able to cause water movement on the bottom
+== distinctions ==
+there are typically two wave bases the fair weather wave base (fwwb) and the storm wave base (swb)
+the fair weather wave base refers to the depth beneath the waves under normal conditions and the portion of the seafloor that is agitated by this everyday wave action is known as the upper shoreface
+the storm wave base refers to the depths beneath storm-driven waves and can be much deeper the portion of the seafloor that is only agitated by storm-driven wave action is known as the lower shoreface
+== see also ==
+upper shoreface above wave base
+lower shoreface below wave base'
+airy wave theory
+dispersion (water waves)
+waves and shallow water
+== references ==

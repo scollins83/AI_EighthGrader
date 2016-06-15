@@ -1,0 +1,8 @@
+A biarc is a model commonly used in geometric modeling and computer graphics that is composed of two consecutive circular arcs with an identical tangent at the connecting point. Since the tangents at the connecting node are the same, the G1 continuity property is preserved. They can be used in approximation of splines and other plane curves by placing the two external endpoints on the curve, each with the same tangent as the curve's at that point, and finding the middle node according to some criteria. Thus a sequence of biarcs can be formed such that it is G1 continuous throughout and is tangential to the original curve (i.e. sharing its location and direction) at each biarc's end points. Shortening biarcs will improve the approximation's closeness to the original curve.
+To approximate a Bzier curve with a biarc, take the two endpoints, A and B, of the Bzier. Find the point C which is the intersection of the tangents at A and B, then take the incircle of triangle ABC. Its centre, which lies on the bisectors of the three angles of the triangle, is the intersection point of the two arcs of the biarc. Their endpoints are A and B. The closer the centre lies to the curve, the better the approximation - if the distance is over a threshold, subdivide the Bzier.
+
+
+== References ==
+Bolton K. M. Biarc curves. Comp.-Aided Design, 7(1975), N\,2, 89--92.
+Nutbourne, A. W.; Martin, R. R. (1988). Differential geometry applied to curve and surface design. Vol.1: Foundations. Ellis Horwood. ISBN 013211822X. 
+Kurnosenko A. I. Biarcs and bilens. Computer Aided Geometric Design, 30 (3,2013), 310--330.

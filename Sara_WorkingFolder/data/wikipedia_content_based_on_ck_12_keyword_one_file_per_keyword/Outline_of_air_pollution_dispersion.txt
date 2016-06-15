@@ -60,8 +60,10 @@ mixing height: when an inversion aloft is formed the atmospheric layer between t
 adms 3 (atmospheric dispersion modelling system) advanced atmospheric pollution dispersion model for calculating concentrations of atmospheric pollutants emitted both continuously from point line volume and area sources or intermittently from point sources
 austal
 aermod
+canary (by quest)
 calpuff
 dispersion21
+flacs
 isc3
 mercure
 name (dispersion model)

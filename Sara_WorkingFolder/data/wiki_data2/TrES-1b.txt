@@ -1,0 +1,49 @@
+TrES-1b is an extrasolar planet approximately 512 light-years away in the constellation of Lyra (the Lyre). The planet's mass and radius indicate that it is a Jovian planet with a similar bulk composition to Jupiter. Unlike Jupiter, but similar to many other planets detected around other stars, TrES-1 is located very close to its star, and belongs to the class of planets known as hot Jupiters. The planet was discovered orbiting around GSC 02652-01324 (an orange dwarf star).
+
+
+== Detection and discovery ==
+TrES-1b was discovered by the Trans-Atlantic Exoplanet Survey by detecting the transit of the planet across its parent star using a 4-inch-diameter (100 mm) telescope. The discovery was confirmed by the Keck Observatory. The planet was subsequently detected using the radial velocity method, allowing its mass to be determined.
+
+
+=== Transit ===
+On March 22, 2005, Astronomers using NASA's Spitzer Space Telescope took advantage of this fact to directly capture the infrared light of two previously detected planets orbiting outside our solar system. Their findings revealed the temperatures and orbits of the planets.
+
+Upcoming Spitzer observations using a variety of infrared wavelengths may provide more information about the planets' winds and atmospheric compositions. It enabled determination of TrES-1's temperature, which is in excess of 1000 K (1340 F). The planet's Bond albedo was found to be 0.31  0.14.
+In the infrared panel, the colors reflect what our eyes might see if we could retune them to the invisible, infrared portion of the light spectrum. The hot star is less bright in infrared light than in visible and appears fainter. The warm planet peaks in infrared light, so is shown brighter. Their hues represent relative differences in temperature. Because the star is hotter than the planet, and because hotter objects give off more blue light than red, the star is depicted in blue, and the planet, red.
+The overall look of the planet is inspired by theoretical models of hot, gas giant planets. These "hot Jupiters" are similar to Jupiter in composition and mass, but are expected to look quite different at such high temperatures.
+
+
+=== Radial velocity ===
+
+The transit light-curve signature in the course of the TrES multi-site transiting planet survey, and confirmed the planetary nature of the companion via multicolor photometry and precise radial velocity measurements. With this, the planet has an orbital period similar to that of HD 209458 b, but about twice as long as those of the Optical Gravitational Lensing Experiment (OGLE) transiting planets. Its mass is similar to that of HD 209458 b, but its radius is significantly smaller and fits the theoretical models without the need for an additional source of heat deep in the atmosphere, as has been invoked by some investigators for HD 209458 b.
+
+
+== Rotation ==
+The spin-orbit angle using the RossiterMcLaughlin effect is +30  21 degrees.
+
+
+== Physical characteristics ==
+Hubble might find water in TrES-1, and it would give a much more precise measurement of the planet's size, and even allow us to search for moons. A satellite is unlikely however, given the likely history and current orbital configuration for the planet, the research team concluded.
+No moons have ever been detected beyond our solar system, but some researchers have considered that such satellites would be logical places for life to exist around giant gaseous worlds that otherwise could not be expected to support biology.
+Models indicate that TrES-1 has undergone significant tidal heating in the past due to its eccentric orbit, but this does not appear to have inflated the planet's radius.
+
+
+== See also ==
+Trans-Atlantic Exoplanet Survey
+51 Pegasi b
+HD 209458 b
+Hot Jupiter
+TrES-2b
+
+
+== References ==
+
+
+== External links ==
+ Media related to TrES-1 at Wikimedia Commons
+AAVSO Variable Star Of The Season. Fall 2004: The Transiting Exoplanets HD 209458 and TrES-1
+"Network of Small Telescopes Discovers Distant Planet". Lowell Observatory. Retrieved 2008-10-15. 
+"TrES-1". Catalogue d'exoplantes (in French). Retrieved 2008-06-21. 
+"CHEMICAL COMPOSITION OF THE PLANET-HARBORING STAR TrES-1". The American Astronomical Society. Retrieved 2008-10-15. 
+Britt, Robert Roy (2005-03-22). "Glow of Alien Planets Detected in 'Milestone' Observations". SPACE.com. Retrieved 2008-06-21. 
+"Tiny "David" Telescope Finds "Goliath" Planet". Harvard-Smithsonian. Center for Astrophysics. 2004-08-24. Retrieved 2008-06-21.

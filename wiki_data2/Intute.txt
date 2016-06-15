@@ -1,0 +1,56 @@
+Intute was a free Web service aimed at students, teachers, and researchers in UK further education and higher education. Intute provides access to online resources, via a large database of resources. Each resource is reviewed by an academic specialist in the subject, who writes a short review of between 100 to 200 words, and describes via various metadata fields (such as which subject discipline(s) it will be useful to) what type of resource it is, who created it, who its intended audience is, what time-period or geographical area the resource covers, and so on. In July 2010 Intute provided 123,519 records. Intute's Faq says : "Following Intute's closure in July 2011, the website will remain available for three years. However the site will not be maintained or updated, and no additional resources will be added"
+
+
+== History of Intute ==
+Intute was formed in July 2006 after the merger of the eight semi-autonomous "hubs" that formed the Resource Discovery Network (RDN). These hubs each served particular academic disciplines:
+Altis - Hospitality, leisure, sport and tourism
+Artifact - Arts and creative industries
+Biome - Health and life sciences
+EEVL - Engineering, mathematics, and computing
+GEsource - Geography and the environment
+Humbul - Humanities
+PSIgate - Physical sciences
+SOSIG - Social sciences
+The restructuring and rebranding was undertaken to create a service with a more uniform identity and appearance, better cross-searching facilities, and more focused technical and management teams. As part of the restructuring, the eight RDN hubs were initially reorganised into four subject groups. This process also incorporated the Virtual Training Suite, a series of continually updated, free online Internet training tutorials for over 65 subject areas.
+The Intute service was geographically distributed, with staff based at several UK universities.
+University of Birmingham
+University of Bristol
+Heriot-Watt University
+University of Manchester
+Manchester Metropolitan University
+University of Nottingham
+University of Oxford
+In July 2010, funding for Intute was significantly reduced and the Consortium was disbanded. Intute is now wholly maintained by Mimas at the University of Manchester, and the Virtual Training Suite is maintained and developed by the Institute for Learning and Research Technology (ILRT) at the University of Bristol.
+
+
+== Funding ==
+Intute is funded by the Joint Information Systems Committee (JISC). Some of the subject groups received funding from the Arts and Humanities Research Council (AHRC) and the Economic and Social Research Council (ESRC). The Wellcome Trust was a partner of Intute: Health and Life Sciences and contributed content to this section.
+In 2010, funding from Jisc was significantly reduced, and ceased in August 2011. In July of that year Intute stopped updating and actively maintaining the site. It will be available on the Internet in its present form but without maintenance for three years beyond that, according to Intute, which says it is searching for ways to fold its content into some other service.
+
+
+== Functionality ==
+Intute's online database may be searched or browsed using a standard Web browser. The database contains 123,519 records (July 2010). Old records are reviewed regularly by subject experts to ensure that information is as current as possible. The advanced search engine enables users to search the database by keyword, subject, or resource type, whilst the browse structure enables time period and resource type filtering, as well as the ability to restrict searches to within particular browse headings.
+Intute offers a personalisation service, "MyIntute", which enables users to tag records, export data, and construct remotely maintained lists of resources that can be used as reading lists.
+The Intute Integration tools enable users to customise and export Intute content to their own web pages or VLEs. This includes newsfeeds, an embedded search box and MyIntute (where users can save Intute content in their own online space, tag and export it). Machine-readable interfaces to the database are available using the Z39.50, Search/Retrieve Web Service and OAI-PMH protocols.
+
+
+== Awards ==
+Intute was awarded the 2007 Jason Farradane Award in recognition of its outstanding work in the field of information science. The award was made on behalf of the UK eInformation Group (UKeiG), part of the Chartered Institute of Library and Information Professionals (CILIP). It is sponsored by the Journal of Information Science, published by SAGE Publications.
+
+
+== Notes ==
+
+
+== References ==
+Slainte.org, Harrison, N. J. 2009. "Gateway to engineering". Information Scotland; February 2009; Vol 7 (1). p10.
+Cilip.org.uk, Harrison, N. J. and Place, E. 2009. "The best of the web". Library and Information Update; January/February. pp 48-50.
+Edinburghlibrariesagency.info, Harrison, N. J. 2008. "Raising the profile: Intute Engineering Online Library".TACIT; March 26, 2008.
+Mimas.ac.uk, Charnock, L. 2008. Intute: Informs Accessibility". Focus on Mimas, Issue 37, September.
+
+
+== External links ==
+Intute
+MIMAS
+ILRT
+Virtual Training Suite
+Joint Information Systems Committee (JISC)

@@ -1,0 +1,35 @@
+Neptunism, a superseded scientific theory of geology proposed by Abraham Gottlob Werner (1749-1817) in the late 18th century, proposed rocks formed from the crystallisation of minerals in the early Earth's oceans.
+The theory took its name from Neptune, the ancient Roman god of the sea. There was considerable debate between its proponents (Neptunists) and those favouring a rival theory known as plutonism which gave a significant role to volcanic origins, and which in modified form replaced neptunism in the early 19th century as the principle of uniformitarianism was shown to fit better with the geological facts as they became better known.
+Modern geology acknowledges many different forms of rock formation, and explains the formation of sedimentary rock through processes very similar to those described by neptunism.
+
+
+== Historical developmentEdit ==
+In the mid-eighteenth century as the investigation of geology found evidence such as fossils, naturalists developed new ideas which diverged from the Genesis creation narrative. Georges de Buffon proposed that the Earth was over 75,000 years old, possibly much older, and showed signs of historical development in a series of distinct epochs.
+Abraham Gottlob Werner was the inspector of mines and professor of mining and mineralogy at the Mining Academy in Freiberg (Saxony) which became dominant in late eighteenth-century geology. His Short Classification and Description of Rocks of 1787 and his lectures set out a classification of rocks on the basis of their age based on the sequence of layers of differing material, rather than by the types of minerals as had been previous practice.
+He based his historical sequence of rock formation on the theory that the Earth had originally consisted of water. According to this account, the water contained material which settled out of suspension in a process of sedimentation to form the core of the planet and the continents as a series of layers, the oldest and hardest being granite while newer layers showed an increasing number of fossils. Volcanos had a minor effect, modifying the continents and adding more sediment as well as some volcanic rocks, and successive lesser floods added more layers, so that most rocks resulted from precipitates settling out of water. There is no indication that any of the floods in Werner's cosmogony were Noah's flood.
+
+
+== The neptunistplutonist controversyEdit ==
+A rival theory known as plutonism (or vulcanism) held that rocks were formed in fire. This was originally proposed by Abb Anton Moro (16871750) with reference to his studies of volcanic islands, and was taken up by James Hutton who put forward a uniformitarian theory of a rock cycle extending over infinite time in which rocks were worn away by weathering and erosion, then were re-formed and uplifted by heat and pressure.
+Neptunists differed from the plutonists in holding that basalt was a sedimentary deposit which included fossils and so could not be of volcanic origin. Hutton correctly asserted that basalt never contained fossils and was always insoluble, hard, and crystalline. He found geological formations in which basalt cut through layers of other rocks, supporting his theory that it originated from molten rock under the Earth's crust.
+The debate was not just between scientists. Johann Wolfgang von Goethe, one of the most respected authors of the day, took sides with the neptunists. The fourth act of his famous work Faust contains a dialogue between a neptunist and a plutonist, the latter being Mephistopheles, the antagonist of the play who is a devil. Doing so he implicitly expressed his favour for the neptunist theory, though he also did so explicitly and sometimes even harshly elsewhere.
+The controversy lasted into the early years of the 19th century, but the works of Charles Lyell in the 1830s gradually won over support for the uniformitarian ideas of Hutton and the plutonists. However, sedimentary rocks such as limestone are considered to have resulted from processes like those described by the neptunists, and so modern theory can be seen as a synthesis of the two approaches.
+
+
+== Notable neptunistsEdit ==
+Abraham Gottlob Werner (17491817)
+Juan Ignacio Molina (17401829): indirectly expressed support in Ensayo sobre la historia natural de Chile where he pointed out the fact that basalt occurred both in the Andes and in coast of Chilo where there were no sign of eruption and believed basalt to be a sort of compacted slate with vesicles.
+Johann Wolfgang von Goethe (17491832)
+Robert Jameson (17741854): studied with Werner and became the first eminent exponent in Britain of Neptunism, at the University of Edinburgh argued against the followers of James Hutton.
+Gustav Bischof, (17921870), founder of geochemistry; introduced chemical analysis into widespread use in geology.
+
+
+== Fictional accountEdit ==
+The theory, and its intellectual context, are treated with engaging irony in Daniel Kehlmann's fictionalised account of the travels of Alexander von Humboldt, Die Vermessung der Welt (Measuring the World) of 2006.
+
+
+== ReferencesEdit ==
+
+Erickson, Jon, Plate Tectonics, New York: Facts On File, 1992
+Baigrie, Brian, Scientific Revolutions: Course Notes and Study Material, University of Toronto, 2006.
+History of Science: Early Modern Geology . . . And Still We Evolve, A Handbook on the History of Modern Science, Ian Johnston of Malaspina University-College, Nanaimo, BC. [Vancouver Island University] (public domain)

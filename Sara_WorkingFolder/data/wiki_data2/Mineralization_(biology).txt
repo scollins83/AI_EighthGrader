@@ -1,0 +1,24 @@
+In biology, mineralization refers to a process where an inorganic substance precipitates in an organic matrix. This may be due to normal biological processes that take place during the life of an organism such as the formation of bones, egg shells, teeth, coral, and other exoskeletons. This term may also refer to abnormal processes that result in kidney and gall stones.
+
+
+== Types of Mineralization ==
+Mineralization can be subdivided into different categories depending on the following: the organisms or processes that create chemical conditions necessary for mineral formation, the origin of the substrate at the site of mineral precipitation, and the degree of control that the substrate has on crystal morphology, composition, and growth. These subcategories include: biomineralization, organomineralization, and inorganic mineralization, which can be subdivided further. However, usage of these terms vary widely in scientific literature because there are no standardized definitions.The following definitions are based largely on a paper written by Dupraz et al. (2009), which provided a framework for differentiating these terms.
+
+
+=== Biomineralization ===
+Biomineralization, also known as biologically-controlled mineralization, occurs when crystal morphology, growth, composition, and location is completely controlled by the cellular processes of a specific organism. Examples include the shells of invertebrates, such as Molluscs and Brachiopods, as well as the bones of vertebrates. See also biomineralization.
+
+
+=== Organomineralization ===
+This type of mineralization includes both biologically-induced mineralization and biologically-influenced mineralization.
+Biologically-induced mineralization occurs when the metabolic activity of microbes (e.g. bacteria) produces chemical conditions favorable for mineral formation. The substrate for mineral growth is the organic matrix, secreted by the microbial community, and affects crystal morphology and composition. Examples of this type of mineralization include calcareous or siliceous stromatolites and other microbial mats. A more specific type of biologically-induced mineralization, remote calcification or remote mineralization, takes place when calcifying microbes occupy a shell secreting organism and alter the chemical environment surrounding the area of shell formation. The result is mineral formation not strongly controlled by the cellular processes of the metazoan host (i.e. remote mineralization), and may lead to unique or unusual crystal morphologies.
+Biologically-influenced mineralization takes place when chemical conditions surrounding the site of mineral formation are influenced by abiotic processes (e.g. evaporation or degassing). However, the organic matrix (secreted by microorganisms) is responsible for crystal morphology and composition. Examples include micro- to nano-meter scale crystals of various morphologies.
+
+
+=== Inorganic Mineralization ===
+Inorganic mineralization is a completely abiotic process. Chemical conditions necessary for mineral formation develop via environmental processes, such as evaporation or degassing. Furthermore, the substrate for mineral deposition is abiotic (i.e. contains no organic compounds) and there is no control on crystal morphology or composition. Examples of this type of mineralization include cave formations, such as stalagmites and stalactites.
+Biological mineralization can also take place as a result of fossilization. See also calcification.
+Bone mineralization occurs in human body by cells called osteoblasts..
+
+
+== References ==

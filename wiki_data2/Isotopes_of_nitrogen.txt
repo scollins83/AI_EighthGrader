@@ -1,0 +1,49 @@
+Natural nitrogen (N) consists of two stable isotopes, nitrogen-14, which makes up the vast majority of naturally occurring nitrogen, and nitrogen-15. Fourteen radioactive isotopes (radioisotopes) have also been found so far, with atomic masses ranging from 10 to 25, and one nuclear isomer, 11mN. All of these radioisotopes are short-lived, with the longest-lived one being nitrogen-13 with a half-life of 9.965 minutes. All of the others have half-lives below 7.15 seconds, with most of these being below five-eighths of a second. Most of the isotopes with atomic mass numbers below 14 decay to isotopes of carbon, while most of the isotopes with masses above 15 decay to isotopes of oxygen. The shortest-lived known isotope is nitrogen-10, with a half-life of about 2.3 microseconds.
+The standard atomic weight of nitrogen is 14.0067.
+
+
+== Natural isotopes ==
+
+
+=== Nitrogen-14 ===
+Nitrogen-14 is one of two stable (non-radioactive) isotopes of the chemical element nitrogen, which makes about 99.636% of natural nitrogen.
+Nitrogen-14 is one of the very few stable nuclides with both an odd number of protons and of neutrons (seven each). Each of these contributes a nuclear spin of plus or minus spin 1/2, giving the nucleus a total magnetic spin of one.
+Like all elements heavier than lithium, the original source of nitrogen-14 and nitrogen-15 in the Universe is believed to be stellar nucleosynthesis, where they are produced as part of the carbon-nitrogen-oxygen cycle.
+Nitrogen-14 is the source of naturally-occurring carbon-14. Some kinds of cosmic radiation cause a nuclear reaction with nitrogen-14 in the upper atmosphere of the Earth, creating carbon-14, which decays back to nitrogen-14 with a half-life of 5,73040 years.
+
+
+=== Nitrogen-15 ===
+Nitrogen-15 is a rare stable isotope of nitrogen. This isotope is often used in agricultural and medical research, for example in the MeselsonStahl experiment to establish the nature of DNA replication. An extension of this research resulted in development of DNA-based stable-isotope probing, which allows examination of links between metabolic function and taxonomic identity of microorganisms in the environment, without the need for culture isolation. Nitrogen-15 is extensively used to trace mineral nitrogen compounds (particularly fertilizers) in the environment and when combined with the use of other isotopic labels, is also a very important tracer for describing the fate of nitrogenous organic pollutants.
+Nitrogen-15 is frequently used in NMR (Nitrogen-15 NMR spectroscopy), because unlike the more abundant nitrogen-14, that has an integer nuclear spin and thus a quadrupole moment, N-15 has a fractional nuclear spin of one-half, which offers advantages for NMR like narrower line width. Proteins can be isotopically labelled by cultivating them in a medium containing nitrogen-15 as the only source of nitrogen. In addition, nitrogen-15 is used to label proteins in quantitative proteomics (e.g. SILAC).
+Also, the ratio of 15N/14N in an organism can give clues about its diet, as movement up the food chain tends to concentrate the 15N isotope, by 34 with each step of the food chain (see Isotopic signatures  Nitrogen Isotopes).
+Nitrogen-15 presents one of the lowest thermal neutron capture cross sections of all isotopes.
+Two sources of nitrogen-15 are the positron emission of oxygen-15 and the beta decay of carbon-15.
+
+
+== Table ==
+^ Bold for stable isotopes
+^ Immediately decays into two alpha particles for a net reaction of 12N -> 34He + e+
+^ Used in positron emission tomography
+
+
+=== Notes ===
+The precision of the isotope abundances and atomic mass is limited through variations. The given ranges should be applicable to any normal terrestrial material.
+Values marked # are not purely derived from experimental data, but at least partly from systematic trends. Spins with weak assignment arguments are enclosed in parentheses.
+Uncertainties are given in concise form in parentheses after the corresponding last digits. Uncertainty values denote one standard deviation, except isotopic composition and standard atomic mass from IUPAC, which use expanded uncertainties.
+Nuclide masses are given by IUPAP Commission on Symbols, Units, Nomenclature, Atomic Masses and Fundamental Constants (SUNAMCO).
+Isotope abundances are given by IUPAC Commission on Isotopic Abundances and Atomic Weights.
+
+
+== References ==
+
+Isotope masses from:
+G. Audi; A. H. Wapstra; C. Thibault; J. Blachot; O. Bersillon (2003). "The NUBASE evaluation of nuclear and decay properties" (PDF). Nuclear Physics A 729: 3128. Bibcode:2003NuPhA.729....3A. doi:10.1016/j.nuclphysa.2003.11.001. 
+
+Isotopic compositions and standard atomic masses from:
+J. R. de Laeter; J. K. Bhlke; P. De Bivre; H. Hidaka; H. S. Peiser; K. J. R. Rosman; P. D. P. Taylor (2003). "Atomic weights of the elements. Review 2000 (IUPAC Technical Report)". Pure and Applied Chemistry 75 (6): 683800. doi:10.1351/pac200375060683. 
+M. E. Wieser (2006). "Atomic weights of the elements 2005 (IUPAC Technical Report)". Pure and Applied Chemistry 78 (11): 20512066. doi:10.1351/pac200678112051. Lay summary. 
+
+Half-life, spin, and isomer data selected from the following sources. See editing notes on this article's talk page.
+G. Audi; A. H. Wapstra; C. Thibault; J. Blachot; O. Bersillon (2003). "The NUBASE evaluation of nuclear and decay properties" (PDF). Nuclear Physics A 729: 3128. Bibcode:2003NuPhA.729....3A. doi:10.1016/j.nuclphysa.2003.11.001. 
+National Nuclear Data Center. "NuDat 2.1 database". Brookhaven National Laboratory. Retrieved September 2005. 
+N. E. Holden (2004). "Table of the Isotopes". In D. R. Lide. CRC Handbook of Chemistry and Physics (85th ed.). CRC Press. Section 11. ISBN 978-0-8493-0485-9.

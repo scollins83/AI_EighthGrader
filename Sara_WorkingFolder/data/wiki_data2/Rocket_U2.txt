@@ -1,0 +1,87 @@
+Rocket U2 is a suite of database management (DBMS) and supporting software now owned by Rocket Software. It includes two MultiValue database platforms: UniData and UniVerse. Both of these products are operating environments which run on current Unix, Linux and Windows operating systems. They are both derivatives of the Pick operating system. The family also includes developer and web-enabling technologies including SystemBuilder/SB+, SB/XA, U2 Web Development Environment (WebDE), UniObjects and wIntegrate.
+
+
+== History ==
+UniVerse was originally developed by VMark Software and UniData was originally developed by the Unidata Corporation. Both Universe and Unidata are used for vertical application development and are embedded into the vertical software applications. In 1997, the Unidata Corporation merged with VMark Systems to form Ardent Software. In March 2000, Ardent Software was acquired by Informix. IBM subsequently acquired the database division of Informix in April 2001, making UniVerse and UniData part of IBM's DB2 product family. IBM subsequently created the Information Management group of which Data Management is one of the sub-areas under which the IBM U2 family comprised UniData and UniVerse along with the tools, SystemBuilder Extensible Architecture (SB/XA), U2 Web Development Environment (U2 Web DE) and wIntegrate.
+On 1 October 2009 it was announced that Rocket Software had purchased the entire U2 portfolio from IBM. The U2 portfolio is grouped under the name RocketU2.
+
+
+== System structure ==
+
+
+=== Accounts ===
+Systems are made of one or more accounts. Accounts are directories stored on the host operating system that initially contain the set of files needed for the system to function properly. This includes the system's VOC (vocabulary) file that contains every command, filename, keyword, alias, script, and other pointers. Each of these classes of VOC entries can also be created by a user.
+
+
+=== Files ===
+Files are similar to tables in a relational database in that each file has a unique name to distinguish it from other files and zero to multiple unique records that are logically related to each other.
+Files are made of two parts: a data file and a file dictionary (DICT). The data file contains records that store the actual data. The file dictionary may contain metadata to describe the contents or to output the contents of a file.
+
+
+==== Hashed files ====
+For hashed files, a U2 system uses a hashing algorithm to allocate the file's records into groups based on the record IDs. When searching for data in a hashed file, the system only searches the group where the record ID is stored, making the search process more efficient and quicker than searching through the whole file.
+
+
+==== Nonhashed files ====
+Nonhashed files are used to store data with little or no logical structure such as program source code, XML or plain text. This type of file is stored as a subdirectory within the account directory on the host operating system and may be read or edited using external tools.
+
+
+=== Records ===
+Files are made of records, which are similar to rows within tables of a traditional relational database. Each record has a unique key (called a "record ID") to distinguish it from other records in the file. These record IDs are typically hashed so that data can be retrieved quickly and efficiently.
+Records (including record IDs) store the actual data as pure ASCII strings; there is no binary data stored in U2. For example, the hardware representation of a floating-point number would be converted to its ASCII equivalent before being stored. Usually these records are divided into fields (which are sometimes called "attributes" in U2). Each field is separated by a "field mark" (hexadecimal character FE).
+Thus this string:
+
+123-45-6789^JOHN JONES^jjones@example.com^432100^...
+
+might represent a record in the EMPLOYEE file with 123-45-6789 as the Record ID, JOHN JONES as the first field, jjones@company.com as the second field and $4321.00 as a monthly salary stored in the third field. (The up-arrow (^) above is the standard Pick notation of a field mark; that is, xFE).
+Thus the first three fields of this record, including the record ID and trailing field mark, would use 49 bytes of storage. A given value uses only as many bytes as needed. For example, in another record of the same file, JOHN JONES (10 bytes) may be replaced by MARJORIE Q. HUMPERDINK (21 bytes) yet each name uses only as much storage as it needs, plus one for the field mark.
+Fields may be broken down into values and even subvalues. Values are separated by value marks (character xFD); subvalues are separated by subvalue marks (character xFC). Thus, if John Jones happened to get a second email address, the record may be updated to:
+
+123-45-6789^JOHN JONES^jjones@example.com]johnnyjones@example.net^432100^...
+
+where the close bracket (]) represents a value mark.
+Since each email address can be the ID of a record in separate file (in SQL terms, an outer join; in U2 terms, a "translate"), this provides the reason why U2 may be classified as a MultiValued database.
+
+
+=== Data ===
+Raw information is called Data. A record is a set of logical grouped data. e.g. an employee record will have data stored in the form of fields/attributes like his name, address etc.
+
+
+== Programmability ==
+Both UniVerse and UniData have a structured BASIC language (UniVerse Basic and UniBasic, respectively), similar to Pick/BASIC which naturally operates on the structures of the MultiValue database. They also have a structured database query language (RetrieVe and UniQuery) used to select records for further processing and for ad hoc queries and reports.
+RocketU2 provides a set of Client Tools to allow software developers to access U2 databases from other software languages.
+Client Tool interfaces include:
+ODBC / JDBC
+UniOLEDB - OLEDB Driver
+UniObjects (COM)
+UniObjects (.NET)
+UniObjects (Java)
+Native XML
+U2 Web Services
+JSON (JavaScript Object Notation)
+Python (currently under development)
+
+
+== Security ==
+Both UniVerse and UniData support TLS transport level data encryption and record and file level encryption of data at rest using OpenSSL. Additional API encryption functionality is also available to allow custom solutions or meet specific regulatory requirements.
+
+
+== Professional certification ==
+RocketU2 offers three professional certification designations related to the U2 product family.
+Rocket U2 Application Developer
+Rocket UniVerse Administration
+Rocket UniData Administration
+
+
+== See also ==
+Pick operating system
+OpenInsight
+Reality
+
+
+== Notes ==
+
+
+== External links ==
+Official website
+U2UG, a recognized international user group

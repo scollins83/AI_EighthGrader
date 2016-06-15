@@ -1,0 +1,205 @@
+The following outline is provided as an overview of and topical guide to scientific method:
+Scientific method  body of techniques for investigating phenomena and acquiring new knowledge, as well as for correcting and integrating previous knowledge. It is based on observable, empirical, reproducible, measurable evidence, and subject to the laws of reasoning.
+
+
+== Nature of scientific method ==
+
+Science
+Philosophy of science
+Sociology of knowledge
+Process
+Knowledge
+
+
+== Elements of scientific method ==
+
+Laboratory
+Laboratory techniques
+
+
+=== Observation ===
+
+Methods
+Causation
+Investigation
+Measurement
+Solar time vs Sidereal time
+Mass vs Weight
+
+
+=== Hypothesis ===
+
+Use Occam's razor to prune the list of hypothetical explanations of the observation.
+pro:Karl Popper Falsifiability
+con:Paul Feyerabend
+Statistical hypothesis testing
+
+
+=== Prediction ===
+Prediction  logical inference from a hypothesis
+Bayesian inference  subjective use of statistical reasoning
+Deductive reasoning
+Retrodiction 
+
+
+=== Experiment ===
+
+Feynman: "We can do anything we want (in theorizing). Then all we have to do is check with the experiment."
+Design of experiments
+Scientific control
+Natural experiment
+Observational study
+Field experiment
+Self-experimentation
+Self-experimentation in medicine
+
+Placebo effect
+
+
+=== Evaluation ===
+Test of the inference: prediction and experimentation to establish new facts. Critical examination of the hypothetical explanation:
+Peer review by community of scholars, using logic, etc. The waveparticle duality overturned by photoelectric effect.
+Peer review unused for cold fusion also the Analysis of the Experiment.
+Medical peer review
+
+
+== History of scientific method ==
+Main articles: History of scientific method, Timeline of the history of scientific method, and History of science
+
+
+=== Publications ===
+Ibn al-Haytham's Book of Optics
+Avicenna's The Canon of Medicine
+Roger Bacon's Opus Majus
+Francis Bacon's Novum Organum
+
+
+=== What made the scientific method succeed? ===
+Political factors
+Economic factors, such as the technological advances produced by scientists
+Effectiveness of the scientific method at producing new knowledge
+Other factors
+Rediscovery of knowledge from ancient Greek, Arabic and other texts by Europeans, such as during the medieval Latin translation movement and later from the Byzantine Empire after the Fall of Constantinople
+Invention of the printing press facilitated knowledge sharing
+Protection of the community of scientists who fostered the discoveries
+The Protestant Reformation led to secular communities of scholars
+Britain was an island nation which enjoyed a long period without invasion or major social upheaval
+The American Revolution challenged the existing social order (absolutist monarchies, divine right of kings)
+
+
+=== Why didn't the scientific method arise elsewhere? ===
+China
+Greece
+India
+Korean Peninsula
+Malay Archipelago
+Mesoamerica
+Sub-Saharan Africa
+
+
+== Scientific method concepts ==
+
+
+=== Empirical methods ===
+
+Empiricism
+Robert Grosseteste
+Peter Parker
+Bitoy's method
+Empirical validation
+Operationalization
+
+
+=== Paradigm change ===
+Paradigm, the most unpopular word in English.
+Thomas Samuel Kuhn started a new paradigm by telling us about paradigms.
+The Structure of Scientific Revolutions is Kuhn's book.
+Paradigm shift.
+
+
+=== Problem of induction ===
+The problem of induction questions the logical basis of scientific statements.
+Inductive reasoning appears to lie at the core of scientific method, yet also appears to be invalid.
+David Hume was the person who first pointed out the problem of induction.
+Karl Popper offered one solution, Falsifiability
+
+
+=== Scientific creativity ===
+Linus Pauling "How do I do it? I have a lot of ideas, and throw out the bad ones".
+Isaac Newton's moon and apple.
+Friedrich August Kekul von Stradonitz's benzene-ring.
+Michael Polanyi
+Tacit knowledge
+
+
+=== When method goes wrong ===
+Bad science
+Junk science
+Pseudoscience
+Pathological science
+
+
+=== Critique of scientific method ===
+Paul Feyerabend argued that the search for a definitive scientific method was misplaced, and even counterproductive.
+Imre Lakatos attempted to bridge the gap between Popper and Kuhn.
+Sociology of scientific knowledge
+Scientism
+
+
+=== Use of statistics ===
+Uncomfortable science, due to statistician John Tukey: Inference from a limited sample of data, where further samples influenced by the same causality, a finite natural phenomenon for which it is difficult to overcome the problem of using a common sample of data for both exploratory data analysis and confirmatory data analysis. Statistical bias through testing hypotheses suggested by the data. Prediction interval.
+
+
+=== Relationship of scientific method to technology ===
+Technology is subordinate to Science; Scientific discovery rests on technology.
+Science and technology studies
+Theories of technology
+
+
+=== Departures from method ===
+Michael Polanyi
+Elegance
+Beauty
+Occam's razor
+
+Geocentric model
+Nicolaus Copernicus
+Tycho Brahe
+Johannes Kepler
+Isaac Newton
+Galileo Galilei
+
+
+== Persons influential in the development of scientific method ==
+Alhazen
+Francis Bacon
+Galileo Galilei
+Ren Descartes
+Charles Sanders Peirce
+
+
+== See also ==
+Bayesian probability
+Quasi-empirical methods
+Foundation ontology
+Ontology
+Philosophy of mathematics
+Mathematics
+
+Epistemology
+Post-processual archaeology is a methodological curiosity from Archaeology.
+Structuralism
+Post-structuralism
+Deconstruction
+Postmodernism
+Latour, Bruno
+Secularism-
+
+Physical law
+Science policy
+Scientific Revolution
+Sociology of knowledge
+Science studies
+
+
+== External links ==

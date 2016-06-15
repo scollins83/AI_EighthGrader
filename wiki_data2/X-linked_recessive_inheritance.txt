@@ -1,0 +1,68 @@
+X-linked recessive inheritance is a mode of inheritance in which a mutation in a gene on the X chromosome causes the phenotype to be expressed in males (who are necessarily hemizygous for the gene mutation because they have one X and one Y chromosome) and in females who are homozygous for the gene mutation, see zygosity.
+X-linked inheritance means that the gene causing the trait or the disorder is located on the X chromosome. Females have two X chromosomes, while males have one X and one Y chromosome. Carrier females who have only one copy of the mutation do not usually express the phenotype, although differences in X chromosome inactivation can lead to varying degrees of clinical expression in carrier females since some cells will express one X allele and some will express the other. The current estimate of sequenced X-linked genes is 499 and the total including vaguely defined traits is 983.
+Some scholars have suggested discontinuing the terms dominant and recessive when referring to X-linked inheritance due to the multiple mechanisms that can result in the expression of X-linked traits in females, which include cell autonomous expression, skewed X-inactivation, clonal expansion, and somatic mosaicism.
+
+
+== Sex differences in phenotype/genotypes and frequency ==
+In humans, generally "men are affected and women are carriers" for two reasons. The first is the simple statistical fact that if the X-chromosomes is a population that carry a particular X-linked mutation at a frequency of 'f' (for example, 1%) then that will be the frequency that men are likely to express the mutation (since they have only one X), while women will express it at a frequency of f2 (for example 1% * 1% = 0.01%) since they have two X's and hence two chances to get the normal allele. Thus, X-linked mutations tend to be rare in women. The second reason for female rarity is that women who express the mutation must have two X chromosomes that carry the trait and they necessarily got one from their father, who would have also expressed the trait because he only had one X chromosome in the first place. If the trait lowers the probability of fathering a child or induces the father to only have children with women who aren't carriers (so as not to create daughters who are carriers rather than expressers and then only if no genetic screening is used) then women become even less likely to express the trait.
+
+
+== Examples ==
+
+
+=== Most common ===
+The most common X-linked recessive disorders are:
+Red-green color blindness, a very common trait in humans and frequently used to explain X-linked disorders. Between seven and ten percent of men and 0.49% to 1% of women are affected. Its commonness may be explained by its relatively benign nature. It is also known as daltonism.
+Hemophilia A, a blood clotting disorder caused by a mutation of the Factor VIII gene and leading to a deficiency of Factor VIII. It was once thought to be the "royal disease" found in the descendants of Queen Victoria. This is now known to have been Hemophilia B (see below).
+Hemophilia B, also known as Christmas Disease, a blood clotting disorder caused by a mutation of the Factor IX gene and leading to a deficiency of Factor IX. It is rarer than hemophilia A. As noted above, it was common among the descendants of Queen Victoria.
+Duchenne muscular dystrophy, which is associated with mutations in the dystrophin gene. It is characterized by rapid progression of muscle degeneration, eventually leading to loss of skeletal muscle control, respiratory failure, and death.
+Becker's muscular dystrophy, a milder form of Duchenne, which causes slowly progressive muscle weakness of the legs and pelvis.
+X-linked ichthyosis, a form of ichthyosis caused by a hereditary deficiency of the steroid sulfatase (STS) enzyme. It is fairly rare, affecting one in 2,000 to one in 6,000 males.
+X-linked agammaglobulinemia (XLA), which affects the body's ability to fight infection. XLA patients do not generate mature B cells. B cells are part of the immune system and normally manufacture antibodies (also called immunoglobulins) which defends the body from infections (the humoral response). Patients with untreated XLA are prone to develop serious and even fatal infections.
+Glucose-6-phosphate dehydrogenase deficiency, which causes nonimmune hemolytic anemia in response to a number of causes, most commonly infection or exposure to certain medications, chemicals, or foods. Commonly known as "favism", as it can be triggered by chemicals existing naturally in broad (or fava) beans.
+
+
+=== Less common disorders ===
+
+Theoretically, a mutation in any of the genes on chromosome X may cause disease, but below are some notable ones, with short description of symptoms:
+Adrenoleukodystrophy; leads to progressive brain damage, failure of the adrenal glands and eventually death.
+Alport syndrome; glomerulonephritis, endstage kidney disease, and hearing loss.
+Androgen insensitivity syndrome; variable degrees of undervirilization and/or infertility in XY persons of either gender
+Barth syndrome; metabolism distortion, delayed motor skills, stamina deficiency, hypotonia, chronic fatigue, delayed growth, cardiomyopathy, and compromised immune system.
+Blue cone monochromacy; low vision acuity, color blindness, photophobia, infantile nystagmus.
+Centronuclear myopathy; where cell nuclei are abnormally located in skeletal muscle cells. In CNM the nuclei are located at a position in the center of the cell, instead of their normal location at the periphery.
+Charcot-Marie-Tooth disease (CMTX2-3); disorder of nerves (neuropathy) that is characterized by loss of muscle tissue and touch sensation, predominantly in the feet and legs but also in the hands and arms in the advanced stages of disease.
+Coffin-Lowry syndrome; severe mental retardation sometimes associated with abnormalities of growth, cardiac abnormalities, kyphoscoliosis as well as auditory and visual abnormalities.
+Fabry disease; A lysosomal storage disease causing anhidrosis, fatigue, angiokeratomas, burning extremity pain and ocular involvement.
+Hunter's Syndrome; potentially causing hearing loss, thickening of the heart valves leading to a decline in cardiac function, obstructive airway disease, sleep apnea, and enlargement of the liver and spleen.
+Hypohidrotic ectodermal dysplasia, presenting with hypohidrosis, hypotrichosis, hypodontia
+Kabuki syndrome; multiple congenital anomalies and mental retardation.
+Spinal and bulbar muscular atrophy; muscle cramps and progressive weakness
+Lesch-Nyhan syndrome; neurologic dysfunction, cognitive and behavioral disturbances including self-mutilation, and uric acid overproduction (hyperuricemia)
+Lowe Syndrome; hydrophthalmia, cataracts, intellectual disabilities, aminoaciduria, reduced renal ammonia production and vitamin D-resistant rickets
+Menkes disease; sparse and coarse hair, growth failure, and deterioration of the nervous system
+Nasodigitoacoustic syndrome; mishaped nose, brachydactyly of the distal phalanges, sensorineural deafness
+Nonsyndromic deafness and X-linked nonsyndromic deafness; hearing loss
+Norrie disease; cataracts, leukocoria along with other developmental issues in the eye
+Occipital horn syndrome; deformations in the skeleton
+Ornithine transcarbamylase deficiency; developmental delay and mental retardation. Progressive liver damage, skin lesions, and brittle hair may also be seen
+Siderius X-linked mental retardation syndrome; cleft lip and palate with mental retardation and facial dysmorphism, caused by mutations in the histone demethylase PHF8
+Simpson-Golabi-Behmel syndrome; coarse faces with protruding jaw and tongue, widened nasal bridge, and upturned nasal tip
+Spinal muscular atrophy caused by UBE1 gene mutation; weakness due to loss of the motor neurons of the spinal cord and brainstem
+Wiskott-Aldrich syndrome; eczema, thrombocytopenia, immune deficiency, and bloody diarrhea
+X-linked Severe Combined Immunodeficiency (SCID); infections, usually causing death in the first years of life
+X-linked sideroblastic anemia; skin paleness, fatigue, dizziness and enlarged spleen and liver.
+Female X-linked Disorders Females can also inherit X-linked recessive disorders, although much more rare than males. A mutation on the X-chromosomes of each parent would have to form for the female offspring to inherit the mutation.
+
+
+== See also ==
+Sex linkage
+X-linked dominant inheritance
+
+
+== References ==
+
+
+== External links ==
+X-linked diseases from the Wellcome Trust
+[Female X-linked disorders] https://www.nlm.nih.gov/medlineplus/ency/article/002051.htm

@@ -1,0 +1,108 @@
+The terraforming of Mars is the hypothetical process by which Mars's climate and surface would be deliberately changed to make large areas of the environment hospitable to humans, thus making the colonization of Mars safer and sustainable (see Planetary engineering).
+There are several proposed terraforming concepts, some of which present prohibitive economic and natural resource costs, and others that may be achievable with 'foreseeable technology.'
+
+
+== Motivation and ethicsEdit ==
+
+Future population growth, demand for resources, and an alternate solution to the Doomsday argument may require human colonization of bodies other than Earth, such as Mars, the Moon, and other objects. Space colonization will facilitate harvesting the Solar System's energy and material resources.
+In many respects, Mars is the most Earth-like of all the other planets in the Solar System. It is thought that Mars had a more Earth-like environment early in its history, with a thicker atmosphere and abundant water that was lost over the course of hundreds of millions of years. Given the foundations of similarity and proximity, Mars would make one of the most plausible terraforming targets in the Solar System.
+Ethical considerations of terraforming include the potential displacement or destruction of indigenous life, even if microbial, if such life exists.
+
+
+== Challenges and limitationsEdit ==
+
+The Martian environment presents several terraforming challenges to overcome and the extent of terraforming may be limited by certain key environmental factors.
+
+
+=== Low gravity and pressureEdit ===
+
+The surface gravity on Mars is 38% of that on Earth. It is not known if this is enough to prevent the health problems associated with weightlessness.
+Mars's CO
+2 atmosphere has about 1% the pressure of the Earth's at sea level. It is estimated that there is sufficient CO
+2 ice in the regolith and the south polar cap to form a 30 to 60 kPa atmosphere if it is released by planetary warming. The reappearance of liquid water on the Martian surface would add to the warming effects and atmospheric density, but the lower gravity of Mars requires 2.6 times Earth's column airmass to obtain the optimum 100 kPa pressure at the surface. Additional volatiles to increase the atmosphere's density must be supplied from an external source, such as redirecting several massive asteroids containing ammonia (NH
+3) as a source of nitrogen.
+
+
+=== Countering the effects of space weatherEdit ===
+
+Mars lacks a magnetosphere, which poses challenges for mitigating solar radiation and retaining atmosphere. It is thought that the localized fields detected on Mars are remnants of a magnetosphere that collapsed early in its history.
+The lack of a magnetosphere is thought to be one reason for Mars's thin atmosphere. Solar-wind-induced ejection of Martian atmospheric atoms has been detected by Mars-orbiting probes. While Venus has a dense atmosphere, it has only traces of water vapor (20 ppm) because it has no magnetic field.
+Earth's ozone layer provides additional protection. Ultraviolet light is blocked before it can dissociate water into hydrogen and oxygen. Because little water vapor rises above the troposphere and the ozone layer is in the upper stratosphere, little water is dissociated into hydrogen and oxygen.
+The Earth's magnetic field is 31 T. Mars would require a similar magnetic-field intensity to similarly offset the effects of the solar wind at its distance further from the Sun.
+
+
+== AdvantagesEdit ==
+
+According to modern theorists, Mars exists on the outer edge of the habitable zone, a region of the Solar System where life can exist. Mars is on the border of a region known as the extended habitable zone where liquid water on the surface may be supported if concentrated greenhouse gases could increase the atmospheric pressure.
+The lack of both a magnetic field and geologic activity on Mars may be a result of its relatively small size, which allowed the interior to cool more quickly than Earth's, though the details of such a process are still not well understood.
+It has been suggested that Mars once had an atmosphere as thick as Earth's during an earlier stage in its development, and that its pressure supported abundant liquid water at the surface. Although water appears to have once been present on the Martian surface, water ice appears to exist at the poles just below the planetary surface as permafrost. The soil and atmosphere of Mars contain many of the main elements crucial to life, including sulfur, nitrogen, hydrogen, oxygen, phosphorus and carbon.
+Large amounts of water ice exist below the Martian surface, as well as on the surface at the poles, where it is mixed with dry ice, frozen CO2. Significant amounts of water are located at the south pole of Mars, which, if melted, would correspond to a planetwide ocean 11 meters deep. Frozen carbon dioxide (CO2) at the poles sublimes into the atmosphere during the Martian summers, and small amounts of water residue are left behind, which fast winds sweep off the poles at speeds approaching 400 km/h (250 mph). This seasonal occurrence transports large amounts of dust and water vapor into the atmosphere, forming Earth-like clouds.
+Most of the oxygen in the Martian atmosphere is present as carbon dioxide (CO2), the main atmospheric component. Molecular oxygen (O2) only exists in trace amounts. Large amounts of elemental oxygen can be also found in metal oxides on the Martian surface, and in the soil, in the form of per-nitrates. An analysis of soil samples taken by the Phoenix lander indicated the presence of perchlorate, which has been used to liberate oxygen in chemical oxygen generators. Electrolysis could be employed to separate water on Mars into oxygen and hydrogen if sufficient liquid water and electricity were available.
+
+
+== Proposed methods and strategiesEdit ==
+
+Terraforming Mars would entail three major interlaced changes: building up the atmosphere, keeping it warm, and keeping the atmosphere from being lost to outer space. The atmosphere of Mars is relatively thin and has a very low surface pressure. Because its atmosphere consists mainly of CO2, a known greenhouse gas, once Mars begins to heat, the CO2 may help to keep thermal energy near the surface. Moreover, as it heats, more CO2 should enter the atmosphere from the frozen reserves on the poles, enhancing the greenhouse effect. This means that the two processes of building the atmosphere and heating it would augment one another, favoring terraforming.
+
+
+=== Carbon dioxide sublimationEdit ===
+There is presently enough carbon dioxide (CO2) as dry ice in the Martian south pole and absorbed by regolith (soil) on Mars that, if sublimated to gas by a climate warming of only a few degrees, would increase the atmospheric pressure to 30 kilopascals (0.30 atm), comparable to the altitude of the peak of Mount Everest, where the atmospheric pressure is 33.7 kilopascals (0.333 atm). Although this would not be breathable by humans, it is above the Armstrong limit and would eliminate the present need for pressure suits. Phytoplankton can also convert dissolved CO2 into oxygen.
+
+
+=== Importing ammoniaEdit ===
+Another more intricate method uses ammonia as a powerful greenhouse gas. It is possible that large amounts of it exist in frozen form on minor planets orbiting in the outer Solar System. It may be possible to move these and send them into Mars's atmosphere. Because ammonia (NH3) is mostly nitrogen by weight, it could also supply the buffer gas for the atmosphere. Sustained smaller impacts will also contribute to increases in the temperature and mass of the atmosphere.
+The need for a buffer gas is a challenge that will face any potential atmosphere builders. On Earth, nitrogen is the primary atmospheric component, making up 78% of the atmosphere. Mars would require a similar buffer-gas component although not necessarily as much.
+
+
+=== Importing hydrocarbonsEdit ===
+Another way to create a Martian atmosphere would be to import methane or other hydrocarbons, which are common in Titan's atmosphere and on its surface; the methane could be vented into the atmosphere where it would act to compound the greenhouse effect.
+
+
+=== Use of fluorine compoundsEdit ===
+Because long-term climate stability would be required for sustaining a human population, the use of especially powerful fluorine-bearing greenhouse gases, possibly including sulfur hexafluoride or halocarbons such as chlorofluorocarbons (or CFCs) and perfluorocarbons (or PFCs), has been suggested. These gases are proposed for introduction because they produce a strong effect as greenhouse gases thousands of times stronger than CO2. This can conceivably be done by sending rockets with payloads of compressed CFCs on collision courses with Mars. When the rockets crash onto the surface they release their payloads into the atmosphere. A steady barrage of these "CFC rockets" would need to be sustained for a little over a decade while Mars changes chemically and becomes warmer. However, their lifetime due to photolysis would require an annual replenishing of 170 kilotons, and they would destroy any ozone layer.
+In order to sublimate the south polar CO2 glaciers, Mars would require the introduction of approximately 0.3 microbars of CFCs into Mars's atmosphere. This is equivalent to a mass of approximately 39 million metric tons. This is about three times the amount of CFC manufactured on Earth from 1972 to 1992 (when CFC production was banned by international treaty). Mineralogical surveys of Mars estimate the elemental presence of fluorine in the bulk composition of Mars at 32 ppm by mass vs. 19.4 ppm for the Earth.
+A proposal to mine fluorine-containing minerals as a source of CFCs and PFCs is supported by the belief that because these minerals are expected to be at least as common on Mars as on Earth, this process could sustain the production of sufficient quantities of optimal greenhouse compounds (CF3SCF3, CF3OCF2OCF3, CF3SCF2SCF3, CF3OCF2NFCF3, C12F27N) to maintain Mars at 'comfortable' temperatures, as a method of maintaining an Earth-like atmosphere produced previously by some other means.
+
+
+=== Use of orbital mirrorsEdit ===
+Mirrors made of thin aluminized PET film could be placed in orbit around Mars to increase the total insolation it receives. This would direct the sunlight onto the surface and could increase Mars's surface temperature directly. The mirror could be positioned as a statite, using its effectiveness as a solar sail to orbit in a stationary position relative to Mars, near the poles, to sublimate the CO
+2 ice sheet and contribute to the warming greenhouse effect.
+
+
+=== Albedo reductionEdit ===
+Reducing the albedo of the Martian surface would also make more efficient use of incoming sunlight. This could be done by spreading dark dust from Mars's moons, Phobos and Deimos, which are among the blackest bodies in the Solar System; or by introducing dark extremophile microbial life forms such as lichens, algae and bacteria. The ground would then absorb more sunlight, warming the atmosphere.
+If algae or other green life were established, it would also contribute a small amount of oxygen to the atmosphere, though not enough to allow humans to breathe. The conversion process to produce oxygen is highly reliant upon water. The CO2 is mostly converted to carbohydrates. On 26 April 2012, scientists reported that lichen survived and showed remarkable results on the adaptation capacity of photosynthetic activity within the simulation time of 34 days under Martian conditions in the Mars Simulation Laboratory (MSL) maintained by the German Aerospace Center (DLR).
+
+
+=== Comet impactEdit ===
+Another way to increase the temperature could be to direct small comets onto the Martian surface. This could be achieved through use of spaceborne lasers to alter trajectories or other methods proposed for asteroid impact avoidance. The impact energy would be released as heat. This heat could sublimate CO2 or, if there is liquid water present at this stage of the terraforming process, could vaporize it to steam, which is also a greenhouse gas. Comets could also be chosen for their composition, such as ammonia, which would then disperse into the atmosphere on impact, adding greenhouse gases to the atmosphere.
+
+
+=== Funded research: ecopoiesisEdit ===
+
+Since 2014, the NASA Institute for Advanced Concepts (NIAC) program and 'Techshot Inc' are working together to develop sealed biodomes that would employ colonies of oxygen-producing cyanobacteria and algae for the production of molecular oxygen (O2) on Martian soil. But first they need to test if it works on a small scale on Mars. The proposal is called Mars Ecopoiesis Test Bed. Eugene Boland is the Chief Scientist at Techshot, a company located in Greenville, Indiana. They intend to send small canisters of extremophile photosynthetic algae and cyanobacteria aboard a future rover mission. The rover would cork-screw the 7 cm (2.8 in) canisters into selected sites likely to experience transients of liquid water, drawing some Martian soil and then release oxygen-producing microorganisms to grow within the sealed soil. The hardware would use Martian subsurface ice as its phase changes into liquid water. The system would then look for oxygen given off as metabolic byproduct and report results to a Mars-orbiting relay satellite.
+If this experiment works on Mars, they will propose to build several large and sealed structures called biodomes, to produce and harvest oxygen for a future human mission to Mars life support systems. Being able to create oxygen there, would provide considerable cost-savings to NASA and allow for longer human visits to Mars than would be possible if astronauts have to transport their own heavy oxygen tanks.  This biological process, called ecopoiesis, would be isolated, in contained areas, and is not meant as a type of global planetary engineering for terraforming of Mars's atmosphere, but NASA states that "This will be the first major leap from laboratory studies into the implementation of experimental (as opposed to analytical) planetary in situ research of greatest interest to planetary biology, ecopoiesis and terraforming."
+Research at the University of Arkansas presented in June 2015 suggested that some methanogens could survive on Mars's low pressure. Rebecca Mickol, found that in her laboratory, four species of methanogens survived low-pressure conditions that were similar to a subsurface liquid aquifer on Mars. The four species that she tested were Methanothermobacter wolfeii, Methanosarcina barkeri, Methanobacterium formicicum, and Methanococcus maripaludis. Methanogens do not require oxygen or organic nutrients, are non-photosynthetic, use hydrogen as their energy source and carbon dioxide (CO2) as their carbon source, so they could exist in subsurface environments on Mars.
+
+
+== Thermodynamics of terraformingEdit ==
+The overall energy required to sublimate the CO2 from the south polar ice cap is modeled by Zubrin and McKay. Raising temperature of the poles by 4 K would be necessary in order to trigger a runaway greenhouse effect. If using orbital mirrors, an estimated 120 MWe-years would be required in order to produce mirrors large enough to vaporize the ice caps. This is considered the most effective method, though the least practical. If using powerful halocarbon greenhouse gases, an order of 1000 MWe-years would be required to accomplish this heating. Although ineffectual in comparison, it is considered the most practical method. Impacting an asteroid, which is often considered a synergistic effect, would require approximately four 10-billion-tonne ammonia-rich asteroids to trigger the runaway greenhouse effect, totaling an eight degree increase in temperature.
+
+
+== See alsoEdit ==
+Colonization of Ceres
+Colonization of Mars
+Mars to Stay
+Terraforming of Venus
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+NASA - Aerospace Scholars: Terraforming Mars at the Wayback Machine (archived September 15, 2007)
+Recent Arthur C Clarke interview mentions terraforming
+Red Colony
+Terraformers Society of Canada
+Research Paper: Technological Requirements for Terraforming Mars
+Peter Ahrens The Terraformation of Worlds

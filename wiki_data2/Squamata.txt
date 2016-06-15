@@ -1,0 +1,60 @@
+The Squamata, or the scaled reptiles, are the largest recent order of reptiles, comprising all lizards and snakes. With over 9,000 species, it is also the second-largest order of vertebrates, after the perciform fish. Members of the order are distinguished by their skins, which bear horny scales or shields. They also possess movable quadrate bones, making it possible to move the upper jaw relative to the neurocranium. This is particularly visible in snakes, which are able to open their mouths very wide to accommodate comparatively large prey. They are the most variably sized order of reptiles, ranging from the 16 mm (0.63 in) dwarf gecko (Sphaerodactylus ariasae) to the 5.21 m (17.1 ft) green anaconda (Eunectes murinus) and the now-extinct mosasaurs, which reached lengths of 14 m (46 ft).
+Among the other reptiles, squamates are most closely related to tuataras, which superficially resemble lizards.
+
+
+== Evolution ==
+
+Squamates are a monophyletic sister group to the tuatara. The squamates and tuatara together are a sister group to crocodiles and birds, the extant archosaurs. Fossils of the squamate sister group, the Rhynchocephalia, appear in the Early Triassic, meaning that the lineage leading to squamates must have existed as well. Modern squamates probably originated in the mid Jurassic, when fossil relatives of geckos and skinks and snakes appear; other groups, including iguanians and varanoids, first appear in the Cretaceous period. Also appearing in the Cretaceous are the polyglyphanodonts, a lizard group of uncertain affinities, and the mosasaurs, a group of predatory, marine lizards that grew to enormous sizes. At the end of the Cretaceous, squamates suffered a major extinction at the K-T boundary  which wiped out polyglyphanodonts, mosasaurs, and a number of other groups.
+The relationships of squamates have been debated. Although many of the groups originally recognized on the basis of morphology are still accepted, our understanding of their relationships to each other has changed radically as a result of studying their DNA. From morphological data, the iguanians were long thought to be the most ancient branch of the tree; however, studies of the DNA suggest that the geckos represent the most ancient branch. Iguanians are now united with snakes and anguimorphs in a group called the Toxicofera. DNA also suggests that the various limbless groups- snakes, amphisbaenians, and dibamids- are unrelated, and instead arose independently from lizards.
+
+
+== Reproduction ==
+
+The male members of the group Squamata have hemipenes, which are usually held inverted within their bodies, and are everted for reproduction via erectile tissue like that in the human penis. Only one is used at a time, and some evidence indicates that males alternate use between copulations. The hemipenis has a variety of shapes, depending on the species. Often it bears spines or hooks, to anchor the male within the female. Some species even have forked hemipenes (each hemipenis has two tips). Due to being everted and inverted, hemipenes do not have a completely enclosed channel for the conduction of sperm, but rather a seminal groove that seals as the erectile tissue expands. This is also the only reptile group in which both viviparous and ovoviviparous species are found, as well as the usual oviparous reptiles. Some species, such as the Komodo dragon, can actually reproduce asexually through parthenogenesis.
+
+There have been studies on how sexual selection manifests itself in snakes and lizards. Over three thousand species of snakes each use different tactics in acquiring mates. Ritual combat between males for the females they want to mate with includes topping, a behavior exhibited by most viperids, in which one male will twist around the vertically elevated fore body of its opponent and forcing it downward. It is common for neck biting to occur while the snakes are entwined.
+
+
+== Evolution of venom ==
+
+Recent research suggests that the evolutionary origin of venom may exist deep in the squamate phylogeny, with 60% of squamates placed in this hypothetical group called Toxicofera. Venom has been known in the clades Caenophidia, Anguimorpha, and Iguania, and has been shown to have evolved a single time along these lineages before the three groups diverged, because all lineages share nine common toxins. The fossil record shows the divergence between anguimorphs, iguanians, and advanced snakes dates back roughly 200 Mya to the Late Triassic/Early Jurassic. But the only good fossil evidence is from the Jurassic.
+Snake venom has been shown to have evolved via a process by which a gene encoding for a normal body protein, typically one involved in key regulatory processes or bioactivity, is duplicated, and the copy is selectively expressed in the venom gland. Previous literature hypothesized that venoms were modifications of salivary or pancreatic proteins, but different toxins have been found to have been recruited from numerous different protein bodies and are as diverse as their functions.
+Natural selection has driven the origination and diversification of the toxins to counter the defenses of their prey. Once toxins have been recruited into the venom proteome, they form large, multigene families and evolve via the birth-and-death model of protein evolution, which leads to a diversification of toxins that allows the ambush predators the ability to attack a wide range of prey. The rapid evolution and diversification is thought to be the result of a predator/prey evolutionary arms race, where both are adapting to counter the other.
+
+
+== Humans and squamates ==
+
+
+=== Bites and fatalities ===
+
+An estimated 125,000 people a year die from venomous snake bites. In the US alone, more than 8,000 venomous snake bites are reported each year.
+Lizard bites, unlike venomous snake bites, are not fatal. The Komodo dragon has been known to kill people due to its size, and recent studies show it may have a passive envenomation system. Recent studies also show that the close relatives of the Komodo, the monitor lizards, all have a similar envenomation system, but the toxicity of the bites is relatively low to humans.
+
+
+=== Conservation ===
+Though they survived the most drastic changes in Earth's history, many squamate species are endangered now due to habitat loss, hunting and poaching, illegal wildlife trading, alien species being introduced to their habitats (which puts native creatures at risk through competition, disease, and predation), and many other unnecessary reasons. Because of this, some are in fact extinct, with Africa having the most extinct species of squamates. However, breeding programs and wildlife parks are trying to save many endangered reptiles from extinction. Many zoos, private hobbyists and breeders educate people about the importance of snakes and lizards.
+
+
+== Classification ==
+
+Historically, the order Squamata has been divided into three suborders:
+Lacertilia, the lizards
+Serpentes, the snakes (see also Ophidia)
+Amphisbaenia, the worm lizards
+Of these, the lizards form a paraphyletic group, since "lizards" excludes the subclades of snakes and amphisbaenians. Studies of squamate relationships using molecular biology have found several distinct lineages, though the specific details of their interrelationships vary from one study to the next. One example of a modern classification of the squamates found the following relationships:
+All recent molecular studies  suggest that several groups form a venom clade, which encompasses a majority (nearly 60%) of squamate species. Named Toxicofera, it combines the groups Serpentes (snakes), Iguania (agamids, chameleons, iguanids, etc.), and Anguimorpha (monitor lizards, Gila monster, glass lizards, etc.).
+
+
+== List of extant families ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Squamata
+Squamata at the National Center for Biotechnology Information
+"Squamata". Integrated Taxonomic Information System.

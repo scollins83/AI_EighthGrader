@@ -1,0 +1,57 @@
+Swarm is an European Space Agency (ESA) mission to study the Earth's magnetic field. High-precision and high-resolution measurements of the strength, direction and variations of the Earth's magnetic field, complemented by precise navigation, accelerometer and electric field measurements, will provide data essential for modelling the geomagnetic field and its interaction with other physical aspects of the Earth system. The results will offer a unique view of the inside of the Earth from space, enabling the composition and processes of the interior to be studied in detail and increase our knowledge of atmospheric processes and ocean circulation patterns that affect climate and weather.
+
+
+== Overview ==
+The overall objective of the Swarm mission is to build on the experience from the rsted and CHAMP missions and to provide the best ever survey of the geomagnetic field (multi-point measurements) and its temporal evolution, to gain new insights into the Earth system by improving our understanding of the Earth's interior and climate.
+The Swarm constellation consists of three satellites (Alpha, Bravo & Charlie) placed in two different polar orbits, two flying side by side at an altitude of 450 km (280 mi) and a third at an altitude of 530 km (330 mi). The launch was delayed and rescheduled to 12:02:29 UTC (7:02:29 a.m. EST) on 22 November 2013, from Plesetsk Cosmodrome, Russia. ESA contracted Astrium to develop and build the three orbiters, while Eurockot provided the launch services.
+
+
+== Scientific objectives ==
+Primary objectives:
+Earth core dynamics, geodynamo processes, and core-mantle interaction
+Lithospheric magnetization and its geological interpretation
+3D electrical conductivity of the mantle
+Currents flowing in the magnetosphere and ionosphere
+Secondary objectives:
+Identification of the ocean circulation by its magnetic signature
+Quantification of the magnetic forcing of the upper atmosphere
+
+
+== Payload ==
+The payload of the three spacecraft consists of the following instruments:
+Vector Field Magnetometer (VFM): Linear and low-noise measurements of the Earth's magnetic field vector components. The fluxgate vector magnetometer is similar to the ones in the satellites rsted, CHAMP and SAC-C.
+Absolute Scalar Magnetometer (ASM): Calibration of the main instrument VFM.
+Electric Field Instrument (EFI): Measurement of ion density, drift velocity and electric field.
+Accelerometer (ACC): Measurement of non-gravitational accelerations like air-drag, winds, Earth albedo and solar radiation pressure.
+Laser Range Reflector (LRR): Reflecting quartz prisms as part of the satellite laser ranging network.
+
+
+== Mission History ==
+
+
+=== Pre-launch ===
+The three SWARM satellites arrived at the Plesetsk Cosmodrome in September 2013 to begin final testing before fuelling and incorporation with the Rokot launch vehicle.
+
+
+=== Launch ===
+The SWARM constellation was successfully launched aboard Rokot/Briz-KM on November 22, 2013.
+
+
+=== Operations ===
+The constellation is controlled by the European Space Operations Centre in Darmstadt, Germany. By the beginning of May 2014 SWARM had finished its in orbit commissioning. Preliminary data indicates that the constellation is performing well as data received closely matches that from a previous German mission, CHAMP.
+During the commissioning stage problems were discovered with the backup Magnetometer on the 'Charlie' satellite, this led to 'Bravo' satellite being placed in the lone high altitude orbit (510km) with 'Charlie' joining 'Alpha' in the lower tandem orbit (462km) to improve the resilience of the constellation. Commissioning data also indicated greater noise in data when a satellite was in view of the sun, the current theory is this is caused due to differential heating in the satellite but this has not been confirmed. Overall the constellation is in good health and due to accurate orbital insertion has significant fuel reserves remaining.
+
+
+== See also ==
+Magsat
+rsted (satellite)
+Cluster (mission)
+CHAMP (satellite)
+
+
+== References ==
+
+
+== External links ==
+ESA web page on the mission
+eoPortal page of SWARM

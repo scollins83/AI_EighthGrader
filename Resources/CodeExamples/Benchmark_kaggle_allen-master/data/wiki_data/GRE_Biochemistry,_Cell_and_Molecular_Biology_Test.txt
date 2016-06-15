@@ -1,0 +1,56 @@
+gre subject biochemistry cell and molecular biology is a standardized exam provided by ets (educational testing service) it is a paper-based exam and there are no computer-based versions of it ets places this exam three times per year: once in april once in october and once in november some graduate programs in the usa recommend taking this exam while others require this exam score as a part of the application to their graduate programs ets sends a bulletin with a sample practice test to each candidate after registration for the exam there are 180 questions within the biochemistry subject test
+scores are scaled and then reported as a number between 200 and 990; however in recent versions of the test the maximum and minimum reported scores have been 760 (corresponding to the 99 percentile) and 320 (1 percentile) respectively the mean score for all test takers from july 2009 to july 2012 was 526 with a standard deviation of 95
+== content specification ==
+since many students who apply to graduate programs in biochemistry do so during the first half of their fourth year the scope of most questions is largely that of the first three years of a standard american undergraduate biochemistry curriculum a sampling of test item content is given below:
+=== biochemistry (36%) ===
+a chemical and physical foundations
+thermodynamics and kinetics redox states water ph acid-base reactions and buffers solutions and equilibria solute-solvent interactions chemical interactions and bonding chemical reaction mechanisms
+b structural biology: structure assembly organization and dynamics small molecules macromolecules (e.g. nucleic acids polysaccharides proteins and complex lipids) supramolecular complexes (e.g. membranes ribosomes and multienzyme complexes)
+c catalysis and binding
+enzyme reaction mechanisms and kinetics ligand-protein interaction (e.g. hormone receptors substrates and effectors transport proteins and antigen-antibody interactions)
+d major metabolic pathways
+carbon nitrogen and sulfur assimilation anabolism catabolism synthesis and degradation of macromolecules
+e bioenergetics (including respiration and photosynthesis)
+energy transformations at the substrate level electron transport proton and chemical gradients energy coupling (e.g. phosphorylation and transport)
+f regulation and integration of metabolism
+covalent modification of enzymes allosteric regulation compartmentalization hormones
+g methods
+biophysical approaches (e.g. spectroscopy x-ray crystallography mass spectroscopy) isotopes separation techniques (e.g. centrifugation chromatography and electrophoresis) immunotechniques
+=== cell biology (28%) ===
+methods of importance to cellular biology such as fluorescence probes (e.g. frap fret and gfp) and imaging will be covered as appropriate within the context of the content below
+a cellular compartments of prokaryotes and eukaryotes: organization dynamics and functions
+cellular membrane systems (e.g. structure and transport across membrane) nucleus (e.g. envelope and matrix) mitochondria and chloroplasts (e.g. biogenesis and evolution)
+b cell surface and communication extracellular matrix (including cell walls) cell adhesion and junctions signal transduction receptor function excitable membrane systems
+c cytoskeleton motility and shape regulation of assembly and disassembly of filament systems motor function regulation and diversity
+d protein processing targeting and turnover
+translocation across membranes posttranslational modification intracellular trafficking secretion and endocytosis protein turnover (e.g. proteosomes lysosomes damaged protein response)
+e cell division differentiation and development
+cell cycle mitosis and cytokinesis meiosis and gametogenesis fertilization and early embryonic development (including positional information homeotic genes tissue-specific expression nuclear and cytoplasmic interactions growth factors and induction environment stem cells and polarity)
+=== molecular biology (36%) ===
+a genetic foundations
+mendelian and non-mendelian inheritance transformation transduction and conjugation recombination and complementation mutational analysis genetic mapping and linkage analysis
+b chromatin and chromosomes
+karyotypes translocations inversions deletions and duplications aneuploidy and polyploidy structure epigenetics
+c genomics
+genome structure physical mapping repeated dna and gene families gene identification transposable elements bioinformatics proteomics molecular evolution
+d genome maintenance
+dna replication dna damage and repair dna modification dna recombination and gene conversion
+e gene expression
+the genetic code transcription/transcriptional profiling rna processing translation
+f gene regulation
+positive and negative control of the operon promoter recognition by rna polymerases attenuation and antitermination cis-acting regulatory elements trans-acting regulatory factors gene rearrangements and amplifications small non-coding rna (e.g. sirna microrna)
+g viruses
+genome replication and regulation virus assembly virus-host interactions
+h methods
+restriction maps and pcr nucleic acid blotting and hybridization dna cloning in prokaryotes and eukaryotes sequencing and analysis protein-nucleic acid interaction transgenic organisms microarrays
+== see also ==
+graduate record examination
+gre biology test
+gre chemistry test
+gre literature in english test
+gre mathematics test
+gre physics test
+gre psychology test
+graduate management admission test (gmat)
+graduate aptitude test in engineering (gate)
+== references ==

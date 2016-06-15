@@ -1,0 +1,42 @@
+A remote sensing application is a software application that processes remote sensing data. Remote sensing applications are similar to graphics software, but they enable generating geographic information from satellite and airborne sensor data. Remote sensing applications read specialized file formats that contain sensor image data, georeferencing information, and sensor metadata. Some of the more popular remote sensing file formats include: GeoTIFF, NITF, JPEG 2000, ECW (file format), MrSID, HDF, and NetCDF.
+Remote Sensing applications perform many features including:
+Change Detection  Determine the changes from images taken at different times of the same area
+Orthorectification  Warp an image to its location on the earth.
+Spectral Analysis  For example, using non-visible parts of the electromagnetic spectrum to determine if a forest is healthy
+Image Classification  Categorization of pixels based on reflectance into different land cover classes (e.g. Supervised classification, Unsupervised classification and Object Oriented Classification)
+Many remote sensing applications are built using common remote sensing toolkits, like GDAL and OSSIM.
+
+
+== Examples of remote sensing software ==
+Geomatica, PCI Geomatics
+ERDAS IMAGINE
+ENVI
+Google Earth
+GRASS GIS
+OpenEV (Open Source)
+Opticks (Open Source)
+Orfeo toolbox (Open Source)
+RemoteView
+SOCET SET
+IDRISI
+ECognition
+InterIMAGE (Open Source)
+
+
+== Further reading ==
+Campbell, J.B. (2002). Introduction to remote sensing (3rd ed.). The Guilford Press. ISBN 1-57230-640-8. 
+Jensen, J.R. (2007). Remote sensing of the environment: an Earth resource perspective (2nd ed.). Prentice Hall. 
+Jensen, J.R. (2005). Digital Image Processing: a Remote Sensing Perspective (3rd ed.). Prentice Hall. 
+Lillesand, T.M.; R.W. Kiefer; J.W. Chipman (2003). Remote sensing and image interpretation (5th ed.). Wiley. ISBN 0-471-15227-7. 
+Richards, J.A.; X. Jia (2006). Remote sensing digital image analysis: an introduction (4th ed.). Springer. ISBN 3-540-25128-6. 
+Rencz, A.N. (1999). Remote Sensing for the Earth Sciences: Manual of Remote Sensing (3rd ed.). Wiley. ISBN 0-471-29405-5. 
+
+
+== See also ==
+Remote Sensing
+Aerial photography
+Geographic information system (GIS)
+Radar
+Hyperspectral
+Imagery Analysis
+Multi-spectral image

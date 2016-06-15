@@ -1,0 +1,116 @@
+The eudicots, Eudicotidae or eudicotyledons are a monophyletic clade of flowering plants that had been called tricolpates or non-magnoliid dicots by previous authors. The botanical terms were introduced in 1991 by evolutionary botanist James A. Doyle and paleobotanist Carol L. Hotton to emphasize the later evolutionary divergence of tricolpate dicots from earlier, less specialized, dicots. The close relationships among flowering plants with tricolpate pollen grains was initially seen in morphological studies of shared derived characters. These plants have a distinct trait in their pollen grains of exhibiting three colpi or grooves paralleling the polar axis. Later molecular evidence confirmed the genetic basis for the evolutionary relationships among flowering plants with tricolpate pollen grains and dicotyledonous traits. The term means "true dicotyledons", as it contains the majority of plants that have been considered dicots and have characteristics of the dicots. The term "eudicots" has subsequently been widely adopted in botany to refer to one of the two largest clades of angiosperms (constituting over 70% of the angiosperm species), monocots being the other. The remaining angiosperms are sometimes referred to as basal angiosperms or paleodicots, but these terms have not been widely or consistently adopted, as they do not refer to a monophyletic group.
+The other name for the eudicots is tricolpates, a name which refers to the grooved structure of the pollen. Members of the group have tricolpate pollen, or forms derived from it. These pollens have three or more pores set in furrows called colpi. In contrast, most of the other seed plants (that is the gymnosperms, the monocots and the paleodicots) produce monosulcate pollen, with a single pore set in a differently oriented groove called the sulcus. The name "tricolpates" is preferred by some botanists to avoid confusion with the dicots, a nonmonophyletic group. 
+Numerous familiar plants are eudicots, including many common food plants, trees, and ornamentals. Some common and familiar eudicots include members of the sunflower family such as the common dandelion, the forget-me-not, cabbage and other members of its family, apple, buttercup, maple, and macadamia. Most leafy trees of midlatitudes also belong to eudicots, with notable exceptions being magnolias and tulip trees which belong to magnoliids, and Ginkgo biloba, which is not an angiosperm.
+The name "eudicots" (plural) is used in the APG system, of 1998, and APG II system, of 2003, for classification of angiosperms. It is applied to a clade, a monophyletic group, which includes most of the (former) dicots.
+
+
+== Subdivisions ==
+The eudicots can be divided into two groups: the basal eudicots and the core eudicots. Basal eudicot is an informal name for a paraphyletic group. The core eudicots are a monophyletic group. A 2010 study suggested the core eudicots can be divided into two clades, Gunnerales and a clade called "Pentapetalae", comprising all the remaining core eudicots.
+The Pentapetalae can be then divided into three clades:
+the Dilleniaceae
+a "superrosid" clade consisting of Saxifragales, Vitales and rosids (the APG III system includes the Vitales in the rosids)
+a "superasterid" clade consisting of Santalales, Berberidopsidales, Caryophyllales and asterids
+Within the core eudicots, the largest groups are the "rosids" (core group with the prefix "eu") and the "asterids" (core group with the prefix "eu").
+This division of the eudicots is shown in the following cladogram:
+The following is a more detailed breakdown, showing within each clade some unplaced families and orders (unplaced genera are not mentioned):
+clade eudicots
+
+family Buxaceae [+ family Didymelaceae]
+family Sabiaceae
+family Trochodendraceae [+ family Tetracentraceae]
+
+order Ranunculales
+order Proteales
+
+clade core eudicots
+
+family Aextoxicaceae
+family Berberidopsidaceae
+family Dilleniaceae
+
+order Gunnerales
+order Caryophyllales
+order Saxifragales
+order Santalales
+
+clade rosids
+
+family Aphloiaceae
+family Geissolomataceae
+family Ixerbaceae
+family Picramniaceae
+family Strasburgeriaceae
+family Vitaceae
+
+order Crossosomatales
+order Geraniales
+order Myrtales
+
+clade eurosids I
+
+family Zygophyllaceae [+ family Krameriaceae]
+family Huaceae
+
+order Celastrales
+order Malpighiales
+order Oxalidales
+order Fabales
+order Rosales
+order Cucurbitales
+order Fagales
+
+clade eurosids II
+
+family Tapisciaceae
+
+order Brassicales
+order Malvales
+order Sapindales
+
+clade asterids
+
+order Cornales
+order Ericales
+
+clade euasterids I
+
+family Boraginaceae
+family Icacinaceae
+family Oncothecaceae
+family Vahliaceae
+
+order Garryales
+order Solanales
+order Gentianales
+order Lamiales
+
+clade euasterids II
+
+family Bruniaceae
+family Columelliaceae [+ family Desfontainiaceae]
+family Eremosynaceae
+family Escalloniaceae
+family Paracryphiaceae
+family Polyosmaceae
+family Sphenostemonaceae
+family Tribelaceae
+
+order Aquifoliales
+order Apiales
+order Dipsacales
+order Asterales
+
+Note :  + .... = optional, as a segregate of the previous family
+
+
+== References ==
+
+Doyle, J. A. & Hotton, C. L. Diversification of early angiosperm pollen in a cladistic context. pp. 169195 in Pollen and Spores. Patterns of Diversification (eds Blackmore, S. & Barnes, S. H.) (Clarendon, Oxford, 1991).
+Walter S. Judd and Richard G. Olmstead (2004). "A survey of tricolpate (eudicot) phylogenetic relationships". American Journal of Botany 91 (10): 16271644. doi:10.3732/ajb.91.10.1627. PMID 21652313.  (full text )
+Eudicots in Stevens, P. F. (2001 onwards). Angiosperm Phylogeny Website. Version 7, May 2006.
+
+
+== External links ==
+Eudicots at the Encyclopedia of Life
+Eudicots, Tree of Life Web Project
+Dicots Plant Life Forms

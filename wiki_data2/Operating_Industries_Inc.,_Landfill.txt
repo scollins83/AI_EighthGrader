@@ -1,0 +1,61 @@
+The former Operating Industries Inc. Landfill is a Superfund site located in Monterey Park, California at 900 N Potrero Grande Drive. From 1948 to 1984, the landfill accepted 30 million tons of solid municipal waste and 300 million US gallons (1,100,000 m3) of liquid chemicals. Accumulating over time, the chemical waste polluted the air, leached into groundwater, and posed a fire hazard, spurring severely critical public health complaints. Recognizing OII Landfill's heavy pollution, EPA placed the financial responsibility of the dump's clean-up on the main waste-contributing companies, winning hundreds of millions of dollars in settlements for the protection of human health and the environment.
+
+
+== History ==
+The Monterey Park Disposal Co. first utilized the landfill in 1948, later selling business rights to OII in the 1950s. Two decades later, the construction of the Pomona Freeway split the 190-acre (0.77 km2) OII landfill into two parts: the North Parcel (45 acres) and the South Parcel (145 acres). Out of the North Parcel's 45 acres (180,000 m2), only 10 acres (40,000 m2) served landfill purposes and collecting primarily construction and debris (C&D) waste such as: wood, glass, metal, paper, cardboard, brick, asphalt, concrete, and plastic. Shouldering the majority of wastes, the South Parcel received industrial and residential refuse, liquid chemicals, and hazardous materials.
+
+
+== Contamination ==
+Close to 4,000 companies disposed of millions of gallons of waste during the landfill's operation time. Roughly 300 million gallons were liquid industrial wastes. The culmination of these wastes led to contaminated air, groundwater, and soil as well as a fire risk. All of these factors caused great concern for the well-being of nearby residents. According to the 2000 US Census, 2,151,372 people lived within 10 miles (16 km) of the landfill, while 23,000 people drank water from wells 3 miles (4.8 km) from the landfill. In January 1984, the State of California placed the OII landfill on the California Hazardous Waste Priority List, shutting down the landfill within the same year. In May 1986, EPA officially listed OII Landfill on the National Priorities List for remediation.
+Conducting studies, the Los Angeles County Sanitation District, the California Department of Health Services, South Coast Air Quality Management District and OII discovered carcinogenic chemicals such as tetrachloroethylene, benzene-type compounds, chloroform, lead, and toluene leaching into the groundwater and public water supply. Tests also confirmed the presence of methane and vinyl chloride in subsurface soils and the air surrounding the landfill. Overall, the EPA cited 61 contaminants, earning the OII Landfill an Hazard Ranking of 30 to 40 percent higher than the national average.
+
+
+== Remediation ==
+The EPA identified 195 companies as waste contributors, labeling them as Potentially Responsible Parties (PRPs). In 1989, the PRPs signed a Consent Decree with EPA, agreeing to clean up the contamination. In 1991, 178 PRPs agreed to contribute $130 million to $150 million towards OII landfill clean-up, making the largest settlement in the history of federal environmental remediation. In 2002, EPA won another settlement -the eighth since 1986 -with 161 PRPs for $340 million. To date, the total cost of remediation (settlements between EPA and PRPs) runs over $600 million.
+More than 60 of the PRPs are required to implement the final remedy for cleanup of the OII site, which includes the following components:
+Monitor landfill liquids: Using monitoring wells or extraction wells to measure landfill liquids at the perimeter of the site. When levels are too high, they are extracted and treated at the leachate treatment facility.
+Clean up groundwater: Natural processes will be relied on allow the groundwater to return to normal levels. If these processes fail, the water will be extracted and treated.
+Operate and maintain the environmental control systems: The leachate treatment facility and the gas control and cover systems must be maintained properly. The gas control and cover systems include the landfill gas control system, the cover system, and the surface water management system. Site security must be provided.
+Establish control mechanisms: The control mechanisms are to guarantee that the site will be used for appropriate purposes in the coming years and to ensure no one is exposed to contaminated groundwater.
+
+In 1992, a landfill cover system was designed to prevent rainwater from seeping into the landfill and gas from seeping out. About 6 million cubic yards of earth was removed and replaced with a geosynthetic clay liner and a six-foot-thick cover of clean soil and vegetation. Grass and other vegetation that was planted above the liner are native to the region and blend in with the surrounding land. Construction for the south parcel cover was completed in 2000 while a final cover design for the north parcel was completed in the summer of 2009.
+
+
+== Landfill collection systems ==
+
+Remediation efforts require continuous collection and treatment of landfill gases and liquids. Potentially injurious gases rise from decomposing garbage and organic matter; while water, seeping from trash, mixes with toxic compounds and creates leachate. The gas collection system extracts gas from deep inside the landfill and burns it. In 2002, EPA installed micro-turbines which convert landfill gases into electricity for operating site systems. Environmentally friendly, the micro-turbines send their emissions towards the gas treatment system, destroying all contaminants. For landfill liquids, a series of wells and pipes captures leachate, directing it towards a leachate treatment plant. After the treatment, the liquids filter into the sanitary sewer.
+
+
+== In-Home Air Monitoring ==
+The project to monitor the air inside residences near the OII site began in 1993 to make sure harmful gas migrating underground from the landfill did not accumulate in homes. This project involved bi-annual monitoring of the air inside some homes adjacent to the South Parcel. A few homes were found to have landfill gas problems, and remediation systems were installed following the initial 24-hour testing. With the increased gas collection system and capping that occurred on site, the gas in the landfill became far more controlled. For several years prior to ending the in-home monitoring program in 2001, EPA saw no evidence of an indoor air problem in any of the homes tested. Subsequently, gas collection systems were removed from homes and periodic random sampling was terminated.
+
+
+== Timeline ==
+Pre-1948: Sand and gravel mined from site.
+1948: Landfill opened by city of Monterey Park and private firm for garbage disposal.
+1952: Taken over by Operating Industries Inc.
+1954: Regional water board allows dumping of hazardous liquid wastes.
+1974: Pomona Freeway splits 190-acre (0.77 km2) landfill.
+1975: Montebello subdivision tract built next to dump.
+1978: Enforcement agencies note intense odor problems.
+1979: Getty Synthetic Fuels begins extracting gas and selling it to Southern California Gas Co.
+1981: County health officials cite dump for lacking plan to control potentially hazardous gases.
+1982: Liquids leak into Montebello neighborhood.
+1983: Heavy rains bring mudslides; state health officials begin study of nearby residents; air quality officials record high levels of vinyl chloride in Montebello; more liquids found leaking into Montebello.
+1984: Underground fire; dump closes after state announces OII is the 16th worst-hazardous site among 97 in state.
+1986: Getty ceases gas processing; OII selected as federal Superfund site.
+1989: More than 110 companies agree to pay $65 million in cleanup costs.
+1992: Design for remedy systems begins.
+2000: South parcel cover completed.
+2009: North parcel cover and gas control system completed.
+
+
+== Health Effects ==
+In 1986, the Los Angeles County and California Department of Health Services conducted a study comparing the health of individuals living near the OII Landfill and those living further away. Accounting for overall mortality, cancer, liver disease, and pregnancy complications, the results showed no major medical problems arising from consistent exposure to the landfill. However, landfill-neighboring residents reported more incidences of headaches, eye and throat irritation, nausea, insomnia, and fatigue than non-neighboring residents, spurring the county and state health services to pinpoint strong OII odors as the culprit. Designed for short-term assessment, the study recognizes that its method of evaluation lacks insight in possible long-term health problems.
+
+
+== See also ==
+List of Superfund sites in California
+
+
+== References ==

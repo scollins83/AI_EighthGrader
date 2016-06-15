@@ -1,0 +1,26 @@
+In theoretical physics, Whitehead's theory of gravitation was introduced by the distinguished mathematician and philosopher Alfred North Whitehead in 1922.
+
+
+== Principal features of the theory ==
+Clifford M. Will argued that Whitehead's theory features a prior geometry, but this is disputed by Dean R. Fowler, since it contradicts Whitehead's philosophy of nature. For Whitehead, the geometric structure of nature grows out of the relations among actual occasions. Fowler's interpretation of Whitehead's theory makes it an alternate, mathematically equivalent, presentation of general relativity.
+Under Will's presentation (which was inspired by John Lighton Synge's interpretation of the theory), Whitehead's theory has the curious feature that electromagnetic waves propagate along null geodesics of the physical spacetime (as defined by the metric determined from geometrical measurements and timing experiments), while gravitational waves propagate along null geodesics of a flat background represented by the metric tensor of Minkowski spacetime. The gravitational potential can be expressed entirely in terms of waves retarded along the background metric, like the LinardWiechert potential in electromagnetic theory.
+A cosmological constant can be introduced by changing the background metric to a de Sitter or anti-de Sitter metric. This was first suggested by G. Temple in 1923. Temple's suggestions on how to do this were criticized by C. B. Rayner in 1955.
+
+
+== Tests of Whitehead's theory ==
+Whitehead's theory is equivalent with the Schwarzschild metric and makes the same predictions as general relativity regarding the four classical solar system tests (gravitational red shift, light bending, perihelion shift, Shapiro time delay), and was regarded as a viable competitor of general relativity for several decades. In 1971, young Clifford M. Will thanks Ni Wei-Tou to comprehend Whitehead's theory and claims that the theory makes predictions concerning ordinary ocean tides on Earth (suggested to him by Jim Peebles) which are in violent disagreement with observation (specifically, the theory predicts a "sidereal tide", induced by the gravitational field of the Milky Way, which is hundreds of times stronger than the solar and lunar tides) which immediately nullified this theory. As mentioned previously, the interpretation of the theory used by Will has been criticized by Fowler, who has also argued that different tidal predictions can be obtained by a more realistic model of the galaxy.
+In 1989, a new interpretation of Whitehead's theory was proposed that eliminated the unobserved sidereal tide effects. However, the new interpretation predicted a new, unobserved, effect, called the "Nordtvedt Effect."
+
+
+== Footnotes ==
+
+
+== See also ==
+Alfred North Whitehead
+Classical theories of gravitation
+EddingtonFinkelstein coordinates
+
+
+== References ==
+Will, Clifford M. (1993). Was Einstein Right?: Putting General Relativity to the Test (2nd ed.). Basic Books. ISBN 0-465-09086-9. 
+Misner, Charles; Thorne, Kip S. & Wheeler, John Archibald (1973). Gravitation. San Francisco: W. H. Freeman. ISBN 0-7167-0344-0.  discusses Whitehead's theory in various places.

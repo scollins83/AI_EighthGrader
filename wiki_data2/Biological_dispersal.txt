@@ -1,0 +1,97 @@
+Biological dispersal refers to both the movement of individuals (animals, plants, fungi, bacteria, etc.) from their birth site to their breeding site ('natal dispersal'), as well as the movement from one breeding site to another ('breeding dispersal'). Dispersal is also used to describe the movement of propagules such as seeds and spores. Technically, dispersal is defined as any movement that has the potential to lead to gene flow. The act of dispersal involves three phases: departure, transfer, settlement and there are different fitness costs and benefits associated with each of these phases. Through simply moving from one habitat patch to another, the dispersal of an individual has consequences not only for individual fitness, but also for population dynamics, population genetics, and species distribution. Understanding dispersal and the consequences both for evolutionary strategies at a species level, and for processes at an ecosystem level, requires understanding on the type of dispersal, the dispersal range of a given species, and the dispersal mechanisms involved.
+Biological dispersal may be contrasted with geodispersal, which is the mixing of previously isolated populations (or whole biotas) following the erosion of geographic barriers to dispersal or gene flow (Lieberman, 2005; Albert and Reis, 2011).
+Dispersal can be distinguished from animal migration (typically round-trip seasonal movement), although within the population genetics literature, the terms 'migration' and 'dispersal' are often used interchangeably.
+
+
+== Types of dispersal ==
+
+Some organisms are motile throughout their lives, but others are adapted to move or be moved at precise, limited phases of their life cycles. This is commonly called the dispersive phase of the life cycle. The strategies of organisms' entire life cycles often are predicated on the nature and circumstances of their dispersive phases.
+In general there are two basic types of dispersal:
+Density-independent dispersal
+Organisms have evolved adaptations for dispersal that take advantage of various forms of kinetic energy occurring naturally in the environment. This is referred to as density independent or passive dispersal and operates on many groups of organisms (some invertebrates, fish, insects and sessile organisms such as plants) that depend on animal vectors, wind, gravity or current for dispersal.
+Density-dependent dispersal
+Density dependent or active dispersal for many animals largely depends on factors such as local population size, resource competition, habitat quality, and habitat size.
+Due to population density, dispersal may relieve pressure for resources in an ecosystem, and competition for these resources may be a selection factor for dispersal mechanisms.
+Dispersal of organisms is a critical process for understanding both geographic isolation in evolution through gene flow and the broad patterns of current geographic distributions (biogeography).
+A distinction is often made between natal dispersal where an individual (often a juvenile) moves away from the place it was born, and breeding dispersal where an individual (often an adult) moves away from one breeding location to breed elsewhere.
+
+
+== Costs and benefits ==
+
+In the broadest sense, dispersal occurs when the fitness benefits of moving outweigh the costs.
+There are a number of benefits to dispersal such as locating new resources, escaping unfavorable conditions, avoiding competing with siblings, and avoiding breeding with closely related individuals which could lead to inbreeding depression.
+There are also a number of costs associated with dispersal, which can be thought of in terms of four main currencies: energy, risk, time and opportunity. Energetic costs include the extra energy required to move as well as energetic investment in movement machinery (e.g. wings). Risks include increased injury and mortality during dispersal and the possibility of settling in an unfavorable environment. Time spent dispersing is time that often cannot be spent on other activities such as growth and reproduction. Finally dispersal can also lead to outbreeding depression if an individual is better adapted to its natal environment than the one it ends up in. In social animals (such as many birds and mammals) a dispersing individual must find and join a new group, which can lead to loss of social rank.
+
+
+== Dispersal range ==
+"Dispersal range" refers to the distance a species can move from an existing population or the parent organism. An ecosystem depends critically on the ability of individuals and populations to disperse from one habitat patch to another. Therefore, biological dispersal is critical to the stability of ecosystems.
+
+
+=== Environmental constraints ===
+Few species are ever evenly or randomly distributed within or across landscapes. In general, species significantly vary across the landscape in association with environmental features that influence their reproductive success and population persistence. Spatial patterns in environmental features (e.g. resources) permit individuals to escape unfavorable conditions and seek out new locations. This allows the organism to "test" new environments for their suitability, provided they are within animal's geographic range. In addition, the ability of a species to disperse over a gradually changing environment could enable a population to survive extreme conditions. (i.e. climate change).
+As the climate changes, prey and predators have to adapt to survive. This poses a problem for many animals, for example the Southern Rockhopper Penguins. These penguins are able to live and thrive in a variety of climates due to the penguins' phenotypic plasticity. However, they are predicted to respond by dispersal, not adaptation this time. This is explained due to their long life spans and slow microevolution. Penguins in the subantarctic have very different foraging behavior than the subtropical waters, it would be very hard to survive and keep up with the fast changing climate because these behaviors took years to shape.
+
+
+=== Dispersal barriers ===
+A dispersal barrier may mean that the dispersal range of a species is much smaller than the species distribution. An artificial example is habitat fragmentation due to human land use. Natural barriers to dispersal that limit species distribution include mountain ranges and rivers. An example is the separation of the ranges of the two species of chimpanzee by the Congo River.
+On the other hand, human activities may also expand the dispersal range of a species by providing new dispersal methods (e.g., ships). Many of them become invasive, like rats and stinkbugs, but some species also have a slightly positive effect to human settlers like honeybees and earthworms.
+
+
+== Dispersal mechanisms ==
+Most animals are capable of locomotion and the basic mechanism of dispersal is movement from one place to another. Locomotion allows the organism to "test" new environments for their suitability, provided they are within the animal's range. Movements are usually guided by inherited behaviors.
+The formation of barriers to dispersal or gene flow between adjacent areas can isolate populations on either side of the emerging divide. The geographic separation and subsequent genetic isolation of portions of an ancestral population can result in speciation.
+
+
+=== Plant dispersal mechanisms ===
+
+Seed dispersal is the movement or transport of seeds away from the parent plant. Plants have limited mobility and consequently rely upon a variety of dispersal vectors to transport their propagules, including both abiotic and biotic vectors. Seeds can be dispersed away from the parent plant individually or collectively, as well as dispersed in both space and time. The patterns of seed dispersal are determined in large part by the dispersal mechanism and this has important implications for the demographic and genetic structure of plant populations, as well as migration patterns and species interactions. There are five main modes of seed dispersal: gravity, wind, ballistic, water and by animals.
+
+
+=== Animal dispersal mechanisms ===
+
+
+==== Non-motile animals ====
+There are numerous animal forms that are nonmotile, such as sponges, bryozoans, tunicates, sea anemones, corals, and oysters. In common, they are all either marine or aquatic. It may seem curious that plants have been so successful at stationary life on land, while animals have not, but the answer lies in the food supply. Plants produce their own food from sunlight and carbon dioxideboth generally more abundant on land than in water. Animals fixed in place must rely on the surrounding medium to bring food at least close enough to grab, and this occurs in the three-dimensional water environment, but with much less abundance in the atmosphere.
+All of the marine and aquatic invertebrates whose lives are spent fixed to the bottom (more or less; anemones are capable of getting up and moving to a new location if conditions warrant) produce dispersal units. These may be specialized "buds", or motile sexual reproduction products, or even a sort of alteration of generations as in certain cnidaria.
+Corals provide a good example of how sedentary species achieve dispersion. Corals reproduce by releasing sperm and eggs directly into the water. These release events are coordinated by lunar phase in certain warm months, such that all corals of one or many species on a given reef will release on the same single or several consecutive nights. The released eggs are fertilized, and the resulting zygote develops quickly into a multicellular planula. This motile stage then attempts to find a suitable substratum for settlement. Most are unsuccessful and die or are fed upon by zooplankton and bottom dwelling predators such as anemones and other corals. However, untold millions are produced, and a few do succeed in locating spots of bare limestone, where they settle and transform by growth into a polyp. All things being favorable, the single polyp grows into a coral head by budding off new polyps to form a colony.
+
+
+==== Motile animals ====
+
+The majority of all animals are motile. Although motile animals can, in theory, disperse themselves by their spontaneous and independent locomotive powers, a great many species utilize the existing kinetic energies in the environment, resulting in passive movement. Dispersal by water currents is especially associated with the physically small inhabitants of marine waters known as zooplankton. The term plankton comes from the Greek, , meaning "wanderer" or "drifter".
+
+
+==== Dispersal by dormant stages ====
+Many animal species, especially freshwater invertebrates, are able to disperse by wind or by transfer with an aid of larger animals (birds, mammals or fishes) as dormant eggs, dormant embryos or, in some cases, dormant adult stages. Tardigrades, some rotifers and some copepods are able to withstand desiccation as adult dormant stages. Many other taxa (Cladocera, Bryozoa, Hydra, Copepoda and so on) can disperse as dormant eggs or embryos. Freshwater sponges usually have special dormant propagules called gemmulae for such a dispersal. Many kinds of dispersal dormant stages are able to withstand not only desiccation and low and high temperature, but also action of digestive enzymes during their transfer through digestive tracts of birds and other animals, high concentration of salts and many kinds of toxicants. Such dormant-resistant stages made possible the long-distance dispersal from one water body to another and broad distribution ranges of many freshwater animals.
+
+
+== Quantifying dispersal ==
+Dispersal is most commonly quantified either in terms of rate or distance.
+Dispersal rate (also called migration rate in the population genetics literature) or probability describes the probability than any individual leaves an area or, equivalently, the expected proportion of individual to leave an area.
+The dispersal distance is usually described by a dispersal kernel which gives the probability distribution of the distance traveled by any individual. A number of different functions are used for dispersal kernels in theoretical models of dispersal including the negative exponential distribution, extended negative exponential distribution, normal distribution, exponential power distribution, inverse power distribution, and the two-sided power distribution. The inverse power distribution and distributions with 'fat tails' representing long-distance dispersal events (called leptokurtic distributions) are though to best match empirical dispersal data.
+
+
+== Consequences of dispersal ==
+Dispersal not only has costs and benefits to the dispersing individual (as mentioned above), but it also has consequences at the level of the population and species as well.
+Most populations have a patchy spatial distribution. Dispersal, by moving individuals between different sub-populations, can increase the overall connectivity of the population, helping to minimize the risk of stochastic extinction, since if a sub-population goes extinct by chance, it is likely to be recolonized if the dispersal rate is high. Increased connectivity can also decrease the degree of local adaptation.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Ingold, C. T. (1971) Fungal spores: their liberation and dispersal Oxford, Clarendon Press 302 p. ISBN 0-19-854115-5
+Lidicker, W. Z. and R. L. Caldwell (1982) Dispersal and migration Stroudsburg, Pa. : Hutchinson Ross Pub. Co 311 p. ISBN 0-87933-435-5 (Dispersal of animals)
+Bullock, J. M.; R. E. Kenward and R. S. Hails (editors) (2002) Dispersal ecology : the 42nd symposium of the British Ecological Society. Oxford, UK : Blackwell Science 458 p. ISBN 0-632-05876-5 (Animals and plants)
+Lieberman, B. S. 2008. Emerging syntheses between palaeobiogeography and macroevolutionary theory. Proceedings of the Royal Society of Victoria 120: 5157.
+Turner M. G., Gardner R. H., O'Neill. 2001. Landscape Ecology: In theory and practice, pattern and process. New York (NY): Springer Science.
+Levin, S. A. 1974. Dispersion and Population Interactions. The American Naturalist. 108:960, p. 207.
+Clobert, J., E. Danchin, A. A. Dhondt and J. D. Nichols (eds.)(2001) "dispersal", Oxford University Press, Oxford.
+Cousens, R., C. Dytham, R. Law (2008), Dispersal in plants: a population perspective, Oxford University Press, Oxford
+
+
+== External links ==
+Fruit and seed dispersal images at bioimages.vanderbilt.edu

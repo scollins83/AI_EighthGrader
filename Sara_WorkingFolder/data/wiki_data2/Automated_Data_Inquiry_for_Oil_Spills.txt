@@ -1,0 +1,18 @@
+The Automated Data Inquiry for Oil Spills (ADIOS2) software is an oil weathering model provided by NOAA that incorporates a database containing more than a thousand crude oils and refined products, and provides quick estimates of the expected characteristics and behavior of oil spilled into the marine environment. The predictions it makes, presented as both graphics and text, are designed to help answer questions that typically arise during spill response and cleanup.
+
+
+== Predictive information for oil spill response ==
+One user describes the program as follows: "You just key in all the details of the parameters of the spill, from the type of oil to wave conditions, winds, sea temperatures, what have you, and the software tells you the fate of the oil over an extended period."
+By predicting change in an oil's viscosity (resistance to flow) over time, ADIOS2 offers an answer to the question: Can the oil still be dispersed with chemical dispersants?
+By predicting the rate of increase in an oil's water content over time, ADIOS2 offers an answer to questions like: If 1,000 US gallons (3,800 L) of crude oil has spilled, will more than 1,000 US gallons (3,800 L) of oil-and-water mixture need to be cleaned up and disposed of? How much more?
+
+
+== Use cases ==
+On May 14, 2010, the AP reported that this tool is being used to help assess where all the oil is going from the Deepwater Horizon Oil Spill.
+
+
+== References ==
+
+
+== External links ==
+ADIOS2 page at NOAA. Includes download instructions, FAQ, and more.

@@ -1,5 +1,4 @@
-the following outline is provided as an overview of and topical guide to physical science:
-physical science branch of natural science that studies non-living systems in contrast to life science for example biology it in turn has many branches each referred to as a "physical science" together called the "physical sciences" however the term "physical" creates an unintended somewhat arbitrary distinction since many branches of physical science also study biological phenomena (organic chemistry for example)
+physical science is a branch of natural science that studies non-living systems in contrast to life science it in turn has many branches each referred to as a "physical science" together called the "physical sciences" however the term "physical" creates an unintended somewhat arbitrary distinction since many branches of physical science also study biological phenomena and other branches of chemistry such as organic chemistry
 == what is physical science ==
 physical science can be described as all of the following:
 a branch of science systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe.a branch of natural science natural science is a major branch of science that tries to explain and predict nature's phenomena based on empirical evidence in natural science hypotheses must be verified scientifically to be regarded as scientific theory validity accuracy and social mechanisms ensuring quality control such as peer review and repeatability of findings are amongst the criteria and methods used for this purpose natural science can be broken into 2 main branches: life science or example biology and physical science each of these branches and all of their sub-branches are referred to as natural sciences
@@ -129,7 +128,7 @@ history of biogeography history of the study of the distribution of species (bio
 history of cartography history of the study and practice of making maps or globes
 history of climatology history of the study of climate scientifically defined as weather conditions averaged over a period of time
 history of coastal geography history of the study of the dynamic interface between the ocean and the land incorporating both the physical geography (i.e coastal geomorphology geology and oceanography) and the human geography (sociology and history) of the coast
-history of environmental science history of the an integrated quantitative and interdisciplinary approach to the study of environmental systems
+history of environmental science history of an integrated quantitative and interdisciplinary approach to the study of environmental systems
 history of ecology history of the scientific study of the distribution and abundance of living organisms and how the distribution and abundance are affected by interactions between the organisms and their environment
 history of freshwater biology history of the scientific biological study of freshwater ecosystems and is a branch of limnology
 history of marine biology history of the scientific study of organisms in the ocean or other marine or brackish bodies of water

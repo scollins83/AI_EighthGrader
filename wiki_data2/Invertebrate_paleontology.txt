@@ -1,0 +1,65 @@
+Invertebrate paleontology (also spelled Invertebrate palaeontology) is sometimes described as Invertebrate paleozoology or Invertebrate paleobiology. Whether it is considered to be a subfield of paleontology, paleozoology, or paleobiology, this discipline is the scientific study of prehistoric invertebrates by analyzing invertebrate fossils in the geologic record.
+By invertebrates are meant the non-vertebrate creatures of the kingdom Animalia (or Metazoa) in the biotic domain of Eukaryota. By phyletic definition, these many-celled, sub-vertebrate animals lack a vertebral column, spinal column, vertebrae, backbone, or long, full-length notochord -- in contrast, of course, to the vertebrates in the one phylum of Chordata.
+Relatedly, invertebrates have never had a cartilaginous or boney internal skeleton, with its skeletal supports, gill slits, ribs and jaws. Finally, throughout geologic time, invertebrates have remained non-craniate creatures; that is, they never developed a cranium, nerve-chord brain, skull, or hard protective braincase (unlike many vertebrates).
+
+
+== Invertebrate terminology in science ==
+In the many decades since Jean-Baptiste de Lamarck, a pioneering biologist and evolutionist, first conceptualized and coined the category "Invertebrata" (between 1793 and 1801) and the term "Biology" (in 1802), zoology has come to recognize that the non-vertebrate category is not a scientifically valid, monophyletic taxon. Evolutionary biology and developmental biology (a.k.a. "evo-devo") now consider the term "Invertebrata" to be both polyphyletic and paraphyletic. Nevertheless, most earth science departments continue to employ this term; and paleontologists find it both useful and practical in evaluating fossil invertebrates andconsequently -- invertebrate evolution.
+However, there is one contemporary caveat: Paleobiologists and microbiologists in the 21st century no longer classify one-celled "animal-like" microbes either as invertebrates or as animals. For example, the commonly fossilized foraminifera ("forams") and radiolarians -- zooplankton both formerly grouped under either an animal phylum or animal sub-kingdom called Protozoa ("first animals") -- are now placed in the kingdom or super-kingdom Protista or Protoctista (and thus called protists or protoctists).
+Thus modern invertebrate paleontologists deal largely with fossils of this more strictly defined Animal Kingdom (excepting Phylum Chordata), Phylum Chordata being the exclusive focus of vertebrate paleontology. Protist fossils are then the main focus of micropaleontology, while plant fossils are the chief focus paleobotany. Together these four represent the traditional taxonomic divisions of paleontologic study.
+
+
+=== Origins and modern evolution of invertebrate paleontology ===
+
+
+== Invertebrate fossilization ==
+When it comes to the fossil record, soft-bodied and minuscule invertebratessuch as hydras, jellies, flatworms, hairworms, nematodes, ribbon worms, rotifers and roundworms -- are infrequently fossilized. As a result, paleontologists and other fossil hunters must often rely on trace fossils, microfossils, or chemofossil residue when scouting for these prehistoric creatures.
+Hard-bodied and large invertebrates are much-more commonly preserved; typically as sizeable macrofossils. These invertebrates are more frequently preserved because their hard partsfor example, shell, armor, plates, tests, exoskeleton, jaws or teeth -- are composed of silica (silicon dioxide), calcite or aragonite (both forms of calcium carbonate), chitin (a protein often infused with tricalcium phosphate), or keratin (an even-more complex protein), rather than the vertebrate bone (hydroxyapatite) or cartilage of fishes and land-dwelling tetrapods.
+The chitinous jaws of annelids (such as the marine scolecodonts) are sometimes preserved as fossils; while many arthropods and inarticulate brachiopods have easily fossilized hard parts of calcite, chitin, or keratin. The most common and often-found macrofossils are the very hard calcareous shells of articulate brachiopods (that is, the everyday "lampshells") and of mollusks (such as the omnipresent clams, snails, mussels and oysters). On the other hand, non-shelly slugs and non-tubiferous worms (for instance, earthworms) have only occasionally been preserved due to their lack of hard parts.
+
+
+=== Taxonomy of commonly fossilized invertebrates ===
+
+
+== Footnotes ==
+
+
+== Further reading ==
+Although these books are not footnoted in this article, the following are well-illustrated, well-organizedand often well-wornguides to invertebrate (and sometimes other) fossils:
+Paolo Arduini (1987), Simon and Schuster's Guide to Fossils (Old Tappan, New Jersey: Fireside), 320 pages. ISBN 0-671-63132-2.
+James R. Beerbower (1968). Search for the Past: An Introduction to Paleontology (Englewood Cliffs, New Jersey: Prentice-Hall), 512 pages.
+R. S. Boardman and others (1985). Fossil Invertebrates.
+British Museum of Natural History (1969). British Palaeozoic Fossils (London, England: British Museum of Natural History).
+Euan N. K. Clarkson (1998). Invertebrate Palaeontology and Evolution (London, England: Allen and Unwin), 468 pages. ISBN 978-0-632-05238-7.
+Peter Doyle (1996), Understanding Fossils: An Introduction to Invertebrate Paleontology (Hoboken, New Jersey: John Wiley & Sons), 426 pages. ISBN 0-471-96351-8.
+Carroll Lane Fenton and Mildred Adams Fenton (1958); updated by Patricia Vickers Rich and Thomas Hewitt Rich (1997). The Fossil Book: A Record of Prehistoric Life (Garden City, New York: Doubleday and Courier Dover Publishing), from 482 to 760 pages. ISBN 0-486-29371-8.
+W. R. Hamilton and others (1974). A Guide to Minerals, Rocks and Fossils (London, England: Hamlyn Publishing Group Ltd.), 320 pages.
+W. B. Harland (1967). The Fossil Record (London, England: Geological Society of London), 827 pages.
+V. Lehmann and G. Hillmer (1983). Fossil Invertebrates (Cambridge, England: Cambridge University Press).
+Harold L. Levin (1998), Ancient Invertebrates and Their Living Relatives (Boston: Prentice-Hall), 358 pages. ISBN 978-0-13-748955-8.
+William H. Matthews III (1962). Fossils: An Introduction to Prehistoric Life (New York: Barnes & Noble), 337 pages.
+Helmut Mayr (1992). A Guide to Fossils (New York: Longman, Harlow).
+Raymond C. Moore and others (1952). Invertebrate Fossils (New York: McGraw-Hill), 776 pages. ISBN 0-07-043020-9.
+J. W. Murray, editor (1985). Atlas of Invertebrate Macrofossils (Princeton: Princeton University Press), 256 pages.
+Douglas Palmer (2004), Fossils (London, England: Dorling Kindersley).
+Frank H. T. Rhodes and others (1962). Fossils: A Guide to Prehistoric Life (New York: Golden Nature Guide), 242 pages.
+Henry Woodburn Shimer and Robert Rakes Shrock (1944/1983). Index Fossils of North America (Cambridge, Massachusetts: Massachusetts Institute of Technology Press), 837 pages.
+Robert Rakes Shrock and W. H. Twenhofel (1953). Invertebrate Paleontology (New York: McGraw-Hill).
+Ronald Singer (2000), Encyclopedia of Paleontology (London, England: Routledge), 1,467 pages. ISBN 1-884964-96-6.
+Ida Thompson (1982/2004). National Audubon Society Field Guide to North American Fossils (New York: Alfred A. Knopf), 846 pages.
+James W. Valentine (2004), On the Origins of Phyla (Chicago: University of Chicago Press). 608 pages. ISBN 0-226-84548-6. A discussion focusing on invertebrates during the Paleozoic era.
+Cyril Walker and David Ward (2002). Smithsonian Handbook of Fossils (London, England: Dorling Kindersley), 320 pages.
+
+
+== See also ==
+
+
+== External links ==
+A colorful, illustrated taxonomy of extinct and living invertebrate Metazoa by the University of California Museum of Paleontology.
+The invertebrate fossil record illustrated colorfully for Metazoa provided by the U.C. Museum of Paleontology.
+Educational and colorful introduction to the three domains of the Tree of Life -- as well as to the topic of "Understanding Evolution" -- sponsored by the U.C. Museum of Paleontology.
+An introduction to fossils by The Paleontology Portal, a project of four American institutions funded by the National Science Foundation.
+The introduction to invertebrate fossils provided by The Paleontology Portal.
+Thousands of online pictures of invertebrate fossils. sponsored by the Peabody Museum at Yale University.
+The taxonomy of the Metazoa Kingdom of animals provided by The Tree of Life Project.
+Home site of the many volumes of the Treatise on Invertebrate Paleontology, a site sponsored by both The Paleontological Institute at the University of Kansas and the Geological Society of America.

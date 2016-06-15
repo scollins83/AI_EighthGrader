@@ -1,0 +1,23 @@
+The Meredith effect is a phenomenon whereby the aerodynamic drag produced by a cooling radiator may be offset by careful design of the cooling duct such that useful thrust is produced. The effect was discovered in the 1930s and became more important as the speeds of piston-engined aircraft increased over the next decade.
+
+
+== Principles of operation ==
+The Meredith effect occurs where air flowing through a duct is heated by a heat-exchanger or radiator containing a hot working fluid such as ethylene glycol. Typically the fluid is a coolant carrying waste heat from an internal combustion engine.
+For the effect to occur, the duct must be travelling at a significant speed with respect to the air. Air flowing into the duct meets drag resistance from the radiator surface and is compressed due to the ram air effect. As the air flows through the radiator it is heated, adding heat energy to the air and further increasing its volume. The hot, pressurised air then exits through the exhaust duct which is shaped to be convergent, i.e. to narrow towards the rear. This accelerates the air backwards and the reaction of this acceleration against the installation provides a small forward thrust. The thrust obtainable depends upon the pressure difference between the inside and outside of the duct. The air expands and cools as it passes along the duct, before emerging to join the external air flow.
+If the generated thrust is less than the aerodynamic drag of the ducting and radiator, then the arrangement serves to reduce the net aerodynamic drag of the radiator installation. If the generated thrust exceeds the aerodynamic drag of the installation, then the entire assemblage contributes a net forward thrust to the vehicle.
+
+
+== History ==
+F. W. Meredith was a British engineer working at the Royal Aircraft Establishment (RAE), Farnborough. Reflecting on the principles of liquid cooling, he realized that what was conventionally regarded as waste heat transferred to the atmosphere by the coolant, (usually ethylene glycol), in a hot radiator need not be lost. The heat adds energy to the airflow and, with careful design, this may be used to generate thrust. The work was published in 1936.
+The phenomenon became known as the "Meredith effect" and was quickly adopted by the designers of prototype fighter aircraft then under way, including the Supermarine Spitfire and Hawker Hurricane, whose Rolls-Royce PV-12 engine (later named the Merlin) was cooled by ethylene glycol. An early example of a Meredith effect radiator was incorporated in the design of the Supermarine Spitfire for the first flight of the prototype on 5 March 1936.
+Many engineers did not understand the operating principles of the effect. A common mistake was the idea that the air-cooled radial engine would benefit most, because its fins ran hotter than the radiator of a liquid-cooled engine, with the mistake persisting even as late as 1949.
+In America, the North American P-51 Mustang, which first flew in 1940, adopted both the Merlin engine and the Meredith principle.
+Around this time the Meredith effect also inspired early American work on the aero-thermodynamic duct or ramjet due to the similarity of their principles of operation.
+The Meredith effect was incorporated into the AIAA award winning design of the Cratus racing airplane by a University of Kansas aerospace engineering student in 2012.
+
+
+== See also ==
+Brayton cycle
+
+
+== References ==

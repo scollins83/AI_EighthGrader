@@ -1,0 +1,229 @@
+The following outline is provided as an overview of and topical guide to earth science:
+
+Earth science  all-embracing term for the sciences related to the planet Earth. It is also known as geoscience, the geosciences or the Earth sciences, and is arguably a special case in planetary science, the Earth being the only known life-bearing planet.
+Earth science is a branch of the physical sciences which is a part of the natural sciences. It in turn has many branches.
+
+
+== Earth's spheres ==
+
+Ecosphere  there are many subsystems that make up the natural environment (the planetary ecosystem or "ecosphere") of the Earth. Many of the subsystems are characterized as "spheres", coinciding with the shape of the planet. The four spheres (for which most of the other spheres are a subtype of) are the atmosphere, the biosphere, the hydrosphere and the geosphere. Listed roughly from outermost to innermost the named spheres of the Earth are:
+Magnetosphere
+Atmosphere, the gases that surround the Earth (its air)
+By altitude
+Exosphere
+Exobase
+Ionosphere
+Thermopause
+Thermosphere
+Mesopause
+Mesosphere
+Stratopause
+Stratosphere
+Ozone layer
+Tropopause
+Troposphere
+Planetary boundary layer
+
+By air turbulence
+Heterosphere
+Turbopause
+Homosphere
+
+Biosphere, all life on Earth
+Anthroposphere
+Noosphere (rare)
+
+Cryosphere  those portions of Earth's surface where water is in solid form, including sea ice, lake ice, river ice, snow cover, glaciers, ice caps, ice sheets, and frozen ground (which includes permafrost). Thus, there is a wide overlap with the hydrosphere.
+Hydrosphere  all water found on, under, and over the surface of Earth
+Pedosphere
+Geosphere/Solid Earth
+Lithosphere
+Crust (geology)
+
+Asthenosphere
+Mesosphere
+Earth's mantle
+Earth's core
+Inner core
+Outer core
+
+
+== Branches of earth science ==
+
+
+=== Atmospheric science ===
+Atmospheric sciences
+Meteorology
+Climatology
+Paleoclimatology
+Atmospheric chemistry
+Atmospheric physics
+
+
+=== Environmental science ===
+Environmental science  an integrated, quantitative, and interdisciplinary approach to the study of environmental systems.
+Ecology  scientific study of the distribution and abundance of living organisms and how the distribution and abundance are affected by interactions between the organisms and their environment.
+Freshwater biology  scientific biological study of freshwater ecosystems and is a branch of Limnology
+Marine biology  scientific study of organisms in the ocean or other marine or brackish bodies of water
+Parasitology  Parasitology is the study of parasites, their hosts, and the relationship between them.
+Population dynamics  Population dynamics is the branch of life sciences that studies short-term and long-term changes in the size and age composition of populations, and the biological and environmental processes influencing those changes.
+
+Environmental chemistry  Environmental chemistry is the scientific study of the chemical and biochemical phenomena that occur in natural places.
+Environmental soil science  Environmental soil science is the study of the interaction of humans with the pedosphere as well as critical aspects of the biosphere, the lithosphere, the hydrosphere, and the atmosphere.
+Environmental geology  Environmental geology, like hydrogeology, is an applied science concerned with the practical application of the principles of geology in the solving of environmental problems.
+Geodesy  scientific discipline that deals with the measurement and representation of the Earth, including its gravitational field, in a three-dimensional time-varying space
+
+
+=== Geology ===
+Geology
+Economic geology
+Engineering geology
+Environmental geology
+Quaternary geology
+Planetary geology
+Petroleum geology
+Historical geology
+Hydrogeology
+Structural geology
+
+Geochemistry
+Geochronology
+Geomagnetics
+Geomicrobiology
+Geomorphology
+Geophysics
+Micropaleontology
+Mineralogy
+Gemology
+Mineral physics
+Mining
+
+Paleontology
+Palynology
+Petrology
+Physical geodesy
+Plate tectonics
+Sedimentology
+Seismology
+Stratigraphy
+Tectonics
+Volcanology
+
+
+=== Geography ===
+Geography
+Human geography
+Paleogeography
+Physical Geography
+Biogeography
+
+
+=== Geoinformatics ===
+Geoinformatics
+Geographic information systems
+Spatial decision support systems
+Global positioning systems (GPS) or Global Navigation Satellite Systems (GNSS)
+Remote sensing and Photogrammetry
+Geodesy
+Geostatistics
+
+
+=== Glaciology ===
+Glaciology
+
+
+=== Oceanography ===
+Oceanography
+Physical oceanography
+Chemical oceanography
+Paleoceanography
+Hydrogeology
+Hydrology
+Limnology
+Marine Biology
+Marine Geology
+
+
+=== Soil science ===
+Soil science
+Edaphology
+Pedology
+
+
+== History of earth science ==
+History of earth science  history of the all-embracing term for the sciences related to the planet Earth. Earth science, and all of its branches, are branches of physical science.
+History of atmospheric sciences  history of the umbrella term for the study of the atmosphere, its processes, the effects other systems have on the atmosphere, and the effects of the atmosphere on these other systems.
+History of climatology
+History of meteorology
+History of atmospheric chemistry
+
+History of biogeography  history of the study of the distribution of species (biology), organisms, and ecosystems in geographic space and through geological time.
+History of cartography  history of the study and practice of making maps or globes.
+History of climatology  history of the study of climate, scientifically defined as weather conditions averaged over a period of time
+History of coastal geography  history of the study of the dynamic interface between the ocean and the land, incorporating both the physical geography (i.e. coastal geomorphology, geology and oceanography) and the human geography (sociology and history) of the coast.
+History of environmental science  history of the an integrated, quantitative, and interdisciplinary approach to the study of environmental systems.
+History of ecology  history of the scientific study of the distribution and abundance of living organisms and how the distribution and abundance are affected by interactions between the organisms and their environment.
+History of Freshwater biology  history of the scientific biological study of freshwater ecosystems and is a branch of limnology
+History of marine biology  history of the scientific study of organisms in the ocean or other marine or brackish bodies of water
+History of parasitology  history of the Parasitology is the study of parasites, their hosts, and the relationship between them.
+History of population dynamics  history of the Population dynamics is the branch of life sciences that studies short-term and long-term changes in the size and age composition of populations, and the biological and environmental processes influencing those changes.
+
+History of environmental chemistry  history of the Environmental chemistry is the scientific study of the chemical and biochemical phenomena that occur in natural places.
+History of environmental soil science  history of the Environmental soil science is the study of the interaction of humans with the pedosphere as well as critical aspects of the biosphere, the lithosphere, the hydrosphere, and the atmosphere.
+History of environmental geology  history of the Environmental geology, like hydrogeology, is an applied science concerned with the practical application of the principles of geology in the solving of environmental problems.
+History of toxicology  history of the branch of biology, chemistry, and medicine concerned with the study of the adverse effects of chemicals on living organisms.
+
+History of geodesy  history of the scientific discipline that deals with the measurement and representation of the Earth, including its gravitational field, in a three-dimensional time-varying space
+History of geography  history of the science that studies the lands, features, inhabitants, and phenomena of Earth
+History of geoinformatics  history of the science and the technology which develops and uses information science infrastructure to address the problems of geography, geosciences and related branches of engineering.
+History of geology  history of the study of the Earth, with the general exclusion of present-day life, flow within the ocean, and the atmosphere.
+History of planetary geology  history of the planetary science discipline concerned with the geology of the celestial bodies such as the planets and their moons, asteroids, comets, and meteorites.
+
+History of geomorphology  history of the scientific study of landforms and the processes that shape them
+History of geostatistics  history of the branch of statistics focusing on spatial or spatiotemporal datasets
+History of geophysics  history of the physics of the Earth and its environment in space; also the study of the Earth using quantitative physical methods.
+History of glaciology  history of the study of glaciers, or more generally ice and natural phenomena that involve ice.
+History of hydrology  history of the study of the movement, distribution, and quality of water on Earth and other planets, including the hydrologic cycle, water resources and environmental watershed sustainability.
+History of hydrogeology  history of the area of geology that deals with the distribution and movement of groundwater in the soil and rocks of the Earth's crust (commonly in aquifers).
+History of mineralogy  history of the study of chemistry, crystal structure, and physical (including optical) properties of minerals.
+History of meteorology  history of the interdisciplinary scientific study of the atmosphere which explains and forecasts weather events.
+History of oceanography  history of the branch of Earth science that studies the ocean
+History of paleoclimatology  history of the study of changes in climate taken on the scale of the entire history of Earth
+History of paleontology  history of the study of prehistoric life
+History of petrology  history of the branch of geology that studies the origin, composition, distribution and structure of rocks.
+History of limnology  history of the study of inland waters
+History of seismology  history of the scientific study of earthquakes and the propagation of elastic waves through the Earth or through other planet-like bodies
+History of soil science  history of the study of soil as a natural resource on the surface of the earth including soil formation, classification and mapping; physical, chemical, biological, and fertility properties of soils; and these properties in relation to the use and management of soils.
+History of topography  history of the study of surface shape and features of the Earth and other observable astronomical objects including planets, moons, and asteroids.
+History of volcanology  history of the study of volcanoes, lava, magma, and related geological, geophysical and geochemical phenomena.
+
+
+== Earth science publications ==
+
+
+== Earth science organizations ==
+List of geoscience organizations
+
+
+== People influential in earth science ==
+
+
+== See also ==
+
+Outline of science
+Outline of natural science
+Outline of physical science
+Outline of earth science
+
+Outline of formal science
+Outline of social science
+Outline of applied science
+
+
+== References ==
+
+
+== External links ==
+Earth Science Picture of the Day, a service of Universities Space Research Association, sponsored by NASA Goddard Space Flight Center
+Geoethics in Planetary and Space Exploration
+National Earth Science Teachers Association

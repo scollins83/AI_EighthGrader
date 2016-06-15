@@ -1,0 +1,8 @@
+The resonance assisted hydrogen bond (commonly abbreviated as RAHB) is a strong type of hydrogen bond.
+
+
+== Causes ==
+It is caused by the -delocalization that involves the hydrogen and cannot be properly described by the electrostatic model alone. This description of the hydrogen bond has been proposed to described unusually short distances generally observed between O=C-OH or O=C-C=C-OH.
+
+
+== References ==

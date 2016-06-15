@@ -64,7 +64,15 @@ those making critical decisions based on the results of a hypothesis test are pr
 in a famous example of hypothesis testing known as the lady tasting tea a female colleague of fisher claimed to be able to tell whether the tea or the milk was added first to a cup fisher proposed to give her eight cups four of each variety in random order one could then ask what the probability was for her getting the number she got correct but just by chance the null hypothesis was that the lady had no such ability the test statistic was a simple count of the number of successes in selecting the 4 cups the critical region was the single case of 4 successes of 4 possible based on a conventional probability criterion (< 5%; 1 of 70 1.4%) fisher asserted that no alternative hypothesis was (ever) required the lady correctly identified every cup which would be considered a statistically significant result
 === courtroom trial ===
 a statistical test procedure is comparable to a criminal trial; a defendant is considered not guilty as long as his or her guilt is not proven the prosecutor tries to prove the guilt of the defendant only when there is enough charging evidence the defendant is convicted
-in the start of the procedure there are two hypotheses : "the defendant is not guilty" and : "the defendant is guilty" the first one is called null hypothesis and is for the time being accepted the second one is called alternative (hypothesis) it is the hypothesis one hopes to support
+in the start of the procedure there are two hypotheses
+h
+0
+{\displaystyle h_{0}}
+: "the defendant is not guilty" and
+h
+1
+{\displaystyle h_{1}}
+: "the defendant is guilty" the first one is called null hypothesis and is for the time being accepted the second one is called alternative (hypothesis) it is the hypothesis one hopes to support
 the hypothesis of innocence is only rejected when an error is very unlikely because one doesn't want to convict an innocent defendant such an error is called error of the first kind (i.e. the conviction of an innocent person) and the occurrence of this error is controlled to be rare as a consequence of this asymmetric behaviour the error of the second kind (acquitting a person who committed the crime) is often rather large
 a criminal trial can be regarded as either or both of two decision processes: guilty vs not guilty or evidence vs a threshold ("beyond a reasonable doubt") in one view the defendant is judged; in the other view the performance of the prosecution (which bears the burden of proof) is judged a hypothesis test can be regarded as either a judgment of a hypothesis or as a judgment of evidence
 === philosopher's beans ===
@@ -80,15 +88,128 @@ the statement also relies on the inference that the sampling was random if someo
 a person (the subject) is tested for clairvoyance he is shown the reverse of a randomly chosen playing card 25 times and asked which of the four suits it belongs to the number of hits or correct answers is called x
 as we try to find evidence of his clairvoyance for the time being the null hypothesis is that the person is not clairvoyant the alternative is of course: the person is (more or less) clairvoyant
 if the null hypothesis is valid the only thing the test person can do is guess for every card the probability (relative frequency) of any single suit appearing is 1/4 if the alternative is valid the test subject will predict the suit correctly with probability greater than 1/4 we will call the probability of guessing correctly p the hypotheses then are:
-null hypothesis (just guessing)
+null hypothesis
+:
+h
+0
+:
+p
+=
+1
+4
+{\displaystyle {\text{:}}\qquad h_{0}:p={\tfrac {1}{4}}}
+(just guessing)
 and
-alternative hypothesis (true clairvoyant)
+alternative hypothesis
+:
+h
+1
+:
+p
+>
+1
+4
+{\displaystyle {\text{:}}h_{1}:p>{\tfrac {1}{4}}}
+(true clairvoyant)
 when the test subject correctly predicts all 25 cards we will consider him clairvoyant and reject the null hypothesis thus also with 24 or 23 hits with only 5 or 6 hits on the other hand there is no cause to consider him so but what about 12 hits or 17 hits what is the critical number c of hits at which point we consider the subject to be clairvoyant how do we determine the critical value c it is obvious that with the choice c=25 (i.e we only accept clairvoyance when all cards are predicted correctly) we're more critical than with c=10 in the first case almost no test subjects will be recognized to be clairvoyant in the second case a certain number will pass the test in practice one decides how critical one will be that is one decides how often one accepts an error of the first kind a false positive or type i error with c = 25 the probability of such an error is:
+p
+(
+reject
+h
+0
+h
+0
+is valid
+)
+=
+p
+(
+x
+=
+25
+p
+=
+1
+4
+)
+=
+(
+1
+4
+)
+25
+10
+15
+{\displaystyle p({\text{reject }}h_{0}\mid h_{0}{\text{ is valid}})=p(x=25\mid p={\tfrac {1}{4}})=\left({\tfrac {1}{4}}\right)^{25}\approx 10^{-15},}
 and hence very small the probability of a false positive is the probability of randomly guessing correctly all 25 times
 being less critical with c=10 gives:
+p
+(
+reject
+h
+0
+h
+0
+is valid
+)
+=
+p
+(
+x
+10
+|
+p
+=
+1
+4
+)
+=
+k
+=
+10
+25
+p
+(
+x
+=
+k
+p
+=
+1
+4
+)
+0
+07
+{\displaystyle p({\text{reject }}h_{0}\mid h_{0}{\text{ is valid}})=p(x\geq 10|p={\tfrac {1}{4}})=\sum _{k=10}^{25}p(x=k\mid p={\tfrac {1}{4}})\approx 0{.}07.}
 thus c = 10 yields a much greater probability of false positive
 before the test is actually performed the maximum acceptable probability of a type i error () is determined typically values in the range of 1% to 5% are selected (if the maximum acceptable error rate is zero an infinite number of correct guesses is required.) depending on this type 1 error rate the critical value c is calculated for example if we select an error rate of 1% c is calculated thus:
-from all the numbers c with this property we choose the smallest in order to minimize the probability of a type ii error a false negative for the above example we select: 
+p
+(
+reject
+h
+0
+h
+0
+is valid
+)
+=
+p
+(
+x
+c
+p
+=
+1
+4
+)
+0
+01
+{\displaystyle p({\text{reject }}h_{0}\mid h_{0}{\text{ is valid}})=p(x\geq c\mid p={\tfrac {1}{4}})\leq 0{.}01.}
+from all the numbers c with this property we choose the smallest in order to minimize the probability of a type ii error a false negative for the above example we select:
+c
+=
+13
+{\displaystyle c=13}
 === radioactive suitcase ===
 as an example consider determining whether a suitcase contains some radioactive material placed under a geiger counter it produces 10 counts per minute the null hypothesis is that no radioactive material is in the suitcase and that all measured counts are due to ambient radioactivity typical of the surrounding air and harmless objects we can then calculate how likely it is that we would observe 10 counts per minute if the null hypothesis were true if the null hypothesis predicts (say) on average 9 counts per minute then according to the poisson distribution typical for radioactive decay there is about 41% chance of recording 10 or more counts thus we can say that the suitcase is compatible with the null hypothesis (this does not guarantee that there is no radioactive material just that we don't have enough evidence to suggest there is) on the other hand if the null hypothesis predicts 3 counts per minute (for which the poisson distribution predicts only 0.1% chance of recording 10 or more counts) then the suitcase is not compatible with the null hypothesis and there are likely other factors responsible to produce the measurements
 the test does not directly assert the presence of radioactive material a successful test asserts that the claim of no radioactive material present is unlikely given the reading (and therefore ) the double negative (disproving the null hypothesis) of the method is confusing but using a counter-example to disprove is standard mathematical practice the attraction of the method is its practicality we know (from experience) the expected range of counts with only ambient radioactivity present so we can say that a measurement is unusually large statistics just formalizes the intuitive by using numbers instead of adjectives we probably do not know the characteristics of the radioactive suitcases; we just assume that they produce larger readings
@@ -209,7 +330,5 @@ critique of classical hypothesis testing highlighting long-standing qualms of st
 dallal ge (2007) the little handbook of statistical practice (a good tutorial)
 references for arguments for and against hypothesis testing
 statistical tests overview: how to choose the correct statistical test
-an interactive online tool to encourage understanding hypothesis testing
-a non mathematical way to understand hypothesis testing
 === online calculators ===
 mbastats confidence interval and hypothesis test calculators

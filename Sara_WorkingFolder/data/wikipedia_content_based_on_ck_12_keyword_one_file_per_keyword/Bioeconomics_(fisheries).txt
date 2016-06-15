@@ -10,7 +10,7 @@ list of harvested aquatic animals by weight
 == references ==
 anderson lg and seijo jc (2010) bioeconomics of fisheries management john wiley and sons isbn 978-0-8138-1732-3
 seijo jc defeo o and salas s (1998) fisheries bioeconomics: theory modelling and management fao fisheries technical paper 368 isbn 92-5-104045-1
-scott a (1955) [1] the fishery: the objectives of sole ownership the journal of political economy 63(2): 116-124
+scott a (1955) "the fishery: the objectives of sole ownership" journal of political economy 63 (2): 116124 jstor 1827047
 == external links ==
 springer journal of bioeconomics
 fishery bioeconomics

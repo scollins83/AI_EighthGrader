@@ -1,0 +1,18 @@
+The Catalogue of Principal Galaxies (PGC) is an astronomical catalog published in 1989 that lists B1950 and J2000 equatorial coordinates and cross-identifications for 73,197 galaxies. 40,932 coordinates (56%) have standard deviations smaller than 10. A total of 131,601 names from the 38 most common sources are listed. Available mean data for each object are given:
+49,102 morphological descriptions,
+52,954 apparent major and minor axis,
+67,116 apparent magnitudes,
+20,046 radial velocities and
+24,361 position angles.
+
+
+== See alsoEdit ==
+Category:PGC objects
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+PGC info at ESO's archive of astronomical catalogues
+PGC readme at Centre de Donnes astronomiques de Strasbourg.

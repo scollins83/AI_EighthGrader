@@ -1,0 +1,14 @@
+The Principle of Original Horizontality states that layers of sediment are originally deposited horizontally under the action of gravity . It is a relative dating technique. The principle is important to the analysis of folded and tilted strata. It was first proposed by the Danish geological pioneer Nicholas Steno (16381686).
+From these observations is derived the conclusion that the Earth has not been static and that great forces have been at work over long periods of time, further leading to the conclusions of the science of plate tectonics; that movement and collisions of large plates of the Earth's crust is the cause of folded strata.
+As one of Steno's Laws, the Principle of Original Horizontality served well in the nascent days of geological science. However, it is now known that not all sedimentary layers are deposited purely horizontally. For instance, coarser grained sediments such as sand may be deposited at angles of up to 15 degrees, held up by the internal friction between grains which prevents them slumping to a lower angle without additional reworking or effort. This is known as the angle of repose, and a prime example is the surface of sand dunes.
+Similarly, sediments may drape over a pre-existing inclined surface: these sediments are usually deposited conformably to the pre-existing surface. Also sedimentary beds may pinch out along strike, implying that slight angles existed during their deposition. Thus the Principle of Original Horizontality is widely, but not universally, applicable in the study of sedimentology, stratigraphy and structural geology.
+
+
+== See also ==
+Law of superposition
+Principle of lateral continuity
+Principle of cross-cutting relationships
+Principle of faunal succession
+
+
+== References ==

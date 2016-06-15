@@ -1,0 +1,58 @@
+the international standard atmosphere (isa) is an atmospheric model of how the pressure temperature density and viscosity of the earth's atmosphere change over a wide range of altitudes or elevations it has been established to provide a common reference for temperature and pressure and consists of tables of values at various altitudes plus some formulas by which those values were derived the international organization for standardization (iso) publishes the isa as an international standard iso 2533:1975 other standards organizations such as the international civil aviation organization (icao) and the united states government publish extensions or subsets of the same atmospheric model under their own standards-making authority
+== description ==
+the isa mathematical model divides the atmosphere into layers with an assumed linear distribution of absolute temperature t against geopotential altitude h the other two values (pressure p and density ) are computed by simultaneously solving the equations resulting from:
+the vertical pressure variation which relates pressure density and geopotential altitude (using a standard pressure of 101,325 pascals (14.696 psi) at mean sea level as a boundary condition):
+p
+=
+g
+h
+{\displaystyle \delta p=-\rho g\delta h}
+ and
+the ideal gas law in molar form which relates pressure density and temperature:
+p
+=
+r
+s
+p
+e
+c
+i
+f
+i
+c
+t
+{\displaystyle \ p=\rho r_{\rm {specific}}t}
+at each geopotential altitude g is the acceleration of gravity and rspecific is the specific gas constant for dry air
+air density must be calculated in order to solve for the pressure and is used in calculating dynamic pressure for moving vehicles dynamic viscosity is an empirical function of temperature and kinematic viscosity is calculated by dividing dynamic viscosity by the density
+thus the standard consists of a tabulation of values at various altitudes plus some formulas by which those values were derived for example at mean sea level the standard gives a pressure of 101,325 pascals (14.6959 psi) (1 atm) a temperature of 15 c (59 f) a temperature lapse rate of 6.5 c (20.3 f) per km (roughly 2 c (-3.6 f) per 1,000 ft) and a density of 1.2250 kilograms per cubic meter (0.07647 lb/cu ft) the tropospheric tabulation continues to 11,000 meters (36,089 ft) where the pressure has fallen to 22,632 pascals (3.2825 psi) the temperature to 56.5 c (69.7 f) and the density to 0.3639 kilograms per cubic meter (0.02272 lb/cu ft) between 11 km and 20 km the temperature remains constant
+to allow modeling conditions below mean sea level the troposphere actually extends to about 610 meters (2,000 ft) where the temperature is 19 c (66 f) pressure is 108,900 pascals (15.79 psi) and density is 1.2985 kilograms per cubic meter (0.08106 lb/cu ft)
+a lapse rate given per kilometer of geopotential altitude
+in the above table geopotential altitude is calculated from a mathematical model that adjusts the altitude to include the variation of gravity with height while geometric altitude is the standard direct vertical distance above mean sea level note that the lapse rates cited in the table are given as c per kilometer of geopotential altitude not geometric altitude
+the isa model is based on average conditions at mid latitudes as determined by the iso's tc 20/sc 6 technical committee it has been revised from time to time since the middle of the 20th century
+=== use at non-standard day conditions ===
+the isa models a hypothetical standard day to allow a reproducible engineering reference for calculation and testing of engine and vehicle performance at various altitudes it does not provide a rigorous meteorological model of actual atmospheric conditions (for example changes in barometric pressure due to wind conditions) neither does it account for humidity effects; air is assumed to be dry and clean and of constant composition humidity effects are accounted for in vehicle or engine analysis by adding water vapor to the thermodynamic state of the air after obtaining the pressure and density from the standard atmosphere model
+non-standard (hot or cold) days are modeled by adding a specified temperature delta to the standard temperature at altitude but pressure density and viscosity are not recalculated at the resultant non-standard temperature (thus the temperature effects on them are considered to be much less important than the effect of altitude.) hot day cold day tropical and polar temperature profiles with altitude have been defined for use as performance references such as united states department of defense mil-std-210c and its successor mil-hdbk-310
+== icao standard atmosphere ==
+the international civil aviation organization (icao) published their "icao standard atmosphere" as doc 7488-cd in 1993 it has the same model as the isa but extends the altitude coverage to 80 kilometers (262,500 feet)
+the icao standard atmosphere like the isa does not contain water vapor
+some of the values defined by icao are:
+aviation standards and flying rules are based on the international standard atmosphere airspeed indicators are calibrated on the assumption that they are operating at sea level in the international standard atmosphere where the air density is 1.225 kg/m3
+== other standard atmospheres ==
+the u.s standard atmosphere is a set of models that define values for atmospheric temperature density pressure and other properties over a wide range of altitudes the first model based on an existing international standard was published in 1958 by the u.s committee on extension to the standard atmosphere and was updated in 1962 1966 and 1976 the u.s standard atmosphere international standard atmosphere and wmo (world meteorological organization) standard atmospheres are the same as the iso international standard atmosphere for altitudes up to 32 km
+nrlmsise-00 is a newer model of the earth's atmosphere from ground to space developed by the us naval research laboratory taking actual satellite drag data into account a primary use of this model is to aid predictions of satellite orbital decay due to atmospheric drag
+the standard conditions for temperature and pressure are a model of gas temperature and pressure used in chemistry
+== see also ==
+acronyms and abbreviations in avionics
+density of air
+== references ==
+davies mark (2003) the standard handbook for aeronautical and astronautical engineers new york: mcgraw-hill isbn 0-07-136229-0
+nasa jpl reference notes
+icao manual of the icao standard atmosphere (extended to 80 kilometres (262 500 feet)) doc 7488-cd third edition 1993 isbn 92-9194-004-6
+== external links ==
+online 1976 standard atmosphere calculator with table en graph generator
+multilingual windows calculator which calculates the atmospheric (standard and not standard!) characteristics according to the "1976 standard atmosphere" and convert between various airspeeds (true / equivalent / calibrated) according to the appropriate atmospheric conditions
+a free android version for complete international standard atmosphere model
+newbyte standard atmosphere calculator and speed converter android version
+icao atmosphere calculator
+icao standards
+complete isa calculator (1976 model)

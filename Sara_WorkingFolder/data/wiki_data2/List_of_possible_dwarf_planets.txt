@@ -1,0 +1,47 @@
+It is estimated that there may be 200 dwarf planets in the Kuiper belt of the outer Solar System and up to 10,000 in the region beyond. The International Astronomical Union (IAU) has accepted four of these: Pluto, Eris, Haumea, and Makemake, as well as Ceres in the inner Solar System. This article lists these and the more likely of the remaining known possibilities.
+
+
+== IAU naming procedures ==
+
+In 2008, the IAU modified its naming procedures such that objects considered most likely to be dwarf planets receive differing treatment than others. Objects that have an absolute magnitude (H) less than +1 (and hence a minimum diameter of 838 kilometres (521 mi) if the albedo is below 100%) are overseen by two naming committees, one for minor planets and one for planets. Once named, the objects are declared to be dwarf planets. Makemake and Haumea are the only objects to have proceeded through the naming process as presumed dwarf planets; currently there are no other bodies that meet this criterion. All other bodies are named by the minor-planet naming committee alone, and the IAU has not stated how or if they will be accepted as dwarf planets.
+
+
+== Limiting values ==
+
+The qualifying feature of a dwarf planet is that it "has sufficient mass for its self-gravity to overcome rigid body forces so that it assumes a hydrostatic equilibrium (nearly round) shape". Current observations are generally insufficient for a direct determination as to whether a body meets this definition. Based on a comparison with the icy moons that have been visited by spacecraft, such as Mimas (round at 400 km in diameter) and Proteus (irregular at 410440 km in diameter), Michael Brown estimated that an icy body relaxes into hydrostatic equilibrium at a diameter somewhere between 200 and 400 km.
+Ceres is thought to be the only dwarf planet in the asteroid belt. 4 Vesta, the second-most-massive asteroid, appears to have a fully differentiated interior and was therefore in equilibrium at some point in its history, but it is not today. The third-most massive object, 2 Pallas, has a somewhat irregular surface and is thought to have only a partially differentiated interior. Brown has estimated that, because rocky objects are more rigid than icy objects, rocky objects below 900 kilometres (560 mi) in diameter may not be in hydrostatic equilibrium and thus not dwarf planets.
+After Brown and Tancredi made their calculations, it was discovered that Iapetus (1,470 km in diameter) and smaller moons of Saturn with well-determined shapes are not in hydrostatic equilibrium as had been thought. They have a hydrostatic shape that froze in some time ago and that does not match the shape an equilibrium body would have at their current rotation rates. Ceres, at 950 km, is the smallest body for which detailed measurements are consistent with hydrostatic equilibrium.  It is not clear whether trans-Neptunian objects would behave more like Ceres or Iapetus; thus, some or all trans-Neptunian dwarf planets smaller than Pluto and Eris might not actually be in equilibrium. The IAU has not addressed the issue since these findings.
+
+
+=== Tancredi's assessment ===
+In 2010, Gonzalo Tancredi presented a report to the IAU evaluating a list of 46 candidates for dwarf-planet status based on light-curve-amplitude analysis and the assumption that the object was more than 450 kilometres (280 mi) in diameter. Some diameters are measured, some are best-fit estimates, and others use an assumed albedo of 0.10. Of these, he identified 15 as dwarf planets by his criteria, with another nine being considered possible. To be cautious, he advised the IAU to "officially" accept as dwarf planets the top three: Sedna, Orcus, and Quaoar. Although the IAU had anticipated Tancredi's recommendations, as of 2013, they had not responded.
+
+
+=== Brown's assessment ===
+Mike Brown considers a large number of trans-Neptunian bodies, ranked by estimated size, to be "probably" dwarf planets. He did not consider asteroids, stating "In the asteroid belt Ceres, with a diameter of 900 km, is the only object large enough to be round".
+The terms for varying degrees of likelihood he split these into:
+Near certainty: diameter estimated/measured to be over 900 kilometres (560 mi). Sufficient confidence to say these must be in hydrostatic equilibrium, even if predominantly rocky.
+Highly likely: diameter estimated/measured to be over 600 kilometres (370 mi). The size would have to be "grossly in error" or they would have to be primarily rocky to not be dwarf planets.
+Likely: diameter estimated/measured to be over 500 kilometres (310 mi). Uncertainties in measurement mean that some of these will be significantly smaller and thus doubtful.
+Probable: diameter estimated/measured to be over 400 kilometres (250 mi). Expected to be dwarf planets, if they are icy, and that figure is correct.
+Possible: diameter estimated/measured to be over 200 kilometres (120 mi). Icy moons transition from a round to irregular shape in the 200400 km range, suggesting that the same figure holds true for KBOs. Thus, some of these objects could be dwarf planets.
+Probably not: diameter estimated/measured to be under 200 km. No icy moon under 200 km is round, suggesting that the same is true for KBOs. The estimated size of these objects would have to be in error for them to be dwarf planets.
+
+
+== Likeliest dwarf planets ==
+The following trans-Neptunian objects have estimated diameters at least 300 kilometres (190 mi) and so may be dwarf planets. Not all bodies estimated to be this size are included. The list is complicated by bodies such as (47171) 1999 TC36 that were at first assumed to be large single objects but later discovered to be binary or triple systems of smaller bodies. The asteroid Ceres is added for comparison.
+The default sort is per Brown's size estimate. The IAU-recognised dwarf planets have bold names. Brown's diameter estimates are in red when they are based upon an assumed albedo. Explanations and sources for the measured masses and diameters can be found in the corresponding articles linked in column "Body" of the table.
+
+
+== See also ==
+List of trans-Neptunian objects
+
+
+== References ==
+
+
+== External links ==
+How many dwarf planets are there in the outer solar system? (updates daily) (Mike Brown)
+Details on the dwarf planet size calculations (Mike Brown)
+Which are the Dwarfs in the Solar System? Tancredi, G.; Favre, S. Icarus, Volume 195, Issue 2, p. 851862.
+NASA JPL Small-Body Database Search Engine

@@ -1,0 +1,671 @@
+The following outline is provided as an overview of and topical guide to geography:
+Geography is the study of earth and its people.
+
+
+== Nature of geography ==
+
+
+=== Geography is ===
+an academic discipline  a body of knowledge given to  or received by  a disciple (student); a branch or sphere of knowledge, or field of study, that an individual has chosen to specialize in. Modern geography is an all-encompassing discipline that seeks to understand the Earth and all of its human and natural complexities  not merely where objects are, but how they have changed and come to be. Geography has been called 'the world discipline'.
+a field of science  widely recognized category of specialized expertise within science, and typically embodies its own terminology and nomenclature. Such a field will usually be represented by one or more scientific journals, where peer reviewed research is published. There are many geography-related scientific journals.
+a natural science  field of academic scholarship that explores aspects of natural environment (physical geography).
+a social science  field of academic scholarship that explores aspects of human society (human geography).
+
+an interdisciplinary field  a field that crosses traditional boundaries between academic disciplines or schools of thought, as new needs and professions have emerged. Many of the branches of physical geography are also branches of Earth science.
+
+
+=== Etymology of Geography ===
+Etymology of "geography": from Greek  - geographia, lit. "earth describe-write"
+geo-  a prefix taken from the Greek word  or  meaning "earth", usually in the sense of "ground or land". Geo- is a prefix for many words dealing in some way with the earth.
+-graphy  an English suffix. Words that include this suffix usually are about a work, an art, or a field of study.
+
+
+== Branches of geography ==
+As "the bridge between the human and physical sciences," geography is divided into two main branches:
+human geography
+physical geography
+Other branches include:
+integrated geography
+geomatics
+regional geography
+All the branches are further described below...
+
+
+=== Physical geography ===
+Physical geography  examines the natural environment and how the climate, vegetation & life, soil, water, and landforms are produced and interact.
+
+
+==== Fields of physical geography ====
+Geomorphology  study of landforms and the processes that them, and more broadly, the of processes controlling the topography of any planet. Seeks to understand why landscapes look the way they do, to understand landform history and dynamics, and to predict future changes through a combination of field observation, physical experiment, and numerical modeling.
+Hydrology  study of the movement, distribution, and quality of water throughout the Earth, including the hydrologic cycle, water resources and environmental watershed sustainability.
+Glaciology  study of glaciers, or more generally ice and natural phenomena that involve ice.
+Oceanography  studies a wide range of topics pertaining to oceans, including marine organisms and ecosystem dynamics; ocean currents, waves, and geophysical fluid dynamics; plate tectonics and the geology of the sea floor; and fluxes of various chemical substances and physical properties within the ocean and across its boundaries.
+
+Biogeography  study of the distribution of species spatially and temporally. Over areal ecological changes, it is also tied to the concepts of species and their past, or present living 'refugium', their survival locales, or their interim living sites. It aims to reveal where organisms live, and at what abundance.
+Climatology  study of climate, scientifically defined as weather conditions averaged over a period of time.
+Meteorology is the interdisciplinary scientific study of the atmosphere that focuses on weather processes and short term forecasting (in contrast with climatology).
+Pedology  study of soils in their natural environment that deals with pedogenesis, soil morphology, and soil classification.
+Palaeogeography  study of what the geography was in times past, most often concerning the physical landscape, but also the human or cultural environment.
+Coastal geography  study of the dynamic interface between the ocean and the land, incorporating both the physical geography (i.e. coastal geomorphology, geology and oceanography) and the human geography (sociology and history) of the coast. It involves an understanding of coastal weathering processes, particularly wave action, sediment movement and weather, and also the ways in which humans interact with the coast.
+Quaternary science  focuses on the Quaternary period, which encompasses the last 2.6 million years, including the last ice age and the Holocene period.
+Landscape ecology  the relationship between spatial patterns of urban development and ecological processes on a multitude of landscape scales and organizational levels.
+
+
+==== Approaches of physical geography ====
+Quantitative geography  Quantitative research tools and methods applied to geography. See also the quantitative revolution.
+Systems approach 
+
+
+=== Human geography ===
+Human geography  one of the two main subfields of geography, it is the study of human use and understanding of the world and the processes which have affected it. Human geography broadly differs from physical geography in that it focuses on the built environment and how space is created, viewed, and managed by humans as well as the influence humans have on the space they occupy.
+
+
+==== Fields of human geography ====
+Cultural geography  study of cultural products and norms and their variations across and relations to spaces and places. It focuses on describing and analyzing the ways language, religion, economy, government and other cultural phenomena vary or remain constant, from one place to another and on explaining how humans function spatially.Children's geographies  study of places and spaces of children's lives, characterized experientially, politically and ethically. Children's geographies rests on the idea that children as a social group share certain characteristics which are experientially, politically and ethically significant and which are worthy of study. The pluralisation in the title is intended to imply that children's lives will be markedly different in differing times and places and in differing circumstances such as gender, family, and class. The range of focii within children's geographies include:
+Children and the city
+Children and the countryside
+Children and technology
+Children and nature,
+Children and globalization
+Methodologies of researching children's worlds
+Ethics of researching children's worlds
+Otherness of childhood
+
+Animal geographies  studies the spaces and places occupied by animals in human culture, because social life and space is heavily populated by animals of many differing kinds and in many differing ways (e.g. farm animals, pets, wild animals in the city). Another impetus that has influenced the development of the field are ecofeminist and other environmentalist viewpoints on nature-society relations (including questions of animal welfare and rights).
+Language geography  studies the geographic distribution of language or its constituent elements. There are two principal fields of study within the geography of language:
+Geography of languages  deals with the distribution through history and space of languages,
+Linguistic geography  deals with regional linguistic variations within languages.
+
+Sexuality and space  encompasses all relationships and interactions between human sexuality, space, and place, including the geographies of LGBT residence, public sex environments, sites of queer resistance, global sexualities, sex tourism, the geographies of prostitution and adult entertainment, use of sexualised locations in the arts, and sexual citizenship.
+Religion geography  study of the impact of geography, i.e. place and space, on religious belief.
+
+Development geography  study of the Earth's geography with reference to the standard of living and quality of life of its human inhabitants. Measures development by looking at economic, political and social factors, and seeks to understand both the geographical causes and consequences of varying development, in part by comparing More Economically Developed Countries (MEDCs) with Less Economically Developed Countries (LEDCs).
+Economic geography  study of the location, distribution and spatial organization of economic activities across the world. Subjects of interest include but are not limited to the location of industries, economies of agglomeration (also known as "linkages"), transportation, international trade and development, real estate, gentrification, ethnic economies, gendered economies, core-periphery theory, the economics of urban form, the relationship between the environment and the economy (tying into a long history of geographers studying culture-environment interaction), and globalization.
+Marketing geography  a discipline within marketing analysis which uses geolocation (geographic information) in the process of planning and implementation of marketing activities. It can be used in any aspect of the marketing mix  the product, price, promotion, or place (geo targeting).
+Transportation geography  branch of economic geography that investigates spatial interactions between people, freight and information. It studies humans and their use of vehicles or other modes of traveling as well as how markets are serviced by flows of finished goods and raw materials.
+
+Health geography  application of geographical information, perspectives, and methods to the study of health, disease, and health care, to provide a spatial understanding of a population's health, the distribution of disease in an area, and the environment's effect on health and disease. It also deals with accessibility to health care and spatial distribution of health care providers.
+Time geography  study of the temporal factor on spatial human activities within the following constraints:
+
+Authority - limits of accessibility to certain places or domains placed on individuals by owners or authorities
+Capability - limitations on the movement of individuals, based on their nature. For example, movement is restricted by biological factors, such as the need for food, drink, and sleep
+Coupling - restraint of an individual, anchoring him or her to a location while interacting with other individuals in order to complete a task
+Historical geography  study of the human, physical, fictional, theoretical, and "real" geographies of the past, and seeks to determine how cultural features of various societies across the planet emerged and evolved, by understanding how a place or region changes through time, including how people have interacted with their environment and created the cultural landscape.
+Political geography  study of the spatially uneven outcomes of political processes and the ways in which political processes are themselves affected by spatial structures. Basically, the inter-relationships between people, state, and territory.
+Electoral geography  study of the relationship between election results and the regions they affect (such as the environmental impact of voting decisions), and of the effects of regional factors upon voting behavior.
+Geopolitics  analysis of geography, history and social science with reference to spatial politics and patterns at various scales, ranging from the level of the state to international.
+Strategic geography  concerned with the control of, or access to, spatial areas that have an impact on the security and prosperity of nations.
+Military geography  the application of geographic tools, information, and techniques to solve military problems in peacetime or war.
+
+Population geography  study of the ways in which spatial variations in the distribution, composition, migration, and growth of populations are related to the nature of places.
+Tourism geography  study of travel and tourism, as an industry and as a social and cultural activity, and their impact on places, including the environmental impact of tourism, the geographies of tourism and leisure economies, answering tourism industry and management concerns and the sociology of tourism and locations of tourism.
+Urban geography  the study of urban areas, in terms of concentration, infrastructure, economy, and environmental impacts.
+
+
+==== Approaches of human geography ====
+Behavioral geography 
+Cognitive geography 
+Critical geography 
+Feminist geography 
+Marxist geography 
+Non-representational theory 
+Postcolonialism 
+Post-structuralism 
+Qualitative geography  qualitative research tools and methods applied to geography.
+
+
+=== Integrated geography ===
+Integrated geography  branch of geography that describes the spatial aspects of interactions between humans and the natural world. It requires an understanding of the dynamics of geology, meteorology, hydrology, biogeography, ecology, and geomorphology, as well as the ways in which human societies conceptualize the environment.
+
+
+=== Geomatics ===
+Geomatics  branch of geography and the discipline of gathering, storing, processing, and delivering geographic information, or spatially referenced information. It is a widespread interdisciplinary field that includes the tools and techniques used in land surveying, remote sensing, cartography, Geographic Information Systems (GIS), Global Navigation Satellite Systems, photogrammetry, and related forms of earth mapping.
+
+
+==== Fields contributing to geomatics ====
+Photogrammetry 
+Cartography 
+Digital terrain modelling 
+Geodesy 
+Geographic information systems 
+Geospatial 
+Global navigation satellite systems  (GPS, GLONASS, GALILEO, COMPASS)
+Global Positioning System 
+Hydrography 
+Mathematics 
+Navigation 
+Photogrammetry 
+Remote sensing 
+Surveying 
+
+
+=== Regional geography ===
+Regional geography  study of world regions. Attention is paid to unique characteristics of a particular region such as its natural elements, human elements, and regionalization which covers the techniques of delineating space into regions. Regional geography breaks down into the study of specific regions.
+Region  an area, defined by physical characteristics, human characteristics, or functional characteristics. The term is used in various ways among the different branches of geography. A region can be seen as a collection of smaller units, such as a country and its political divisions, or as one part of a larger whole, as in a country on a continent.
+
+
+==== Supercontinents ====
+
+A supercontinent is a landmass comprising more than one continental core, or craton.
+Afro-Eurasia (formed 5 million years ago)
+Americas (formed 15 million years ago)
+Eurasia (formed 60 million years ago)
+
+
+==== Continents ====
+
+A continent is one of several large landmasses on Earth. They are generally identified by convention rather than any specific criteria, but seven areas are commonly regarded as continents. They are:
+
+1. Africa   (outline) 
+2. Antarctica 
+3. Australia   (outline) 
+
+The Americas:
+4. North America   (outline) 
+5. South America   (outline) 
+
+Eurasia:
+6. Europe   (outline) 
+7. Asia   (outline) 
+
+
+===== Subregions =====
+Subregion (list)
+
+
+==== Biogeographic regions ====
+
+
+===== Ecozone =====
+Main article: Ecozone
+The World Wildlife Fund (WWF) developed a system of eight biogeographic realms (ecozones):
+Nearctic 22.9 mil. km (including most of North America)
+Palearctic 54.1 mil. km (including the bulk of Eurasia and North Africa)
+Afrotropic 22.1 mil. km (including Sub-Saharan Africa)
+Indomalaya 7.5 mil. km (including the South Asian subcontinent and Southeast Asia)
+Australasia 7.7 mil. km (including Australia, New Guinea, and neighboring islands). The northern boundary of this zone is known as the Wallace line.
+Neotropic 19.0 mil. km (including South America and the Caribbean)
+Oceania 1.0 mil. km (including Polynesia, Fiji and Micronesia)
+Antarctic 0.3 mil. km (including Antarctica).
+
+
+===== Ecoregions =====
+Main article: Ecoregion
+Ecozones are further divided into ecoregions. The World has over 800 terrestrial ecoregions. See Lists of ecoregions by country.
+
+
+==== Geography of the political divisions of the World ====
+
+
+==== Other regions ====
+Atlantic World
+Bermuda Triangle
+Pacific Rim
+Pacific Ring of Fire
+
+
+== History of geography ==
+
+Main articles: History of geography and Historical geography
+Topics pertaining to the geographical study of the World throughout history:
+
+
+=== By period ===
+Ancient roads
+Ancient Greek geography
+Age of discovery
+Major explorations after the Age of Discovery
+Critical geography
+Environmental determinism
+
+
+=== By region ===
+Chinese geography
+History of human geography in China
+
+
+=== By subject ===
+Historical population of the world
+
+
+==== By field ====
+History of human geography
+History of cartography
+History of longitude
+Longitude Prize
+
+History of cultural geography
+History of economic geography
+History of health geography
+History of political geography
+History of demography
+
+History of physical geography
+History of biogeography
+History of climatology
+History of meteorology
+History of geodesy
+History of geomorphology
+History of hydrology
+History of oceanography
+
+History of landscape ecology
+
+History of regional geography
+
+
+== Elements of geography ==
+Topics common to the various branches of geography include:
+
+
+=== Tasks and tools of geography ===
+
+Main articles: Geosophy and Philosophy of geography
+Exploration  the act of traveling and searching for resources or for information about the land or space itself.
+Geocode (Geospatial Entity Object Code)  geospatial coordinate system for specifying the exact location of a geospatial point at, below, or above the surface of the earth at a given moment of time.
+Geographic information system (GIS)  set of tools that captures, stores, analyzes, manages, and presents data that are linked to location(s). Combines elements of cartography, statistical analysis, and database technology.
+Globe  a three-dimensional scale model of a spheroid celestial body such as a planet, star, or moon.
+Terrestrial globe  globe of the Earth.
+
+Map  a visual representation of an area, depicting the elements of that area such as objects, regions, and themes.
+Atlas  a collection of maps, typically of the Earth or a region thereof.
+Cartography  the study and practice of making maps.
+Map projection  any method of representing the surface of a sphere or other shape on a plane. Necessary for creating maps.
+
+Demographics  the characteristics of a human population as used in government, marketing or opinion research, or the demographic profiles used in such research. Distinct from demography, which is the statistical study of human populations.
+Spatial analysis  a variety of statistical techniques used to study entities using their topological, geometric, or geographic properties.
+Surveying  the technique and science of accurately determining the terrestrial or three-dimensional position of points and the distances and angles between them. These points are usually on the surface of the Earth, and they are often used to establish land maps and boundaries for ownership or governmental purposes.
+
+
+=== Types of geographic features ===
+Geographic feature  component of a planet that can be referred to as a location, place, site, area, or region, and therefore may show up on a map. A geographic feature may be natural or artificial.
+
+
+==== Location and place ====
+
+Location 
+Absolute location 
+Latitude 
+Prime meridian 
+
+Longitude 
+Equator 
+Tropic of Cancer 
+Tropic of Capricorn 
+
+Altitude 
+Elevation 
+
+Place
+Aspects of a place or region
+Climate 
+Population 
+Demographics 
+Population density 
+
+Overpopulation 
+World population 
+
+Sense of place 
+Terrain 
+Topography 
+Tourist attraction 
+
+Lists of places 
+
+
+==== Natural geographic features ====
+Natural geographic feature  an ecosystem or natural landform.
+
+
+===== Ecosystems =====
+Ecosystem  community of living organisms in conjunction with the nonliving components of their environment (things like air, water and mineral soil), interacting as a system. These biotic and abiotic components are regarded as linked together through nutrient cycles and energy flows.
+Biodiversity hotspot
+Ecozone  broadest biogeographic division of the Earth's land surface, based on distributional patterns of terrestrial organisms.
+Ecoprovince  biogeographic unit smaller than an ecozone that contains one or more ecoregions.
+Ecoregion 
+Ecodistrict 
+Ecosection 
+Ecosite 
+Ecotope 
+Ecoelement 
+
+Biome 
+Bioregion 
+Biotope 
+Bioelement 
+
+
+===== Natural landforms =====
+
+Natural landform  terrain or body of water. Landforms are topographical elements, and are defined by their surface form and location in the landscape. Landforms are categorized by traits such as elevation, slope, orientation, stratification, rock exposure, and soil type. Some landforms are artificial, such as certain islands, but most landforms are natural.
+
+
+==== Natural terrain feature types ====
+Continent 
+Island 
+Mainland 
+Mountain 
+Mountain range 
+Subcontinent 
+
+
+==== Natural body of water types ====
+Natural bodies of water 
+Bodies of sea water
+Channel 
+Firth 
+Harbor 
+Inlet 
+Bay 
+Bight 
+Gulf 
+
+Cove 
+Creek (tidal) 
+Estuary 
+Fjord (fiord) 
+
+Kettle 
+Kill 
+Lagoon 
+Barachois 
+
+Loch 
+Arm of the sea 
+Mere 
+
+Ocean 
+Phytotelma 
+Salt marsh 
+Sea 
+Types of sea:
+Mediterranean sea 
+Sound 
+
+Sea components or extensions:
+Sea loch 
+Sea lough 
+
+Strait 
+
+Bodies of fresh water
+Bayou 
+Lake (list) 
+Oxbow lake 
+Subglacial lake 
+Tarn 
+
+Pool 
+Pond 
+Billabong 
+
+Tide pool 
+Vernal pool 
+Puddle 
+
+River (list) 
+
+Parts of a river:
+Rapid 
+Source 
+Waterfall (list) 
+
+Roadstead 
+Spring 
+Boil -
+
+Stream 
+Beck 
+Brook 
+Burn 
+Creek 
+Arroyo (creek) 
+Wash 
+Draw 
+
+Run 
+
+Wetland 
+Freshwater marsh 
+Slough (wetland) 
+Mangrove swamp 
+
+
+==== Artificial geographic features ====
+Artificial geographic feature  a thing that was made by humans that may be indicated on a map. It may be physical and exist in the real world (like a bridge or city), or it may be abstract and exist only on maps (such as the Equator, which has a defined location, but cannot be seen where it lies).
+Artificial geographic feature  physical construct that is part of the landscape (and anthrosphere). Some examples include Tokyo, the Great Wall of China, the Suez Canal, Interstate 5, and the Boeing Everett Factory.
+Settlement 
+Hamlet (place); rural settlement which is too small to be considered a village. Historically, when a hamlet became large enough to justify building a church, it was then classified as a village. One example of a hamlet is a small cluster of houses surrounding a mill.
+Village  clustered human settlement or community, larger than a hamlet with the population ranging from a few hundred to a few thousand (sometimes tens of thousands).
+Town  human settlement larger than a village but smaller than a city. The size a settlement must be in order to be called a "town" varies considerably in different parts of the world, so that, for example, many American "small towns" seem to British people to be no more than villages, while many British "small towns" would qualify as cities in the United States.
+Urban hierarchy  ranks the structure of towns within an area.
+1st-order towns  bare minimum of essential services, such as bread and milk.
+2nd-order towns
+3rd-order towns
+4th-order towns
+
+City  relatively large and permanent settlement. In many regions, a city is distinguished from a town by attainment of designation according to law, for instance being required to obtain articles of incorporation or a royal charter.
+Financial centre
+Primate city  the leading city in its country or region, disproportionately larger than any others in the urban hierarchy.
+Metropolis  very large city or urban area which is a significant economic, political and cultural center for a country or region, and an important hub for regional or international connections and communications.
+Metropolitan area  region consisting of a densely populated urban core and its less-populated surrounding territories, sharing industry, infrastructure, and housing.
+Global city  city that is deemed to be an important node in the global economic system. Globalization is largely created, facilitated and enacted in strategic geographic locales (including global cities) according to a hierarchy of importance to the operation of the global system of finance and trade.
+Megalopolis  chain of roughly adjacent metropolitan areas. An example is the huge metropolitan area along the eastern seaboard of the U.S. extending from Boston, Massachusetts through New York City; Philadelphia, Pennsylvania; Baltimore, Maryland and ending in Washington, D.C..
+Eperopolis  theoretical "continent city". The world does not have one yet. Will Europe become the first one?
+Ecumenopolis  theoretical "world city". Will the world ever become so urbanized as to be called this?
+
+Engineered construct  built feature of the landscape such as a highway, bridge, airport, railroad, building, dam, or reservoir. See also construction engineering and infrastructure.
+Artificial landforms
+Artificial dwelling hill 
+Artificial island 
+Artificial reef 
+
+Airport  place where airplanes can take off and land, including one or more runways and one or more passenger terminals.
+Aqueduct  artificial channel that is constructed to convey water from one location to another.
+Breakwater  construction designed to break the force of the sea to provide calm water for boats or ships, or to prevent erosion of a coastal feature.
+Bridge  structure built to span a valley, road, body of water, or other physical obstacle such as a canyon, for the purpose of providing passage over the obstacle.
+Building  closed structure with walls and a roof.
+Canal  artificial waterway, often connecting one body of water with another.
+Causeway 
+Dam  structure placed across a flowing body of water to stop the flow, usually to use the water for irrigation or to generate electricity.
+Dike  barrier of stone or earth used to hold back water and prevent flooding.
+Levee  artificial slope or wall to regulate water levels, usually earthen and often parallel to the course of a river or the coast.
+
+Farm  place where agricultural activities take place, especially the growing of crops or the raising of livestock.
+Manmade harbor  harbor that has deliberately constructed breakwaters, sea walls, or jettys, or which was constructed by dredging.
+Industrial region
+Marina 
+Orchard 
+Parking lot 
+Pier 
+Pipeline 
+Port 
+Railway 
+Ranch 
+Reservoir 
+Road 
+Highway 
+Race track 
+Street 
+
+Subsidence crater 
+Ski resort 
+Train station 
+Tree farm 
+Tunnel 
+Viaduct 
+Wharf 
+
+Abstract geographic feature  does not exist physically in the real world, yet has a location by definition and may be displayed on maps.
+Geographical zone
+Hardiness zone
+Time zone
+
+Political division 
+Nation
+Administrative division 
+Special Economic Zone
+
+Country subdivision  a designated territory created within a country for administrative or identification purposes. Examples of the types of country subdivisions:
+Bailiwick 
+Canton 
+Commune 
+County 
+Department 
+District 
+Duchy 
+Emirate 
+Federal state 
+Parish 
+Prefecture 
+Province 
+Region 
+Rural district 
+Settlement 
+Municipality 
+City 
+Borough 
+Township 
+
+Village 
+
+Shire 
+State 
+Subdistrict 
+Subprefecture 
+Voivodeship 
+Wilayat 
+
+Cartographical feature  theoretical construct used specifically on maps that doesn't have any physical form apart from its location.
+Latitude line 
+Equator 
+
+Longitude line 
+Prime Meridian) 
+
+Geographical pole 
+North pole 
+South pole 
+
+
+==== Geographic features that include the natural and artificial ====
+Waterway (list) 
+
+
+== Geography awards ==
+
+Some awards and competitions in the field of geography:
+Geography Cup 
+Gold Medal 
+Hubbard Medal 
+National Geographic World Championship 
+Victoria Medal 
+
+
+== Persons influential in geography ==
+
+A geographer is a scientist who studies Earth's physical environment and human habitat. Geographers are historically known for making maps, the subdiscipline of geography known as cartography. They study the physical details of the environment and also its impact on human and wildlife ecologies, weather and climate patterns, economics, and culture. Geographers focus on the spatial relationships between these elements.
+
+
+=== Influential physical geographers ===
+
+Eratosthenes (276  194 BC)  who made the first known reliable estimation of the Earth's size. He is considered the father of geodesy.
+Ptolemy (c.90  c.168)  who compiled Greek and Roman knowledge to produce the book Geographia.
+Ab Rayhn Brn (973  1048 AD)  considered te father of geodesy.
+Ibn Sina (Avicenna, 9801037)  who formulated the law of superposition and concept of uniformitarianism in The Book of Healing.
+Muhammad al-Idrisi (Dreses, 1100  c.1165)  who drew the Tabula Rogeriana, the most accurate world map in pre-modern times.
+Piri Reis (1465  c.1554)  whose Piri Reis map is the oldest surviving world map to include the Americas and possibly Antarctica
+Gerardus Mercator (15121594)  an innovative cartographer and originator of the Mercator projection.
+Bernhardus Varenius (16221650)  Wrote his important work "General Geography" (1650)  first overview of the geography, the foundation of modern geography.
+Mikhail Lomonosov (17111765)  father of Russian geography and founded the study of glaciology.
+Alexander Von Humboldt (17691859)  considered the father of modern geography. Published Kosmos and founded the study of biogeography.
+Arnold Henry Guyot (18071884)  who noted the structure of glaciers and advanced the understanding of glacial motion, especially in fast ice flow.
+Louis Agassiz (18071873)  the author of a glacial theory which disputed the notion of a steady-cooling Earth.
+Alfred Russel Wallace (18231913)  founder of modern biogeography and the Wallace line.
+Vasily Dokuchaev (18461903)  patriarch of Russian geography and founder of pedology.
+Wladimir Peter Kppen (18461940)  developer of most important climate classification and founder of Paleoclimatology.
+William Morris Davis (18501934)  father of American geography, founder of Geomorphology and developer of the geographical cycle theory.
+Walther Penck (18881923)  proponent of the cycle of erosion and the simultaneous occurrence of uplift and denudation.
+Sir Ernest Shackleton (18741922)  Antarctic explorer during the Heroic Age of Antarctic Exploration.
+Robert E. Horton (18751945)  founder of modern hydrology and concepts such as infiltration capacity and overland flow.
+J Harlen Bretz (18821981)  pioneer of research into the shaping of landscapes by catastrophic floods, most notably the Bretz (Missoula) floods.
+Willi Dansgaard (born 1922)  palaeoclimatologist and quaternary scientist, instrumental in the use of oxygen-isotope dating and co-identifier of Dansgaard-Oeschger events.
+Hans Oeschger (19271998)  palaeoclimatologist and pioneer in ice core research, co-identifier of Dansgaard-Orschger events.
+Richard Chorley (19272002)  a key contributor to the quantitative revolution and the use of systems theory in geography.
+Sir Nicholas Shackleton (19372006)  who demonstrated that oscillations in climate over the past few million years could be correlated with variations in the orbital and positional relationship between the Earth and the Sun.
+Stefan Rahmstorf (born 1960)  professor of abrupt climate changes and author on theories of thermohaline dynamics.
+
+
+=== Influential human geographers ===
+
+Carl Ritter (17791859)  considered to be one of the founding fathers of modern geography and first chair in geography at the Humboldt University of Berlin, also noted for his use of organic analogy in his works.
+Friedrich Ratzel (18441904)  environmental determinist, invented the term Lebensraum
+Paul Vidal de la Blache (18451918)  founder of the French School of geopolitics and possibilism.
+Sir Halford John Mackinder (18611947)  author of The Geographical Pivot of History, co-founder of the London School of Economics, along with the Geographical Association.
+Carl O. Sauer (18891975)  critic of environmental determinism and proponent of cultural ecology.
+Walter Christaller (18931969)  economic geographer and developer of the central place theory.
+Richard Hartshorne (18991992)  scholar of the history and philosophy of geography.
+Torsten Hgerstrand (19162004)  critic of the quantitative revolution and regional science, noted figure in critical geography.
+Milton Santos (19262001) winner of the Vautrin Lud prize in 1994, one of the most important geographers in South America.
+Waldo R. Tobler (born 1930)  developer of the First law of geography.
+Yi-Fu Tuan (born 1930) A Chinese-American geographer.
+David Harvey (born 1935)  world's most cited academic geographer and winner of the Laurat Prix International de Gographie Vautrin Lud, also noted for his work in critical geography and critique of global capitalism.
+Evelyn Stokes (19362005). Professor of geography at the University of Waikato in New Zealand. Known for recognizing inequality with marginalized groups including women and Mori using geography.
+Allen J. Scott (born 1938)  winner of Vautrin Lud Prize in 2003 and the Anders Retzius Gold medal 2009; author of numerous books and papers on economic and urban geography, known for his work on regional development, new industrial spaces, agglomeration theory, global city-regions and the cultural economy.
+Edward Soja (born 1941)  noted for his work on regional development, planning and governance, along with coining the terms synekism and postmetropolis.
+Doreen Massey (born 1944)  key scholar in the space and places of globalization and its pluralities, winner of the Vautrin Lud Prize.
+Michael Watts, Class of 1963 Professor of Geography and Development Studies, University of California, Berkeley
+Nigel Thrift (born 1949)  developer of non-representational theory.
+Derek Gregory (born 1951)  famous for writing on the Israeli, U.S. and UK actions in the Middle East after 9/11, influenced by Edward Said and has contributed work on imagined geographies.
+Cindi Katz (born 1954)  who writes on social reproduction and the production of space. Writing on children's geographies, place and nature, everyday life and security.
+Gillian Rose (born 1962)  most famous for her critique: Feminism & Geography: The Limits of Geographical Knowledge (1993)  which was one of the first moves towards a development of feminist geography.
+
+
+== Geography educational frameworks ==
+Educational frameworks upon which primary and secondary school curricula for geography are based upon include:
+Five themes of geography 
+Location  a position or point that something occupies on the Earth's surface.
+Place 
+Human-environment interaction 
+movement 
+Region 
+
+The six "essential elements" identified by the Geography Education Standards Project, under which the National Geography Standards they developed are organized:The World in spatial terms
+Places and regions
+Physical systems
+Human systems
+Environment and society
+The uses of geography
+
+The three content areas of geography from the 2010 National Assessment of Educational Progress (U.S.):
+Space and place
+Environment and society
+Spatial dynamics and connections
+
+
+== See also ==
+
+Association of American Geographers
+Canadian Association of Geographers
+Gazetteer
+Geographer
+Geographical renaming
+Geography and places reference tables
+International Geographical Union
+Landform
+List of explorers
+List of Russian explorers
+
+Map
+Navigator
+Philosophy of geography
+World map
+
+
+== References ==
+
+
+== External links ==
+Pidwirny, Michael. (2014). Glossary of Terms for Physical Geography. Planet Earth Publishing, Kelowna, Canada. ISBN 9780987702906. Available on Google Play.
+Pidwirny, Michael. (2014). Understanding Physical Geography. Planet Earth Publishing, Kelowna, Canada. ISBN 9780987702944. Available on Google Play.

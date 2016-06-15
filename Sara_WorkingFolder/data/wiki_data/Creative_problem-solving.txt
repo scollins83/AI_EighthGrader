@@ -1,0 +1,43 @@
+creative problem-solving a type of problem solving is the mental process of searching for a new and novel creative solution to a problem a solution which is novel original and not obvious
+== creative solution types ==
+=== the creative solution ===
+to qualify as creative problem-solving the solution must solve the stated problem in a novel way and the solution must be reached independently
+creative problem-solving usually begins with defining the problem this may lead to a simple non-creative solution or to finding a "textbook solution" the creative problem-solving process may also lead to the discovery of prior art and of creative solutions by others the process in these cases may then be abandoned if the discovered solution is "good enough"
+typically a creative solution will have 'elegant' characteristics such as using existing components without introducing any new components into the solution (i.e "no moving parts") using the problematic factor as the basis for the solution (i.e "using the philistine's sword against him") or involving a change of perspective (i.e the line through nine dots riddle)
+many times a solution is considered creative if components that are readily available can be used and when there is a short time limit within which to solve the problem these two factors are typical to the solutions shown in the macgyver (tv series)
+=== innovations ===
+if a creative solution has broad use it may be referred to as an innovative solution or an innovation the term innovation (disambiguation) may also refer to the process of creating those innovative solutions
+"all innovations [begin] as creative solutions but not all creative solutions become innovations."
+=== inventions ===
+if an innovation is unique original and novel it is considered an invention it must be original - not known to people who are knowledgeable in the field of the solution and novel - not an obvious solution easily conceived by people with knowledge in the field of that solution - when shown the problem
+not all inventions are created through creative problem-solving inventions may be 'discovered' or 'contemplated' many times without a 'problem to solve' or solving a problem that they originally were not intended for but many inventions in fact are the outcome of creative problem-solving
+an invention can become intellectual property if the inventor files and receives a patent which is a legal document where the invention is clearly defined and which shows proof of its uniqueness originality and novelty
+== techniques and tools ==
+many of the techniques and tools for creating an effective solution to a problem are described in creativity techniques and problem solving
+=== creative problem-solving technique categories ===
+creative problem-solving techniques can be categorized as follows:
+mental state shift: creativity techniques designed to shift a person's mental state into one that fosters creativity these techniques are described in creativity techniques one such popular technique is to take a break and relax or sleep after intensively trying to think of a solution
+problem reframing: creativity techniques designed to reframe the problem for example reconsidering one's goals by asking "what am i really trying to accomplish?" can lead to useful insights
+multiple idea facilitation: creativity techniques designed to increase the quantity of fresh ideas this approach is based on the belief that a larger number of ideas increases the chances that one of them has value some of these techniques involve randomly selecting an idea (such as choosing a word from a list) thinking about similarities with the undesired situation and hopefully inspiring a related idea that leads to a solution such techniques are described in creativity techniques
+inducing change of perspective: creative-problem-solving techniques designed to efficiently lead to a fresh perspective that causes a solution to become obvious this category is especially useful for solving especially challenging problems.[2] some of these techniques involve identifying independent dimensions that differentiate (or separate) closely associated concepts.[3] such techniques can overcome the mind's instinctive tendency to use "oversimplified associative thinking" in which two related concepts are so closely associated that their differences and independence from one another are overlooked.[4]
+=== creative problem solving ===
+creative problem solving (cps) describes the osborn-parnes process of how to solve problems creatively alex osborn the "o" in the advertising firm bbd&o and is credited with being the father of brainstorming and sidney parnes phd a psychologist who worked with alex osborn and designed methods for teaching cps alex osborn's landmark book published applied imagination here osborn details the attributes of creative problem solving dr s parnes in various texts (visionizing for example) describes an organized process for cps the six steps of cps are objective finding data finding problem finding idea finding solution finding and acceptance finding within each stage one using cps employs divergent thinking or brainstorming and convergent thinking focusing in on the "best" answer given the context of the situation many publications are available that include thinking tools to organize divergent and convergent thinking and that guide the process to a conclusion see michalko m. black a. treffinger d. lewin j.only a few of the many authors who have published books that include cps thinking tools the goal of cps is to find the "better" solution to a problem given the context of the situation see www.creativeeducationfoundation.org for information on cpsi creative problem solving institute's annual conference and other information about cps
+brainstorming (osborn a (1966) applied imagination) and mind mapping (buzan tony mind mapping) are tools to use with cps for divergent thinking brainstorming acknowledges that every idea counts is written down because ideas are not actions through the use of different thinking tools (e.g. "clustering," "hits & hot spots") focused thinking is applied to reign in the wild ideas (lewin j et al (1998) creative problem solving in occupational therapy philadelphia:lippincott williams & wilkinsapplies cps to healthcare and is one of the many books that presents the cps process in detail)
+=== creative problem-solving tools and software ===
+creative problem-solving "tools" that facilitate specific creative problem-solving techniques are available from many authors donald treffinger phd has published numerous resources for teaching creative problem-solving to young children richard fobes authored a "tool box" for creative thinking as did michael michelko author of thinkertoys among other publications including cracking creativity creative thinkering and a brainstorming card tool thinkpak
+== see also ==
+lists
+list of thought processes
+list of cognitive biases
+list of creative thought processes
+list of decision-making processes
+list of emotional intelligence topics
+list of counseling topics
+== references ==
+^ richard fobes the creative problem solver's toolbox: a complete course in the art of creating solutions to problems of any kind (1993) isbn 0-96-322210-4
+== further reading ==
+alex osborn applied imagination: principles and procedures of creative problem solving creative education foundation press 1953/2001 isbn 0-930222-73-3
+edward de bono lateral thinking : creativity step by step harper & row 1973 trade paperback 300 pages isbn 0-06-090325-2
+altshuller henry 1994 the art of inventing (and suddenly the inventor appeared) translated by lev shulyak worcester massachusetts: technical innovation center isbn 0-9640740-1-x
+== external links ==
+problemistics: the art and craft of problem dealing courseware on problem-finding and problem-solving

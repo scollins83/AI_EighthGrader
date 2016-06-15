@@ -1,0 +1,93 @@
+animal training refers to teaching animals specific responses to specific conditions or stimuli training may be for purposes such as companionship detection protection and entertainment the type of training an animal receives will vary depending on the training method used and the purpose for training the animal for example a seeing eye dog will be trained to achieve a different goal than a wild animal in a circus
+in some countries animal trainer certification bodies exist but they do not share consistent goals or requirements the united states does not require animal trainers to have any specific certification an animal trainer should consider the natural behaviors of the animal and aim to modify behaviors through a basic system of reward and punishment
+== methods ==
+=== the behavioral approach ===
+==== principles ====
+during training an animal trainer can administer one of four potential consequences for a given behavior: positive reinforcement negative reinforcement positive punishment and negative punishment positive reinforcement occurs when an animal's behavior is followed by a stimulus that increases occurrences of the behavior in the future negative reinforcement occurs when a behavior is followed by the removal of an aversive stimulus and occurrences of the behavior increase in the future positive punishment occurs when a behavior is followed by the addition of an aversive stimulus and this decreases occurrences of the behavior in the future negative punishment occurs when a behavior is followed by the removal of a stimulus and occurrences of the behavior decrease in the future
+behavior analysts emphasize the use of positive reinforcement for increasing desirable behaviors and negative punishment for decreasing undesirable behaviors if punishment is going to be used to decrease an undesirable behavior the animal must be able to receive positive reinforcement for an alternative behavior
+==== establishing new behaviors ====
+reinforcement should be delivered on a predetermined schedule a schedule of reinforcement specifies whether each response is reinforced or only some responses schedules of reinforcement include variable ratio fixed ratio variable interval and fixed interval in a fixed ratio schedule a specific number of responses occur before a reinforcer is delivered in a variable ratio schedule reinforcer delivery occurs after a set number of responses but that number varies around an average number in a fixed interval schedule the first response that is emitted after a set time has elapsed is reinforced in a variable interval schedule the first response that is emitted after a set but variable amount of time has elapsed is reinforced while continuous reinforcement in a fixed ratio schedule may be necessary for the initial learning stages a variable ratio schedule is the most effective at maintaining behavior over long periods of time
+there are various methods animal trainers can use to prompt an animal to respond to a stimulus in a specific way shaping is a process by which successive approximations are rewarded until the desirable response topography is attained an animal trainer can use conditioned reinforcers like clickers to bridge the interval between response and positive reinforcement discriminative stimuli such as signals targets and cues can be used to prompt a response from an animal and can be changed to other stimuli or faded in magnitude in order to delay satiation reinforcer size should be as small as possible and still be effective for reinforcement also the timing of the delivery of a reinforcer is crucial; initially the interval between response and consequence must be minimal in order for the animal to associate the consequence with the response
+other important issues related to this method are stimulus control motivating operations desensitization chaining s-deltas discrimination and generalization
+=== other considerations ===
+certain subfields of animal training tend to also have certain philosophies and styles for example fields such as companion bird training hunting bird training companion dog training show dog training dressage horse training mahout elephant training circus elephant training zoo elephant training zoo exotic animal training marine mammal training the degree of trainer protection from the animal may also vary the variety of tasks trained may also vary and can range from entertainment husbandry (veterinary) behaviors physical labor or athleticism habituation to averse stimuli interaction (or non-interaction) with other humans or even research (sensory physiological cognitive)
+training also may take into consideration the natural social tendencies of the animal species (or even breed) such as predilections for attention span food-motivation dominance hierarchies aggression or bonding to individuals (conspecifics as well as humans) consideration must also be given to practical aspects on the human side such as the ratio of the number of trainers to each animal in some circumstances one animal may have multiple trainers in others a trainer might attend simultaneously to many animals in a training session sometimes training is accomplished with a single trainer working individually with a single animal
+== service animals ==
+service animals such as assistance dogs capuchin monkeys and miniature horses are trained to utilize their sensory and social skills to bond with a human and help that person to offset a disability in daily life the use of service animals especially dogs is an ever-growing field with a wide range of special adaptations
+in the united states selected inmates in prisons are used to train service dogs in addition to adding to the short-supply of service animals such programs have produced benefits in improved socialization skills and behavior of inmates
+== film and television ==
+organizations such as the american humane association monitor the use of animals such as those used in the entertainment industry but they do not monitor their training the patsy award (picture animal top star of the year) was originated by the hollywood office in 1939 after a horse was killed in an on-set accident during the filming of the tyrone power film jesse james the award now covers both film and television and is separated into four categories: canine equine wild and special
+one famous animal trainer frank inn received over 40 patsy awards while there is a high demand mammals for film and television there is also a demand for other animals steven r kutcher has filled this niche for insects
+== companion animals ==
+=== dogs ===
+basic obedience training tasks for dogs include walking on a leash attention housebreaking nonaggression and socialization with humans or other pets dogs are also trained for many other activities such as dog sports service dogs and other working dog tasks
+positive reinforcement for dogs can include primary reinforcers such as food or social reinforcers such as vocal ("good boy") or tactile (stroking) ones positive punishment if used at all can be physical such as pulling on a leash or spanking or may be vocal ("bad dog") bridges to positive reinforcement include vocal cues whistling and dog whistles as well as clickers used in clicker training a method popularized by karen pryor negative reinforcement may also be used punishment is also a tool including withholding of food or physical discipline
+=== horses ===
+the primary purpose of training horses is to socialize them to be around humans teach them to behave in a manner that makes them safe for humans to handle and as adults to carry a rider under saddle or to be driven in order to pull a vehicle as prey animals much effort must be put into training horses to overcome its natural flight or fight instinct and accept handling that would not be natural for a wild animal such as willingly going into a confined space or having a predator (a human being) sit on its back as training advances some horses are prepared for competitive sports up to the olympic games where horses are the only animal athlete that is used at the olympics all equestrian disciplines from horse racing to draft horse showing require the horse to have specialized training
+unlike dogs horses are not motivated as strongly by positive reinforcement rewards as they are motivated by other operant conditioning methods such as the release of pressure as a reward for the correct behavior called negative reinforcement positive reinforcement techniques such as petting kind words rewarding of treats and clicker training have some benefit but not to the degree seen in dogs and other predator species punishment of horses is effective only to a very limited degree usually a sharp command or brief physical punishment given within a few seconds of a disobedient act horses do not correlate punishment to a specific behavior unless it occurs immediately they do however have a remarkably long memory and once a task is learned it will be retained for a very long time for this reason poor training or allowing bad habits to be learned can be very difficult to remedy at a later date
+=== birds ===
+typical training tasks for companion birds include perching non-aggression halting feather-picking controlling excessive vocalizations socialization with household members and other pets and socialization with strangers the large parrot species frequently have lifespans that exceed that of their human owners and they are closely bonded to their owners in general parrot companions usually have clipped wings which facilitates socialization and controlling aggression and vocalizations some birds of prey are trained to hunt an ancient art known as falconry or hawking in china the practice of training cormorants to catch fish has gone on for over 1,200 years
+==== chickens ====
+training chickens has become a way for trainers of other animals (primarily dogs) to perfect their training technique bob bailey formerly of animal behavior enterprises and the iq zoo teaches chicken training seminars where trainers teach poultry to discriminate between shapes to navigate an obstacle course and to chain behaviors together chicken training is done using operant conditioning using a clicker and chicken feed for reinforcement the training of chickens has become a popular event for dog trainers trained chickens may be confined to a display where they play tic-tac-toe against humans for a fee
+=== fish ===
+fish can also be trained for example a goldfish may swim toward its owner and follow him as he walks through the room but will not follow anyone else the fish may swim up and down signalling the owner to turn on its aquarium light when it is off and it will skim the surface until its owner feeds it pet goldfish have also been taught to perform more complicated tasks such as doing the limbo and pushing a miniature soccer ball into a net
+== wild animals ==
+=== wild animal training ===
+wild animals may also be trained such as bears lions tigers leopards or other big cats the ursari romani people were specialized in bear training although they sometimes also used old world monkeys later on the german animal merchant carl hagenbeck used brown bears and lions in his shows
+the wild animal training used for lions is called lion taming
+=== zoological parks ===
+animals in public display are sometimes trained for educational entertainment management and husbandry behaviors educational behaviors may include species-typical behaviors under stimulus control such as vocalizations entertainment may include display behaviors to show the animal or simply arbitrary behaviors management includes movement such as following the trainer entering crates or moving from pen to pen or tank-to-tank through gates husbandry behaviors facilitate veterinary care and can include desensitization to various physical examinations or procedures (such as cleaning nail clipping or simply stepping onto a scale voluntarily) or the collection of samples (e.g biopsy urine) such voluntary training is important for minimizing the frequency with which zoo collection animals must be anesthetized or physically restrained
+=== marine mammal parks ===
+many marine mammals are trained for entertainment such as bottlenose dolphins killer whales belugas sea lions and others
+in a public display situation the audience's attention is focused on the animal rather than the trainer; therefore the discriminative stimulus is generally gestural (a hand sign) and sparse in nature unobtrusive dog whistles are used as bridges and positive reinforcers are either primary (food) or tactile (rub downs) and not vocal however pinnipeds and mustelids (sea lions seals walruses and otters) can hear in our frequency so most of the time they will receive vocal reinforcers during shows and performances the shows are turned into more of a play production because of this instead of just a run through of behaviors like cetaceans generally do in their shows guests can often hear these vocal reinforcers when attending a seaworld show during the clyde and seamore show the trainers may say something like: "good grief clyde!" or "good job seamore" the trainers substitute the word "good" in the place of food or rubdowns when teaching a specific behavior to the animals so that the animals no longer need constant feeding as praise for achieving the appropriate behavior
+== list of notable animal trainers ==
+known for their influence on the circus:
+hanno coldam (1932-1992) chief animal trainer with the state circus of east germany 1960-1990
+brothers vladimir durov (18631916) and anatoly durov (18871928) russian circus animal trainers and founders of the durov animal theater in moscow
+carl hagenbeck (18441913) a merchant of wild animals who introduced "natural" animal enclosures
+gunther gebel-williams (19342001) trained animals for the ringling bros and barnum & bailey circus
+martin lacey (born 1947) animal trainer owner of the great british circus trained most of the tigers used in the esso tv advertisements in the 1970s
+martin lacey jr. (born 1977) son of martin an animal trainer and performer with circus krone in munich
+known for scientific research:
+ivan pavlov (18491946) studied the psychology of animal training and described the phenomenon of classical conditioning
+known for work in television and film:
+nell shipman (18921970) a canadian film maker in early hollywood
+frank inn (19162002) trained dogs used in the benji series
+brothers frank weatherwax and rudd weatherwax trained the collie pal who portrayed the first lassie
+ralph helfer
+richard (ric) o'barry trained dolphins for the original 1960s flipper television series now opposes dolphin captivity
+boone narr one of the most celebrated hollywood animal trainers
+other:
+warren eckstein animal trainer author and radio personality
+victoria stilwell dog trainer author and television presenter
+steve austin dog trainer (particularly detection dogs) and television personality
+dave salmoni animal trainer entertainer and producer
+cesar millan dog trainer featured in the dog whisperer with cesar millan television series
+akbar the great third and one of the greatest ruler of the mughal dynasty in india reputedly keeping thousands of hunting cheetahs during his reign and training many himself
+dawn brancheau (1969-2010) a shamu trainer at seaworld orlando the movie blackfish focuses on orcas in captivity and specifically tilikum who's been involved in three deaths
+== see also ==
+animals in sport
+circus
+falconry raptors (birds of prey) trained to hunt or pursue game
+horse training
+lion taming
+mahout elephant trainer
+military dolphin
+obedience
+show (animal)
+related to animal behavior psychology and training:
+b f skinner founder of behaviorism
+behaviorism psychological theory under which operant conditioning falls the effects of external events (stimuli) on behavior
+cognitivism psychological theory antithetical to behaviorism internal mental representations and operations affecting behavior
+ethology study of the natural behavior of animals
+operant conditioning the development of discriminative stimuli (sds)
+reinforcement
+shaping (psychology)
+== notes ==
+== references ==
+pryor karen (1999) don't shoot the dog the new art of teaching and training bantam books: new york ny
+mcgreevy p & boakes r."carrots and sticks: principles of animal training" (sydney: "sydney university press"  2011)
+miltenberger r g (2008) behavior modification: principles and procedures (4th ed) belmont ca: wadsworth
+== further reading ==
+nance susan entertaining elephants: animal agency and the business of the american circus (johns hopkins university press; 2013)
+ramirez k (1999) animal training: successful animal management through positive reinforcement shedd aquarium: chicago il

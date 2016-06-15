@@ -1,0 +1,47 @@
+STS-101 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Atlantis. The mission was a 10-day mission conducted between 19 May 2000 and 29 May 2000. The mission was designated 2A.2a and was a resupply mission to the International Space Station. STS-101 was delayed 3 times in April due to high winds. STS-101 traveled 4.1 million miles and completed 155 revolutions of the earth and landed on runway 15 at Kennedy Space Center. The mission was the first to fly with the "glass cockpit".
+
+
+== Crew ==
+
+
+=== Spacewalks ===
+Voss and Williams  EVA 1
+EVA 1 Start: 22 May 2000  01:48 UTC
+EVA 1 End: 22 May 2000  08:32 UTC
+Duration: 6 hours, 44 minutes
+
+
+== Mission highlights ==
+
+STS-101 delivered supplies to the International Space Station, hauled up using a Spacehab double module and an Integrated Cargo Carrier pallet. The crew performed a spacewalk and then reboosted the station from 230 miles (370 km) to 250 miles (400 km).
+Detailed objectives included ISS ingress/safety to take air samples, monitor carbon dioxide, deploy portable, personal fans, measure air flow, rework/modify ISS ducting, replace air filters, and replace Zarya fire extinguishers and smoke detectors. Critical replacements, repairs and spares were also done to replace four suspect batteries on Zarya, replace failed or suspect electronics for Zarya's batteries, replace Radio Telemetry System memory unit, replace port early communications antenna, replace Radio Frequency Power Distribution Box and clear Space Vision System target.
+The mission also included incremental assembly/upgrades such as assembly of Strela crane, installation of additional exterior handrails, set up of center-line camera cable, installation of "Komparus" cable inserts and reseating the U.S. crane. Assembly parts, tools and equipment were also transferred to the station and equipment stowed for future missions.
+The station was also resupplied with water, a docking mechanism accessory kit, film and video tape for documentation, office supplies and personal items. Crew health maintenance items were also transferred including exercise equipment, medical support supplies, formaldehyde monitor kit and a passive dosimetry system.
+This mission was almost similar to the Columbia disaster. A damaged tile seam caused a breach which allowed superheated gas to enter the left wing during reentry. The gas did not penetrate deeply and the damage was repaired before the next flight. If it had penetrated deeply the Shuttle could have been destroyed during reentry.
+This mission was the first mission to fly with a glass cockpit.
+
+
+== Wake-up calls ==
+NASA began a tradition of playing music to astronauts during the Gemini program, which was first used to wake up a flight crew during Apollo 15. Each track is specially chosen, often by their families, and usually has a special meaning to an individual member of the crew, or is applicable to their daily activities.
+
+
+== Media ==
+
+
+== See also ==
+
+Space science
+Space shuttle
+List of space shuttle missions
+List of human spaceflights chronologically
+List of ISS spacewalks
+List of spacewalks
+
+
+== References ==
+ This article incorporates public domain material from websites or documents of the National Aeronautics and Space Administration.
+
+
+== External links ==
+NASA mission summary
+STS-101 Video Highlights

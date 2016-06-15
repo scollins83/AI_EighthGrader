@@ -1,0 +1,297 @@
+The following outline is provided as an overview of and topical guide to energy:
+Energy  in physics, this is an indirectly observed quantity often understood as the ability of a physical system to do work on other physical systems. Since work is defined as a force acting through a distance (a length of space), energy is always equivalent to the ability to exert pulls or pushes against the basic forces of nature, along a path of a certain length.
+
+
+== Forms of energy ==
+
+Potential energy
+Gravitational potential energy
+Elastic potential energy
+Nuclear potential energy
+
+Kinetic energy
+Thermal energy
+Electric energy
+Magnetic energy
+Electromagnetic fields
+
+Chemical energy
+Nuclear binding energy
+Surface energy
+
+
+== Measurement ==
+
+
+=== Units ===
+
+Barrel of oil equivalent (~6.1178632  109 J)
+British thermal unit (~1055 J)
+Calorie (~4.184 J)
+Current solar income  the amount of solar energy that falls as sunlight
+Electronvolt  (symbol: eV) is the amount of energy gained by a single unbound electron when it falls through an electrostatic potential difference of one volt. (~1.602  1019 J)
+Planck energy, 1.22  1028 eV (1.96  109 J)
+Erg  (symbol "erg") unit of energy and mechanical work in the centimetre-gram-second (CGS) system of units
+Foot-pound  (symbol ftlbf or ftlbf) is an Imperial and U.S. customary unit of mechanical work, or energy, although in scientific fields one commonly uses the equivalent metric unit of the joule (J). There are approximately 1.356 J/(ftlbf).
+Joule  (symbol J, also called newton meter, watt second, or coulomb volt)
+Therm  (symbol thm) a non-SI unit of heat energy. It is approximately the heat equivalent of burning 100 cubic feet of natural gas. In the US gas industry it is defined as exactly 100,000 BTU59F or 105.4804 megajoules.
+Kilowatt-hour  (symbol: kWh) corresponds to one kilowatt (kW) of power being used over a period of one hour.
+Ton of oil equivalent
+TPE  Ton Petroleum Equivalent, 45.217 GJ, see ton of oil equivalent
+
+
+=== Related units and concepts ===
+Volt
+Ampere
+Coulomb
+Enthalpy
+EU energy label
+Fill factor  defined as the ratio of the maximum power (Vmp x Jmp) divided by the short-circuit current (Isc) and open-circuit voltage (Voc) in light current density  voltage (J-V) characteristics of solar cells.
+Gigaton  Metric Unit of mass, equal to 1,000,000,000 (1 billion) metric tons, 1,000,000,000,000 (1 trillion) kilograms
+Any of various units of energy, such as gigatons of TNT equivalent, gigatons of coal equivalent, gigatons petroleum equivalent.
+
+Gray (unit)  (symbol: Gy), is the SI unit of energy for the absorbed dose of radiation. One gray is the absorption of one joule of radiation energy by one kilogram of matter. One gray equals 100 rad, an older unit.
+Heat
+Mass-energy equivalence  where mass has an energy equivalence, and energy has a mass equivalence
+Megawatt
+Net energy gain
+Power factor  of an AC electric power system is defined as the ratio of the real power to the apparent power.
+
+
+== Energy industry ==
+
+World energy resources and consumption
+List of energy resources, substances like fuels, petroleum products and electricity
+Energy crisis, the need to conserve energy resources
+Energy development, development of energy resources  ongoing effort to provide abundant and accessible energy, through knowledge, skills and construction
+Embodied energy, the sum total of energy expended to deliver a good or service as it travels through the economy
+Energy conservation, tips for conserving energy resources
+Energy economics, as the foundation of other relationships
+Energy policy, government policies and plans for energy supply
+Energy storage, methods commonly used to store energy resources for later use
+Biosphere
+Ecological energetics
+Ecology
+Energy balance
+Earth Day
+U4energy, a pan European school challenge on energy education launched in September 2010. U4energy is an initiative funded under the IEE programme to improve energy consumption in schools and their local communities.
+Energy speculation
+Free energy suppression
+Future energy development  Provides a general overview of future energy development.
+History of perpetual motion machines
+Hubbert peak theory, also known as peak oil  the theory that world oil production will peak (or has peaked), and will then rapidly decline, with a corresponding rapid increase in prices.
+Primary production
+Power harvesting
+Renewable energy development
+
+
+=== Energy infrastructure ===
+See especially Category:Electric power and Category:Fuels for a large number of conventional energy related topics.
+Energy storage
+Electricity generation
+Electricity retailing
+Grid energy storage
+Liquified natural gas
+Microwave power transmission
+Power plant
+Power supply
+Power transmission
+Underground power station
+
+
+=== Energy applications ===
+Biofuel
+Distributed generation
+Electric vehicle
+Hybrid vehicle
+Hydrogen vehicle
+Passive solar building design
+Steam engine
+
+
+== History of energy ==
+
+History of the energy industry
+History of coal
+History of coal mining
+
+History of electricity
+History of the electric generator
+History of the electric motor
+Timeline of the electric motor
+
+History of electric power transmission
+
+History of nuclear power
+History of petroleum
+History of the petroleum industry
+
+History of renewable energy
+History of alternative energy
+History of hydropower
+History of solar cells
+Growth of photovoltaics
+
+History of sustainability
+History of wind power
+
+History of the steam engine
+Steam power during the Industrial Revolution
+
+
+== Physics of energy ==
+Energy
+Activation energy explains the differences in the speeds of various chemical reactions
+Alternative energy indexes
+Bioenergetics
+Chemical energetics
+Energy in physical cosmology
+Energy in Earth science that is responsible for the macroscopic transformations on the planet Earth
+Electricity
+Exergy
+Green energy
+Orders of magnitude (energy)  list describes various energy levels between 1031 joules and 1070 joules
+Thermodynamics
+Perpetual motion
+Heat
+History of energy
+Forms of energy, the forms in which energy can be defined
+Energy transformation, relating to energy's changes from one form to another.
+Energy (signal processing), the inner product of a signal in the time domain
+Energy density spectrum, relating to the distribution of signal energy over frequencies.
+Potential energy, the form of energy that is due to position of an object
+Kinetic energy, the form of energy as a consequence of the motion of an object or its constituents
+Mechanical energy, the potential energy and kinetic energy present in the components of a mechanical system.
+Binding energy, a concept explaining how the constituents of atoms or molecules are bound together
+Bond energy, a measure of the strength of a chemical bond
+Nuclear energy, energy that is the consequence of decomposition or combination of atomic nuclei
+Osmotic power,or salinity gradient power and blue energy, is the energy available from the difference in the salt concentration between seawater and river water
+Gibbs free energy, a related concept in chemical thermodynamics that incorporates entropy considerations too
+Helmholtz free energy, a thermodynamic potential that measures the "useful" work obtainable from a closed thermodynamic system at a constant temperature, useful for studying explosive chemical reactions
+Elastic energy, which causes or is released by the elastic distortion of a solid or a fluid
+Ionization energy  the (IE) of an atom is the energy required to strip it of an electron.
+Interaction energy, the contribution to the total energy that is a result of interaction between the objects being considered
+Internal energy  (abbreviated E or U) the total kinetic energy due to the motion of molecules (translational, rotational, vibrational) and the total potential energy associated with the vibrational and electric energy of atoms within molecules.
+Negative energy
+Energy conversion  process of converting energy from one form to another
+Dark energy, used to explain some cosmological phenomena
+Energy quality, empirical experience of the characteristics of different energy forms as they flow and transform
+Energy density, amount of energy stored in a given system or region of space per unit volume, or per unit mass
+Energy flow, flow of energy in an ecosystem through food chains
+Energetics, the scientific study of energy flows under transformation
+Stressenergy tensor, the density and flux of energy and momentum in space-time; the source of the gravitational field in general relativity
+Food energy, energy in food that is available
+Primary energy  Energy contained in raw fuels and any other forms of energy received by a system as input to the system.
+Radiant energy  energy that is transported by waves
+Rotational energy  An object's rotational energy or angular kinetic energy is part of its total kinetic energy
+Solar radiation  radiant energy emitted by the sun, particularly electromagnetic energy
+Tidal power, also called tidal energy, is a form of hydropower that converts the energy of tides into useful forms of power - mainly electricity, dynamic tidal power, tidal lagoons, Tidal barrage
+Wave power is the transport of energy by ocean surface waves, and the capture of that energy to do useful work  for example, electricity generation, water desalination, or the pumping of water (into reservoirs). Machinery able to exploit wave power is generally known as a wave energy converter (WEC).
+Wind energy is the kinetic energy of air in motion;Wind power is the conversion of wind energy into a useful form of energy, such as using wind turbines to make electricity, windmills for mechanical power, windpumps for water pumping or drainage, or sails to propel ships
+
+
+=== Allegorical and esoteric ===
+Energy (esotericism), invoked by spiritualists for alternative modes of healing the human body as well as a spirit that permeates all of reality.
+Orgone, Wilhelm Reich discovered this energy and tried to use it to cure various physical ailments and control the weather.
+Bioenergetic analysis, body-oriented Reichian psychotherapy
+Qi a concept from Oriental medicine that is sometimes translated as "energy" in the West.
+Vitalism, often referred to as "energy"
+Cold fusion, nuclear fusion at conditions close to room temperature.
+Bubble fusion, also known as Sonofusion, energy from acoustic collapse of bubbles.
+Water-fuelled car, powering a car using water as fuel.
+
+
+== Politics ==
+
+
+=== Energy issues ===
+2000 Watt society
+Environmental concerns with electricity generation
+Fuel poverty
+Greasestock, American showcase of vehicles and technologies powered by alternative energy
+Low-carbon economy
+Peak Oil
+Soft energy path  an energy use and development strategy delineated and promoted by some energy experts and activists
+Strategic Petroleum Reserve
+
+
+=== Energy policies and use  national and international ===
+
+
+==== International ====
+Energy policy  Introductory article
+Energy and Environmental Security Initiative (EESI)
+
+
+==== Regional and national ====
+
+Energy law  overview of many energy laws from various countries and states
+New York energy law
+
+Energy Tax Act  United States energy-related legislation. See also : Category:United States federal energy legislation
+United Kingdom:
+Energy policy of the United Kingdom
+Energy use and conservation in the United Kingdom
+
+
+== Economics ==
+
+
+=== Energy companies ===
+Exxon Mobil
+Enercon GmbH  Company based in Germany that operates in the wind turbine industry. One of the biggest producers in the world.
+Saudi Aramco
+Sasol
+United States Enrichment Corporation  contracts with the United States Department of Energy to produce enriched uranium.
+
+
+=== Non-profit organizations ===
+Musicians United for Safe Energy
+
+
+=== Industry associations ===
+OPEC  Organization of Petroleum-exporting Countries
+IEA  International Energy Agency
+CAPP  Canadian Association of Petroleum Producers
+World LP Gas Association  WLPGA
+
+
+== Innovators ==
+Alessandro Volta
+Charles Kettering
+Farrington Daniels  solar energy
+Georges Leclanch  battery
+John Frederic Daniell  Daniell cell
+Rudolf Diesel  compression ignition internal combustion engine
+Georges Imbert  wood gas
+Leonardo da Vinci
+Moritz von Jacobi
+Nikolaus Otto  internal combustion engine
+Robert Stirling  Stirling engine (external combustion)
+Nikola Tesla
+James Watt  steam engine with separate condensor
+
+
+== Lists ==
+List of books about energy issues
+List of energy abbreviations
+List of energy storage projects
+List of large wind farms
+List of notable renewable energy organizations
+List of photovoltaics companies
+List of renewable energy topics by country
+List of solar thermal power stations
+Index of wave articles
+List of wind turbine manufacturers
+
+
+== See also ==
+
+Energy (disambiguation)
+List of environment topics
+
+
+== References ==
+
+
+== External links ==

@@ -1,0 +1,18 @@
+Solar radius is a unit of distance used to express the size of stars in astronomy equal to the current radius of the Sun:
+
+The solar radius is approximately 695,500 kilometres (432,450 miles), which is about 10 times the average radius of Jupiter, 110 times the radius of the Earth, and 1/215th of an astronomical unit, the distance of Earth from the Sun. It varies slightly from pole to equator due to its rotation, which induces an oblateness of order 10 parts per million. (See 1 gigametre for similar distances.)
+The SOHO spacecraft was used to measure the radius of the Sun by timing transits of Mercury across the surface during 2003 and 2006. The result was a measured radius of 696,342  65 kilometres (432,687  40 miles).
+
+
+== See alsoEdit ==
+Astronomical unit
+Orders of magnitude (length)
+Solar luminosity
+Solar mass
+Wikipedia template for solar radius
+
+
+== ReferencesEdit ==
+
+S. C. Tripathy; H. M. Antia (1999). "Influence of surface layers on the seismic estimate of the solar radius". Solar Physics 186 (1/2): 111. Bibcode:1999SoPh..186....1T. doi:10.1023/A:1005116830445. 
+T. M. Brown; J. Christensen-Dalsgaard (1998). "Accurate Determination of the Solar Photospheric Radius". Astrophysical Journal Letters 500 (2): L195. arXiv:astro-ph/9803131. Bibcode:1998ApJ...500L.195B. doi:10.1086/311416.

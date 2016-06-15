@@ -1,0 +1,99 @@
+Genome projects are scientific endeavours that ultimately aim to determine the complete genome sequence of an organism (be it an animal, a plant, a fungus, a bacterium, an archaean, a protist or a virus) and to annotate protein-coding genes and other important genome-encoded features. The genome sequence of an organism includes the collective DNA sequences of each chromosome in the organism. For a bacterium containing a single chromosome, a genome project will aim to map the sequence of that chromosome. For the human species, whose genome includes 22 pairs of autosomes and 2 sex chromosomes, a complete genome sequence will involve 46 separate chromosome sequences.
+The Human Genome Project was a landmark genome project that is already having a major impact on research across the life sciences, with potential for spurring numerous medical and commercial developments.
+
+
+== Genome assemblyEdit ==
+
+Genome assembly refers to the process of taking a large number of short DNA sequences and putting them back together to create a representation of the original chromosomes from which the DNA originated. In a shotgun sequencing project, all the DNA from a source (usually a single organism, anything from a bacterium to a mammal) is first fractured into millions of small pieces. These pieces are then "read" by automated sequencing machines, which can read up to 1000 nucleotides or bases at a time. (The four bases are adenine, guanine, cytosine, and thymine, represented as AGCT.) A genome assembly algorithm works by taking all the pieces and aligning them to one another, and detecting all places where two of the short sequences, or reads, overlap. These overlapping reads can be merged, and the process continues.
+Genome assembly is a very difficult computational problem, made more difficult because many genomes contain large numbers of identical sequences, known as repeats. These repeats can be thousands of nucleotides long, and some occur in thousands of different locations, especially in the large genomes of plants and animals.
+The resulting (draft) genome sequence is produced by combining the information sequenced contigs and then employing linking information to create scaffolds. Scaffolds are positioned along the physical map of the chromosomes creating a "golden path".
+
+
+=== Assembly softwareEdit ===
+Originally, most large-scale DNA sequencing centers developed their own software for assembling the sequences that they produced. However, this has changed as the software has grown more complex and as the number of sequencing centers has increased. An example of such assembler Short Oligonucleotide Analysis Package developed by BGI for de novo assembly of human-sized genomes, alignment, SNP detection, resequencing, indel finding, and structural variation analysis.
+
+
+== Genome annotationEdit ==
+Genome annotation is the process of attaching biological information to sequences. It consists of three main steps:
+identifying portions of the genome that do not code for proteins
+identifying elements on the genome, a process called gene prediction, and
+attaching biological information to these elements.
+Automatic annotation tools try to perform all this by computer analysis, as opposed to manual annotation (a.k.a. curation) which involves human expertise. Ideally, these approaches co-exist and complement each other in the same annotation pipeline.
+The basic level of annotation is using BLAST for finding similarities, and then annotating genomes based on that. However, nowadays more and more additional information is added to the annotation platform. The additional information allows manual annotators to deconvolute discrepancies between genes that are given the same annotation. Some databases use genome context information, similarity scores, experimental data, and integrations of other resources to provide genome annotations through their Subsystems approach. Other databases (e.g. Ensembl) rely on both curated data sources as well as a range of different software tools in their automated genome annotation pipeline.
+Structural annotation consists of the identification of genomic elements.
+ORFs and their localisation
+gene structure
+coding regions
+location of regulatory motifs
+Functional annotation consists of attaching biological information to genomic elements.
+biochemical function
+biological function
+involved regulation and interactions
+expression
+These steps may involve both biological experiments and in silico analysis. Proteogenomics based approaches utilize information from expressed proteins, often derived from mass spectrometry, to improve genomics annotations.
+A variety of software tools have been developed to permit scientists to view and share genome annotations.
+Genome annotation remains a major challenge for scientists investigating the human genome, now that the genome sequences of more than a thousand human individuals and several model organisms are largely complete. Identifying the locations of genes and other genetic control elements is often described as defining the biological "parts list" for the assembly and normal operation of an organism. Scientists are still at an early stage in the process of delineating this parts list and in understanding how all the parts "fit together".
+Genome annotation is an active area of investigation and involves a number of different organizations in the life science community which publish the results of their efforts in publicly available biological databases accessible via the web and other electronic means. Here is an alphabetical listing of on-going projects relevant to genome annotation:
+Encyclopedia of DNA elements (ENCODE)
+Entrez Gene
+Ensembl
+GENCODE
+Gene Ontology Consortium
+GeneRIF
+RefSeq
+Uniprot
+Vertebrate and Genome Annotation Project (Vega)
+At Wikipedia, genome annotation has started to become automated under the auspices of the Gene Wiki portal which operates a bot that harvests gene data from research databases and creates gene stubs on that basis.
+
+
+== When is a genome project finished?Edit ==
+When sequencing a genome, there are usually regions that are difficult to sequence (often regions with highly repetitive DNA). Thus, 'completed' genome sequences are rarely ever complete, and terms such as 'working draft' or 'essentially complete' have been used to more accurately describe the status of such genome projects. Even when every base pair of a genome sequence has been determined, there are still likely to be errors present because DNA sequencing is not a completely accurate process. It could also be argued that a complete genome project should include the sequences of mitochondria and (for plants) chloroplasts as these organelles have their own genomes.
+It is often reported that the goal of sequencing a genome is to obtain information about the complete set of genes in that particular genome sequence. The proportion of a genome that encodes for genes may be very small (particularly in eukaryotes such as humans, where coding DNA may only account for a few percent of the entire sequence). However, it is not always possible (or desirable) to only sequence the coding regions separately. Also, as scientists understand more about the role of this noncoding DNA (often referred to as junk DNA), it will become more important to have a complete genome sequence as a background to understanding the genetics and biology of any given organism.
+In many ways genome projects do not confine themselves to only determining a DNA sequence of an organism. Such projects may also include gene prediction to find out where the genes are in a genome, and what those genes do. There may also be related projects to sequence ESTs or mRNAs to help find out where the genes actually are.
+
+
+== Historical and technological perspectivesEdit ==
+Historically, when sequencing eukaryotic genomes (such as the worm Caenorhabditis elegans) it was common to first map the genome to provide a series of landmarks across the genome. Rather than sequence a chromosome in one go, it would be sequenced piece by piece (with the prior knowledge of approximately where that piece is located on the larger chromosome). Changes in technology and in particular improvements to the processing power of computers, means that genomes can now be 'shotgun sequenced' in one go (there are caveats to this approach though when compared to the traditional approach).
+Improvements in DNA sequencing technology has meant that the cost of sequencing a new genome sequence has steadily fallen (in terms of cost per base pair) and newer technology has also meant that genomes can be sequenced far more quickly.
+When research agencies decide what new genomes to sequence, the emphasis has been on species which are either high importance as model organism or have a relevance to human health (e.g. pathogenic bacteria or vectors of disease such as mosquitos) or species which have commercial importance (e.g. livestock and crop plants). Secondary emphasis is placed on species whose genomes will help answer important questions in molecular evolution (e.g. the common chimpanzee).
+In the future, it is likely that it will become even cheaper and quicker to sequence a genome. This will allow for complete genome sequences to be determined from many different individuals of the same species. For humans, this will allow us to better understand aspects of human genetic diversity.
+
+
+== Example genome projectsEdit ==
+
+Many organisms have genome projects that have either been completed or will be completed shortly, including:
+Humans, Homo sapiens; see Human genome project
+Palaeo-Eskimo, an ancient-human
+Neanderthal, "Homo neanderthalensis" (partial); see Neanderthal Genome Project
+Common Chimpanzee Pan troglodytes; see Chimpanzee Genome Project
+Domestic Cow
+Bovine Genome
+Honey Bee Genome Sequencing Consortium
+Horse genome
+Human microbiome project
+International Grape Genome Program
+International HapMap Project
+Tomato 150+ genome resequencing project
+100K Genome Project
+Genomics England
+
+
+== See alsoEdit ==
+Joint Genome Institute
+Model organism
+National Center for Biotechnology Information
+Illumina, private company involved in genome sequencing
+Knome, private company offering genome analysis & sequencing
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+GOLD:Genomes OnLine Database
+Genome Project Database
+The Protein Naming Utility
+SUPERFAMILY
+The sea urchin genome database
+NRCPB.
+Global Invertebrate Genomics Alliance (GIGA)

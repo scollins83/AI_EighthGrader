@@ -1,0 +1,60 @@
+Andrija Mohorovii (23 January 1857  18 December 1936) was a Croatian meteorologist and seismologist. He is best known for the eponymous Mohorovii discontinuity and is considered as one of the founders of modern seismology.
+
+
+== Early years ==
+
+Mohorovii was born in Volosko, Opatija, where his father (also named Andrija), was a blacksmith, making anchors. The younger Andrija also loved the sea and married a captain's daughter, Silvija Verni. They had four sons. Mohorovii obtained his elementary education in his home town, then continued at the gymnasium of neighbouring Rijeka. He received his higher education in mathematics and physics at the Faculty of Philosophy in Prague in 1875, where one of his professors was Ernst Mach. At 15, Mohorovii knew Italian, English and French. Later he learned German, Latin and Ancient Greek.
+
+
+== Career in education ==
+He taught first at high school in Zagreb (18791880), then at secondary school in Osijek. From 1882, he taught for nine years at the Royal Nautical School in Bakar, near Rijeka. Work started or completed there was important to his later scientific career. From 1893, when he became a corresponding member of the Faculty of Philosophy, University of Zagreb, to 191718 he taught in the fields of geophysics and astronomy. In 1898 he became a full member of what was then the Yugoslav Academy of Sciences and Arts in Zagreb, where he was a private docent. In 1910 he became titular associate university professor.
+
+
+== Meteorology ==
+In Bakar he was first exposed to meteorology, which he taught at the Royal Nautical School. This influenced him to the extent that he founded the local meteorological station in 1887. He made systematic studies and both invented and constructed instruments to observe precipitation in Croatia and Slavonia. At his own request in 1891, he was transferred to the secondary school in Zagreb where, in 1892, he soon became a head of the Meteorological Observatory in Gri and established a service for all Croatia, while teaching geophysics and astronomy at the university.
+On 13 March 1892, he observed the tornado in Novska, which picked up a 13-ton railway carriage with fifty passengers and threw it 30 m. He observed also the "vihor" (whirlwind) near azma in 1898 and studied the climate in Zagreb. Mohorovii was the first person to describe atmospheric rotors with a horizontal axis, which he observed during bora-wind episodes in the northern Adriatic. In his last paper on meteorology (1901), he discussed the decrease in atmospheric temperature with height. His observations of clouds formed the basis of his doctoral thesis On the Observation of Clouds, the Daily and Annual Cloud Period in Bakar presented to the University of Zagreb and which earned him his degree as doctor of philosophy in 1893.
+
+
+== Seismology ==
+On 8 October 1909 there was an earthquake with its epicentre in the Pokuplje region, 39 km southeast of Zagreb. A number of existing seismographs were installed before and provided invaluable data upon which he made new discoveries. He concluded that when seismic waves strike the boundary between different types of material, they are reflected and refracted, just as light is when striking a prism, and that when earthquakes occur, two waveslongitudinal and transversepropagate through the soil with different velocities. By analyzing data from more observation posts, Mohorovii concluded that the Earth has several layers above a core. He was the first to establish, based on the evidence from seismic waves, the discontinuity that separates the Earth's crust from its mantle. This is now called the Mohorovii discontinuity or (because of the complexity of that name) Moho. According to Mohorovii, a layered structure would explain the observation of depths where seismic waves change speed and the difference in chemical composition between rocks from the crust and those from the mantle. From the data, he estimated the thickness of the upper layer (crust) to be 54 km. We know today that the crust is 59 km below the ocean floor and 2560 km below the continents, which are carried on tectonic plates. Subsequent study of the Earth's interior confirmed the existence of the discontinuity under all continents and oceans.
+Mohorovii assumed that the velocity of seismic waves increases with the depth. The function he proposed to calculate the velocity of seismic waves is called the Mohorovii law. He developed a method for determining earthquake epicenters and constructed curves giving the travel times of seismic waves over distances of up to 10,000 miles from the source. He also proposed the construction of a new type of seismograph for recording the ground horizontal movement, but due to lack of funds the project was never realized.
+As early as 1909 Mohorovii started giving lectures that both architects and building contractors should follow, ahead of his time setting some of the basic principles of earthquake-resistant design. Mohorovii's theories were visionary and were only truly understood many years later from detailed observations of the effects of earthquakes on buildings, deep focus earthquakes, locating earthquake epicenters, Earth models, seismographs, harnessing the energy of the wind, hail defence and other related elements of the geological body of knowledge known as geoscience.
+
+
+== Legacy ==
+Crater Mohorovii (on the Moon's far side) is named in his honour. A gymnasium in Rijeka, Croatia and a school ship in the Croatian Navy are named after him, as was (in 1996) asteroid 8422 Mohorovii.
+
+
+== Important publications ==
+A. Mohorovii (1908). "Epicenters of earthquakes in Croatia and Slavonia (Epicentra potresa u Hrvatskoj i Slavoniji)". Yearly report of the Zagreb meteorological observatory for the year 1906. Part IV. pp. 1519. 
+A. Mohorovii (1910). "Epicenters of earthquakes in Croatia and Slavonia (Epicentra potresa u Hrvatskoj i Slavoniji)". Yearly report of the Zagreb meteorological observatory for the year 1909. 
+A. Mohorovii (1911). "The effects of earthquakes on buildings (Djelovanje potresa na zgrade)". Vijesti hrv. drutva in. i arh.  
+A. Mohorovii (1914). "Hodograph der normalen P-Wellen fur eine mittlere Herdtiefe". Beilage zu den Seismischen Aufzeichnungen. Kr. zem. zavod za meteorologiju i geodinamiku, Zagreb. 
+A. Mohorovii (1914). "Hodograph der ersten longitudinalen Wellen eines Bebens (emersio undarum primarum)". Bulletin des travaux de l'Academie Yougoslave des Sciences et des Beaux-arts, Classe des sciences mathematiques et naturelles 2. pp. 139157. 
+A. Mohorovii (1915). "Neue Phasen im Anfange des Bildes eines Bebens". Bulletin des travaux de l'Academie Yougoslave des Sciences et des Beaux-arts, Classe des sciences mathmatiques et naturelles 4. pp. 6586. 
+A. Mohorovii (1915). "Zu dem mittelitalienischen Beben vom 13. Jnner 1915. 2. Beilage zu den Seismischen Aufzeichnungen.". Kr. zem. zavod za meteorologiju i geodinamiku, Zagreb 5. 
+A. Mohorovii (1915). "Zur Frage der Emergenzgeschwindigkeit. 1. Beilage zu den Seismischen Aufzeichnungen". Kr. zem. zavod za meteorologiju i geodinamiku, Zagreb 4. 
+A. Mohorovii (1915). "Zur Frage der Emergenzgeschwindigkeit. 1. Beilage zu den Seismischen Aufzeichnungen". Kr. zem. zavod za meteorologiju i geodinamiku, Zagreb 4. 
+A. Mohorovii (1916). "Die Bestimmung des Epizentrums eines Nahbebens". Gerlands Beitrge zur Geophysik 14. pp. 199205. 
+A. Mohorovii (1916). "Die Bestimmung des Epizentrums eines Nahbebens". Gerlands Beitrge zur Geophysik 14. pp. 199205. 
+A. Mohorovii (1916). "Vorlaufige Mitteilung uber das Beben vom 12. III. 1916. Berichte uber seismische Aufzeichnungen". Kr. zem. zavod za meteorologiju i geodinamiku, Zagreb. 
+A. Mohorovii (1917). "Principles and construction of a seismograph, and a proposal for construction of a new seismograph for recording of horizontal component of ground motion (Principi konstrukcije sismografa i prijedlog za konstrukciju nova sismografa za horizontalne komponente gibanja zemlje)". Rad JAZU 217. pp. 114150. 
+A. Mohorovii; S.Mohorovii (1922). "Hodographs of the longitudinal and transversal earthquake waves (undae primae et undae secundae) (Hodografi longitudinalnih i transversalnih valova potresa (undae primae et undae secundae)). Part 1. Hodographs". Rad JAZU 226. pp. 94190. 
+A. Mohorovii (1924). "A critical review of the seismic instruments used today and of the organisation of seismic service". Rad JAZU 14. pp. 3859. 
+A. Mohorovii (1925). "Hodographes des ondes normales P et S soulignees (Pn, P*, S*) et des deux premieres reflexions pour les profondeurs de l'hypocentre de 0, 25, 45, 57 kms". UGGI, Section de Seismologie, A. Travaux Scientifique 3. pp. 160. 
+A. Mohorovii (1926). "Zur Frage der wahren Empfindlichkeit eines Seismographen". Gerlands Beitrage zur Geophysik 15. pp. 201214. 
+
+
+== See also ==
+Project Mohole
+
+
+== References ==
+
+
+== External links ==
+Prominent Istrians  Andrija Mohorovii
+Andrija Mohorovii (Croatian)
+"Andrija Mohorovii (18571936)" (in Croatian). Archived from the original on 16 March 2007. 
+geofizika-journal.gfz.hr (PDF)
+Famous Croats - Andrija Mohorovii (1857.  1936.)

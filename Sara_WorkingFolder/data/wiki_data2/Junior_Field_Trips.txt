@@ -1,0 +1,31 @@
+The Junior Field Trips series is a trilogy of point-and-click children's computer games released by Humongous Entertainment in conjunction with Random House. These games (in general) offered virtual tours of particular locations related to their theme, and included a game suite with virtual coloring pages, a scavenger hunt, and various other games depending upon the title. They were originally released for Windows and Macintosh computers, but were ported to Steam on April 24, 2015. These games were written using the SCUMM engine and can thus be played on additional platforms by using ScummVM.
+The series was hosted by "Buzzy the Knowledge Bug" (voiced by Jim Cissell), a blue anthropomorphic insect who provides feedback on the locations when called upon and provided narration for each of the games. Two of the series' three titles were written by the noted programmer Deborah Todd.
+
+
+== Games ==
+
+
+=== Let's Explore the Farm ===
+The Farm captures all of the fun, energy, and excitement of a real, working farm. Kids can visit the big red barn and watch a cow being milked. Or, take a peek inside the chicken coop and find out how eggs are made. Help harvest the corn and feed the pigs. Don't miss the pond. Plus, there's a beaver dam to explore. And that's only the beginning. Junior Field Trips turn kids loose to discover exciting new places up close and on their own. Children decide where they want to go and how much they want to know. Detailed explanations, lively sound effects, and colorful animation make every trip truly one of a kind. Kids will want to visit The Farm again and again.
+
+
+=== Let's Explore the Jungle ===
+The Jungle allows children to explore Humongous versions of the South American, African, and Southeast Asian jungles, and learn about some of the animal and plant life there. You can learn about animals like elephants, jaguars, crocodiles, monkeys, pythons, tigers, gorillas, and others. Like "The Airport" and "The Farm" titles, this game features Buzzy the Knowledge Bug as a guide. He reads aloud questions, answers, and the names of objects. In addition, he provides tips and suggestions and points out interesting facts.
+
+
+=== Let's Explore the Airport ===
+The Airport allows kids 3 years and up to explore a modern airport, with their guide Buzzy The Knowledge Bug. Kids can visit over 40 location, from hangars, to control towers, to cockpits. Items in each location can be clicked on for either amusing animations, or to ask "What is This?" which will take them directly to the encyclopedia page describing that item. The encyclopedia has more than 200 descriptions in it. It also has an index, to jump directly back to interesting items. The encyclopedia is text, but Buzzy can also read the text for young players.
+
+
+== See also ==
+Humongous Entertainment
+ScummVM
+
+
+== References ==
+
+
+== External links ==
+Junior Field Trips games on ScummVM wiki
+Junior Field Trips at MobyGames
+Junior Field Trips in Coming Soon Magazine

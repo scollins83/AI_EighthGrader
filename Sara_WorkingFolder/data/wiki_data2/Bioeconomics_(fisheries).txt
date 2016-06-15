@@ -1,0 +1,29 @@
+Bioeconomics is closely related to the early development of theories in fisheries economics, initially in the mid-1950s by Canadian economists Scott Gordon (in 1954) and Anthony Scott (1955). Their ideas used recent achievements in biological fisheries modelling, primarily the works by Schaefer (1957) on establishing a formal relationship between fishing activities and biological growth through mathematical modelling confirmed by empirical studies, and also relates itself to ecology and the environment and resource protection.
+These ideas developed out of the multidisciplinary fisheries science environment in Canada at the time. Fisheries science and modelling developed rapidly during a productive and innovative period, particularly among Canadian fisheries researchers of various disciplines. Population modelling and fishing mortality were introduced to economists, and new interdisciplinary modelling tools became available for the economists, which made it possible to evaluate biological and economic impacts of different fishing activities and fisheries management decisions.
+
+
+== See also ==
+Green economics
+EconMult
+Economics of biodiversity
+Ecological economics
+List of harvested aquatic animals by weight
+
+
+== Notes ==
+
+
+== References ==
+Anderson LG and Seijo JC (2010) Bioeconomics of Fisheries Management John Wiley and Sons. ISBN 978-0-8138-1732-3.
+Seijo JC, Defeo O and Salas S (1998) Fisheries bioeconomics: Theory, modelling and management FAO Fisheries, Technical paper 368. ISBN 92-5-104045-1.
+Scott A (1955). [1] The Fishery: The Objectives of Sole Ownership. The Journal of Political Economy 63(2): 116-124.
+
+
+== External links ==
+Springer Journal of Bioeconomics
+Fishery Bioeconomics
+From the Wolfram Demonstrations Project  requires CDF player (free):
+The Gordon-Schaefer Model
+Bioeconomics of a Discrete Ricker Model with Delayed Recruitment
+Surplus Production Models and Equilibrium Harvest
+Maximizing the Present Value of Resource Rent in a Gordon-Schaefer Model

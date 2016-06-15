@@ -1,0 +1,63 @@
+airfuel ratio (afr) is the mass ratio of air to fuel present in a combustion process such as in an internal combustion engine or industrial furnace the afr is an important measure for anti-pollution and performance-tuning reasons
+if exactly enough air is provided to completely burn all of the fuel the ratio is known as the stoichiometric mixture often abbreviated to stoich
+afr numbers lower than stoichiometric are considered "rich" rich mixtures are less efficient but may produce more power and burn cooler which is kinder on the engine afr numbers higher than stoichiometric are considered "lean." lean mixtures are more efficient but may cause engine damage or premature wear and produce higher levels of nitrogen oxides
+for precise afr calculations the oxygen content of combustion air should be specified because of possible dilution by ambient water vapor or enrichment by oxygen additions
+== synopsisedit ==
+in theory a stoichiometric mixture has just enough air to completely burn the available fuel in practice this is never quite achieved due primarily to the very short time available in an internal combustion engine for each combustion cycle most of the combustion process completes in approximately 45 milliseconds at an engine speed of 70036000000000000006,000 rpm (100 revolutions per second; 10 milliseconds per revolution) this is the time that elapses from when the spark is fired until the burning of the fuelair mix is essentially complete after some 80 degrees of crankshaft rotation catalytic converters are designed to work best when the exhaust gases passing through them are the result of nearly perfect combustion
+a stoichiometric mixture unfortunately burns very hot and can damage engine components if the engine is placed under high load at this fuelair mixture due to the high temperatures at this mixture detonation of the fuelair mix shortly after maximum cylinder pressure is possible under high load (referred to as knocking or pinging) detonation can cause serious engine damage as the uncontrolled burning of the fuel air mix can create very high pressures in the cylinder as a consequence stoichiometric mixtures are only used under light load conditions for acceleration and high load conditions a richer mixture (lower airfuel ratio) is used to produce cooler combustion products and thereby prevent detonation and overheating of the cylinder head
+== engine management systemsedit ==
+the stoichiometric mixture for a gasoline engine is the ideal ratio of air to fuel that burns all fuel with no excess air for gasoline fuel the stoichiometric airfuel mixture is about 15:1 i.e for every one gram of fuel 15 grams of air are required the fuel oxidation reaction is:
+any mixture greater than ~15 to 1 is considered a lean mixture; any less than ~15 to 1 is a rich mixture given perfect (ideal) "test" fuel (gasoline consisting of solely n-heptane and iso-octane) in reality most fuels consist of a combination of heptane octane a handful of other alkanes plus additives including detergents and possibly oxygenators such as mtbe (methyl tert-butyl ether) or ethanol/methanol these compounds all alter the stoichiometric ratio with most of the additives pushing the ratio downward (oxygenators bring extra oxygen to the combustion event in liquid form that is released at time of combustions; for mtbe-laden fuel a stoichiometric ratio can be as low as 14.1:1) vehicles that use an oxygen sensor or other feedback loop to control fuel to air ratio (lambda control) compensate automatically for this change in the fuel's stoichiometric rate by measuring the exhaust gas composition and controlling fuel volume vehicles without such controls (such as most motorcycles until recently and cars predating the mid-1980s) may have difficulties running certain fuel blends (especially winter fuels used in some areas) and may require different jets (or otherwise have the fueling ratios altered) to compensate vehicles that use oxygen sensors can monitor the airfuel ratio with an airfuel ratio meter
+== other types of enginesedit ==
+in the typical air to natural gas combustion burner a double cross limit strategy is employed to ensure ratio control (this method was used in world war ii) the strategy involves adding the opposite flow feedback into the limiting control of the respective gas (air or fuel) this assures ratio control within an acceptable margin
+== other terms usededit ==
+there are other terms commonly used when discussing the mixture of air and fuel in internal combustion engines
+=== mixtureedit ===
+mixture is the predominant word that appears in training texts operation manuals and maintenance manuals in the aviation world
+=== airfuel ratio (afr) edit ===
+the airfuel ratio is the most common reference term used for mixtures in internal combustion engines the term is also used to define mixtures used for industrial furnace heated by combustion the afr in mass units is employed in fuel oil fired furnaces while volume (or mole) units are used for natural gas fired furnaces
+airfuel ratio is the ratio between the mass of air and the mass of fuel in the fuelair mix at any given moment the mass is the mass of all constituents that compose the fuel and air whether combustible or not for example a calculation of the mass of natural gaswhich often contains carbon dioxide (co
+2) nitrogen (n
+2) and various alkanesincludes the mass of the carbon dioxide nitrogen and all alkanes in determining the value of 
+for pure octane the stoichiometric mixture is approximately 14.7:1 or of 1.00 exactly
+in naturally aspirated engines powered by octane maximum power is frequently reached at afrs ranging from 12.5 to 13.3:1 or of 0.850 to 0.901
+=== fuelair ratio (far) edit ===
+fuelair ratio is commonly used in the gas turbine industry as well as in government studies of internal combustion engine and refers to the ratio of fuel to the air
+=== airfuel equivalence ratio () edit ===
+airfuel equivalence ratio (lambda) is the ratio of actual afr to stoichiometry for a given mixture = 1.0 is at stoichiometry rich mixtures < 1.0 and lean mixtures > 1.0
+there is a direct relationship between and afr to calculate afr from a given  multiply the measured by the stoichiometric afr for that fuel alternatively to recover from an afr divide afr by the stoichiometric afr for that fuel this last equation is often used as the definition of :
+because the composition of common fuels varies seasonally and because many modern vehicles can handle different fuels when tuning it makes more sense to talk about values rather than afr
+most practical afr devices actually measure the amount of residual oxygen (for lean mixes) or unburnt hydrocarbons (for rich mixtures) in the exhaust gas as know in ppchs
+=== fuelair equivalence ratio () edit ===
+the fuelair equivalence ratio (phi) of a system is defined as the ratio of the fuel-to-oxidizer ratio to the stoichiometric fuel-to-oxidizer ratio mathematically
+where m represents the mass n represents number of moles suffix st stands for stoichiometric conditions
+the advantage of using equivalence ratio over fueloxidizer ratio is that it takes into account (and is therefore independent of) both mass and molar values for the fuel and the oxidizer consider for example a mixture of one mole of ethane (c
+2h
+6) and one mole of oxygen (o
+2) the fueloxidizer ratio of this mixture based on the mass of fuel and air is
+and the fuel-oxidizer ratio of this mixture based on the number of moles of fuel and air is
+clearly the two values are not equal to compare it with the equivalence ratio we need to determine the fueloxidizer ratio of ethane and oxygen mixture for this we need to consider the stoichiometric reaction of ethane and oxygen
+this gives
+thus we can determine the equivalence ratio of the given mixture as
+or equivalently as
+another advantage of using the equivalence ratio is that ratios greater than one always mean there is more fuel in the fueloxidizer mixture than required for complete combustion (stoichiometric reaction) irrespective of the fuel and oxidizer being usedwhile ratios less than one represent a deficiency of fuel or equivalently excess oxidizer in the mixture this is not the case if one uses fueloxidizer ratio which take different values for different mixtures
+the fuelair equivalence ratio is related to the airfuel equivalence ratio (defined previously) as follows:
+=== mixture fractionedit ===
+the relative amounts of oxygen enrichment and fuel dilution can be quantified by the mixture fraction z defined as  where  and represent the fuel and oxidizer mass fractions at the inlet and are the species molecular weights and and are the fuel and oxygen stoichiometric coefficients respectively the stoichiometric mixture fraction is the stoichiomteric mixture fraction is related to (lambda) and (phi) by the equations  assuming
+=== percent excess combustion airedit ===
+in industrial fired heaters power plant steam generators and large gas-fired turbines the more common terms are percent excess combustion air and percent stoichiometric air for example excess combustion air of 15 percent means that 15 percent more than the required stoichiometric air (or 115 percent of stoichiometric air) is being used
+a combustion control point can be defined by specifying the percent excess air (or oxygen) in the oxidant or by specifying the percent oxygen in the combustion product an airfuel ratio meter may be used to measure the percent oxygen in the combustion gas from which the percent excess oxygen can be calculated from stoichiometry and a mass balance for fuel combustion for example for propane (c
+3h
+8) combustion between stoichiometric and 30 percent excess air (afrmass between 15.58 and 20.3) the relationship between percent excess air and percent oxygen is:
+== see alsoedit ==
+adiabatic flame temperature
+afr sensor
+airfuel ratio meter
+mass flow sensor
+combustion
+stoichiometric air-to-fuel ratio of common fuels
+== referencesedit ==
+== external linksedit ==
+howstuffworks: fuel injection catalytic converter
+university of plymouth: engine combustion primer
+kamm richard w "mixed up about fuel mixtures?" aircraft maintenance technology (february 2002) retrieved 2009-03-18

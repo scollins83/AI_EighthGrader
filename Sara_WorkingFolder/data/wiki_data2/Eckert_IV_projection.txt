@@ -1,0 +1,29 @@
+The Eckert IV projection is an equal-area pseudocylindrical map projection. The length of polar line is half that of the equator, and lines of longitude are semiellipses, or portions of ellipses. It was first described by Max Eckert in 1906.
+
+
+== Formulas ==
+
+
+=== Forward formulas ===
+Given a radius of sphere R, central meridian  and a point with geographical latitude  and longitude , plane coordinates x and y can be computed using the following formulas:
+,
+,
+where .
+ can be solved for numerically using Newton's method.
+
+
+=== Inverse formulas ===
+
+
+== See also ==
+List of map projections
+Eckert II projection
+Eckert VI projection
+Max Eckert-Greifendorff
+
+
+== References ==
+
+
+== External links ==
+Eckert IV projection at Mathworld

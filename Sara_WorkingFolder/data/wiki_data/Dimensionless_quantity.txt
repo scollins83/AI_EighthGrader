@@ -1,0 +1,49 @@
+in dimensional analysis a dimensionless quantity is a quantity to which no physical dimension is applicable it is thus a bare number and is therefore also known as a quantity of dimension one dimensionless quantities are widely used in many fields such as mathematics physics engineering and economics numerous well-known quantities such as  e and  are dimensionless by contrast examples of quantities with dimensions are length time and speed which are measured in dimensional units such as meter second and meter/second
+dimensionless quantities are often obtained as products or ratios of quantities that are not dimensionless but whose dimensions cancel in the mathematical operation this is the case for instance with the engineering strain a measure of deformation it is defined as change in length divided by initial length but because these quantities both have dimensions l (length) the result is a dimensionless quantity
+== propertiesedit ==
+all pure numbers are dimensionless quantities
+a dimensionless quantity may have dimensionless units even though it has no physical dimension associated with it for example to show the quantity being measured (for example mass fraction or mole fraction) it is sometimes helpful to use the same units in both the numerator and denominator (kg/kg or mol/mol) the quantity may also be given as a ratio of two different units that have the same dimension (for instance light years over meters) this may be the case when calculating slopes in graphs or when making unit conversions such notation does not indicate the presence of physical dimensions and is purely a notational convention other common dimensionless units are % (= 0.01) (= 0.001) ppm (= 106) ppb (= 109) ppt (= 1012) angle units (degrees radians grad) dalton and mole units of number such as the dozen gross and googol are also dimensionless
+when a quantity is the ratio of two other quantities each of the same dimension the defined quantity is dimensionless and has the same value regardless of the units used to calculate the two composing quantities for instance if body a exerts a force of magnitude f on body b and b exerts a force of magnitude f on a then the ratio f/f is always equal to 1 regardless of the actual units used to measure f and f this is a fundamental property of dimensionless proportions and follows from the assumption that the laws of physics are independent of the system of units used in their expression in this case if the ratio f/f was not always equal to 1 but changed if one switched from si to cgs that would mean that newton's third law's truth or falsity would depend on the system of units used which would contradict this fundamental hypothesis this assumption that the laws of physics are not contingent upon a specific unit system is the basis for the buckingham theorem as discussed in a later section
+== examplesedit ==
+there are many areas where dimensionless quantities are used some quantities are given here to illustrate the properties more concretely in their respective areas of application the list of dimensionless quantities contains an extensive number of other important examples
+=== mathematicsedit ===
+several examples from mathematics include proportions angles and special numbers a simple problem illustrates how a proportion may be a dimensionless quantity sarah says "out of every 10 apples i gather 1 is rotten." the rotten-to-gathered ratio is (1 apple) / (10 apples) = 0.1 = 10% which is a dimensionless quantity similarly angles may be defined as a proportion the radian measure of angles is the ratio of the length of a circle's arc subtended by an angle whose vertex is the centre of the circle to some other length the ratioi.e. length divided by lengthis dimensionless when using radians as the unit the length that is compared is the length of the radius of the circle when using degree as the units the arc's length is compared to 1/360 of the circumference of the circle in the case of the dimensionless quantity  being the ratio of a circle's circumference to its diameter the number would be constant regardless of what unit is used to measure a circle's circumference and diameter (e.g. centimetres miles light-years etc.) as long as the same unit is used for both additionally the golden ratio  is simply the ratio of length of the two sides of a golden rectangle in statistics the coefficient of variation is the ratio of the standard deviation to the mean and is used to measure the dispersion in the data
+=== dimensionless physical constantsedit ===
+certain fundamental physical constants such as the speed of light in a vacuum the universal gravitational constant planck's constant and boltzmann's constant can be normalized to 1 if appropriate units for time length mass charge and temperature are chosen the resulting system of units is known as the natural units however not all physical constants can be normalized in this fashion for example the values of the following constants are independent of the system of units and must be determined experimentally:
+1/137.036 the fine structure constant which is the coupling constant for the electromagnetic interaction;
+(or ) 1836 the proton-to-electron mass ratio this ratio is the rest mass of the proton divided by that of the electron an analogous ratio can be defined for any elementary particle;
+s the coupling constant for the strong force;
+g 1.751045 the gravitational coupling constant
+=== physics and engineeringedit ===
+fresnel number wavenumber over distance
+reynolds number is commonly used in fluid mechanics to characterize flow incorporating both properties of the fluid and the flow it is interpreted as the ratio of inertial forces to viscous forces and can indicate flow regime as well as correlate to frictional heating in application to flow in pipes
+mach number ratio of the speed of an object or flow relative to the speed of sound in the fluid
+=== chemistryedit ===
+relative density density relative to water
+relative atomic mass measured in daltons
+amount of substance measured in moles as ratio between a given number of particles and avogadro number or as ratio of mass and molar mass
+=== other fieldsedit ===
+cost of transport is the efficiency in moving from one place to another
+elasticity in economics how responsive an economic variable is to a change in another
+kt/v urea dialysis in medicine
+fpplvon krmn number mechanical properties of cell wall for biological and structural engineering applications
+== origin and derivationedit ==
+=== historyedit ===
+dimensionless quantities are a special result of the field of dimensional analysis in the nineteenth century french mathematician joseph fourier and scottish physicist james clerk maxwell lead significant developments in the modern concepts of dimension and unit later work by british physicists osborne reynolds and lord rayleigh contributed to the understanding of dimensionless numbers in physics building on rayleigh's method of dimensional analysis edgar buckingham proved the theorem (independent of french mathematician joseph bertrand's previous work) to formalize the nature of dimensionless quantities numerous other dimensionless numbers were discovered in the early 1900s the particularly in the areas of fluid mechanics and heat transfer in the 2000s the international committee for weights and measures contemplated defining the unit of 1 as the 'uno' but the idea was dropped
+=== buckingham theoremedit ===
+the buckingham theorem indicates that validity of the laws of physics does not depend on a specific unit system a statement of this theorem is that any physical law can be expressed as an identity involving only dimensionless combinations (ratios or products) of the variables linked by the law (e g. pressure and volume are linked by boyle's law they are inversely proportional) if the dimensionless combinations' values changed with the systems of units then the equation would not be an identity and buckingham's theorem would not hold
+another consequence of the buckingham theorem of dimensional analysis is that the functional dependence between a certain number (say n) of variables can be reduced by the number (say k) of independent dimensions occurring in those variables to give a set of p = n k independent dimensionless quantities for the purposes of the experimenter different systems that share the same description by dimensionless quantity are equivalent
+==== exampleedit ====
+to demonstrate the application of the theorem consider the power consumption of a stirrer with a given shape the power p in dimensions [m l2/t3] is a function of the density [m/l3] and the viscosity of the fluid to be stirred [m/(l t)] as well as the size of the stirrer given by its diameter d [l] and the speed of the stirrer n [1/t] therefore we have a total of n = 5 variables representing our example those n = 5 variables are built up from k = 3 fundamental dimensions the length: l (si units: m) time: t (s) and mass: m (kg)
+according to the -theorem the n = 5 variables can be reduced by the k = 3 dimensions to form p = n k = 5 3 = 2 independent dimensionless numbers these quantities are  commonly named the reynolds number which describes the fluid flow regime and  the power number which is the dimensionless description of the stirrer
+=== nondimensionalization of differential equationsedit ===
+the process of nondimensionalization has significant applications in the analysis of differential equations
+== see alsoedit ==
+list of dimensionless quantities
+similitude (model)
+orders of magnitude (numbers)
+dimensional analysis
+dimensionless physical constant
+normalization (statistics) and standardized moment the analogous concepts in statistics
+buckingham theorem
+== referencesedit ==

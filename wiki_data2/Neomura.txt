@@ -1,0 +1,29 @@
+Neomura is a clade composed of the two domains of life of Archaea and Eukaryota. The group was first proposed by Thomas Cavalier-Smith and its name means "new walls"; so called because it is thought to have evolved from Bacteria, and one of the major changes was the replacement of peptidoglycan cell walls with other glycoproteins. The adjectival form is Neomuran, and a single individual from the group is called a Neomuran.
+Thomas Cavalier-Smith states, "Eukaryotes and archaebacteria form the clade neomura and are sisters, as shown decisively by genes fragmented only in archaebacteria and by many sequence trees. This sisterhood refutes all theories that eukaryotes originated by merging an archaebacterium and an -proteobacterium, which also fail to account for numerous features shared specifically by eukaryotes and actinobacteria."
+
+
+== Morphology ==
+The Neomura are a very diverse group, containing all of the multicellular species, as well as all of the most extremophilic species, but they all share certain molecular characteristics. All Neomurans have histones to help with chromosome packaging, and most have introns. All use the molecule methionine as the initiator amino acid for protein synthesis (Bacteria use formylmethionine). Finally, all Neomurans use several kinds of RNA polymerase, whereas Bacteria use only one.
+
+
+== History ==
+
+When Carl Woese first published his three-domain system, it was believed that the domains Bacteria, Archaea, and Eukarya were equally old and equally related on the tree of life. However certain evidence began to suggest that Eukarya and Archaea were more closely related to each other than either was to Bacteria. This evidence included the common use of cholesterols and proteasomes, which are complex molecules not found in most bacteria. So, it was thought that there were two branches of life: Bacteria, and Neomura.
+But recently, Cavalier-Smith showed evidence that Neomura evolved from Bacteria. The strongest evidence is that all known eukaryotes have mitochondria, which almost certainly evolved through endosymbiosis with an alpha-proteobacteria (a highly evolved group of bacteria). If Eukarya is as old as Bacteria, it almost certainly would have branched during the many millions of years it took for Bacteria to evolve the aerobic respiration performed by mitochondria, and some eukaryotes would have evolved without mitochondria.
+A smaller but important piece of evidence is that the cholesterols and proteasomes found in Neomura are also found in Actinobacteria, perhaps the most highly evolved Bacteria. Molecules of this complexity are unlikely to evolve more than once in separate branches, so either there was a horizontal transfer of those two pathways, or Neomura evolved from this particular branch of the bacterial tree. This theory of Neomuran evolution is shown in the image to the right.
+
+
+== See also ==
+Protocell
+
+
+== References ==
+
+
+== Further reading ==
+Cavalier-Smith T (1987). "The origin of eukaryotic and archaebacterial cells". Ann. N. Y. Acad. Sci. 503: 1754. doi:10.1111/j.1749-6632.1987.tb40596.x. PMID 3113314. 
+Cavalier-Smith T (January 2002). "The neomuran origin of archaebacteria, the negibacterial root of the universal tree and bacterial megaclassification". Int. J. Syst. Evol. Microbiol. 52 (Pt 1): 776. PMID 11837318. 
+Cavalier-Smith T (2006). "Rooting the tree of life by transition analyses". Biol. Direct 1: 19. doi:10.1186/1745-6150-1-19. PMC 1586193. PMID 16834776. 
+Skophammer RG, Servin JA, Herbold CW, Lake JA (August 2007). "Evidence for a gram-positive, eubacterial root of the tree of life". Mol. Biol. Evol. 24 (8): 17618. doi:10.1093/molbev/msm096. PMID 17513883. 
+Cox, C. J.; Foster, P. G.; Hirt, R. P.; Harris, S. R.; Embley, T. M. (10 December 2008). "The archaebacterial origin of eukaryotes". Proceedings of the National Academy of Sciences 105 (51): 2035620361. doi:10.1073/pnas.0810647105.  
+Cavalier-Smith, T. (2 September 2014). "The Neomuran Revolution and Phagotrophic Origin of Eukaryotes and Cilia in the Light of Intracellular Coevolution and a Revised Tree of Life". Cold Spring Harbor Perspectives in Biology 6 (9): a016006a016006. doi:10.1101/cshperspect.a016006.

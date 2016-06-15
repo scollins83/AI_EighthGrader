@@ -1,5 +1,5 @@
-correlation does not imply causation is a phrase used in statistics to emphasize that a correlation between two variables does not imply that one causes the other many statistical tests calculate correlation between variables a few go further using correlation as a basis for testing a hypothesis of a true causal relationship; examples are the granger causality test and convergent cross mapping
-the counter-assumption that correlation proves causation is considered a questionable cause logical fallacy in that two events occurring together are taken to have a cause-and-effect relationship this fallacy is also known as cum hoc ergo propter hoc latin for "with this therefore because of this" and "false cause" a similar fallacy that an event that follows another was necessarily a consequence of the first event is sometimes described as post hoc ergo propter hoc (latin for "after this therefore because of this")
+"correlation does not imply causation" is a phrase used in statistics to emphasize that a correlation between two variables does not imply that one causes the other many statistical tests calculate correlation between variables a few go further using correlation as a basis for testing a hypothesis of a true causal relationship; examples are the granger causality test and convergent cross mapping
+the counter-assumption that "correlation proves causation," is considered a questionable cause logical fallacy in that two events occurring together are taken to have a cause-and-effect relationship this fallacy is also known as cum hoc ergo propter hoc latin for "with this therefore because of this," and "false cause." a similar fallacy that an event that follows another was necessarily a consequence of the first event is sometimes described as post hoc ergo propter hoc (latin for "after this therefore because of this.")
 for example in a widely studied case numerous epidemiological studies showed that women taking combined hormone replacement therapy (hrt) also had a lower-than-average incidence of coronary heart disease (chd) leading doctors to propose that hrt was protective against chd but randomized controlled trials showed that hrt caused a small but statistically significant increase in risk of chd re-analysis of the data from the epidemiological studies showed that women undertaking hrt were more likely to be from higher socio-economic groups (abc1) with better-than-average diet and exercise regimens the use of hrt and decreased incidence of coronary heart disease were coincident effects of a common cause (i.e the benefits associated with a higher socioeconomic status) rather than a direct cause and effect as had been supposed
 as with any logical fallacy identifying that the reasoning behind an argument is flawed does not imply that the resulting conclusion is false in the instance above if the trials had found that hormone replacement therapy does in fact have a negative incidence on the likelihood of coronary heart disease the assumption of causality would have been correct although the logic behind the assumption would still have been flawed
 == usage ==
@@ -23,8 +23,12 @@ example 1
 the faster windmills are observed to rotate the more wind is observed to be
 therefore wind is caused by the rotation of windmills (or simply put: windmills as their name indicates are machines used to produce wind.)
 in this example the correlation (simultaneity) between windmill activity and wind velocity does not imply that wind is caused by windmills it is rather the other way around as suggested by the fact that wind doesnt need windmills to exist while windmills need wind to rotate wind can be observed in places where there are no windmills or non-rotating windmillsand there are good reasons to believe that wind existed before the invention of windmills
+example 2
+when a country's debt rises above 90% of gdp growth slows
+therefore high debt causes slow growth
+this argument by carmen reinhart and kenneth rogoff was refuted by paul krugman on the basis that r-r got the causality backwards: in actuality low growth causes debt to increase
 === third factor c (the common-causal variable) causes both a and b ===
-all these examples deal with a lurking variable which is simply a hidden third variable that affects both causes of the correlation; for example the fact that it is summer in example 3 a difficulty often also arises where the third factor though fundamentally different from a and b is so closely related to a and/or b as to be confused with them or very difficult to scientifically disentangle from them (see example 4)
+all of these examples deal with a lurking variable which is simply a hidden third variable that affects both causes of the correlation a difficulty often also arises where the third factor though fundamentally different from a and b is so closely related to a and/or b as to be confused with them or very difficult to scientifically disentangle from them (see example 4)
 example 1
 sleeping with one's shoes on is strongly correlated with waking up with a headache
 therefore sleeping with one's shoes on causes headache
@@ -44,7 +48,7 @@ however as encountered in many psychological studies another variable a "self-co
 example 5
 since the 1950s both the atmospheric co2 level and obesity levels have increased sharply
 hence atmospheric co2 causes obesity
-richer populations tend to eat more food and consume more energy
+richer populations tend to eat more food and produce more co2
 example 6
 hdl ("good") cholesterol is negatively correlated with incidence of heart attack
 therefore taking medication to raise hdl decreases the chance of having a heart attack
@@ -56,7 +60,7 @@ the two variables aren't related at all but correlate by chance 5% of things wil
 == determining causation ==
 === in academia ===
 the point of view that correlation implies causation may be regarded as a theory of causality which is somewhat inherent to the field of statistics within academia as a whole the nature of causality is systematically investigated from several academic disciplines including philosophy and physics
-in academia there is a significant number of theories on causality; the oxford handbook of causation (beebee hitchcock & menzies 2009) encompasses 770 pages among the more influential theories within philosophy are aristotle's four causes and al-ghazali's occasionalism david hume argued that causality is based on experience and experience similarly based on the assumption that the future models the past which in turn can only be based on experience leading to circular logic in conclusion he asserted that causality is not based on actual reasoning: only correlation can actually be perceived immanuel kant according to beebee hitchcock & menzies (2009) held that "a causal principle according to which every event has a cause or follows according to a causal law cannot be established through induction as a purely empirical claim since it would then lack strict universality or necessity"
+in academia there are a significant number of theories on causality; the oxford handbook of causation (beebee hitchcock & menzies 2009) encompasses 770 pages among the more influential theories within philosophy are aristotle's four causes and al-ghazali's occasionalism david hume argued that causality is based on experience and experience similarly based on the assumption that the future models the past which in turn can only be based on experience leading to circular logic in conclusion he asserted that causality is not based on actual reasoning: only correlation can actually be perceived immanuel kant according to beebee hitchcock & menzies (2009) held that "a causal principle according to which every event has a cause or follows according to a causal law cannot be established through induction as a purely empirical claim since it would then lack strict universality or necessity"
 outside the field of philosophy theories of causation can be identified in classical mechanics statistical mechanics quantum mechanics spacetime theories biology social sciences and law to establish a correlation as causal within physics it is normally understood that the cause and the effect must connect through a local mechanism (cf for instance the concept of impact) or a nonlocal mechanism (cf the concept of field) in accordance with known laws of nature
 from the point of view of thermodynamics universal properties of causes as compared to effects have been identified through the second law of thermodynamics confirming the ancient medieval and cartesian view that "the cause is greater than the effect" for the particular case of thermodynamic free energy this in turn is challenged by popular interpretations of the concepts of nonlinear systems and the butterfly effect in which small events cause large effects due to respectively unpredictability and an unlikely triggering of large amounts of potential energy
 === causality construed from counterfactual states ===
@@ -71,30 +75,6 @@ however sometimes people commit the opposite fallacy dismissing correlation enti
 correlation is a valuable type of scientific evidence in fields such as medicine psychology and sociology but first correlations must be confirmed as real and then every possible causative relationship must be systematically explored in the end correlation can be used as powerful evidence for a cause-and-effect relationship between a treatment and benefit a risk factor and a disease or a social or economic factor and various outcomes but it is also one of the most abused types of evidence because it is easy and even tempting to come to premature conclusions based upon the preliminary appearance of a correlation
 correlations are used in bell's theorem to disprove local causality
 == see also ==
-affirming the consequent
-bradford hill criteria
-causal inference
-chain reaction
-confirmation bias
-confounding
-design of experiments
-domino effect
-ecological fallacy
-epidemiological method
-epidemiology
-pirates and global warming
-four causes
-jumping to conclusions
-mierscheid law
-molecular pathology
-molecular pathological epidemiology
-normally distributed and uncorrelated does not imply independent
-observational study
-occam's razor
-pathogenesis
-pathology
-post hoc ergo propter hoc
-synchronicity
 == references ==
 === bibliography ===
 beebee helen; hitchcock christopher; menzies peter (2009) the oxford handbook of causation oxford university press isbn 978-0-19-162946-4

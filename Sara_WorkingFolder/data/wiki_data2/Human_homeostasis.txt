@@ -1,0 +1,100 @@
+Human homeostasis (homeostasis is from Greek:  homoios, "similar" and  stasis, "standing still") is the property of homeostasis within the human body.
+The human body manages a multitude of highly complex interactions to maintain balance or return systems to functioning within a normal range. These interactions within the body facilitate compensatory changes supportive of physical and psychological functioning. This process is essential to the survival of the person and to our species. The liver, the kidneys, and the brain (hypothalamus, the autonomic nervous system and the endocrine system) help maintain homeostasis. The liver is responsible for metabolizing toxic substances and maintaining carbohydrate metabolism. The kidneys are responsible for regulating blood water levels, re-absorption of substances into the blood, maintenance of salt and ion levels in the blood, regulation of blood pH, and excretion of urea and other wastes.
+An inability to maintain homeostasis may lead to death or a disease, a condition known as homeostatic imbalance. For instance, heart failure may occur when negative feedback mechanisms become overwhelmed and destructive positive feedback mechanisms take over. Other diseases which result from a homeostatic imbalance include diabetes, dehydration, hypoglycemia, hyperglycemia, gout and any disease caused by the presence of a toxin in the bloodstream. Medical intervention can help restore homeostasis and possibly prevent permanent damage to the organs.
+
+
+== Temperature ==
+
+Humans are warm-blooded, maintaining a near-constant body temperature. Thermoregulation is an important aspect of human homeostasis. Heat is mainly produced by the liver and muscle contractions. Humans have been able to adapt to a great diversity of climates, including hot humid and hot arid. High temperatures pose serious stresses for the human body, placing it in great danger of injury or even death. In order to deal with these climatic conditions, humans have developed physiologic and cultural modes of adaptation.
+Temperature may enter a circle of positive feedback, when temperature reaches extremes of 45C (113F), at which cellular proteins denature, causing the active site in proteins to change, thus causing metabolism stop and ultimately death.
+
+
+== Energy ==
+
+Energy balance is the homeostasis of energy in living systems. It is measured with the following equation:Energy intake = internal heat produced + external work + storage.
+When calculating energy balances in the body, energy is often measured in calories, with the definitions of a calorie falling into two classes:
+The small calorie or gram calorie (symbol: cal) approximates the energy needed to increase the temperature of 1 gram of water by 1 C. This is about 4.2 joules.
+The large calorie, kilogram calorie, kilocalorie, dietary calorie or food calorie (symbol: Cal or kcal) approximates the energy needed to increase the temperature of 1 kilogram of water by 1 C. This is exactly 1,000 small calories or about 4.2 kilojoules.
+
+
+== Blood composition ==
+
+The balance of many blood solutes belongs to the scope of renal physiology.
+
+
+=== Calcium ===
+
+When blood calcium becomes too low, calcium-sensing receptors in the parathyroid gland become activated. This results in the release of PTH, which acts to increase blood calcium, e.g. by release from bones (increasing the activity of bone-degrading cells called osteoclasts). This hormone also causes calcium to be reabsorbed from urine and the GI tract. Calcitonin, released from the C cells in the thyroid gland, works the opposite way, decreasing calcium levels in the blood by causing more calcium to be fixed in bone.
+
+
+=== Iron ===
+
+Iron is an essential element for human beings. The control of this necessary but potentially toxic substance is an important part of many aspects of human health and disease. Hematologists have been especially interested in the system of iron metabolism because iron is essential to red blood cells. In fact, most of the human body's iron is contained in red blood cells' hemoglobin, and iron deficiency is the most common cause of anemia.
+When body levels of iron are too low, then hepcidin in the duodenal epithelium is decreased. This causes an increase in ferroportin activity, stimulating iron uptake in the digestive system. An iron surplus will stimulate the reverse of this process.
+In individual cells, an iron deficiency causes responsive element binding protein (IRE-BP) to bind to iron responsive elements (IRE) on mRNAs for transferrin receptors, resulting in increased production of transferrin receptors. These receptors increase binding of transferrin to cells, and therefore stimulating iron uptake.
+
+
+=== Copper ===
+Many of the components involved in cellular copper homeostasis are well known at the molecular level. These include transporters that mediate the uptake and efflux of copper, biomolecules that sequester and store copper and specialized proteins called copper chaperones that guide copper to copper-dependent enzymes and to organelles.
+
+
+=== Zinc ===
+Ten proteins of the ZnT family (such as SLC30A1) export zinc from the cytosol, either out of the cell or into vesicles/organelles, fourteen proteins of the Zip family (such as SLC38A1) import zinc into the cytsol from the extracellular space or from vesicles/organelles, and at least a dozen metallothioneins (MTs) buffer and translocate zinc.
+
+
+=== Sugar ===
+
+Blood glucose is regulated with two hormones, insulin and glucagon, both released from the pancreas.
+When blood sugar levels become too high, insulin is released from the pancreas. Conversely, when blood sugar levels become too low, glucagon is released. It promotes the release of glycogen, converted back into glucose. This increases blood sugar levels.
+If the pancreas is for any reason unable to produce enough of these two hormones, diabetes results.
+
+
+=== Fats ===
+
+
+=== Osmoregulation ===
+
+Osmoregulation is the active regulation of the osmotic pressure of bodily fluids to maintain the homeostasis of the body's water content; that is it keeps the body's fluids from becoming too dilute or too concentrated. Osmotic pressure is a measure of the tendency of water to move into one solution from another by osmosis. The higher the osmotic pressure of a solution the more water wants to go into the solution.
+The kidneys are used to remove excess ions from the blood, thus affecting the osmotic pressure. These are then expelled as urine.
+
+
+=== Pressure ===
+
+The renin-angiotensin system (RAS) is a hormone system that helps regulate long-term blood pressure and extracellular volume in the body.
+
+
+=== Acid-base ===
+
+The kidneys maintain acid-base homeostasis by regulating the pH of the blood plasma. Gains and losses of acid and base must be balanced. The study of the acid-base reactions in the body is acid base physiology.
+
+
+=== Volume ===
+
+The body's homeostatic control mechanisms, which maintain a constant internal environment, ensure that a balance between fluid gain and fluid loss is maintained. The hormones ADH (Anti-diuretic Hormone, also known as vasopressin) and Aldosterone play a major role in this.
+If the body is becoming fluid-deficient, there will be an increase in the secretion of these hormones (ADH), causing fluid to be retained by the kidneys and urine output to be reduced.
+Conversely, if fluid levels are excessive, secretion of these hormones (aldosterone) is suppressed, resulting in less retention of fluid by the kidneys and a subsequent increase in the volume of urine produced.
+If there is too much Carbon dioxide(CO2) in the blood, it can cause the blood to become acidic. People respirate heavily not due to low oxygen(O2) content in the blood, but because they have too much CO2.
+
+
+=== Hemostasis ===
+
+Hemostasis is the process whereby bleeding is halted. A major part of this is coagulation.
+Platelet accumulation causes blood clotting in response to a break or tear in the lining of blood vessels. Unlike the majority of control mechanisms in human body, the hemostasis utilizes positive feedback, for the more the clot grows, the more clotting occurs, until the blood stops. Another example of positive feedback is the release of oxytocin to intensify the contractions that take place during childbirth.
+
+
+== Sleep ==
+Sleep timing depends upon a balance between homeostatic sleep propensity, the need for sleep as a function of the amount of time elapsed since the last adequate sleep episode, and circadian rhythms which determine the ideal timing of a correctly structured and restorative sleep episode.
+
+
+== Extracellular fluid ==
+
+The kidneys, by regulating the blood composition, also controls the extracellular fluid homeostasis.
+The volume of extracellular fluid is maintained by adjustments made by the kidneys to the osmolality to the blood.
+
+
+== History of discovery ==
+The conceptual origins of homeostasis reach back to Greek concepts such as balance, harmony, equilibrium, and steady-state; all believed to be fundamental attributes of life and health. The Greek philosopher Heraclitus (540480 BC) was the first to hypothesize that a static, unchanged state was not the natural human condition, and the ability to undergo constant change was intrinsic to all things. Thereafter, the philosopher Empedocles (495-435 BC) postulated the corollary that all matter consisted of elements and qualities that were in dynamic opposition or alliance to one another, and that balance or harmony was a necessary condition for the survival of living organisms. Following these hypotheses, Hippocrates (460-375 BC) compared health to the harmonious balance of the elements, and illness and disease to the systematic disharmony of these elements.
+Nearly 150 years ago, Claude Bernard published his seminal work, stating that the maintenance of the internal environment, the inner environment, surrounding the body's cells, was essential for the life of the organism. In 1929, Walter B. Cannon published an extrapolation from Bernard's 1865 work naming his theory "homeostasis". Cannon postulated that homeostasis was a process of synchronized adjustments in the internal environment resulting in the maintenance of specific physiological variables within defined parameters; and that these precise parameters included blood pressure, temperature, pH, and others; all with clearly defined "normal" ranges or steady-states. Cannon further posited that threats to homeostasis might originate from the external environment (e.g., temperature extremes, traumatic injury) or the internal environment (e.g., pain, infection), and could be physical or psychological, as in emotional distress. Cannon's work outlined that maintenance of this internal physical and psychological balance, homeostasis, demands an internal network of communication, with sensors capable of identifying deviations from the acceptable ranges and effectors to return those deviations back within acceptable limits. Cannon identified these negative feedback systems and emphasized that, regardless of the nature of the danger to the maintenance of homeostasis, the response he mapped within the body would be the same.
+
+
+== References ==

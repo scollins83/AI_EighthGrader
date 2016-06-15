@@ -3,8 +3,7 @@ each component and their size play an important role for example the largest par
 in addition to the mineral composition of soil humus (organic material) also plays an important role in soil characteristics and fertility for plant life soil may be mixed with larger aggregate such as pebbles or gravel not all types of soil are permeable such as pure clay
 there are many recognized soil classifications both international and national
 == see also ==
-pedodiversity
-soil horizon
+category:types of soil
 == external links ==
 soil classification systems
 a compendium of on-line soil survey information soil classification for soil survey

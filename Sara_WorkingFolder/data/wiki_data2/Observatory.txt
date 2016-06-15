@@ -1,0 +1,128 @@
+An observatory is a location used for observing terrestrial or celestial events. Astronomy, climatology/meteorology, geology, oceanography and volcanology are examples of disciplines for which observatories have been constructed. Historically, observatories were as simple as containing an astronomical sextant (for measuring the distance between stars) or Stonehenge (which has some alignments on astronomical phenomena).
+
+
+== Astronomical observatories ==
+
+Astronomical observatories are mainly divided into four categories: space based, airborne, ground based and underground based.
+
+
+=== Ground-based observatories ===
+
+Ground-based observatories, located on the surface of Earth, are used to make observations in the radio and visible light portions of the electromagnetic spectrum. Most optical telescopes are housed within a dome or similar structure, to protect the delicate instruments from the elements. Telescope domes have a slit or other opening in the roof that can be opened during observing, and closed when the telescope is not in use. In most cases, the entire upper portion of the telescope dome can be rotated to allow the instrument to observe different sections of the night sky. Radio telescopes usually do not have domes.
+For optical telescopes, most ground-based observatories are located far from major centers of population, to avoid the effects of light pollution. The ideal locations for modern observatories are sites that have dark skies, a large percentage of clear nights per year, dry air, and are at high elevations. At high elevations, the Earth's atmosphere is thinner thereby minimizing the effects of atmospheric turbulence and resulting in better astronomical "seeing". Sites that meet the above criteria for modern observatories include the southwestern United States, Hawaii, Canary Islands, the Andes, and high mountains in Mexico such as Sierra Negra. Major optical observatories include Mauna Kea Observatory and Kitt Peak National Observatory in the USA, Roque de los Muchachos Observatory in Spain, and Paranal Observatory in Chile.
+Specific research study performed in 2009 shows that the best possible location for ground-based observatory on Earth is Ridge A  a place in the central part of Eastern Antarctica. This location provides the least atmospheric disturbances and best visibility.
+
+
+==== Radio observatories ====
+Beginning in 1930s, radio telescopes have been built for use in the field of radio astronomy to observe the Universe in the radio portion of the electromagnetic spectrum. Such an instrument, or collection of instruments, with supporting facilities such as control centres, visitor housing, data reduction centers, and/or maintenance facilities are called radio observatories. Radio observatories are similarly located far from major population centers to avoid electromagnetic interference (EMI) from radio, TV, radar, and other EMI emitting devices, but unlike optical observatories, radio observatories can be placed in valleys for further EMI shielding. Some of the world's major radio observatories include the Socorro, in New Mexico, USA, Jodrell Bank in the UK, Arecibo, Puerto Rico, Parkes in New South Wales, Australia and Chajnantor in Chile.
+
+
+==== Highest astronomical observatories ====
+
+Since the mid-20th century, a number of astronomical observatories have been constructed at very high altitudes, above 4,0005,000 m (13,00016,000 ft). The largest and most notable of these is the Mauna Kea Observatory, located near the summit of a 4,205 m (13,796 ft) volcano in Hawaii. The Chacaltaya Astrophysical Observatory in Bolivia, at 5,230 m (17,160 ft), was the world's highest permanent astronomical observatory from the time of its construction during the 1940s until 2009. It has now been surpassed by the new University of Tokyo Atacama Observatory, an optical-infrared telescope on a remote 5,640 m (18,500 ft) mountaintop in the Atacama Desert of Chile.
+
+
+==== Oldest astronomical observatories ====
+The oldest proto-observatories, in the sense of a private observation post,
+Zorats Karer, Karahunj, Armenia
+Stonehenge, Great Britain
+Quito Astronomical Observatory, located 12 minutes south of the Equator in Quito, Ecuador.
+Chankillo, Peru
+El Caracol, Mexico
+Abu Simbel, Egypt
+Kokino, Kumanovo, Republic of Macedonia
+Observatory at Rhodes, Greece
+Goseck circle, Germany
+Ujjain, India
+Arkaim, Russia
+Cheomseongdae, South Korea
+Angkor Wat, Cambodia
+The oldest true observatories, in the sense of a specialized research institute, include:
+825 AD: Al-Shammisiyyah observatory, Baghdad, Iraq
+869: Mahodayapuram Observatory, Kerala, India
+1259: Maragheh observatory, Azerbaijan, Iran
+1276: Gaocheng Astronomical Observatory, China
+1420: Ulugh Beg Observatory, Samarqand, Uzbekistan
+1442: Beijing Ancient Observatory, China
+1577: Istanbul observatory of Taqi al-Din, Turkey
+1580: Uraniborg, Denmark
+1581: Stjerneborg, Denmark
+1642: Panzano Observatory, Italy
+1642: Round Tower, Denmark
+1633: Leiden Observatory, Netherlands
+1667: Paris Observatory, France
+1675: Royal Greenwich Observatory, England
+1695: Sukharev Tower, Russia
+1711: Berlin Observatory, Germany
+1724: Jantar Mantar, India
+1753: Stockholm Observatory, Sweden
+1753: Vilnius University Observatory, Lithuania
+1753: Navy Royal Institute and Observatory, Spain
+1759: Trieste Observatory, Italy
+1757: Macfarlane Observatory, Scotland
+1759: Turin Observatory, Italy
+1764: Brera Astronomical Observatory, Italy
+1765: Mohr Observatory, Indonesia
+1774: Vatican Observatory, Vatican
+1785: Dunsink Observatory, Ireland
+1786: Madras Observatory, India
+1789: Armagh Observatory, Northern Ireland
+1790: Real Observatorio de Madrid, Spain,
+1803: National Astronomical Observatory (Colombia), Bogot, Colombia.
+1811: Tartu Old Observatory, Estonia
+1830/1842: Depot of Charts & Instruments/US Naval Observatory, USA
+1830: Yale University Observatory Atheneum, USA
+1838: Hopkins Observatory, Williams College, USA
+1838: Loomis Observatory, Western Reserve Academy, USA
+1839: Pulkovo Observatory, Russia
+1839/1847: Harvard College Observatory, USA
+1842: Cincinnati Observatory, USA
+1873: Quito Astronomical Observatory, Ecuador
+1884: McCormick Observatory, USA
+1890: Smithsonian Astrophysical Observatory, USA
+1894: Lowell Observatory, USA
+1897: Yerkes Observatory, USA
+1899: Kodaikanal Solar Observatory, India
+
+
+=== Space-based observatories ===
+
+Space-based observatories are telescopes or other instruments that are located in outer space, many in orbit around the Earth. Space-based observatories can be used to observe astronomical objects at wavelengths of the electromagnetic spectrum that cannot penetrate the Earth's atmosphere and are thus impossible to observe using ground-based telescopes. The Earth's atmosphere is opaque to ultraviolet radiation, X-rays, and gamma rays and is partially opaque to infrared radiation so observations in these portions of the electromagnetic spectrum are best carried out from a location above the atmosphere of our planet. Another advantage of space-based telescopes is that, because of their location above the Earth's atmosphere, their images are free from the effects of atmospheric turbulence that plague ground-based observations. As a result, the angular resolution of space telescopes such as the Hubble Space Telescope is often much smaller than a ground-based telescope with a similar aperture. However, all these advantages do come with a price. Space telescopes are much more expensive to build than ground-based telescopes. Due to their location, space telescopes are also extremely difficult to maintain. The Hubble Space Telescope was serviced by the Space Shuttle while many other space telescopes cannot be serviced at all.
+
+
+=== Airborne observatories ===
+
+Airborne observatories have the advantage of height over ground installations, putting them above most of the Earth's atmosphere. But they also have an advantage over space telescopes  the instruments can be deployed, repaired and updated much more quickly and inexpensively. The Kuiper Airborne Observatory and the Stratospheric Observatory for Infrared Astronomy use airplanes to observe in the infrared, which is absorbed by water vapor in the atmosphere. Balloons for X-ray astronomy have been used in a variety of countries.
+
+
+== Volcano observatories ==
+
+A volcano observatory is an institution that conducts research and monitoring of a volcano. Among the best known are the Hawaiian Volcano Observatory and the Vesuvius Observatory. Mobile volcano observatories exist with the USGS VDAP (Volcano Disaster Assistance Program), to be deployed on demand.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Aubin, David, Charlotte Bigg, and H. Otto Sibum, eds. The Heavens on Earth: Observatories and Astronomy in Nineteenth-Century Science and Culture (Duke University Press; 2010) 384 pages; Topics include astronomy as military science in Sweden, the Pulkovo Observatory in the Russia of Czar Nicholas I, and physics and the astronomical community in late 19th-century America.
+Brunier, Serge, et al. Great Observatories of the World (2005)
+McCray, W. Patrick. Giant Telescopes: Astronomical Ambition and the Promise of Technology (2004); focuses on the Gemini Observatory.
+Sage, Leslie, and Gail Aschenbrenner. A Visitor's Guide to the Kitt Peak Observatories (2004)
+Dick, Steven.Sky and Ocean Joined: The U.S. Naval Observatory 18302000 (2003)
+
+
+== External links ==
+Western Visayas Local Urban Observatory
+Dearborn Observatory Records, Northwestern University Archives, Evanston, Illinois
+Coordinates and satellite images of astronomical observatories on Earth
+Earth-based Observatories Profile by NASA's Solar System Exploration
+Ocean Observatory Information, Woods Hole Oceanographic Institution
+Climate Change Observing Systems Information from the Ocean & Climate Change Institute, Woods Hole Oceanographic Institution
+Milkyweb Astronomical Observatory Guide world's largest database of astronomical observatories since 2000  about 2000 entries
+Coastal Observatory Information from the Coastal Ocean Institute, Woods Hole Oceanographic Institution
+List of amateur and professional observatories in North America with custom weather forecasts
+Map showing many of the Astronomical Observatories around the world (with drilldown links)
+Mt. Wilson Observatory

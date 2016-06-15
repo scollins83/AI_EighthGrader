@@ -1,0 +1,29 @@
+A geologic period is one of several subdivisions of geologic time enabling cross-referencing of rocks and geologic events from place to place.
+These periods form elements of a hierarchy of divisions into which geologists have split the Earth's history.
+Eons and eras are larger subdivisions than periods while periods themselves may be divided into epochs and ages.
+
+
+== Structure ==
+The twelve currently recognised periods of the present eon  the Phanerozoic  are defined by the International Commission on Stratigraphy (ICS) by reference to the stratigraphy at particular locations around the world.
+In 2004 the Ediacaran Period of the latest Precambrian was defined in similar fashion (and was the first such newly designated period in 130 years) but earlier periods are simply defined by age.
+A consequence of this approach to the Phanerozoic periods is that the ages of their beginnings and ends can change from time to time as the absolute age of the chosen rock sequences, which define them, is more precisely determined.
+The set of rocks (sedimentary, igneous or metamorphic) that formed during a geologic period is known as a system, so for example the 'Jurassic System' of rocks was formed during the 'Jurassic Period' (between 201 and 145 million years ago).
+The following table includes all currently recognized periods. The table omits the time before 2500 million years ago, which is not divided into periods.
+
+
+== Correlation issues ==
+In a steady effort ongoing since 1974, the International Commission on Stratigraphy has been working to correlate the world's local stratigraphic record into one uniform planet-wide benchmarked system.
+American geologists have long considered the Mississippian and Pennsylvanian to be periods in their own right though the ICS now recognises them both as 'subperiods' of the Carboniferous Period recognised by European geologists. Cases like this in China, Russia and even New Zealand with other geological eras has slowed down the uniform organization of the stratigraphic record.
+Notable changes
+Changes in recent years have included the abandonment of the former Tertiary Period in favour of the Paleogene and succeeding Neogene periods.
+The abandonment of the Quaternary period was also considered but it has been retained for continuity reasons.
+Even earlier in the history of the science, the Tertiary was considered to be an 'era' and its subdivisions (Paleocene, Eocene, Oligocene, Miocene and Pliocene) were themselves referred to as 'periods' but they now enjoy the status of 'epochs' within the more recently erected Paleogene and Neogene periods.
+
+
+== See also ==
+System (stratigraphy)
+Geologic time scale
+
+
+== References ==
+^ Cohen, K.M.; Finney, S.; Gibbard, P.L. (2015), International Chronostratigraphic Chart (PDF), International Commission on Stratigraphy .

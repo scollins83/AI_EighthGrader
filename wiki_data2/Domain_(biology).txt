@@ -1,0 +1,47 @@
+In biological taxonomy, a domain (also superregnum, superkingdom, empire, or regio) is the highest taxonomic rank of organisms in the three-domain system of taxonomy designed by Carl Woese, an American microbiologist and biophysicist. According to the Woese system, introduced in 1990, the tree of life consists of three domains: Archaea (a term which Woese created), Bacteria, and Eukaryote. The first two are all prokaryotic microorganisms, or single-celled organisms whose cells have no nucleus. All life that has a nucleus and membrane-bound organelles, and most multi-cellular life, is included in the Eukaryota.
+
+
+== Characteristics of the three domains of life ==
+
+Each of these three domains of life recognized by biologists today contain rRNA which is unique to them, and this fact in itself forms the basis of three-domain system. While the presence of nuclear membrane differentiates the Eukarya domain from Archaea domain and Bacteria domain - both of which lack nuclear membrane, the distinct biochemistry and RNA markers differentiate Archaea and Bacteria domains from each other.
+
+
+=== Archaea ===
+Archaea are prokaryotic cells which are typically characterized by membranes that are branched hydrocarbon chains attached to glycerol by ether linkages. The presence of these ether linkages in Archaea adds to their ability of withstanding extreme temperature and highly acidic conditions. Halophiles, organisms which thrive in highly salty environment, and hyperthermophiles, organisms which thrive in extremely hot environment, are examples of Archaea.
+
+
+=== Bacteria ===
+Even though bacteria are prokaryotic cells just like Archaea, their membranes are made of unbranched fatty acid chains attached to glycerol by ester linkages. Cyanobacteria and mycoplasmas are two examples of bacteria. They characteristically don't have ether containing linkages like Archaea, they are grouped into a different category - and hence a different domain. There is a great deal of diversity in this domain, and between that and horizontal gene transfer it is next to impossible to determine how many species of bacteria exist on the planet.
+
+
+=== Eukarya ===
+As the name suggests, the Eukaryotes are eukaryotic cells which have membranes that are similar to those of bacteria. Eukarya is further grouped into Kingdom Fungi (yeast, mold, etc.), Kingdom Plantae (flowering plants, ferns, etc.) and Kingdom Animalia (insects, vertebrates, etc.) and the now-defunct, paraphyletic Kingdom Protista (algae, protozoans, etc.).
+Not all Eukaryotes have a cell wall, and even for those which do, the walls don't contain peptidoglycan, which bacteria do have. While cells are organized into tissues in case of kingdom Plantae as well as kingdom Animalia, the cell walls are only found in the kingdom Plantae.
+
+
+== Exclusion of viruses ==
+
+None of the three systems currently include non-cellular life. As of 2011 there is talk about Nucleocytoplasmic large DNA viruses possibly being a fourth branch domain of life, a view supported by researchers in 2012 who explain in their abstract:
+
+The discovery of giant viruses with genome and physical size comparable to cellular organisms, remnants of protein translation machinery and virus-specific parasites (virophages) have raised intriguing questions about their origin. Evidence advocates for their inclusion into global phylogenomic studies and their consideration as a distinct and ancient form of life. [...] Results call for a change in the way viruses are perceived. They likely represent a distinct form of life that either predated or coexisted with the last universal common ancestor (LUCA) and constitute a very crucial part of our planet's biosphere.
+
+
+== Alternative classifications ==
+Alternative classifications of life so far proposed include:
+The two-empire system or superdomain system, with top-level groupings of Prokaryota (or Monera) and Eukaryota.
+The eocyte hypothesis, first proposed by James A. Lake et al. in 1984, which posits two domains (Bacteria and Archaea, with Eukaryota included in Archaea).
+
+
+== See also ==
+
+Biological dark matter
+Phylogenetics
+Protein structure
+Systematics
+
+
+== References ==
+
+
+== External links ==
+[www.youtube.com/watch?v=gSuRoDGpKWw Learn Biology: Classification- Domains - YouTube]

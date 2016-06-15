@@ -1,0 +1,22 @@
+An atmospheric wave is a periodic disturbance in the fields of atmospheric variables (like surface pressure or geopotential height, temperature, or wind velocity) which may either propagate (traveling wave) or not (standing wave). Atmospheric waves range in spatial and temporal scale from large-scale planetary waves (Rossby waves) to minute sound waves. Atmospheric waves with periods which are harmonics of 1 solar day (e.g. 24 hours, 12 hours, 8 hours... etc.) are known as atmospheric tides.
+
+
+== Causes and effects ==
+The mechanism for the forcing of the wave, for example the generation of the initial or prolonged disturbance in the atmospheric variables, can vary. Generally, waves are either excited by heating or dynamic effects, for example the obstruction of the flow by mountain ranges like the Rocky Mountains in the U.S. or the Alps in Europe. Heating effects can be small-scale (like the generation of gravity waves by convection) or large-scale (the formation of Rossby waves by the temperature contrasts between continents and oceans in the Northern hemisphere winter).
+Atmospheric waves transport momentum, which is fed back into the background flow as the wave dissipates. This wave forcing of the flow is particularly important in the stratosphere, where this momentum deposition by planetary scale Rossby waves gives rise to sudden stratospheric warmings and the deposition by gravity waves gives rise to the quasi-biennial oscillation.
+In the mathematical description of atmospheric waves, spherical harmonics are used. When considering a section of a wave along a latitude circle, this is equivalent to a sinusoidal shape.
+
+
+== Types of waves ==
+Because the propagation of the wave is fundamentally caused by an imbalance of the forces acting on the air (which is often thought of in terms of air parcels when considering wave motion), the types of waves and their propagation characteristics vary latitudinally, principally because the Coriolis effect on horizontal flow is maximal at the poles and zero at the equator.
+The different wave types are:
+sound waves (usually eliminated from the atmospheric equations of motion due to their high frequency)
+These are longitudinal or compression waves. The sound wave propagates in the atmosphere though a series of compressions and expansions parallel to the direction of propagation.
+internal gravity waves (require stable stratification of the atmosphere)
+inertio-gravity waves (also include a significant Coriolis effect as opposed to "normal" gravity waves)
+Rossby waves (can be seen in the troughs and ridges of 500 hPa geopotential caused by midlatitude cyclones and anticyclones)
+At the equator, mixed Rossby-gravity and Kelvin waves can also be observed.
+
+
+== Further reading ==
+Holton, James R.: An Introduction to Dynamic Meteorology, 2004. ISBN 0-12-354015-1

@@ -12,6 +12,16 @@ the first contact occurs when the moon's disc first starts to impinge on the sun
 the same terms may be used analogously in describing other eclipses e.g. the antumbra of deimos crossing mars or phobos entering mars's penumbra
 a total eclipse occurs when the observer is within the umbra an annular eclipse when the observer is within the antumbra and a partial eclipse when the observer is within the penumbra
 for spherical bodies when the occulting object is smaller than the star the length (l) of the umbra's cone-shaped shadow is given by:
+l
+=
+r
+r
+o
+r
+s
+r
+o
+{\displaystyle l\ =\ {\frac {r\cdot r_{o}}{r_{s}-r_{o}}}}
 where rs is the radius of the star ro is the occulting object's radius and r is the distance from the star to the occulting object for earth on average l is equal to 1.384106 km which is much larger than the moon's semimajor axis of 3.844105 km hence the umbral cone of the earth can completely envelop the moon during a lunar eclipse if the occulting object has an atmosphere however some of the luminosity of the star can be refracted into the volume of the umbra this occurs for example during an eclipse of the moon by the earthproducing a faint ruddy illumination of the moon even at totality
 the shadow cast during an eclipse moves very approximately at 1 km per sec this depends on the location of the shadow on the earth and the angle in which it is moving http://www.sciforums.com/threads/speed-of-eclipse-shadow.53722/
 == eclipse cycles ==
@@ -58,6 +68,7 @@ mursili's eclipse
 transit of venus
 == references ==
 == external links ==
+phobos eclipsing mars observed by curiosity rover on youtube
 a catalogue of eclipse cycles
 search 5,000 years of eclipses
 nasa eclipse home page
